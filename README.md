@@ -1,9 +1,9 @@
-## Programa Analítico de la UEA 
-## Informática
-## (Teoría y Práctica)
+## Universidad Autónoma Metropolitana - Unidad Iztapalapa
 ## Licenciatura en Administración
 
-**Clave UEA:** *2211088*, **Grupo:** *HA01*, **Trimestre:** *21-O*
+## Programa Analítico de la UEA Informática (Teoría y Práctica)
+
+**Clave de la UEA:** *2211088*, **Grupo:** *HA01*, **Trimestre:** *21-O*
 
 **Horario:** *Lunes y Miércoles de 12:00 a 14:00*.
 
@@ -15,7 +15,7 @@
 
 **Contacto**:
 - Correo electrónico: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)
-- [Telegram](t_logo.svg): [@jzavalar](https://telegram.me/jzavalar)
+- Telegram: [@jzavalar](https://telegram.me/jzavalar)
 
 ### Introducción
 
@@ -53,3 +53,4 @@ Que al finalizar el curso el alumno sea capaz de:
 - Evaluación Global y de Recuperación
 - Programa oficial ([pdf](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf))
 - Acceso a nueva plataforma de [Virtuami](http://virtuami.izt.uam.mx/aulas/apresencial2)
+
