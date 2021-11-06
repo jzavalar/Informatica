@@ -1,6 +1,7 @@
-# Programa Analítico de UEA Informática
-# (Teoría y Práctica)
-# Licenciatura en Administración
+## Programa Analítico de la UEA 
+## Informática
+## (Teoría y Práctica)
+## Licenciatura en Administración
 
 **Clave UEA:** *2211088*, **Grupo:** *HA01*, **Trimestre:** *21-O*
 
@@ -16,7 +17,7 @@
 - Correo electrónico: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)
 - [Telegram](t_logo.svg): [@jzavalar](https://telegram.me/jzavalar)
 
-## Introducción
+### Introducción
 
 Hoy en día, ante lo ubícuo de las computadoras, casi olvidamos que un día, hace un poco más de medio siglo, las computadoras eran humanas y femeninas (Light, 1999). Entonces se les llamaba calculistas o calculadoras y eran las más brillantes matemáticas y tu trabajo era secreto. Así lo documentó LeAnn Erickson (2010) en su película _Top Secret Rosies: The Female Computers of WWII_ y Theodore Melfi (2016) en la película _Talentos Ocultos_ (_Hidden Figures_). Hoy tenemos computadoras hasta en la cocina, en la forma de componentes electrónicos inteligentes, pero su principal uso sigue siendo militar, científico, gubernamental y de negocios. La masificación de las computadoras llegó con los dispositivos móviles: las tablets y los teléfonos celulares inteligentes (smartphones).
 
@@ -35,19 +36,19 @@ Calendario UAM vigente ([pdf](http://www.uam.mx/calendario/index.html)).
 Citas:
 - Lifght, J. S. (1999). When computers were women. _Technology and Culture, 40_(3), 455-483. ([pdf](http://pcfly.info/doc/Computers/18.pdf)).
 
-## Objetivo
-### General
+### Objetivo
+#### General
 Que al final del curso los alumnos sean capaces de conocer los fundamentos actuales de la informática.
 
-### Objetivos Específicos:
+#### Objetivos Específicos:
 
 Que al finalizar el curso el alumno sea capaz de:
 - Utilizar programas de aplicación general para el manejo de datos numéricos y de bases de datos con el propósito de emplearlos como apoyo a las actividades propias de la carrera de administración.
 - Expresar la comprensión de textos y comunicar sus ideas haciendo un uso adecuado de la lengua española.
 
-## Contenido Sintético
+### Contenido Sintético
 
-### 0. Presentación
+#### 0. Presentación
 - Presentación del programa
 - Evaluación Global y de Recuperación
 - Programa oficial ([pdf](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf))
