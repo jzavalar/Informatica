@@ -3,7 +3,9 @@
 
 **Clave UEA:** *2211088*, **Grupo:** *HA01*, **Trimestre:** *21-O*
 
-**Horario:** *Lunes y Miércoles de 12:00 a 14:00*. **Salón:** *H214* (Online: Vía [Telegram](https://telegram.org/apps)).
+**Horario:** *Lunes y Miércoles de 12:00 a 14:00*.
+
+**Salón:** *H214* (Online: Vía [Telegram](https://telegram.org/apps)).
 
 **Asesorías:**  *Lunes* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps).
 
