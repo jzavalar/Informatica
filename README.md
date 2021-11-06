@@ -1,4 +1,5 @@
-# Programa Analítico de UEA Informática (Teoría y Práctica)
+# Programa Analítico de UEA Informática
+# (Teoría y Práctica)
 # Licenciatura en Administración
 
 **Clave UEA:** *2211088*, **Grupo:** *HA01*, **Trimestre:** *21-O*
