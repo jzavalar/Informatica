@@ -43,3 +43,11 @@ Que al final del curso los alumnos sean capaces de conocer los fundamentos actua
 Que al finalizar el curso el alumno sea capaz de:
 - Utilizar programas de aplicación general para el manejo de datos numéricos y de bases de datos con el propósito de emplearlos como apoyo a las actividades propias de la carrera de administración.
 - Expresar la comprensión de textos y comunicar sus ideas haciendo un uso adecuado de la lengua española.
+
+## Contenido Sintético
+
+### 0. Presentación
+- Presentación del programa
+- Evaluación Global y de Recuperación
+- Programa oficial ([pdf](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf))
+- Acceso a nueva plataforma de [Virtuami](http://virtuami.izt.uam.mx/aulas/apresencial2)
