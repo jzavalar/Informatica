@@ -15,11 +15,11 @@
 
 **Contacto**:
 - Correo electrónico: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)
-- Telegram: [@jzavalar](https://telegram.me/jzavalar)
+- Telegram: <img src="https://github.com/jzavalar/2211088-informatica/blob/main/telegram_logo.svg" alt="Telegram" width="3%"/> [@jzavalar](https://telegram.me/jzavalar)
 
 ### Introducción
 
-Hoy en día, ante lo ubícuo de las computadoras, casi olvidamos que un día, hace un poco más de medio siglo, las computadoras eran humanas y femeninas (Light, 1999). Entonces se les llamaba calculistas o calculadoras y eran las más brillantes matemáticas y tu trabajo era secreto. Así lo documentó LeAnn Erickson (2010) en su película _Top Secret Rosies: The Female Computers of WWII_ y Theodore Melfi (2016) en la película _Talentos Ocultos_ (_Hidden Figures_). Hoy tenemos computadoras hasta en la cocina, en la forma de componentes electrónicos inteligentes, pero su principal uso sigue siendo militar, científico, gubernamental y de negocios. La masificación de las computadoras llegó con los dispositivos móviles: las tablets y los teléfonos celulares inteligentes (smartphones).
+Hoy en día, ante lo ubícuo de las computadoras, casi olvidamos que un día, hace un poco más de medio siglo, las computadoras eran humanas y femeninas (Light, 1999). Entonces se les llamaba *calculistas o calculadoras* y eran las más brillantes matemáticas y tu trabajo era secreto. Así lo documentó LeAnn Erickson (2010) en su película _Top Secret Rosies: The Female Computers of WWII_ y Theodore Melfi (2016) en la película _Talentos Ocultos_ (_Hidden Figures_). Hoy tenemos computadoras hasta en la cocina, en la forma de componentes electrónicos inteligentes, pero su principal uso sigue siendo militar, científico, gubernamental y de negocios. La masificación de las computadoras llegó con los dispositivos móviles: las tablets y los teléfonos celulares inteligentes (smartphones).
 
 Lo que hace la computadora electrónica es calcular, sin embargo, ante el usuario con quien interactúa, sólo maneja símbolos con significado práctico (información) en la forma de señales, mensajes, imágenes, sonidos o cualquier otra representación legible o no a los seres humanos. Esto hace que se considere a la computadora como una máquina simbólica. Lo simbólico, en un primer sentido, está ligado al cálculo como una operación simbólica, como sinónimo de abstracción o modelado de la realidad (el conocimiento como proceso). En un segundo sentido, simbólico es lo inmaterial, intelectual (o ritual) (en contraposición lógica a lo físico y/o material, como producto). De lo anterior se deriva la interpretación de la computadora como máquina simbólica. En un tercer sentido, lo simbólico está asociado al proceso de significación que se relaciona con la antropología, la semiótica y la lingüística, que tiene que ver con los símbolos y los procesos por los cuáles se les asignan significados culturales. Esta última acepción considera a la computadora como una máquina semiótica.
 
@@ -54,3 +54,16 @@ Que al finalizar el curso el alumno sea capaz de:
 - Programa oficial ([pdf](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf))
 - Acceso a nueva plataforma de [Virtuami](http://virtuami.izt.uam.mx/aulas/apresencial2)
 
+### 1. Introducción
+1. Conceptos: computadora, hardware, software,  cálculo, cómputo, computación, informática y tecnologías de la información (TI).
+2. Computación, informática, tecnologías de la información (TI)
+3. La computadora digital como máquina simbólica de propósito general
+4. Tareas y prácticas: 
+- *Práctica 1.1. Partes de la computadora*. (Entrega: 11 de agosto de 2021).
+
+*Objetivo:* Identificar las partes de los varios tipos de computadoras modernas
+- Investigue e identifique las funciones en una computadora de escritorio, una laptop, una tableta y un teléfono celular.
+- Haga un _collage_ a mano en su cuaderno, identificando las partes de cada tipo de computadora, en una página para tipo.
+- Escanée la hoja o tome una foto de su tarea.
+- Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de *Telegram*.
+- Suba los archivos a su cuenta de _Google Drive_. 
