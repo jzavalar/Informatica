@@ -121,7 +121,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
 ##### Bibliografía Obligatoria:
 - Code.org (2018, Jan 30). [How computers work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). *YouTube*. [6 videos]. (*Lectura 1.1.*).
-- Zavala, J. (2011). Qué son las ciencias de la computación. In [*La ingeniería de software: Una discusión epistemológica*](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing) (pp. 38-76). Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México. (*Lectura 1.2.*).
+- Zavala, J. (2011). [Qué son las ciencias de la computación](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing). In *La ingeniería de software: Una discusión epistemológica* (pp. 38-76). Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México. (*Lectura 1.2.*).
 - HD Documental Ciencia 2017 (2017, Feb 18). [La curiosa guerra de Alan Turing](https://www.youtube.com/watch?v=uSkDDVvf6t8). *YouTube*. [video]. (51:55 min). (*Lectura 1.3.*). 
 
 ##### Bibliografía Complementaria:
