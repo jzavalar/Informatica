@@ -54,16 +54,61 @@ Que al finalizar el curso el alumno sea capaz de:
 - Programa oficial ([pdf](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf))
 - Acceso a nueva plataforma de [Virtuami](http://virtuami.izt.uam.mx/aulas/apresencial2)
 
-### 1. Introducción
+#### 1. Introducción
 1. Conceptos: computadora, hardware, software,  cálculo, cómputo, computación, informática y tecnologías de la información (TI).
 2. Computación, informática, tecnologías de la información (TI)
 3. La computadora digital como máquina simbólica de propósito general
 4. Tareas y prácticas: 
-- *Práctica 1.1. Partes de la computadora*. (Entrega: 11 de agosto de 2021).
-
-*Objetivo:* Identificar las partes de los varios tipos de computadoras modernas
+5. *Práctica 1.1. Partes de la computadora*. (Entrega: 11 de agosto de 2021).
+- *Objetivo:* Identificar las partes de los varios tipos de computadoras modernas
 - Investigue e identifique las funciones en una computadora de escritorio, una laptop, una tableta y un teléfono celular.
-- Haga un _collage_ a mano en su cuaderno, identificando las partes de cada tipo de computadora, en una página para tipo.
+- Haga un *collage* a mano en su cuaderno, identificando las partes de cada tipo de computadora, en una página para tipo.
 - Escanée la hoja o tome una foto de su tarea.
 - Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de *Telegram*.
-- Suba los archivos a su cuenta de _Google Drive_. 
+- Suba los archivos a su cuenta de *Google Drive*. 
+6. *Práctica 1.2. Funciones de la computadora*. (Entrega: 11 de agosto de 2021).
+- *Objetivos*: Identificar las funciones básicas de una computadora, aprender a descargar videos con una herramienta de software y editar los subtítulos.
+- Descargue e instale *YouTube-dl-gui* (versión portable) ([url](https://github.com/MrS0m30n3/youtube-dl-gui/releases/download/0.4/youtube-dl-gui-0.4-win-portable.zip)) en una USB.
+- Luego, descargue los 6 videos de la *Lectura 1.1*, incluyendo los subtítulos en inglés y en español.
+- Modifique uno de los archivos de subtítulos para que aprenda cómo hacerlo. Pruebe el despliegue de los subtítulos con *VLC*. 
+- Vea los seis videos e identifique los conceptos de la Unidad: Code.org (2018, Jan 30). How computers work. *YouTube*. ([url](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)) (6 videos).
+- Haga un breve escrito a mano en su cuaderno, sobre *qué es una computadora digital*, sus partes (página vuelta) y sus *funciones* (página frente). Reflexione sobre el concepto de *Máquina de Turing* y las operaciones de lectura, escritura y ejecución de software. Tome fotografías de su tarea.
+- Documente en un video su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+7. *Tarea 1.3. Historia de la computación*. (Entrega: 15 de agosto de 2021).
+- *Objetivo*: Aprender una historia breve de la computación.
+- Descargue la lectura 1.2 (Zavala (2011). Qué son las ciencias de la computación) y elabore un resumen de la misma, a mano, con los conceptos y acontecimientos más importantes. Luego, escanée o tome una foto de ambas caras de su tarea. 
+- Documente en un video su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+- _Tarea 1.4. Conceptos fundamentales_. (Entrega: 15 de agosto de 2021).
+- *Objetivos*: Aprender a diseñar mapas conceptuales y aprender una herramienta de software para diseñar mapas conceptuales.
+- Recopile: (1) los *conceptos generales* sobre una computadora: *información*, *cálculo*, *cómputo*, *computación*, *informática*, *tecnologías de la información* (TI) y *computadora digital*; (2) *partes de la computadora*: *hardware*, *dispositivos*, *software*, *sistema operativo*, *aplicaciones*) y (3) *funciones de la computadora*: *entrada*, *salida*, *procesamiento* y *almacenamiento de información*. 
+- Busque su definición formal y simplifíquela en una frase corta y ponga un par de ejemplos. Organice los conceptos en un mapa conceptual, en su cuaderno. Descargue e instale la aplicación *CmapTools* ([url](https://cmap.ihmc.us/cmaptools/)) para hacer el mapa conceptual que elaboró previamente. Tome una foto del mapa conceptual de su cuaderno e imprima en formato PDF el elaborado con CMapTools.
+- Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+8. *Práctica 1.5. Historia de la computación*. (Entrega: 22 de agosto de 2021).
+- *Objetivos*: Aprender algunos aspectos de la historia de la computación a través del cine.
+- Localice en Internet y vea la película *La Curiosa Guerra de Alan Turing* ([url](https://www.youtube.com/watch?v=uSkDDVvf6t8)). 
+- Vaya tomado notas para responder las siguientes preguntas: (1). ¿Cuáles fueron los factores económicos, políticos y sociales que llevaron al invento de la computadora digital?, (2). ¿Quién fue Alan Turing y cuáles fueron sus aportes a la computación?, (3). ¿Cuáles son las consecuencias e importancia de la computadora y de la informática en la administración, en la actualidad?
+- Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+9. *Práctica 1.6. Adquisición de una computadora*. (Entrega: 22 de agosto de 2021).
+- *Objetivos*: Aprender a evaluar la compra de una computadora nueva y de segunda mano.
+- *Parte 1*. Identifique sus necesidades de recursos de cómputo según los siguientes puntos: (1) hardware (tipo de equipo, almacenamiento (interno y externo (respaldo)), gráficos, impresión, digitalización, sonido y otros), (2) software (sistema operativo y aplicaciones) y (3) movilidad. 
+- *Parte 2*. Ponga un límite presupuestal de acuerdo a sus posibilidades y busque dos equipos nuevos y de segunda mano que cumplan con sus necesidades. Haga un presupuesto de cada componente.
+- *Parte 3*. Haga una tabla comparativa con sus criterios de decisión y el resultado de su elección. 
+- Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda. 
+
+##### *Bibliografía Obligatoria:*
+- Code.org (2018, Jan 30). How computers work. *YouTube*. (url). [6 videos]. (*Lectura 1.1.*).
+- Zavala, J. (2011). Qué son las ciencias de la computación. In [La ingeniería de software: Una discusión epistemológica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing) (pp. 38-76). Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México. (*Lectura 1.2.*).
+- HD Documental Ciencia 2017 (2017, Feb 18). La curiosa guerra de Alan Turing. *YouTube*. [video]. (51:55 min) ([url](https://www.youtube.com/watch?v=uSkDDVvf6t8)). (Lectura 1.3). 
+
+##### *Bibliografía Complementaria:*
+- ACM (2012). The 2012 ACM computing classification system: Introduction. New York: ACM. ([url](https://www.acm.org/publications/class-2012-intro)). 
+- *Código Enigma / The imitation game*. [video] (1:53:53 hr). ([url](https://www.youtube.com/watch?v=0DFqSmdbsUM)).
+- *Top Secret Rosies: The Female Computers of WWII*. [video] (56:46 min) ([url](https://www.youtube.com/watch?v=IXtb4fA65qE))
+- *Código Enigma* (*Imitation Game*) ([url](https://www.youtube.com/watch?v=0DFqSmdbsUM))
+- Talentos Ocultos (*Hidden Figures*) ([url](https://www.youtube.com/watch?v=xFALsPCeJvE))
+- Derivando (2018, Ene 10). ¿Qué es una máquina de Turing?. YouTube [video]. (5:17 min). ([url](https://www.youtube.com/watch?v=iaXLDz_UeYY)). 
+- Ensmenger, N. L. (2010). Introduction: Computer revolutionaries. (pp. 1-26). In *The computer boys take over: Computers, programmers, and the politics of technical expertise* (pp. 1-26). USA: The MIT Press. 
+- Gómez Ortega, L. F. (2018, Oct 10). Tutorial CmapTools 2019. *YouTube*. [video] (15:38 min). (url). 
+- Grier. D. A. (2001). Human computers. The first pioneers of the information age. *Endeavour 25*(1), 28-32. ([url](https://www.sciencedirect.com/science/article/pii/S0160932700013387)). 
+- Haigh, T., Priestley, M., & Rope, C. (2016). *ENIAC in action. Making and remaking the modern computer*. MIT Press. ([html](http://eniacinaction.com/)). 
+- Li-khriss Team. (2017, Sep 4). Descargar videos HD con Youtube DL en Windows. *YouTube*. [video]. (5:53 min). ([url](https://www.youtube.com/watch?v=HQig5v-Jz7A)).
