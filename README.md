@@ -49,12 +49,14 @@ Que al finalizar el curso el alumno sea capaz de:
 ### Contenido Sintético
 
 #### Unidad 0. Presentación
-- Presentación del programa
-- Evaluación Global y de Recuperación
-- Programa oficial ([pdf](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf))
-- Acceso a nueva plataforma de [Virtuami](http://virtuami.izt.uam.mx/aulas/apresencial2)
+
+1. Presentación del programa
+2. Evaluación Global y de Recuperación
+3. Programa oficial ([pdf](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf))
+4. Acceso a nueva plataforma de [Virtuami](http://virtuami.izt.uam.mx/aulas/apresencial2)
 
 #### Unidad 1. Introducción
+
 1. Conceptos: computadora, hardware, software,  cálculo, cómputo, computación, informática y tecnologías de la información (TI).
 2. Computación, informática, tecnologías de la información (TI)
 3. La computadora digital como máquina simbólica de propósito general
@@ -112,21 +114,23 @@ Que al finalizar el curso el alumno sea capaz de:
 - *Parte 3*. Haga una tabla comparativa con sus criterios de decisión y el resultado de su elección. 
 - Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda. 
 
-##### *Bibliografía Obligatoria:*
+##### Bibliografía Obligatoria:
 - Code.org (2018, Jan 30). How computers work. *YouTube*. (url). [6 videos]. (*Lectura 1.1.*).
 - Zavala, J. (2011). Qué son las ciencias de la computación. In [*La ingeniería de software: Una discusión epistemológica*](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing) (pp. 38-76). Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México. (*Lectura 1.2.*).
 - HD Documental Ciencia 2017 (2017, Feb 18). La curiosa guerra de Alan Turing. *YouTube*. [video]. (51:55 min) ([url](https://www.youtube.com/watch?v=uSkDDVvf6t8)). (*Lectura 1.3.*). 
 
-##### *Bibliografía Complementaria:*
+##### Bibliografía Complementaria:
 - ACM (2012). The 2012 ACM computing classification system: Introduction. New York: ACM. ([url](https://www.acm.org/publications/class-2012-intro)). 
-- *Código Enigma / The imitation game*. [video] (1:53:53 hr). ([url](https://www.youtube.com/watch?v=0DFqSmdbsUM)).
-- *Top Secret Rosies: The Female Computers of WWII*. [video] (56:46 min) ([url](https://www.youtube.com/watch?v=IXtb4fA65qE))
-- *Código Enigma* (*Imitation Game*) [video] ([url](https://www.youtube.com/watch?v=0DFqSmdbsUM))
-- *Talentos Ocultos* (*Hidden Figures*) [video] ([url](https://www.youtube.com/watch?v=xFALsPCeJvE))
-- Derivando (2018, Ene 10). ¿Qué es una máquina de Turing?. *YouTube* [video]. (5:17 min). ([url](https://www.youtube.com/watch?v=iaXLDz_UeYY)). 
 - Ensmenger, N. L. (2010). Introduction: Computer revolutionaries. (pp. 1-26). In *The computer boys take over: Computers, programmers, and the politics of technical expertise* (pp. 1-26). USA: The MIT Press. 
 - Gómez Ortega, L. F. (2018, Oct 10). Tutorial CmapTools 2019. *YouTube*. [video] (15:38 min). (url). 
 - Grier. D. A. (2001). Human computers. The first pioneers of the information age. *Endeavour 25*(1), 28-32. ([url](https://www.sciencedirect.com/science/article/pii/S0160932700013387)). 
 - Haigh, T., Priestley, M., & Rope, C. (2016). *ENIAC in action. Making and remaking the modern computer*. MIT Press. ([html](http://eniacinaction.com/)). 
 - Li-khriss Team. (2017, Sep 4). Descargar videos HD con Youtube DL en Windows. *YouTube*. [video]. (5:53 min). ([url](https://www.youtube.com/watch?v=HQig5v-Jz7A)).
+
+###### Películas:
+
+- *Código Enigma / The imitation game*. [video] (1:53:53 hr). ([url](https://www.youtube.com/watch?v=0DFqSmdbsUM)).
+- *Top Secret Rosies: The Female Computers of WWII*. [video] (56:46 min) ([url](https://www.youtube.com/watch?v=IXtb4fA65qE))
+- *Talentos Ocultos* (*Hidden Figures*) [video] ([url](https://www.youtube.com/watch?v=xFALsPCeJvE))
+- Derivando (2018, Ene 10). ¿Qué es una máquina de Turing?. *YouTube* [video]. (5:17 min). ([url](https://www.youtube.com/watch?v=iaXLDz_UeYY)). 
 
