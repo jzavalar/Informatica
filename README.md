@@ -162,8 +162,8 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 
 - *Objetivo*: Aprender una historia breve de la computación.
 
-- Descargue la lectura 1.2 (Zavala (2011). Qué son las ciencias de la computación) y elabore un resumen de la misma, a mano, con los conceptos y acontecimientos más importantes. Luego, escanée o tome una foto de ambas caras de su tarea. 
-- Documente en un video su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+- Descargue la lectura 1.2 (Zavala (2011) de la Bibliografía Obligatoria y elabore un resumen de la historia de las ciencias de la computación, con los conceptos y acontecimientos más importantes. Hágalo a mano, en su cuaderno, en un par de cuartillas. 
+- Documente en un video su experiencia en la realización de la actividad y escanée o tome una foto de su tarea. Comparta el video en el grupo de Telegram y suba los archivos a su cuenta de Google Drive donde corresponda.
 
 9. *Práctica 1.4. Historia de la computación*. (Entrega: 22 de noviembre de 2021).
 
@@ -191,8 +191,8 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 
 ##### Bibliografía Obligatoria:
 - Code.org (2018, Jan 30). [How computers work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). *YouTube*. [6 videos]. (*Lectura 1.1.*).
-- Zavala, J. (2011). [Qué son las ciencias de la computación](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing). In *La ingeniería de software: Una discusión epistemológica* (pp. 38-76). Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México. (*Lectura 1.2.*).
-- HD Documental Ciencia 2017 (2017, Feb 18). [La curiosa guerra de Alan Turing](https://www.youtube.com/watch?v=uSkDDVvf6t8). *YouTube*. [video]. (51:55 min). (*Lectura 1.3.*). 
+- Zavala, J. (2011). [¿Qué son las ciencias de la computación?: Una interpretación ecléctica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing). In *La ingeniería de software: Una discusión epistemológica (pp. 38-76)*. Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México. (*Lectura 1.2.*).
+- HD Documental Ciencia 2017 (2017, Feb 18). [La curiosa guerra de Alan Turing](https://www.youtube.com/wtch?v=uSkDDVvf6t8). *YouTube*. [video]. (51:55 min). (*Lectura 1.3.*). 
 
 ##### Bibliografía Complementaria:
 - ACM (2012). [The 2012 ACM computing classification system: Introduction](https://www.acm.org/publications/class-2012-intro). New York: ACM. 
@@ -288,6 +288,10 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 - *Parte 2*. Cargue el sistema operativo Linux de la práctica 2.4., abra una terminal y pruebe los comandos del [video](https://www.youtube.com/watch?v=EHSbmmqhOl0). 
 - Entregue el reporte de la práctica y comente su experiencia en un video usando la aplicación de grabación de pantalla que tenga disponible en Windows y en Linux. Suba sus videos a su Google Drive.
 - Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+##### Bibliografía Complementaria:
+
+- Stallings, W. (2005). *Sistemas operativos: Aspectos internos y principios de diseño*. México: Pearson-Prentice-Hall. (pp. 53-104). ([url](http://cotana.informatica.edu.bo/downloads/Sistemas%20Operativos.pdf)).
 
 ##### Bibliografía Complementaria:
 
