@@ -141,7 +141,7 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 
 - *Objetivo:* Identificar las partes de los varios tipos de computadoras modernas
 
-- Investigue e identifique las funciones en una computadora de escritorio, una laptop, una tableta y un teléfono celular.
+- Investigue e identifique las partes en una computadora de escritorio, una laptop, una tableta y un teléfono celular.
 - Haga un *collage* a mano en su cuaderno, identificando las partes de cada tipo de computadora, en una página para tipo.
 - Escanée la hoja o tome una foto de su tarea.
 - Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de *Telegram*.
