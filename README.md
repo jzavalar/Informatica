@@ -1,4 +1,5 @@
 <img src="https://github.com/jzavalar/2211088-informatica/blob/main/conjunto-baseIzt.png" alt="UAM Iztapalapa" width="60%"/>
+
 ## Programa Analítico de la UEA Informática (Teoría y Práctica)
 ## de la Licenciatura en Administración
 
