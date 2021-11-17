@@ -189,10 +189,20 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 - *Parte 3*. Haga una tabla comparativa con sus criterios de decisión y el resultado de su elección. 
 - Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
+12. *Práctica 1.7. Encriptación*. (Opcional) (Entrega 24 de noviembre de 2021).
+
+- *Objetivos*: Aplique la encriptación a través de aplicarla en su teléfono celular.
+
+- *Parte 1*. A partir de la película *[La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg)*, investigue un poco sobre la criptografía y sus aplicaciones en el uso personal y en las organizaciones. 
+- *Parte 2*. Investigue cómo se aplica la criptografía en el encriptamiento de su teléfono celular, consultando la obra *[Resistencia Digital: Manual de Seguridad Operacional e Instrumental para Smartphones](https://www.criptica.org/material/resistencia_digital.pdf)* y demuestre que funciona, accediendo al contenido de su teléfono antes y después de encriptarlo.
+- *Parte 3*. Investigue en el mismo manual, cómo puede proteger su privacidad en las redes sociales.
+- *Parte 4*. Pruebe algunas de las aplicaciones sugeridas en el manual. 
+- Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
 ##### Bibliografía Obligatoria:
 - Code.org (2018, Jan 30). [How computers work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). *YouTube*. [6 videos]. (*Lectura 1.1.*).
 - Zavala, J. (2011). [¿Qué son las ciencias de la computación?: Una interpretación ecléctica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing). In *La ingeniería de software: Una discusión epistemológica (pp. 38-76)*. Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México. (*Lectura 1.2.*).
-- HD Documental Ciencia 2017 (2017, Feb 18). [La curiosa guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg). *YouTube*. [video]. (1:27:54 hr). (*Lectura 1.3.*). 
+- HD Documental Ciencia 2017 (2017, Dic 17). [La curiosa guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg). *YouTube*. [video]. (1:27:54 hr). (*Lectura 1.3.*). 
 
 ##### Bibliografía Complementaria:
 - ACM (2012). [The 2012 ACM computing classification system: Introduction](https://www.acm.org/publications/class-2012-intro). New York: ACM. 
@@ -203,7 +213,6 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 - Li-khriss Team. (2017, Sep 4). [Descargar videos HD con Youtube DL en Windows](https://www.youtube.com/watch?v=HQig5v-Jz7A). *YouTube*. [video]. (5:53 min).
 
 ###### Películas:
-
 - *[Código Enigma / The imitation game](https://www.youtube.com/watch?v=0DFqSmdbsUM)*. *YouTube*. [video] (1:53:53 hr).
 - *[Top Secret Rosies: The Female Computers of WWII](https://www.youtube.com/watch?v=IXtb4fA65qE)*. [video] (56:46 min).
 - *[Talentos Ocultos](https://thepiratebay.org/description.php?id=17551668)* (*Hidden Figures*). [[Trailer](https://www.youtube.com/watch?v=xFALsPCeJvE)] [video].
@@ -223,7 +232,7 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 - Busque su definición formal y simplifíquela en una frase corta. Acompañe la definición con un par de ejemplos. Organice los conceptos en un mapa conceptual, en su cuaderno. Haga el mapa con [CmapTools](https://cmap.ihmc.us/cmaptools/). Tome una foto del mapa conceptual de su cuaderno e imprima en formato PDF el elaborado con CMapTools.
 - Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
-6. *Tarea 2.2. Licenciamiento de software*. (Entrega: 29 de diciembre de 2021).
+6. *Tarea 2.2. Licenciamiento de software*. (Entrega: 29 de noviembre de 2021).
 
 - *Objetivo*: Comprender los conceptos básicos de licenciamiento de software.
 
@@ -288,10 +297,6 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 - *Parte 2*. Cargue el sistema operativo Linux de la práctica 2.4., abra una terminal y pruebe los comandos del [video](https://www.youtube.com/watch?v=EHSbmmqhOl0). 
 - Entregue el reporte de la práctica y comente su experiencia en un video usando la aplicación de grabación de pantalla que tenga disponible en Windows y en Linux. Suba sus videos a su Google Drive.
 - Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
-
-##### Bibliografía Complementaria:
-
-- Stallings, W. (2005). *Sistemas operativos: Aspectos internos y principios de diseño*. México: Pearson-Prentice-Hall. (pp. 53-104). ([url](http://cotana.informatica.edu.bo/downloads/Sistemas%20Operativos.pdf)).
 
 ##### Bibliografía Complementaria:
 
