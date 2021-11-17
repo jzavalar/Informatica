@@ -169,7 +169,7 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 
 - *Objetivos*: Aprender algunos aspectos de la historia de la computación a través del cine.
 
-- Localice en Internet y vea la película *[La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=uSkDDVvf6t8)*. 
+- Localice en Internet y vea la película *[La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg)*. 
 - Vaya tomado notas para responder las siguientes preguntas: (1). ¿Cuáles fueron los factores económicos, políticos y sociales que llevaron al invento de la computadora digital?, (2). ¿Quién fue Alan Turing y cuáles fueron sus aportes a la computación?, (3). ¿Cuáles son las consecuencias e importancia de la computadora y de la informática en la administración, en la actualidad?
 - Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
@@ -192,7 +192,7 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 ##### Bibliografía Obligatoria:
 - Code.org (2018, Jan 30). [How computers work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). *YouTube*. [6 videos]. (*Lectura 1.1.*).
 - Zavala, J. (2011). [¿Qué son las ciencias de la computación?: Una interpretación ecléctica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing). In *La ingeniería de software: Una discusión epistemológica (pp. 38-76)*. Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México. (*Lectura 1.2.*).
-- HD Documental Ciencia 2017 (2017, Feb 18). [La curiosa guerra de Alan Turing](https://www.youtube.com/wtch?v=uSkDDVvf6t8). *YouTube*. [video]. (51:55 min). (*Lectura 1.3.*). 
+- HD Documental Ciencia 2017 (2017, Feb 18). [La curiosa guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg). *YouTube*. [video]. (1:27:54 hr). (*Lectura 1.3.*). 
 
 ##### Bibliografía Complementaria:
 - ACM (2012). [The 2012 ACM computing classification system: Introduction](https://www.acm.org/publications/class-2012-intro). New York: ACM. 
