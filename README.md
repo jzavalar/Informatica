@@ -310,7 +310,7 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 - Wheeler, D. A. (2015). *[Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!](https://www.dwheeler.com/oss_fs_why.html)*. ([Traducción automática al español](https://translate.google.com/translate?sl=auto&tl=es&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fwww.dwheeler.com%2Foss_fs_why.html&edit-text=)) ([Versión al español](http://hispalinux.es/informes/wheeler/index.html) de 2001).
 - R project en Bossie Awards ([url](https://www.infoworld.com/article/3228150/analytics/bossie-awards-2017-the-best-databases-and-analytics-tools.html#slide11)). 
 
-### 3. Programación de computadoras
+### Unidad 3. Programación de computadoras
 1. Programación de computadoras
 2. Desarrollo de software: análisis, diseño, programación, prueba y despliegue.
 3. Diagrama de flujo, pseudocódigo y codificación.
@@ -321,12 +321,17 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 - Busque la definición y simplifíquela con una frase corta y acompañe la definición con un par de ejemplos. (Entregable 1).
 - *Parte 2*. Estudie los videos necesarios en el video [Aprende a programar en 11 minutos](https://www.youtube.com/watch?v=TAyyujKoY6k). Saque su conclusiones. (Entregable).
 - Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable 3) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
-6. *Práctica 3.2. Instalación de software de desarrollo*. (Demostrativa).
-- *Objetivo*: Instalar PSeInt para aprender los conceptos básicos de programación de computadoras.
--  Descargue e instale [PseInt](http://pseint.sourceforge.net/index.php?page=portada.php) ([guía rápida](http://pseint.sourceforge.net/slide/pseint.html), [descarga](http://pseint.sourceforge.net/index.php?page=descargas.php)).
-7. *Práctica 3.3. Programación Parte 1: Control básico, condicionales y ciclos*. (Demostrativa).
+6.*Práctica 3.1. Algoritmos y pseudocódigo*. (Entrega: 17 de septiembre de 2021).
+- *Objetivo*: Comprender los conceptos de algoritmo y pseudocódigo.
+- *Parte 1*. Investigue qué es la [resolución de problemas](https://es.wikipedia.org/wiki/Resolución_de_problemas) y cómo se aplica en la informática con la aplicación de la Máquina de Turing. También, investigue qué es un [algoritmo](https://es.wikipedia.org/wiki/Algoritmo) (utilice como base los videos Bases de la Programación) y compárelo con la definición de una receta.
+- *Parte 2*. Investigue qué es el [pseudocódigo](https://es.wikipedia.org/wiki/Pseudocódigo) y su utilidad para el aprendizaje de la programación de computadoras.
+- *Parte 3*. Luego, instale la aplicación *[PseInt](http://pseint.sourceforge.net/)* en su equipo y haga una compilación de los elementos del pseudocódigo en su cuaderno utilizado en *PSeInt*, a parti6. de la documentación en la Ayuda de la aplicación y de la consulta del siguiente [curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw). Concéntrese en comprender la lógica de los tipos y estructuras de datos, de los comandos, de las estructuras de control y de la entrada, salida, almacenamiento y procesamiento de datos. 
+- *Parte 4*. Estudie la aplicación de PSeInt a la programación de una aplicación sencilla de un sistema de información para la operación de un estacionamiento, en la siguiente [lista de videos](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). Previamente, para cada video, descargue el archivo con el código fuente del pseudocódigo, disponible en la descripción de cada uno de ellos. 
+- *Parte 5*. De manera progresiva documente cada archivo con comentarios, según la explicación del autor, hasta que le quede completamente clara la lógica de la programación. Distinga entre proceso principal y subprocesos. Para cada subproceso identifique los parámetros o datos de entrada, el tipo de pase de los mismos y el valor de regreso. En la llamada del subproceso identifique los argumentos y el valor devuelto por el suproceso. Comprenda el concepto de ámbito (*scope*) de una variable y cómo funciona el tipo de pase de parámetros: por valor y por referencia.
+- Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+7. *Práctica 3.3. Programación Parte 1: Control básico, condicionales y cicl-os*. (Demostrativa).
 - *Objetivo*: Aprender las estructuras de control, las condicionales y los ciclos en la programación de computadoras.
-- Estudie los videos necesarios en el *[Curso de PseInt de cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw)*, para cumplir el objetivo e identifique los conceptos estudiados.
+- Estudie los videos necesarios en el *[Curso de PseInt de cero a siempre](htps://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw)*, para cumplir el objetivo e identifique los conceptos estudiados.
 - Tome notas a mano en su cuaderno y practique los ejercicios del video en PseInt.
 - Saque sus conclusiones y expóngalas en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 8. *Práctica 3.4. Programación Parte 2: Diagramas de flujo*. (Demostrativa).
@@ -364,4 +369,5 @@ Ponga a prueba los conceptos aprendidos. De acuerdo a su número de lista (que s
 - DW Documental (2019, Sep 26). [¿De qué es capaz la inteligencia artificial?](https://www.youtube.com/watch?v=34Kz-PP_X7c). *YouTube* (video) (42:35 min).
 - Glez, R. (2017, Jul 29). [Mi vida es un algoritmo](https://www.youtube.com/watch?v=MiaLpkV8JyM). *YouTube* (video) (58:15 min).
 - BBC Newsbeat. (2014, Sep 4). [Por qué vale la pena aprender a programar... ¡nunca es tarde!](http://www.bbc.com/mundo/noticias/2014/09/140904_tecnologia_lenguaje_programacion_finde_yv). *BBC Mundo*.
+
 
