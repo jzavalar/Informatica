@@ -310,18 +310,19 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 - Wheeler, D. A. (2015). *[Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!](https://www.dwheeler.com/oss_fs_why.html)*. ([Traducción automática al español](https://translate.google.com/translate?sl=auto&tl=es&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fwww.dwheeler.com%2Foss_fs_why.html&edit-text=)) ([Versión al español](http://hispalinux.es/informes/wheeler/index.html) de 2001).
 - R project en Bossie Awards ([url](https://www.infoworld.com/article/3228150/analytics/bossie-awards-2017-the-best-databases-and-analytics-tools.html#slide11)). 
 
+
 ### Unidad 3. Programación de computadoras
 1. Programación de computadoras
 2. Desarrollo de software: análisis, diseño, programación, prueba y despliegue.
 3. Diagrama de flujo, pseudocódigo y codificación.
 4. Tareas y prácticas:
-5. *Tarea 3.1. Desarrollo de software*. (Entrega: 23 de agosto de 2021).
+5. *Tarea 3.1. Desarrollo de software*. (Entrega: 13 de diciembre de 2021).
 - *Objetivo*: Comprender los conceptos básicos de desarrollo de software.
 - *Parte 1*. Investigue los conceptos básicos de programación de software: *archivo*, *software* ([guía](https://www.youtube.com/watch?v=qfLSn6pCRZ4&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=17)), *programa*, *aplicación* (*app*), *código*, *código fuente*, *archivo de texto plano*, *interpretar código fuente*, *compilar código fuente*, *archivo binario*, *código binario*, *código objeto*, *archivo executable*, *código executable*, *codificar* o *escribir software*, *programar una computadora*, *desarrollar software*, *ejecutar software* y *copiar software*, *software como herramienta*. 
 - Busque la definición y simplifíquela con una frase corta y acompañe la definición con un par de ejemplos. (Entregable 1).
 - *Parte 2*. Estudie los videos necesarios en el video [Aprende a programar en 11 minutos](https://www.youtube.com/watch?v=TAyyujKoY6k). Saque su conclusiones. (Entregable).
 - Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable 3) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
-6.*Práctica 3.1. Algoritmos y pseudocódigo*. (Entrega: 17 de septiembre de 2021).
+6.*Práctica 3.1. Algoritmos y pseudocódigo*. (Entrega: 15 de septiembre de 2021).
 - *Objetivo*: Comprender los conceptos de algoritmo y pseudocódigo.
 - *Parte 1*. Investigue qué es la [resolución de problemas](https://es.wikipedia.org/wiki/Resolución_de_problemas) y cómo se aplica en la informática con la aplicación de la Máquina de Turing. También, investigue qué es un [algoritmo](https://es.wikipedia.org/wiki/Algoritmo) (utilice como base los videos Bases de la Programación) y compárelo con la definición de una receta.
 - *Parte 2*. Investigue qué es el [pseudocódigo](https://es.wikipedia.org/wiki/Pseudocódigo) y su utilidad para el aprendizaje de la programación de computadoras.
@@ -349,7 +350,7 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 - Estudie los videos necesarios en el *[Curso de PseInt de cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw)*, para cumplir el objetivo e identifique los conceptos estudiados.
 - Tome notas a mano en su cuaderno y practique los ejercicios del video en PseInt.
 - Saque sus conclusiones y expóngalas en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
-11. *Tarea 3.7. Ejercicios programación de algoritmos*. (Entrega: 26 de abril de 2021). 
+11. *Tarea 3.7. Ejercicios programación de algoritmos*. (Entrega: 5 de enero de 2021). 
 - Ponga a prueba los conceptos aprendidos. De acuerdo a su número de lista (que se envió al grupo de Telegram), realicen los ejercicios de la lectura 2.2. que le correspondan: 
 - *Lista 1*: Ejercicios: 45, 26; *2*: 39, 9; *3*: 36, 33; 4 : 24, 11; *5*: 17, 39; *6*: 28, 15; *7*: 38, 41; *8*: 36, 8; *9*: 17, 37; *10*: 23, 35; *11*: 43, 43; *12*: 36, 8; *13*: 17, 10; *14*: 33, 43; *15*: 25, 25; *16*: 45, 44; *17* : 42, 11; *18*: 38, 32; *19*: 18, 44; *20*: 9, 25; *Lista 1 y 2*: 25, 47; *3 y 4*: 25, 37; *5 y 6*: 36, 32; *7 y 8*: 26, 39; *9 y 10*: 9, 36; *11 y 12*: 33, 24; *13 y 14*: 11, 17; 15 y 16 : 39, 28; *17 y 18*: 15, 38; *19 y 20*: 41, 36.
 - Cada ejercicio debe crearse en un archivo con el nombre del número de algoritmo y el título del algorimo. Por ejemplo, para el primer algoritmo llamado "Promedio", le correpondería el nombre de *01. Promedio.psc*. 
@@ -370,4 +371,110 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 - Glez, R. (2017, Jul 29). [Mi vida es un algoritmo](https://www.youtube.com/watch?v=MiaLpkV8JyM). *YouTube* (video) (58:15 min).
 - BBC Newsbeat. (2014, Sep 4). [Por qué vale la pena aprender a programar... ¡nunca es tarde!](http://www.bbc.com/mundo/noticias/2014/09/140904_tecnologia_lenguaje_programacion_finde_yv). *BBC Mundo*.
 
+### Unidad 4. Informática: Aplicación de la computación en las organizaciones
+1. La informática como profesión: Los chicos de la computadora
+2. La informática como herramienta de gestión en las organizaciones
+3. Los sistemas empresariales de información (ERP)
+4. Prácticas y tareas:
+5. *Tarea 4.1. LEO: El primer sistema empresarial en el mundo*. (Entrega: por definir).
+- *Objetivo*: Comprender el surgimiento de los sistemas de información automatizados en las organizaciones.
+- *Parte 1*. De manera individual, investigue la historia del proyecto LEO a partir de la bibliografía anexa o la que encuentre en [Google Académico](https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=enterprise+OR+system+OR+Lyons+%22leo+project%22&btnG=):
+- Zavala, J. (2011). La industria del software y su importancia. In *[La ingeniería de software: Una discusión epistemológica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing)* (pp. 77-87). Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México.
+- Land, F. (2000). [The first business computer: A case study in user-driven innovation](http://eprints.lse.ac.uk/19150/1/The%20first%20business%20computer(lsero).pdf). *IEEE Annals of the History of Computing, 22*(3), 16-26.
+- [Information Age: The computer that changed our world](https://www.youtube.com/watch?v=X0yYDxjBnTM) (video), [LEO: The automatic office](https://www.youtube.com/watch?v=-8K-xbx7jBM) (1957) (Video), [Ernest Kaye: LEO 1952](https://www.youtube.com/watch?v=GE6TX70A3Rc) (Video), [LEO: Celebrating The Pioneers](https://www.youtube.com/watch?v=Lrn24SdW64I) (Video).
+- *Parte 2*. Haga un breve reporte en su cuaderno sobre la importancia del proyecto.
+- *Parte 3*. El grupo debe organizarse en equipos de 3 miembros. Por equipo, deben planificar una sesión colectiva y contribuyendo con sus notas individuales reescriban colectivamente sus conclusiones sobre el *Proyecto LEO*. Suban el reporte de la investigación con la siguiente estructura: *Introducción*, *Contexto*, *Desarrollo*, *Conclusiones* y *Bibliografía*.
+- Suban su texto al Google Drive de cada uno de los integrantes.
+6. *Tarea 4.2. Los informáticos y el poder gerencial*. (Entrega: por definir).
+- *Objetivo*: Comprender el surgimiento de los informáticos como una nueva clase laboral y sus desafíos gerenciales. 
+- *Parte 1*. Los equipos de la práctica anterior, hagan una lectura colectiva del artículo Ensmenger, N. L. (2003). [Letting the “Computer Boys” take over: Technology and the politics of organizational transformation](https://www.researchgate.net/publication/248710837_Letting_the_Computer_Boys_Take_Over_Technology_and_the_Politics_of_Organizational_Transformation). *International Review of Social History (IRSH), 48* (S11) (December 2003), 153–180. DOI: 10.1017/S0020859003001305. 
+- *Parte 2*. Por equipo, deben planificar una sesión colectiva y sacar sus conclusiones sobre el tema. Suban el reporte de la investigación con la siguiente estructura: *Introducción*, *Contexto*, *Desarrollo*, *Conclusiones* y *Bibliografía*.
+- Suban su texto al Google Drive de cada uno de los integrantes.
+7. *Tarea 4.3. Los sistemas de información empresarial y su evolución histórica*. (Entrega: por definir).
+- *Objetivo*: Comprender el concepto y evolución histórica de los sistemas de información empresariales. 
+- *Parte 1*. Los equipos de la práctica anterior, hagan una lectura colectiva de los primeros dos capítulos Hormigo, I. G.  (2011). [Sistema de información empresarial](http://libgen.rs/book/index.php?md5=77DE9AE1D073B9367127448826BA6460)* (pp. 1-30). Catalunya: Universitat Oberta de Catalunya.
+- Consultar también la siguiente bibliografía complementaria: (1). Sánchez, A. (2016). Sistema de información: Concepto, elementos, etapas, funciones y ejemplo. ([Video](https://www.youtube.com/watch?v=Ibh62H7M1Jo)), (2). Extensión del ITTG sede Bochil Pagina Oficial (2015). [Elementos de un sistema de información] (https://www.youtube.com/watch?v=kAzxXgKiwTE) (Video) y (3). Molar, A. (2015). [Tipos de sistemas de Información](https://www.youtube.com/watch?v=vh4Wg-MiLhw) (Video).
+- *Parte 2*. Por equipo, deben planificar una sesión colectiva y sacar sus conclusiones sobre el tema. Suban el reporte de la investigación con la siguiente estructura: *Introducción*, *Contexto*, *Desarrollo*, *Conclusiones* y *Bibliografía*.
+- Suban su texto al Google Drive de cada uno de los integrantes.
+8. *Práctica 4.4. Arquitectura de un sistemas de información*. (Entrega: por definir).
+- *Objetivo*: Comprender la arquitectura de un sistema de información empresarial.
+- *Parte 1*. Investigue la arquitectura de un sistema de información empresarial en la actualidad en el capìtulo Hormigo, I. G. (2011). Arquitectura del sistema ERP y sus módulos funcionales. In H. G. Fuster, I. G. Hormigo, J. M. Joana, & J. R. Rodríguez (Eds.). *Fundamentos de sistemas de información* (pp. 31-43). Catalunya: Universitat Oberta de Catalunya. ([url](http://libgen.rs/book/index.php?md5=77DE9AE1D073B9367127448826BA6460).
+- *Parte 2*. Haga un breve reporte en su cuaderno la investigación sobre qué es un sistema de información, un sistema de información empresarial y la tipología de ellos. Este es su entregable.
+- *Parte 3*. Tome como estudio de caso la solución denominada de código libre y abierto Adaxa Suite ([proveedor](http://www.adaxa.com/), [video](https://www.youtube.com/watch?v=SST_AEKg-uw), [revisión](https://www.predictiveanalyticstoday.com/adaxa-suite/)) y describa las ventajas y desventajas que tiene respecto a soluciones comerciales equivalentes en software privativo.
+- *Parte 4*. Instale y configure [XAMPP Server](https://www.apachefriends.org/es/index.html) en su computadora ([guía](https://www.youtube.com/watch?v=6Yrw2TYCqqg), [descargar](https://www.apachefriends.org/xampp-files/8.0.10/xampp-windows-x64-8.0.10-0-VS16-installer.exe)) en Windows.
+- *Parte 5*. Revise el ERP [Dolibarr](https://www.dolibarr.org/), [descárguelo](https://sourceforge.net/projects/dolibarr/files/Dolibarr%20ERP-CRM/14.0.2/)) e instálelo ([guía](https://www.youtube.com/watch?v=_6_k0nUyezE)) como un ejemplo de una aplicación empresarial.
+- *Parte 4*. Haga las [primeras configuraciones](https://wiki.dolibarr.org/index.php?title=Primeras_configuraciones) y pruébelo.
+- Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+#### Bibliografía Obligatoria:
+- Hormigo, I. G.  (2011). Sistema de información empresarial. In H. G. Fuster, I. G. Hormigo, J. M. Joana, & J. R. Rodríguez (Eds.). *Fundamentos de sistemas de información* (pp. 5-15). Catalunya: Universitat Oberta de Catalunya. ([url](http://libgen.rs/book/index.php?md5=77DE9AE1D073B9367127448826BA6460)). (*Lectura 4.1.*)
+- Zavala, J. (2011). ¿Qué es la ingenieria de software?: Una visión crítica . In *La ingeniería de software: Una discusión epistemológica (pp. 77-126)*. Tesis de Maestría en Ciencias de la Computación. Universidad Aunoma Metropolitana, Unidad Azcapotzalco, Ciudad de México. (https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing). (*Lectura 4.2.*)
+#### Bibliografía Complementaria:
+- Ensmenger, N. L. (2003). [Letting the “Computer Boys” take over: Technology and the politics of organizational transformation](https://www.researchgate.net/publication/248710837_Letting_the_Computer_Boys_Take_Over_Technology_and_the_Politics_of_Organizational_Transformation). *International Review of Social History (IRSH), 48* (S11) (December 2003), 153–180. DOI: 10.1017/S0020859003001305.
+- Haigh, T. (2001). [Inventing information systems: The systems men and the computer, 1950-1968](https://www.jstor.org/stable/i356703). *The Business History Review 75*(1) (Computers and Communications Networks, Spring), 15-61.
 
+
+### Unidad 5. Software de oficina
+1. Edición de textos
+2. Presentaciones
+3. Hoja de cálculo
+4. Base de datos
+5. Prácticas
+6. *Práctica 4.1. Editor de textos* 
+- Concepto y funcionamiento de un editor de textos y desarrollar las habilidades de edición profesional. - Usar estilo APA. Sugerencia: Usar plantilla para tesis.
+- DB libros para ejercicio de combinar correspondencia.
+7. *Práctica 4.2. Presentaciones*
+- Concepto y funcionamiento de una presentación y aplicar los principios de Reynolds (2011) para elaborar una presentación profesional. Sugerencia: Usar plantilla. 
+8. Práctica 4.3. Tablas dinámicas con hoja de cálculo. (Entrega: 02 de octubre de 2021). 
+Objetivo: Practicar la creación de tablas dinámicas para la resolución de preguntas cuantitativas a una base de datos.
+Parte 1. Desde el sitio web del Inegi, del Censo Nacional de Población y Vivienda del INEGI (url), descargue el Cuestionario Básico (pdf), la Descripción de la Base de Datos  (xls), una muestra de la base de datos (url), la Síntesis Metodológica y Conceptual (pdf) y el Cuestionario Ampliado (pdf); y, de la pestaña Microdatos, descargue la muestra de la Base de Datos de Personas (dbf en zip), Base de Datos de Viviendas (dbf en zip) y el Catálogo de la Integración General de Localidades (CIGEL) (dbf en zip) y los demàs catálogos. También descargue el archivo DUMMY_PERSONAS_5K.dbf.zip, que es una muestra muy pequeña de la base de datos, para realizar el ejercicio desde aquí.
+Parte 2. En primer lugar, utilice Calc de LibreOffice (ayuda html) para abrir el archivo disponible del Inegi en el formato DBF y expórtelo a cualquier otro como XLSX, XLS o CSV.
+Parte 3. En segundo lugar, utilice el paquete rio en RStudio para abrir (importar / exportar) y convertir alguno de los archivos en los formatos disponibles del Inegi: DBF, SAS, SAV, DTA a cualquier otro como XLSX, XLS o CSV. Básese en este script y adáptelo a su caso particular hasta que le funcione correctamente.
+Parte 4. Practique la consulta multidimensional de datos con la pequeña muestra de la base de datos descargada en la Parte 1 (DUMMY_PERSONAS_5K.dbf). Luego, revise la metodología y la solución en Google Sheets (Google Drive) aquí y haga lo equivalente en Excel (Microsoft Office) y Calc (LibreOffice). Tome como base la siguiente pregunta:
+¿Cuántos jefes de familia hay en la base de datos que son estudiantes y son menores de edad? y            
+¿Cuál es su distribución por edad y sexo?
+Tip: Si bien, este problema puede resolverse aplicado filtros de manera consecutiva, también puede resolverse realizando una consulta a la base de datos mediante una tabla dinámica.
+Parte 5. Complementariamente, repita el ejercicio de la creación de un tablero de control dinámico (Dashboard) del video de Max (2019, Jul 20). Cómo crear un Dashboard interactivo en Excel en menos de 10 min!  (14:33 min). Descargue los datos aquí.
+Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+Práctica 4.4. Base de datos geográfica.   (Opcional).
+Objetivo: Crear un sistema integrado de bases de datos geográficas con PostgreSQL, R y QGIS.
+Parte 1. Instale PostgreSQL, Stack  Builder y PostGIS (url), pgAdmin 4 (url) en Windows (guía) y QGIS (guía).  
+Parte 2. Cree un usuario del servidor PostgreSQL y conéctese (guía). 
+Parte 3. Descargue los archivos de la base de datos geográfica (url) (tutorial PostGIS). Cree una base de datos espacial (guía). 
+Parte 4. Use la aplicación shp2pgsql para importar los archivos shapefiles (guía 1, guia 2) (si después de instalar PostGIS (en Windows), ocurre un error por la falta del archivo libsqlite3-0.dll, éste debe descargarse y copiarse al directorio base de la aplicación desde aquí, por ejemplo, la versión 64 bits). 
+Parte 5. Conéctese a la base de datos desde RStudio y pruebe R con la base de datos (guía). 
+Parte 6. Conéctese a la base de datos con QGiS, despliegue el mapa (guía). 
+Parte 7. Respalde la base de datos (guía).
+Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito o pruebe algún tutorial.
+Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+
+
+
+### Proyecto de fin de curso: 
+- El proyecto es opcopnal, pero otorgará un punto extra a la calificación final si cumple los requisitos del mismo.
+- Por equipo, estudien la lista de videos sobre el desarrollo de un  [Sistema para un Parqueadero en #PseInt](https://www.youtube.com/watch?v=9jLu8yrdsjM&list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f) (Altas, Bajas y Cambios).
+- Después, elijan alguno de los siguientes temas para adaptarlo: (1) Tienda de abarrotes, (2) Biblioteca, (3) Librería, (4) Escuela, (5) Contactos.
+- Documente el código de su proyecto con suficientes comentarios
+- Prepare la exposición de su trabajo.
+- Suba los entregables de su proyecto a el Google Drive de cada participante.
+#### Bibliografía Complementaria:
+- JhonvaCode. (2018, Jan 14) [Sistema de un parqueadero en #PseInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). *YouTube*. (7 videos). (*Lectura 2.3*).
+
+
+## Modalidades de Evaluación
+
+### Evaluación Global
+La asistencia puntual a la clase es obligatoria, según el reglamento de estudios. Es importante la *participación activa clase a clase*. La falta de participación en clase y la no entrega de sus reportes de prácticas a lo largo del trimestre, tendrá repercusiones en la evaluación final que puede llegar a la reprobación del curso. Ver porcentajes de ponderación de calificación.
+
+#### Calificación
+| Factor | Porcentaje | Observaciones |
+| ------------- | ------------- | ------------- |
+| Asistencia puntual | 10% |  |
+| Tareas|30% |Se entrega en la fecha programada |
+| Prácticas| 30% |Se entregan  en la fecha programada |
+| Exámenes| 30% | La fecha se acordará previamente |
+| Total | 100% | |
+
+La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
+
+#### Evaluación de Recuperación
+La *evaluación de recuperación* no será aplidada por el profesor, sino por la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente.
