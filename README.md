@@ -310,4 +310,58 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 - Wheeler, D. A. (2015). *[Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!](https://www.dwheeler.com/oss_fs_why.html)*. ([Traducción automática al español](https://translate.google.com/translate?sl=auto&tl=es&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fwww.dwheeler.com%2Foss_fs_why.html&edit-text=)) ([Versión al español](http://hispalinux.es/informes/wheeler/index.html) de 2001).
 - R project en Bossie Awards ([url](https://www.infoworld.com/article/3228150/analytics/bossie-awards-2017-the-best-databases-and-analytics-tools.html#slide11)). 
 
+### 3. Programación de computadoras
+1. Programación de computadoras
+2. Desarrollo de software: análisis, diseño, programación, prueba y despliegue.
+3. Diagrama de flujo, pseudocódigo y codificación.
+4. Tareas y prácticas:
+5. *Tarea 3.1. Desarrollo de software*. (Entrega: 23 de agosto de 2021).
+- *Objetivo*: Comprender los conceptos básicos de desarrollo de software.
+- *Parte 1*. Investigue los conceptos básicos de programación de software: *archivo*, *software* ([guía](https://www.youtube.com/watch?v=qfLSn6pCRZ4&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=17)), *programa*, *aplicación* (*app*), *código*, *código fuente*, *archivo de texto plano*, *interpretar código fuente*, *compilar código fuente*, *archivo binario*, *código binario*, *código objeto*, *archivo executable*, *código executable*, *codificar* o *escribir software*, *programar una computadora*, *desarrollar software*, *ejecutar software* y *copiar software*, *software como herramienta*. 
+- Busque la definición y simplifíquela con una frase corta y acompañe la definición con un par de ejemplos. (Entregable 1).
+- *Parte 2*. Estudie los videos necesarios en el video [Aprende a programar en 11 minutos](https://www.youtube.com/watch?v=TAyyujKoY6k). Saque su conclusiones. (Entregable).
+- Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable 3) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+6. *Práctica 3.2. Instalación de software de desarrollo*. (Demostrativa).
+- *Objetivo*: Instalar PSeInt para aprender los conceptos básicos de programación de computadoras.
+-  Descargue e instale [PseInt](http://pseint.sourceforge.net/index.php?page=portada.php) ([guía rápida](http://pseint.sourceforge.net/slide/pseint.html), [descarga](http://pseint.sourceforge.net/index.php?page=descargas.php)).
+7. *Práctica 3.3. Programación Parte 1: Control básico, condicionales y ciclos*. (Demostrativa).
+- *Objetivo*: Aprender las estructuras de control, las condicionales y los ciclos en la programación de computadoras.
+- Estudie los videos necesarios en el *[Curso de PseInt de cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw)*, para cumplir el objetivo e identifique los conceptos estudiados.
+- Tome notas a mano en su cuaderno y practique los ejercicios del video en PseInt.
+- Saque sus conclusiones y expóngalas en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+8. *Práctica 3.4. Programación Parte 2: Diagramas de flujo*. (Demostrativa).
+- *Objetivo*: Aprender los diagramas de flujo y el pseudocódigo como dos formas complementarias de la programación de computadoras.
+- Estudie los videos necesarios en el *[Curso de PseInt de cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw)*, para cumplir el objetivo e identifique los conceptos estudiados.
+- Tome notas a mano en su cuaderno y practique los ejercicios del video en PseInt.
+- Saque sus conclusiones y expóngalas en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+9. *Práctica 3.5. Programación Parte 3: Contadores, arreglos y estructuras de datos*. (Entrega: 21 de abril de 2021).
+- *Objetivo*: Aprender sobre los contadores, arreglos y otras estructuras de datos para la programación de computadoras.
+- Estudie los videos necesarios en el *[Curso de PseInt de cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw)*, para cumplir el objetivo e identifique los conceptos estudiados.
+- Tome notas a mano en su cuaderno y practique los ejercicios del video en PseInt.
+- Saque sus conclusiones y expóngalas en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+10. *Práctica 3.6. Programación Parte 4: Funciones*. (Demostrativa).
+- *Objetivo*: Aprender el concepto de subrutina o función en la programación de computadoras.
+- Estudie los videos necesarios en el *[Curso de PseInt de cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw)*, para cumplir el objetivo e identifique los conceptos estudiados.
+- Tome notas a mano en su cuaderno y practique los ejercicios del video en PseInt.
+- Saque sus conclusiones y expóngalas en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+11. *Tarea 3.7. Ejercicios programación de algoritmos*. (Entrega: 26 de abril de 2021). 
+Ponga a prueba los conceptos aprendidos. De acuerdo a su número de lista (que se envió al grupo de Telegram), realicen los ejercicios de la lectura 2.2. que le correspondan: 
+*Lista 1*: Ejercicios: 45, 26; *2*: 39, 9; *3*: 36, 33; 4 : 24, 11; *5*: 17, 39; *6*: 28, 15; *7*: 38, 41; *8*: 36, 8; *9*: 17, 37; *10*: 23, 35; *11*: 43, 43; *12*: 36, 8; *13*: 17, 10; *14*: 33, 43; *15*: 25, 25; *16*: 45, 44; *17* : 42, 11; *18*: 38, 32; *19*: 18, 44; *20*: 9, 25; *Lista 1 y 2*: 25, 47; *3 y 4*: 25, 37; *5 y 6*: 36, 32; *7 y 8*: 26, 39; *9 y 10*: 9, 36; *11 y 12*: 33, 24; *13 y 14*: 11, 17; 15 y 16 : 39, 28; *17 y 18*: 15, 38; *19 y 20*: 41, 36.
+- Cada ejercicio debe crearse en un archivo con el nombre del número de algoritmo y el título del algorimo. Por ejemplo, para el primer algoritmo llamado "Promedio", le correpondería el nombre de *01. Promedio.psc*. 
+- Modifique el pseudocódigo propuesto por el autor, de acuerdo a las reglas de PseInt configuradas anteriormente. Modifique el algoritmo de acuerdo a la estructura del algoritmo aprendida. Ingrese los datos con la ayuda suficiente para manejar los errores de captura de datos. Haga los cálculos de manera correcta y genere la salida respectiva. Modifique el algoritmo para que se ejecute de manera iterativa y termine de manera elegante. Por último, incluya los comentarios respectivos en cada parte y los datos para identificarlo a usted como su autor y la referencia bibliográfica original. Cada algoritmo debe ser probado como correcto.
+- Guarde el pseudocódigo del algoritmo (en formato *psc*) y el diagrama de flujo (como imagen) y suba sus archivos a su cuenta de Google Drive en el diretorio respectivo de la tarea y comparta el link con el profesor.
+#### Bibliografía Obligatoria:
+- Alva Majo. (2018, Jul 11). [Aprende a programar en 11 minutos](https://www.youtube.com/watch?v=TAyyujKoY6k). *YouTube* [video] (12:32 min). (*Lectura 2.1.*)
+- Rodríguez Hernández, M. et al (s.f.). Recopilación de algoritmos. [mimeo]. ([url](https://es.slideshare.net/andresrivero73345/algoritmos-50-ejemplos-1)). ([url](https://drive.google.com/file/d/1TE1LSUDEm4Ue7d-0GGvfrEQG4NWoa29p/view?usp=sharing)). (*Lectura 2.2*).
+- JhonvaCode. (2018, Jan 14) [Curso de PSeint de cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw). *YouTube*. (7 videos). (*Lectura 2.3*).
+#### Bibliografía Complementaria:
+- Tecno Hobbies. (2018, Jan 11). [Curso de Pseint 2018](https://www.youtube.com/playlist?list=PLwOemaB2t99ZEIKLeoxdz91F9AKC-vkK7). *YouTube* (31 videos). 
+- Novara, P. (2019). PSeInt [software] ([url](http://pseint.sourceforge.net/index.php?page=portada.php)). ([guía rápida](http://pseint.sourceforge.net/slide/pseint.html)). ([descargar](http://pseint.sourceforge.net/index.php?page=actualizacion.php)).
+- Tecno Hobbies. (2018, Jan 11). [Curso de Pseint 2018](https://www.youtube.com/playlist?list=PLwOemaB2t99ZEIKLeoxdz91F9AKC-vkK7). *YouTube*. (31 videos).
+- Pasos por ingeniería. (2016, Jul 14). [Algoritmos](https://www.youtube.com/watch?list=PL46-B5QR6sHm_qTw3tet7XHynE8bEucoa). *YouTube* (8 videos).
+- Pasos por ingeniería. (2016, Jul 14). [¿Qué es un algoritmo? (Definición, características, tipos y variables)](https://www.youtube.com/watch?v=Tu9OQSff-gw). *YouTube* (video) (3:26 min).
+- Unicode. [sitio web]. ([url](https://home.unicode.org/)). ([charts](http://www.unicode.org/charts/)).
+- DW Documental (2019, Sep 26). [¿De qué es capaz la inteligencia artificial?](https://www.youtube.com/watch?v=34Kz-PP_X7c). *YouTube* (video) (42:35 min).
+- Glez, R. (2017, Jul 29). [Mi vida es un algoritmo](https://www.youtube.com/watch?v=MiaLpkV8JyM). *YouTube* (video) (58:15 min).
+- BBC Newsbeat. (2014, Sep 4). [Por qué vale la pena aprender a programar... ¡nunca es tarde!](http://www.bbc.com/mundo/noticias/2014/09/140904_tecnologia_lenguaje_programacion_finde_yv). *BBC Mundo*.
 
