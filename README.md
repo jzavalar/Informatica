@@ -419,34 +419,32 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 3. Hoja de cálculo
 4. Base de datos
 5. Prácticas
-6. *Práctica 4.1. Editor de textos* 
-- Concepto y funcionamiento de un editor de textos y desarrollar las habilidades de edición profesional. - Usar estilo APA. Sugerencia: Usar plantilla para tesis.
-- DB libros para ejercicio de combinar correspondencia.
-7. *Práctica 4.2. Presentaciones*
-- Concepto y funcionamiento de una presentación y aplicar los principios de Reynolds (2011) para elaborar una presentación profesional. Sugerencia: Usar plantilla. 
-8. Práctica 4.3. Tablas dinámicas con hoja de cálculo. (Entrega: 02 de octubre de 2021). 
-Objetivo: Practicar la creación de tablas dinámicas para la resolución de preguntas cuantitativas a una base de datos.
-Parte 1. Desde el sitio web del Inegi, del Censo Nacional de Población y Vivienda del INEGI (url), descargue el Cuestionario Básico (pdf), la Descripción de la Base de Datos  (xls), una muestra de la base de datos (url), la Síntesis Metodológica y Conceptual (pdf) y el Cuestionario Ampliado (pdf); y, de la pestaña Microdatos, descargue la muestra de la Base de Datos de Personas (dbf en zip), Base de Datos de Viviendas (dbf en zip) y el Catálogo de la Integración General de Localidades (CIGEL) (dbf en zip) y los demàs catálogos. También descargue el archivo DUMMY_PERSONAS_5K.dbf.zip, que es una muestra muy pequeña de la base de datos, para realizar el ejercicio desde aquí.
-Parte 2. En primer lugar, utilice Calc de LibreOffice (ayuda html) para abrir el archivo disponible del Inegi en el formato DBF y expórtelo a cualquier otro como XLSX, XLS o CSV.
-Parte 3. En segundo lugar, utilice el paquete rio en RStudio para abrir (importar / exportar) y convertir alguno de los archivos en los formatos disponibles del Inegi: DBF, SAS, SAV, DTA a cualquier otro como XLSX, XLS o CSV. Básese en este script y adáptelo a su caso particular hasta que le funcione correctamente.
-Parte 4. Practique la consulta multidimensional de datos con la pequeña muestra de la base de datos descargada en la Parte 1 (DUMMY_PERSONAS_5K.dbf). Luego, revise la metodología y la solución en Google Sheets (Google Drive) aquí y haga lo equivalente en Excel (Microsoft Office) y Calc (LibreOffice). Tome como base la siguiente pregunta:
-¿Cuántos jefes de familia hay en la base de datos que son estudiantes y son menores de edad? y            
-¿Cuál es su distribución por edad y sexo?
-Tip: Si bien, este problema puede resolverse aplicado filtros de manera consecutiva, también puede resolverse realizando una consulta a la base de datos mediante una tabla dinámica.
-Parte 5. Complementariamente, repita el ejercicio de la creación de un tablero de control dinámico (Dashboard) del video de Max (2019, Jul 20). Cómo crear un Dashboard interactivo en Excel en menos de 10 min!  (14:33 min). Descargue los datos aquí.
-Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
-Práctica 4.4. Base de datos geográfica.   (Opcional).
-Objetivo: Crear un sistema integrado de bases de datos geográficas con PostgreSQL, R y QGIS.
-Parte 1. Instale PostgreSQL, Stack  Builder y PostGIS (url), pgAdmin 4 (url) en Windows (guía) y QGIS (guía).  
-Parte 2. Cree un usuario del servidor PostgreSQL y conéctese (guía). 
-Parte 3. Descargue los archivos de la base de datos geográfica (url) (tutorial PostGIS). Cree una base de datos espacial (guía). 
-Parte 4. Use la aplicación shp2pgsql para importar los archivos shapefiles (guía 1, guia 2) (si después de instalar PostGIS (en Windows), ocurre un error por la falta del archivo libsqlite3-0.dll, éste debe descargarse y copiarse al directorio base de la aplicación desde aquí, por ejemplo, la versión 64 bits). 
-Parte 5. Conéctese a la base de datos desde RStudio y pruebe R con la base de datos (guía). 
-Parte 6. Conéctese a la base de datos con QGiS, despliegue el mapa (guía). 
-Parte 7. Respalde la base de datos (guía).
-Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito o pruebe algún tutorial.
-Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
-
+6. *Práctica 4.1. Editor de textos* (Entrega: Fecha por definir)
+- Concepto y funcionamiento de un editor de textos y desarrollar las habilidades de edición profesional. - Usar estilo APA. Sugerencia: Usar [plantilla para tesis](https://drive.google.com/file/d/0B8yPXE-mYJ1wZkhtVDRNRjNLeW8/view?usp=sharing).
+- [DB libros](https://drive.google.com/file/d/1tirAfY-27e_Ae9I3BvNiIBNfm20Ev4Tz/view?usp=sharing) para ejercicio de combinar correspondencia.
+7. *Práctica 4.2. Presentaciones* (Entrega: Fecha por definir)
+- Concepto y funcionamiento de una presentación y aplicar los principios de [Reynolds (2011)]() para elaborar una presentación profesional. Sugerencia: Usar [plantilla](https://drive.google.com/file/d/0B8yPXE-mYJ1wckFFZzZBUWVhRWs/view?usp=sharing). 
+8. *Práctica 4.3. Tablas dinámicas con hoja de cálculo*. (Entrega: por definir). 
+- *Objetivo*: Practicar la creación de tablas dinámicas para la resolución de preguntas cuantitativas a una base de datos.
+- *Parte 1*. Desde el sitio web del Inegi, del [Censo Nacional de Población y Vivienda del INEGI](https://www.inegi.org.mx/programas/ccpv/2010/), descargue el [Cuestionario Básico](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cpv2010_cuest_basico_d.pdf), la [Descripción de la Base de Datos](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/diccionario_cuestionario_basico.xls), una [muestra de la base de datos](https://www.inegi.org.mx/programas/ccpv/2010/), la [Síntesis Metodológica y Conceptual](http://internet.contenidos.inegi.org.mx/contenidos/Productos/prod_serv/contenidos/espanol/bvinegi/productos/metodologias/est/sm_cpv2010.pdf) y el [Cuestionario Ampliado](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cpv2010_cuest_ampliado_d.pdf); y, de la pestaña [Microdatos](https://www.inegi.org.mx/programas/ccpv/2010/#Microdatos), descargue la muestra de la Base de Datos de Personas ([dbf en zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/microdatos/ejemplobd/dummy_personas_cpv2010_dbf.zip)), Base de Datos de Viviendas ([dbf en zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/microdatos/ejemplobd/dummy_viviendas_cpv2010_dbf.zip)) y el Catálogo de la Integración General de Localidades (CIGEL) ([dbf en zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cigel_2010_hab_dbf.zip)) y los demás catálogos. También descargue el archivo [DUMMY_PERSONAS_5K.dbf.zip](https://drive.google.com/file/d/1TNXXZZQ9GEJKU8UD-YyuklF4a1E8w_0b/view?usp=sharing), que es una muestra muy pequeña de la base de datos, para realizar el ejercicio.
+- *Parte 2*. En primer lugar, utilice *Calc* de *LibreOffice* ([ayuda](https://help.libreoffice.org/Calc/Importing_and_Exporting_dBASE_Files/es)) para abrir el archivo disponible del Inegi en el formato DBF y expórtelo a cualquier otro como XLSX, XLS o CSV.
+- *Parte 3*. En segundo lugar, utilice el paquete [rio](https://cran.r-project.org/web/packages/rio/) en [RStudio](https://rstudio.com/) para abrir (importar / exportar) y convertir alguno de los archivos en los formatos disponibles del Inegi: DBF, SAS, SAV, DTA a cualquier otro como XLSX, XLS o CSV. Básese en [este script](https://drive.google.com/file/d/15W7CjN2TmjFo5OSXbbftaWCwm8DagNWo/view?usp=sharing) y adáptelo a su caso particular hasta que le funcione correctamente.
+- *Parte 4*. Practique la consulta multidimensional de datos con la pequeña muestra de la base de datos descargada en la Parte 1 (DUMMY_PERSONAS_5K.dbf). Luego, revise la metodología y la solución en Google Sheets (Google Drive) [aquí](https://drive.google.com/file/d/1Uqu6m_Fv1AqR5Nf8H_8JbffWmr_L01si/view?usp=sharing) y haga lo equivalente en Excel (Microsoft Office) y Calc (LibreOffice). Tome como base la siguiente pregunta:
+- *¿Cuántos jefes de familia hay en la base de datos que son estudiantes y son menores de edad?* y *¿Cuál es su distribución por edad y sexo?*
+- *Tip*: Si bien, este problema puede resolverse aplicado filtros de manera consecutiva, también puede resolverse realizando una consulta a la base de datos mediante una tabla dinámica.
+- *Parte 5*. Complementariamente, repita el ejercicio de la creación de un tablero de control dinámico (*Dashboard*) del video [Cómo crear un Dashboard interactivo en Excel en menos de 10 min!](https://www.youtube.com/watch?v=Oanr41Tz28U) (14:33 min). Descargue los datos [aquí](https://www.consultaconmax.com/s/20190711_Dashboard.xlsx).
+- Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+9. *Práctica 4.4. Base de datos geográfica*. (Opcional).
+- *Objetivo*: Crear un sistema integrado de bases de datos geográficas con PostgreSQL, R y QGIS.
+- *Parte 1*. Instale [PostgreSQL](https://www.postgresql.org/), [Stack Builder](https://www.enterprisedb.com/edb-docs/d/postgresql/installation-getting-started/installation-guide-installers/11/PostgreSQL_Installation_Guide.1.09.html) y [PostGIS](https://www.postgis.net/) ([url](https://www.postgresql.org/download/windows/)), [pgAdmin 4](https://www.pgadmin.org/) ([url]()) en Windows ([guía](https://www.youtube.com/watch?v=bq9dOrwZ-KA)) y QGIS ([guía](https://www.youtube.com/watch?v=PG3Xmt3S9Ac)).
+- *Parte 2*. Cree un usuario del servidor *PostgreSQL* y conéctese ([guía](https://www.youtube.com/watch?v=jxIEDKzGrOs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=1)).
+- *Parte 3*. Descargue los archivos de la base de datos geográfica ([url](http://s3.cleverelephant.ca/postgis-workshop-2018.zip)) ([tutorial PostGIS](https://postgis.net/workshops/postgis-intro/)). Cree una base de datos espacial ([guía](https://www.youtube.com/watch?v=UtiIY39qmhg)). 
+- *Parte 4*. Use la aplicación *shp2pgsql* para importar los archivos shapefiles ([guía 1](https://postgis.net/workshops/postgis-intro/loading_data.html), [guia 2](https://www.youtube.com/watch?v=N_GvAi5RitM)) (si después de instalar PostGIS (en Windows), ocurre un error por la falta del archivo libsqlite3-0.dll, éste debe descargarse y copiarse al directorio base de la aplicación desde [aquí](https://www.pconlife.com/download/otherfile/35257/d56eb0e10349ffd8a57efb66d452d3a2/), por ejemplo, la [versión 64 bits](https://www.pconlife.com/download/otherfile/35257/d56eb0e10349ffd8a57efb66d452d3a2/)).
+- *Parte 5*. Conéctese a la base de datos desde RStudio y pruebe R con la base de datos ([guía](https://www.youtube.com/watch?v=-F5SpGhnNG8)).
+- *Parte 6*. Conéctese a la base de datos con *QGiS*, despliegue el mapa ([guía](https://www.youtube.com/watch?v=NYKHlSd932c)). 
+- *Parte 7*. Respalde la base de datos ([guía](https://www.youtube.com/watch?v=icEvkyIXqug&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=66&t=0s)).
+- Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito o pruebe algún tutorial.
+- Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
 
 
 ### Proyecto de fin de curso: 
