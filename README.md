@@ -17,6 +17,7 @@
 - Correo electrónico: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)
 - Telegram: <img src="https://github.com/jzavalar/2211088-informatica/blob/main/telegram_logo.svg" alt="Telegram" width="3%"/> [@jzavalar](https://telegram.me/jzavalar)
 
+
 ### Introducción
 
 Hoy en día, ante lo ubícuo de las computadoras, casi olvidamos que un día, hace un poco más de medio siglo, las computadoras eran humanas y femeninas (Light, 1999). Entonces se les llamaba *calculistas o calculadoras* y eran las más brillantes matemáticas y tu trabajo era secreto. Así lo documentó LeAnn Erickson (2010) en su película *Top Secret Rosies: The Female Computers of WWII* y Theodore Melfi (2016) en la película *Talentos Ocultos* (*Hidden Figures*). Hoy tenemos computadoras hasta en la cocina, en la forma de componentes electrónicos inteligentes, pero su principal uso sigue siendo militar, científico, gubernamental y de negocios. La masificación de las computadoras llegó con los dispositivos móviles: las tablets y los teléfonos celulares inteligentes (smartphones).
@@ -34,7 +35,7 @@ Esta UEA pretende proporcionar las bases para que los alumnos pierdan el miedo a
 [Calendario UAM vigente](http://www.uam.mx/calendario/index.html).
 
 Citas:
-- Lifght, J. S. (1999). [When computers were women](http://pcfly.info/doc/Computers/18.pdf). *Technology and Culture, 40*(3), 455-483.
+Lifght, J. S. (1999). [When computers were women](http://pcfly.info/doc/Computers/18.pdf). *Technology and Culture, 40*(3), 455-483.
 
 
 ### Objetivo
@@ -61,65 +62,92 @@ Que al finalizar el curso el alumno sea capaz de:
 4. Acceso a nueva plataforma de [Virtuami](http://virtuami.izt.uam.mx/aulas/apresencial2)
  
 5. *Práctica 0.1: Bases de trabajo colaborativo con Google Drive* (Demostrativa online).
+    
+    *Objetivo*: Aprender las operaciones con archivos y directorios en Google Drive, como un ejemplo de plataformas de cómputo en la nube.
 
-- *Objetivo*: Aprender las operaciones con archivos y directorios en Google Drive, como un ejemplo de plataformas de cómputo en la nube.
-
-- Cree la estructura de directorios en [Google Drive](https://drive.google.com/drive/my-drive) para la entrega de controles de lectura, prácticas y proyecto final de acuerdo a un sistema de organización de archivos ([guía](https://www.youtube.com/watch?v=duNwB8xt2_w)). ([tutorial](https://www.youtube.com/watch?v=I3jii6ltINY&frags=pl%2Cwn)).
+    Cree la estructura de directorios en [Google Drive](https://drive.google.com/drive/my-drive) para la entrega de controles de lectura, prácticas y proyecto final de acuerdo a un sistema de organización de archivos ([guía](https://www.youtube.com/watch?v=duNwB8xt2_w)). ([tutorial](https://www.youtube.com/watch?v=I3jii6ltINY&frags=pl%2Cwn)).
 
 6. *Práctica 0.2: Uso de sistemas de videoconferencia* (Demostrativa online con Google Meet y en casa por parejas).
 
-- *Objetivo*: Aprender el uso de varias plataformas de videoconferencia.
+    *Objetivo*: Aprender el uso de varias plataformas de videoconferencia.
 
-- Después de la práctica demostrativa, debe aprender a programar una videoconferencia y usar cada unas de las distintas plataformas ([Google Meet](https://meet.google.com/), [Skype](https://www.skype.com/es/), [Zoom](https://zoom.us/), [Jitsi Meet](https://jitsi.org/) ([en línea](https://meet.jit.si/))). Dé por concluida la práctica cuando haya cumplido el objetivo.
-- Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito.
+    Después de la práctica demostrativa, debe aprender a programar una videoconferencia y usar cada unas de las distintas plataformas ([Google Meet](https://meet.google.com/), [Skype](https://www.skype.com/es/), [Zoom](https://zoom.us/), [Jitsi Meet](https://jitsi.org/) ([en línea](https://meet.jit.si/))). Dé por concluida la práctica cuando haya cumplido el objetivo.
+
+    Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito.
 
 7. *Práctica 0.3: Instalación de software para grabación de audio y video* (Demostrativa online y en casa, por parejas).
 
-- *Objetivo*: Aprender a descargar e instalar un software para grabar video y una para audio y aprender a buscar tutoriales en YouTube para utilizarlo.
+    *Objetivo*: Aprender a descargar e instalar un software para grabar video y una para audio y aprender a buscar tutoriales en YouTube para utilizarlo.
 
-- *Parte 1*. Instale [vokoScreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen-download.html) ([guía]()). Primero instale los prerrequisitos (vea [aquí](https://github.com/vkohaupt/vokoscreenNG): [codec pack](https://www.windows10codecpack.com/) y [GStreamer](https://gstreamer.freedesktop.org/pkg/windows/1.14.4/gstreamer-1.0-x86-1.14.4.msi); alternativamente, puede usar estos [codecs](https://codecguide.com/download_kl.htm)). Luego, instale Vokoscreen-NG con el [instalador](https://linuxecke.volkoh.de/vokoscreen/vokoscreen-download.html) y listo, a documentar las prácticas ([video](https://www.youtube.com/watch?v=HlaGAIOcIL8)). Grabe su pantalla y capture la toma de la cámara y hable sobre las expectativas que tiene del curso usando el software. Puede agregar algún fondo musical. Alternativamente, puede usar Open Broadcaster Software ([OBS Studio](https://obsproject.com/es)) (grabación, edición y transmisión de video) ([tutorial](https://www.youtube.com/watch?v=qLuSrSiC9Xc)), si los recursos de su computadora lo permiten. Se sugiere que primero haga las prácticas y luego las repita para documentarlas.
-- *Parte 2*. Instale [Audacity](http://www.audacityteam.org/) (grabación y edición de audio) ([tutorial](https://www.youtube.com/watch?v=zRMNUMWguTw)). Grabar un podcast sobre su experiencia en esta práctica mediante Audacity.
-- *Parte 3*. Opcionalmente, saque sus cuentas en [YouTube](https://www.youtube.com/), [Facebook](https://es-la.facebook.com/) y [Restream](https://restream.io/) (retransmisión de video) para hacer una multitransmisión usando Vokoscreen u OBS Studio ([tutorial](https://www.youtube.com/watch?v=vT3p9fuMMCI)). Establezca una videoconferencia con un compañero de grupo y trabajen de manera simultánea para hacer una transmisión multimedia sobre la experiencia de la práctica usando Google Meet, OBS y Restream (ver [guía](https://www.youtube.com/watch?v=vT3p9fuMMCI)). Si requiere, utilice esta guía para unir varios videos en uno solo usando VLC ([tutorial](https://www.tuexperto.com/2020/02/10/como-unir-videos-en-uno-solo-con-vlc-media-player/)). Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito.
-- Al terminar suba sus videos y su audio a su Google Drive donde corresponda, según la estructura de directorios de la Práctica 0.1.
+    *Parte 1*. Instale [vokoScreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen-download.html) ([guía]()). Primero instale los prerrequisitos (vea [aquí](https://github.com/vkohaupt/vokoscreenNG): [codec pack](https://www.windows10codecpack.com/) y [GStreamer](https://gstreamer.freedesktop.org/pkg/windows/1.14.4/gstreamer-1.0-x86-1.14.4.msi); alternativamente, puede usar estos [codecs](https://codecguide.com/download_kl.htm)).
+    Luego, instale Vokoscreen-NG con el [instalador](https://linuxecke.volkoh.de/vokoscreen/vokoscreen-download.html) y listo, a documentar las prácticas ([video](https://www.youtube.com/watch?v=HlaGAIOcIL8)).
+    Grabe su pantalla y capture la toma de la cámara y hable sobre las expectativas que tiene del curso usando el software. Puede agregar algún fondo musical.
+    Alternativamente, puede usar Open Broadcaster Software ([OBS Studio](https://obsproject.com/es)) (grabación, edición y transmisión de video) ([tutorial](https://www.youtube.com/watch?v=qLuSrSiC9Xc)), si los recursos de su computadora lo permiten.
+    Se sugiere que primero haga las prácticas y luego las repita para documentarlas.
+    
+    *Parte 2*. Instale [Audacity](http://www.audacityteam.org/) (grabación y edición de audio) ([tutorial](https://www.youtube.com/watch?v=zRMNUMWguTw)). Grabar un podcast sobre su experiencia en esta práctica mediante Audacity.
+    
+    *Parte 3*. Opcionalmente, saque sus cuentas en [YouTube](https://www.youtube.com/), [Facebook](https://es-la.facebook.com/) y [Restream](https://restream.io/) (retransmisión de video) para hacer una multitransmisión usando Vokoscreen u OBS Studio ([tutorial](https://www.youtube.com/watch?v=vT3p9fuMMCI)).
+    Establezca una videoconferencia con un compañero de grupo y trabajen de manera simultánea para hacer una transmisión multimedia sobre la experiencia de la práctica usando Google Meet, OBS y Restream (ver [guía](https://www.youtube.com/watch?v=vT3p9fuMMCI)). Si requiere, utilice esta guía para unir varios videos en uno solo usando VLC ([tutorial](https://www.tuexperto.com/2020/02/10/como-unir-videos-en-uno-solo-con-vlc-media-player/)).
+    Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito.
+    
+    Al terminar suba sus videos y su audio a su Google Drive donde corresponda, según la estructura de directorios de la Práctica 0.1.
 
 8. *Práctica 0.4: Instalación de PortableApps* (Demostrativa online y en casa).
 
-- *Objetivo*: Aprender a descargar e instalar aplicaciones portables en una USB.
+    *Objetivo*: Aprender a descargar e instalar aplicaciones portables en una USB.
 
-- Para la práctica requiere una USB de por lo menos 4 Gb, misma que utilizará para varias prácticas posteriores.
-- Descargue e instale [PortableApps](https://portableapps.com/) ([tutorial 1](https://www.youtube.com/watch?v=Ux_3p4lDmTg), [tutorial 2](https://www.youtube.com/watch?v=Ux_3p4lDmTg)) en su USB vacía. (N. B: Desactive su antivirus para realizar la práctica y usar PoprtableApps. [guía](https://www.youtube.com/watch?v=HDEhLpS7UwM))
-- Luego, descargue e instale [Firefox](https://portableapps.com/apps/internet/qbittorrent_portable) desde PortableApps ([tutorial](https://www.youtube.com/watch?v=zzq2kDEsiAs)) o localícela y descárguela desde la [lista de aplicaciones](https://portableapps.com/apps). En seguida, instale el plugin de bloqueo de publicidad, por ejemplo Ghostery y otros ([tutorial](https://www.youtube.com/watch?v=g3Dw_7085r8)).
-- Luego, descargue e instale [qBittorrent](https://portableapps.com/apps/internet/qbittorrent_portable) desde PortableApps ([tutorial 1](https://www.youtube.com/watch?v=cSLPdMyzIAw)) ([tutorial 2](https://www.youtube.com/watch?v=zzq2kDEsiAs)). En seguida, instale el buscador e instale Python si lo requiere. Luego, instale los plugins de búsqueda ([tutorial 1](https://www.youtube.com/watch?v=WZ4LlVr7VrE), [tutorial2](https://www.youtube.com/watch?v=rhZsV9lFgIg)). Configure lo necesario (tutorial). (¿Cómo funciona una red P2P? Lee el [reportaje](https://computerhoy.com/reportajes/tecnologia/p2p-que-es-489221)).
-- Entregue reporte de la práctica elaborando un video narrando lo que muestra el video. 
-- Suba su archivo a su cuenta de Google Drive, en la carpeta respectiva, con el nombre de la práctica.
+    Para la práctica requiere una USB de por lo menos 4 Gb, misma que utilizará para varias prácticas posteriores.
+    
+    Descargue e instale [PortableApps](https://portableapps.com/) ([tutorial 1](https://www.youtube.com/watch?v=Ux_3p4lDmTg), [tutorial 2](https://www.youtube.com/watch?v=Ux_3p4lDmTg)) en su USB vacía. (N. B: Desactive su antivirus para realizar la práctica y usar PoprtableApps. [guía](https://www.youtube.com/watch?v=HDEhLpS7UwM))
+
+    Luego, descargue e instale [Firefox](https://portableapps.com/apps/internet/qbittorrent_portable) desde PortableApps ([tutorial](https://www.youtube.com/watch?v=zzq2kDEsiAs)) o localícela y descárguela desde la [lista de aplicaciones](https://portableapps.com/apps). En seguida, instale el plugin de bloqueo de publicidad, por ejemplo Ghostery y otros ([tutorial](https://www.youtube.com/watch?v=g3Dw_7085r8)).
+
+    Luego, descargue e instale [qBittorrent](https://portableapps.com/apps/internet/qbittorrent_portable) desde PortableApps ([tutorial 1](https://www.youtube.com/watch?v=cSLPdMyzIAw)) ([tutorial 2](https://www.youtube.com/watch?v=zzq2kDEsiAs)). En seguida, instale el buscador e instale Python si lo requiere. Luego, instale los plugins de búsqueda ([tutorial 1](https://www.youtube.com/watch?v=WZ4LlVr7VrE), [tutorial2](https://www.youtube.com/watch?v=rhZsV9lFgIg)). Configure lo necesario (tutorial). 
+    
+    (¿Cómo funciona una red P2P? Lee el [reportaje](https://computerhoy.com/reportajes/tecnologia/p2p-que-es-489221)).
+    
+    Entregue reporte de la práctica elaborando un video narrando lo que muestra el video. 
+    
+    Suba su archivo a su cuenta de Google Drive, en la carpeta respectiva, con el nombre de la práctica.
 
 9. *Práctica 0.5: Instalación de un sistema operativo Windows en una USB*.
 
-- *Objetivo*: Aprender a descargar e instalar un sistema operativo Windows en una USB, para corregir problemas en su computadora, como recatar información u otras tareas de mantenimiento.
+    *Objetivo*: Aprender a descargar e instalar un sistema operativo Windows en una USB, para corregir problemas en su computadora, como recatar información u otras tareas de mantenimiento.
 
-- Como prerrequisito, debe completar la práctica anterior.
-- Abra qBittorrent. Mediante la pestaña de búsqueda localice la imagen ISO del sistema operativo Windows usando la frase "Active Boot Disk 10" ([tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)). Identifique la entrada que tiene más semillas (seeds) y descárguela o agregue el torrent a qBittorrent desde [aquí](https://limetor.com/Active-Boot-Disk-Suite-10-1-0-Modified-Edition-Feb-2015-%28ISO%29--%20Core-X%20-%20%20FRG%20-torrent-7452833.html). Identifique dónde descargó el archivo ISO.
-- Posteriormente, descargue Yumi y prepare su USB con la o las imágenes ISO de los sistemas operativos que desea usar. ([guía 1](https://www.youtube.com/watch?v=ign9oxL7qp8), [guía 2](https://www.youtube.com/watch?v=xcwlf8XW-ug)).
+    Como prerrequisito, debe completar la práctica anterior.
+
+    Abra qBittorrent. Mediante la pestaña de búsqueda localice la imagen ISO del sistema operativo Windows usando la frase "Active Boot Disk 10" ([tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)). Identifique la entrada que tiene más semillas (seeds) y descárguela o agregue el torrent a qBittorrent desde [aquí](https://limetor.com/Active-Boot-Disk-Suite-10-1-0-Modified-Edition-Feb-2015-%28ISO%29--%20Core-X%20-%20%20FRG%20-torrent-7452833.html). Identifique dónde descargó el archivo ISO.
+
+    Posteriormente, descargue Yumi y prepare su USB con la o las imágenes ISO de los sistemas operativos que desea usar. ([guía 1](https://www.youtube.com/watch?v=ign9oxL7qp8), [guía 2](https://www.youtube.com/watch?v=xcwlf8XW-ug)).
 
 10. *Práctica 0.6: Recuperación de archivos.*
 
-- *Objetivo*: Aprender el uso de una herramienta de software para el mantenimiento de una computadora.
+    *Objetivo*: Aprender el uso de una herramienta de software para el mantenimiento de una computadora.
 
-- Como prerrequisito, debe completar la práctica anterior.
-- Rescate un par de archivos borrados a propósito utilizando Active Boot Disk ([tutorial](https://www.youtube.com/watch?v=sHMGRn_wWlc)) y explore las otras herramientas. 
-- Utilice el software de la práctica anterior.
+    Como prerrequisito, debe completar la práctica anterior.
+    
+    Rescate un par de archivos borrados a propósito utilizando Active Boot Disk ([tutorial](https://www.youtube.com/watch?v=sHMGRn_wWlc)) y explore las otras herramientas.
+    
+    Utilice el software de la práctica anterior.
 
 11. *Práctica 0.7: Instalación de software libre, abierto y privativo* (Demostrativa online y en casa).
 
-- *Objetivos*: Aprender a descargar, instalar software software software libre, abierto y privativo para Windows y aprender a buscar tutoriales en YouTube para utilizarlo.
-
-- Como prerrequisito debe completar la Práctica 0.3 para que pueda documentar la realización de esta práctica.
-- Busque en YouTube, los tutoriales que requiera para aprender a instalar el software.
-- *Parte 1*. Active su cuenta de [Office 365 Pro Plus](http://www.uam.mx/o365/) (software de oficina) e instale su copia de [Office Pro](http://www.uam.mx/ti/soft/microsoft.html) (software de oficina) (documente el proceso).
--*Parte 2*. Si tiene computadora en casa, descargue en instale el siguiente software: [7-zip](https://www.7-zip.org/download.html) (compresor/descompresor), [Calibre](https://calibre-ebook.com/) (administrador de libros electrónicos) (descargue, instale y convierta un libro de formato EPUB a FTP), CMapTools ([mapas conceptuales](https://cmap.ihmc.us/)) (haga un mapa mental clasificando el software de la práctica, según las categorías de clasificación de PortableApps), [Youtube-DLG](https://mrs0m30n3.github.io/youtube-dl-gui/) (descarga de videos) (descargue el video de su canción favorita), [qBittorrent](https://www.qbittorrent.org/) (compartición de archivos) (active el motor de búsqueda y, luego, localice y descargue la película [Top Secret Rosies](https://zooqle.com/pbs-top-secret-rosies-2010-x264-aac-hdtv-mvgroup-eztv-209f.html) usando el magnet link), [VirtualBox](https://www.virtualbox.org/) (Sistema de virtualización) (documente la instalación), [ClamWin](http://www.clamwin.com/) (antivirus), [LibreOffice](https://www.libreoffice.org/) (suite de oficina) (edite un documento PDF), [Firefox](https://www.mozilla.org/en-US/firefox/products/) (navegador web), [VLC](http://www.videolan.org/vlc/download-windows.html) (reproductor y convertidor de multimedia) (extraiga la música de un video), [R](https://www.r-project.org/) (estadística),[RStudio](https://www.rstudio.com/) (estadística) (instale el paquete rio, luego descargue un archivo del censo del Inegi en [DBF](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/microdatos/ejemplobd/dummy_personas_cpv2010_dbf.zip), descomprímalo con 7-zip y conviértalo a formato XLS). 
-Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (manipulador de imágenes reemplazo de Photoshop) e instale el [Batch Image Manipulation Plugin (BIMP)](https://alessandrofrancesconi.it/projects/bimp/) y cambie de tamaño o realice alguna otra operación masiva a las fotos de un folder), [Filezilla](https://filezilla-project.org/) (cliente SFTP) (versión [portable](https://portableapps.com/apps/internet/filezilla_portable)), [DjVu](http://djvu.org/links/) (altenativa a PDF) ([DjvuLibre](https://sourceforge.net/projects/djvu/) y [WinDjView](https://windjview.sourceforge.io/)) (visualizador de archivos DjVu) (Descargue un libro en formato DjVu y ábralo), [DjVuConverter](http://www.djvuconverter.com/) (convertidor de archivos de DjVu a PDF y a otros formatos) (convierta el libro DjVu), [PDFCreator](http://download.pdfforge.org/download/pdfcreator/PDFCreator-stable) (impresora virtual PDF) (imprima la página web del proyecto), [PDFsam](https://pdfsam.org/es/) (editor PDF) (modifique el archivo impreso como PDF) y [QGis](http://www.qgis.org/es/site/) (sistema de información geográfica) (Descargue una carta geográfica del [Inegi](https://www.inegi.org.mx/app/mapas/default.html?t=0000000000000000&ag=00) en formato shapefile (shp) y ábrala).
-- *Parte 3*. Descargue e instale el siguiente software portable en una USB: qBittorrent (compartición de archivos) ([portable](https://portableapps.com/apps/internet/qbittorrent_portable)), GIMP (manipulador de imágenes) ([portable](https://portableapps.com/apps/graphics_pictures/gimp_portable)), Firefox (navegador web) ([portable](https://portableapps.com/apps/internet/firefox_portable)), LibreOffice (suite de oficina) ([portable](https://portableapps.com/apps/office/libreoffice_portable)), VLC (reproductor y convertidor de multimedia) ([portable](https://portableapps.com/apps/music_video/vlc_portable)), 7-zip (compresor/descompresor) ([portable](https://portableapps.com/apps/utilities/7-zip_portable)), R (estadística) ([portable](https://sourceforge.net/projects/rportable/files/R-Portable/)) y RStudio (estadística) ([portable](https://sourceforge.net/projects/rportable/files/R-Studio/)).
-- *Parte 4*. Descargue e instale el siguiente software especializado: [Tor](https://www.torproject.org/download/) (navegador anónimo) (acceda a la red profunda ([tutorial](https://www.youtube.com/watch?v=ySQF1b5eOAo)), use [DuckDuckGo](https://duckduckgo.com/) para localizar [The Hidden Wiki](http://hiddenwwiqg2jb5s3wyvzxeipcl5ese2pa2cqnu6myi3d5bcmhmdagqd.onion/index.php/Main_Page).
+    *Objetivos*: Aprender a descargar, instalar software software software libre, abierto y privativo para Windows y aprender a buscar tutoriales en YouTube para utilizarlo.
+    
+    Como prerrequisito debe completar la Práctica 0.3 para que pueda documentar la realización de esta práctica.
+    
+    Busque en YouTube, los tutoriales que requiera para aprender a instalar el software.
+    
+    *Parte 1*. Active su cuenta de [Office 365 Pro Plus](http://www.uam.mx/o365/) (software de oficina) e instale su copia de [Office Pro](http://www.uam.mx/ti/soft/microsoft.html) (software de oficina) (documente el proceso).
+    
+    *Parte 2*. Si tiene computadora en casa, descargue en instale el siguiente software: [7-zip](https://www.7-zip.org/download.html) (compresor/descompresor), [Calibre](https://calibre-ebook.com/) (administrador de libros electrónicos) (descargue, instale y convierta un libro de formato EPUB a FTP), CMapTools ([mapas conceptuales](https://cmap.ihmc.us/)) (haga un mapa mental clasificando el software de la práctica, según las categorías de clasificación de PortableApps), [Youtube-DLG](https://mrs0m30n3.github.io/youtube-dl-gui/) (descarga de videos) (descargue el video de su canción favorita), [qBittorrent](https://www.qbittorrent.org/) (compartición de archivos) (active el motor de búsqueda y, luego, localice y descargue la película [Top Secret Rosies](https://zooqle.com/pbs-top-secret-rosies-2010-x264-aac-hdtv-mvgroup-eztv-209f.html) usando el magnet link), [VirtualBox](https://www.virtualbox.org/) (Sistema de virtualización) (documente la instalación), [ClamWin](http://www.clamwin.com/) (antivirus), [LibreOffice](https://www.libreoffice.org/) (suite de oficina) (edite un documento PDF), [Firefox](https://www.mozilla.org/en-US/firefox/products/) (navegador web), [VLC](http://www.videolan.org/vlc/download-windows.html) (reproductor y convertidor de multimedia) (extraiga la música de un video), [R](https://www.r-project.org/) (estadística),[RStudio](https://www.rstudio.com/) (estadística) (instale el paquete rio, luego descargue un archivo del censo del Inegi en [DBF](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/microdatos/ejemplobd/dummy_personas_cpv2010_dbf.zip), descomprímalo con 7-zip y conviértalo a formato XLS).
+    
+    Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (manipulador de imágenes reemplazo de Photoshop) e instale el [Batch Image Manipulation Plugin (BIMP)](https://alessandrofrancesconi.it/projects/bimp/) y cambie de tamaño o realice alguna otra operación masiva a las fotos de un folder), [Filezilla](https://filezilla-project.org/) (cliente SFTP) (versión [portable](https://portableapps.com/apps/internet/filezilla_portable)), [DjVu](http://djvu.org/links/) (altenativa a PDF) ([DjvuLibre](https://sourceforge.net/projects/djvu/) y [WinDjView](https://windjview.sourceforge.io/)) (visualizador de archivos DjVu) (Descargue un libro en formato DjVu y ábralo), [DjVuConverter](http://www.djvuconverter.com/) (convertidor de archivos de DjVu a PDF y a otros formatos) (convierta el libro DjVu), [PDFCreator](http://download.pdfforge.org/download/pdfcreator/PDFCreator-stable) (impresora virtual PDF) (imprima la página web del proyecto), [PDFsam](https://pdfsam.org/es/) (editor PDF) (modifique el archivo impreso como PDF) y [QGis](http://www.qgis.org/es/site/) (sistema de información geográfica) (Descargue una carta geográfica del [Inegi](https://www.inegi.org.mx/app/mapas/default.html?t=0000000000000000&ag=00) en formato shapefile (shp) y ábrala).
+    
+    *Parte 3*. Descargue e instale el siguiente software portable en una USB: qBittorrent (compartición de archivos) ([portable](https://portableapps.com/apps/internet/qbittorrent_portable)), GIMP (manipulador de imágenes) ([portable](https://portableapps.com/apps/graphics_pictures/gimp_portable)), Firefox (navegador web) ([portable](https://portableapps.com/apps/internet/firefox_portable)), LibreOffice (suite de oficina) ([portable](https://portableapps.com/apps/office/libreoffice_portable)), VLC (reproductor y convertidor de multimedia) ([portable](https://portableapps.com/apps/music_video/vlc_portable)), 7-zip (compresor/descompresor) ([portable](https://portableapps.com/apps/utilities/7-zip_portable)), R (estadística) ([portable](https://sourceforge.net/projects/rportable/files/R-Portable/)) y RStudio (estadística) ([portable](https://sourceforge.net/projects/rportable/files/R-Studio/)).
+    
+    *Parte 4*. Descargue e instale el siguiente software especializado: [Tor](https://www.torproject.org/download/) (navegador anónimo) (acceda a la red profunda ([tutorial](https://www.youtube.com/watch?v=ySQF1b5eOAo)), use [DuckDuckGo](https://duckduckgo.com/) para localizar [The Hidden Wiki](http://hiddenwwiqg2jb5s3wyvzxeipcl5ese2pa2cqnu6myi3d5bcmhmdagqd.onion/index.php/Main_Page).
 
 ##### *Bibliografía Complementaria:*
 
@@ -139,65 +167,87 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
  
 6. *Práctica 1.1. Partes de la computadora*. (Entrega: 15 de noviembre de 2021).
 
-- *Objetivo:* Identificar las partes de los varios tipos de computadoras modernas
-
-- Investigue e identifique las partes en una computadora de escritorio, una laptop, una tableta y un teléfono celular.
-- Haga un *collage* a mano en su cuaderno, identificando las partes de cada tipo de computadora, en una página para tipo.
-- Escanée la hoja o tome una foto de su tarea.
-- Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de *Telegram*.
-- Suba los archivos a su cuenta de *Google Drive*. 
+    *Objetivo:* Identificar las partes de los varios tipos de computadoras modernas
+    
+    Investigue e identifique las partes en una computadora de escritorio, una laptop, una tableta y un teléfono celular.
+    
+    Haga un *collage* a mano en su cuaderno, identificando las partes de cada tipo de computadora, en una página para tipo.
+    
+    Escanée la hoja o tome una foto de su tarea.
+    
+    Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de *Telegram*.
+    
+    Suba los archivos a su cuenta de *Google Drive*. 
 
 7. *Práctica 1.2. Funciones de la computadora*. (Entrega: 15 de noviembre de 2021).
 
-- *Objetivos*: Identificar las funciones básicas de una computadora, aprender a descargar videos con una herramienta de software y editar los subtítulos.
-
-- Descargue e instale *[YouTube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui/releases/download/0.4/youtube-dl-gui-0.4-win-portable.zip)* (versión portable) en una USB.
-- Luego, descargue los 6 videos de la *Lectura 1.1*, incluyendo los subtítulos en inglés y en español.
-- Modifique uno de los archivos de subtítulos para que aprenda cómo hacerlo. Pruebe el despliegue de los subtítulos con *[VLC](https://www.videolan.org/vlc/)*. 
-- Vea los seis videos e identifique los conceptos de la Unidad: Code.org (2018, Jan 30). [How computers work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). *YouTube*. (6 videos).
-- Haga un breve escrito a mano en su cuaderno, sobre *qué es una computadora digital*, sus partes (página vuelta) y sus *funciones* (página frente). Reflexione sobre el concepto de *Máquina de Turing* y las operaciones de lectura, escritura y ejecución de software. Tome fotografías de su tarea.
-- Documente en un video su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+    *Objetivos*: Identificar las funciones básicas de una computadora, aprender a descargar videos con una herramienta de software y editar los subtítulos.
+    
+    Descargue e instale *[YouTube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui/releases/download/0.4/youtube-dl-gui-0.4-win-portable.zip)* (versión portable) en una USB.
+    
+    Luego, descargue los 6 videos de la *Lectura 1.1*, incluyendo los subtítulos en inglés y en español.
+    
+    Modifique uno de los archivos de subtítulos para que aprenda cómo hacerlo. Pruebe el despliegue de los subtítulos con *[VLC](https://www.videolan.org/vlc/)*.
+    
+    Vea los seis videos e identifique los conceptos de la Unidad: Code.org (2018, Jan 30). [How computers work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). *YouTube*. (6 videos).
+    
+    Haga un breve escrito a mano en su cuaderno, sobre *qué es una computadora digital*, sus partes (página vuelta) y sus *funciones* (página frente). Reflexione sobre el concepto de *Máquina de Turing* y las operaciones de lectura, escritura y ejecución de software. Tome fotografías de su tarea.
+    
+    Documente en un video su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 8. *Tarea 1.3. Historia de la computación*. (Entrega: 17 de noviembre 2021).
 
-- *Objetivo*: Aprender una historia breve de la computación.
-
-- Descargue la lectura 1.2 (Zavala (2011) de la Bibliografía Obligatoria y elabore un resumen de la historia de las ciencias de la computación, con los conceptos y acontecimientos más importantes. Hágalo a mano, en su cuaderno, en un par de cuartillas. 
-- Documente en un video su experiencia en la realización de la actividad y escanée o tome una foto de su tarea. Comparta el video en el grupo de Telegram y suba los archivos a su cuenta de Google Drive donde corresponda.
+    *Objetivo*: Aprender una historia breve de la computación.
+    
+    Descargue la lectura 1.2 (Zavala (2011) de la Bibliografía Obligatoria y elabore un resumen de la historia de las ciencias de la computación, con los conceptos y acontecimientos más importantes. Hágalo a mano, en su cuaderno, en un par de cuartillas.
+    
+    Documente en un video su experiencia en la realización de la actividad y escanée o tome una foto de su tarea. Comparta el video en el grupo de Telegram y suba los archivos a su cuenta de Google Drive donde corresponda.
 
 9. *Práctica 1.4. Historia de la computación*. (Entrega: 22 de noviembre de 2021).
 
-- *Objetivos*: Aprender algunos aspectos de la historia de la computación a través del cine.
-
-- Localice en Internet y vea la película *[La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg)*. 
-- Vaya tomado notas para responder las siguientes preguntas: (1). ¿Cuáles fueron los factores económicos, políticos y sociales que llevaron al invento de la computadora digital?, (2). ¿Quién fue Alan Turing y cuáles fueron sus aportes a la computación?, (3). ¿Cuáles son las consecuencias e importancia de la computadora y de la informática en la administración, en la actualidad?
-- Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+    *Objetivos*: Aprender algunos aspectos de la historia de la computación a través del cine.
+    
+    Localice en Internet y vea la película *[La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg)*. 
+    
+    Vaya tomado notas para responder las siguientes preguntas: (1). ¿Cuáles fueron los factores económicos, políticos y sociales que llevaron al invento de la computadora digital?, (2). ¿Quién fue Alan Turing y cuáles fueron sus aportes a la computación?, (3). ¿Cuáles son las consecuencias e importancia de la computadora y de la informática en la administración, en la actualidad?
+    
+    Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 10. *Tarea 1.5. Conceptos fundamentales*. (Entrega: 22 de noviembre de 2021).
 
-- *Objetivos*: Aprender a diseñar mapas conceptuales y aprender una herramienta de software para diseñar mapas conceptuales.
-- Recopile: (1). *Conceptos generales*: *información*, *cálculo*, *cómputo*, *computación*, *informática*, *tecnologías de la información* (TI) y *computadora digital*; (2). *Partes de la computadora*: *hardware*, *dispositivos*, *software*, *sistema operativo*, *aplicaciones*); y (3). *Funciones de la computadora*: *entrada*, *salida*, *procesamiento* y *almacenamiento de información*. 
-- Busque su definición formal y simplifíquela en una frase corta y ponga un par de ejemplos. Organice los conceptos en un mapa conceptual, en su cuaderno. Descargue e instale la aplicación *[CmapTools](https://cmap.ihmc.us/cmaptools/)* para hacer el mapa conceptual que elaboró previamente. Tome una foto del mapa conceptual de su cuaderno e imprima en formato PDF el elaborado con CMapTools.
-- Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+    *Objetivos*: Aprender a diseñar mapas conceptuales y aprender una herramienta de software para diseñar mapas conceptuales.
+    
+    Recopile: (1). *Conceptos generales*: *información*, *cálculo*, *cómputo*, *computación*, *informática*, *tecnologías de la información* (TI) y *computadora digital*; (2). *Partes de la computadora*: *hardware*, *dispositivos*, *software*, *sistema operativo*, *aplicaciones*); y (3). *Funciones de la computadora*: *entrada*, *salida*, *procesamiento* y *almacenamiento de información*.
+    
+    Busque su definición formal y simplifíquela en una frase corta y ponga un par de ejemplos. Organice los conceptos en un mapa conceptual, en su cuaderno. Descargue e instale la aplicación *[CmapTools](https://cmap.ihmc.us/cmaptools/)* para hacer el mapa conceptual que elaboró previamente. Tome una foto del mapa conceptual de su cuaderno e imprima en formato PDF el elaborado con CMapTools.
+    
+    Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 11. *Práctica 1.6. Adquisición de una computadora*. (Entrega: 22 de noviembre de 2021).
 
-- *Objetivos*: Aprender a evaluar la compra de una computadora nueva y de segunda mano.
+    *Objetivos*: Aprender a evaluar la compra de una computadora nueva y de segunda mano.
 
-- *Parte 1*. Identifique sus necesidades de recursos de cómputo según los siguientes puntos: (1) hardware (tipo de equipo, almacenamiento (interno y externo (respaldo)), gráficos, impresión, digitalización, sonido y otros), (2) software (sistema operativo y aplicaciones) y (3) movilidad.
-- *Parte 2*. Ponga un límite presupuestal de acuerdo a sus posibilidades y busque dos equipos nuevos y de segunda mano que cumplan con sus necesidades. Haga un presupuesto de cada componente.
-- *Parte 3*. Haga una tabla comparativa con sus criterios de decisión y el resultado de su elección. 
-- Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+    *Parte 1*. Identifique sus necesidades de recursos de cómputo según los siguientes puntos: (1) hardware (tipo de equipo, almacenamiento (interno y externo (respaldo)), gráficos, impresión, digitalización, sonido y otros), (2) software (sistema operativo y aplicaciones) y (3) movilidad.
+    
+    *Parte 2*. Ponga un límite presupuestal de acuerdo a sus posibilidades y busque dos equipos nuevos y de segunda mano que cumplan con sus necesidades. Haga un presupuesto de cada componente.
+    
+    *Parte 3*. Haga una tabla comparativa con sus criterios de decisión y el resultado de su elección. 
+    
+    Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 12. *Práctica 1.7. Encriptación*. (Opcional) (Entrega 24 de noviembre de 2021).
 
-- *Objetivos*: Aplique la encriptación a través de aplicarla en su teléfono celular.
+     *Objetivos*: Aplique la encriptación a través de aplicarla en su teléfono celular.
 
-- *Parte 1*. A partir de la película *[La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg)*, investigue un poco sobre la criptografía y sus aplicaciones en el uso personal y en las organizaciones. 
-- *Parte 2*. Investigue cómo se aplica la criptografía en el encriptamiento de su teléfono celular, consultando la obra *[Resistencia Digital: Manual de Seguridad Operacional e Instrumental para Smartphones](https://www.criptica.org/material/resistencia_digital.pdf)* y demuestre que funciona, accediendo al contenido de su teléfono antes y después de encriptarlo.
-- *Parte 3*. Investigue en el mismo manual, cómo puede proteger su privacidad en las redes sociales.
-- *Parte 4*. Pruebe algunas de las aplicaciones sugeridas en el manual. 
-- Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+     *Parte 1*. A partir de la película *[La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg)*, investigue un poco sobre la criptografía y sus aplicaciones en el uso personal y en las organizaciones.
+     
+     *Parte 2*. Investigue cómo se aplica la criptografía en el encriptamiento de su teléfono celular, consultando la obra *[Resistencia Digital: Manual de Seguridad Operacional e Instrumental para Smartphones](https://www.criptica.org/material/resistencia_digital.pdf)* y demuestre que funciona, accediendo al contenido de su teléfono antes y después de encriptarlo.
+     
+     *Parte 3*. Investigue en el mismo manual, cómo puede proteger su privacidad en las redes sociales.
+     
+     *Parte 4*. Pruebe algunas de las aplicaciones sugeridas en el manual. 
+     
+     Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 ##### Bibliografía Obligatoria:
 - Code.org (2018, Jan 30). [How computers work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). *YouTube*. [6 videos]. (*Lectura 1.1.*).
@@ -226,77 +276,101 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 4. Tareas y prácticas:
 5. *Tarea 2.1. Conceptos básicos de software*. (Entrega: 29 de noviembre de 2021).
 
-- *Objetivo*: Comprender los conceptos básicos de software.
-
-- Investigue los conceptos básicos de software: *bit*, *byte* y unidades derivadas (KiB, MiB, GiB, TiB, etc.), *dato*, *tipos de datos*, *estructura de datos* e *información*.
-- Busque su definición formal y simplifíquela en una frase corta. Acompañe la definición con un par de ejemplos. Organice los conceptos en un mapa conceptual, en su cuaderno. Haga el mapa con [CmapTools](https://cmap.ihmc.us/cmaptools/). Tome una foto del mapa conceptual de su cuaderno e imprima en formato PDF el elaborado con CMapTools.
-- Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+    *Objetivo*: Comprender los conceptos básicos de software.
+    
+    Investigue los conceptos básicos de software: *bit*, *byte* y unidades derivadas (KiB, MiB, GiB, TiB, etc.), *dato*, *tipos de datos*, *estructura de datos* e *información*.
+    
+    Busque su definición formal y simplifíquela en una frase corta. Acompañe la definición con un par de ejemplos. Organice los conceptos en un mapa conceptual, en su cuaderno. Haga el mapa con [CmapTools](https://cmap.ihmc.us/cmaptools/). Tome una foto del mapa conceptual de su cuaderno e imprima en formato PDF el elaborado con CMapTools.
+    
+    Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 6. *Tarea 2.2. Licenciamiento de software*. (Entrega: 29 de noviembre de 2021).
 
-- *Objetivo*: Comprender los conceptos básicos de licenciamiento de software.
-
-- Investigue los conceptos básicos de *licenciamiento de software*: (1) propiedad intelectual en el caso del software, (2) patente de software, (3) dominio público (public domain), (4) distribución de software, (5) shareware, (6) freeware, (7) copyright vs copyleft, (8) licenciamiento de software ([guía](https://www.youtube.com/watch?v=F6yjAu92mPY&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=16)) y (9) software privativo ([guía](https://www.youtube.com/watch?v=tkiG7cWZ2uc)), (10) software abierto o de código abierto (*open source*) y revise la (11) *Open Source Initiative* ([url](https://opensource.org/licenses)) ([guía](https://www.youtube.com/watch?v=KD7N6tyBKno)), (12) software libre (free software), (13) la licencia GPL ([url](https://www.gnu.org/licenses/license-recommendations.html)) y la *Free Software Foundation* ([url](https://www.fsf.org/)) ([guía](https://www.youtube.com/watch?v=szSU1A2RhuQ)).
-- Simplifique la definición con una frase corta y acompañe la definición con un par de ejemplos.
-- Vea el video *Revolución de los Sistemas Operativos* ([url](https://www.youtube.com/watch?v=jfYBeWHc3GE)) y tome sus notas. Finalmente, compare los tres tipos de software (privativo, abierto y libre) ([guía](https://www.youtube.com/watch?v=SiCDIaTWKvg)), en términos de ventajas y desventajas y saque sus conclusiones filosóficas, técnicas, económicas, a partir de tres licencias representativas y de las biografías de tres personales: Bill Gates (Microsoft), Eric S. Raymond (OSI) y Richard Stallman (GNU - GLP) ([guía](https://www.youtube.com/watch?v=szSU1A2RhuQ)). Reflexione sobre el software libre y abierto como negocio.
-- Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+    *Objetivo*: Comprender los conceptos básicos de licenciamiento de software.
+    
+    Investigue los conceptos básicos de *licenciamiento de software*: (1) propiedad intelectual en el caso del software, (2) patente de software, (3) dominio público (public domain), (4) distribución de software, (5) shareware, (6) freeware, (7) copyright vs copyleft, (8) licenciamiento de software ([guía](https://www.youtube.com/watch?v=F6yjAu92mPY&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=16)) y (9) software privativo ([guía](https://www.youtube.com/watch?v=tkiG7cWZ2uc)), (10) software abierto o de código abierto (*open source*) y revise la (11) *Open Source Initiative* ([url](https://opensource.org/licenses)) ([guía](https://www.youtube.com/watch?v=KD7N6tyBKno)), (12) software libre (free software), (13) la licencia GPL ([url](https://www.gnu.org/licenses/license-recommendations.html)) y la *Free Software Foundation* ([url](https://www.fsf.org/)) ([guía](https://www.youtube.com/watch?v=szSU1A2RhuQ)).
+    
+    Simplifique la definición con una frase corta y acompañe la definición con un par de ejemplos.
+    
+    Vea el video *Revolución de los Sistemas Operativos* ([url](https://www.youtube.com/watch?v=jfYBeWHc3GE)) y tome sus notas. Finalmente, compare los tres tipos de software (privativo, abierto y libre) ([guía](https://www.youtube.com/watch?v=SiCDIaTWKvg)), en términos de ventajas y desventajas y saque sus conclusiones filosóficas, técnicas, económicas, a partir de tres licencias representativas y de las biografías de tres personales: Bill Gates (Microsoft), Eric S. Raymond (OSI) y Richard Stallman (GNU - GLP) ([guía](https://www.youtube.com/watch?v=szSU1A2RhuQ)). Reflexione sobre el software libre y abierto como negocio.
+    
+    Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 7. *Práctica 2.3. Instalación de sistemas operativos en un medio extraible*. (Entrega: 1 de diciembre de 2021).
 
-- *Objetivo*: Aprender a usar varios sistemas operativos desde un medio extraíble.
-
-- *Parte 1*. Investigue qué es un sistema operativo ([guía](https://www.youtube.com/watch?v=JJM3riqBKec&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=14)), tipos de sistemas operativos ([guía](https://www.youtube.com/watch?v=8bv30xKRqfE&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=10)) y compárelos en términos de ventajas, desventajas, seguridad, usabilidad y robustez ([url](https://www.youtube.com/playlist?list=PLH9AYXxUslqocwqqiCz0oQY_oZJH-bF_p)).
-- *Parte 2*. Investigue qué es una imagen ISO y cómo se usa. Utilice Qbittorrent y, mediante su motor de búsqueda, localice la imagen ISO del sistema operativo Windows 7, usando la frase "Windows 7 untouched genuine" o "Windows 7 Ultimate spanish" ([tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)) o busque el torrent [aquí](https://thepiratebay.org/). Identifique la entrada que tiene más semillas (seeds) y descárguela. 
-- *Parte 3*. Investigue un poco sobre las distribuciones del sistema operativo GNU/Linux ([guía 1](https://www.youtube.com/watch?v=RLStWVb1fWo&t=313s)) ([guía 2](https://www.youtube.com/watch?v=gbqv0AkqsXw)). Descargue el archivo ISO del sistema operativo Linux [Ubuntu](https://releases.ubuntu.com/) y [Fedora](https://getfedora.org/es/) ([guía](https://www.youtube.com/watch?v=gbqv0AkqsXw)) ([url]()), 32 o 64 bits, según sea su procesador CPU de su laptop.
-- *Parte 4*. Utilice la aplicación [Ventoy](https://www.ventoy.net/en/index.html) siguiendo el tutorial ([video](https://www.youtube.com/watch?v=_3p-f_Cwa4g)) en una USB vacía, de 16 Gib, por lo menos. Si en su computadora no funciona Ventoy, use [Yumi](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) según esta [guía](https://www.youtube.com/watch?v=dR8ewnlfzVc) o [Rufus](https://rufus.ie/es/) ([guía](https://www.youtube.com/watch?v=qedjN2AA3gU)). 
-- *Parte 5*. Investigue los conceptos: bootear un equipo ([guía](https://www.youtube.com/watch?v=O2S7YyKb5LI)), BIOS ([guía](https://www.youtube.com/watch?v=HD9qXyvIzOc)) y UEFI ([guía](https://www.youtube.com/watch?v=X3Cx6wm6PtY)). Pruebe que puede arrancar cada uno de los tres sistemas operativos desde la USB.
-- Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+    *Objetivo*: Aprender a usar varios sistemas operativos desde un medio extraíble.
+    
+    *Parte 1*. Investigue qué es un sistema operativo ([guía](https://www.youtube.com/watch?v=JJM3riqBKec&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=14)), tipos de sistemas operativos ([guía](https://www.youtube.com/watch?v=8bv30xKRqfE&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=10)) y compárelos en términos de ventajas, desventajas, seguridad, usabilidad y robustez ([url](https://www.youtube.com/playlist?list=PLH9AYXxUslqocwqqiCz0oQY_oZJH-bF_p)).
+    
+    *Parte 2*. Investigue qué es una imagen ISO y cómo se usa. Utilice Qbittorrent y, mediante su motor de búsqueda, localice la imagen ISO del sistema operativo Windows 7, usando la frase "Windows 7 untouched genuine" o "Windows 7 Ultimate spanish" ([tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)) o busque el torrent [aquí](https://thepiratebay.org/). Identifique la entrada que tiene más semillas (seeds) y descárguela. 
+    
+    *Parte 3*. Investigue un poco sobre las distribuciones del sistema operativo GNU/Linux ([guía 1](https://www.youtube.com/watch?v=RLStWVb1fWo&t=313s)) ([guía 2](https://www.youtube.com/watch?v=gbqv0AkqsXw)). Descargue el archivo ISO del sistema operativo Linux [Ubuntu](https://releases.ubuntu.com/) y [Fedora](https://getfedora.org/es/) ([guía](https://www.youtube.com/watch?v=gbqv0AkqsXw)) ([url]()), 32 o 64 bits, según sea su procesador CPU de su laptop.
+    
+    *Parte 4*. Utilice la aplicación [Ventoy](https://www.ventoy.net/en/index.html) siguiendo el tutorial ([video](https://www.youtube.com/watch?v=_3p-f_Cwa4g)) en una USB vacía, de 16 Gib, por lo menos. Si en su computadora no funciona Ventoy, use [Yumi](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) según esta [guía](https://www.youtube.com/watch?v=dR8ewnlfzVc) o [Rufus](https://rufus.ie/es/) ([guía](https://www.youtube.com/watch?v=qedjN2AA3gU)). 
+    
+    *Parte 5*. Investigue los conceptos: bootear un equipo ([guía](https://www.youtube.com/watch?v=O2S7YyKb5LI)), BIOS ([guía](https://www.youtube.com/watch?v=HD9qXyvIzOc)) y UEFI ([guía](https://www.youtube.com/watch?v=X3Cx6wm6PtY)). Pruebe que puede arrancar cada uno de los tres sistemas operativos desde la USB.
+    
+    Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 8. *Práctica 2.4. Instalación de sistemas operativos como máquinas virtuales*. (Entrega: 1 de diciembre de 2021).
 
-- *Objetivo*: Aprender a instalar varios sistemas operativos como un máquinas virtuales.
+    *Objetivo*: Aprender a instalar varios sistemas operativos como un máquinas virtuales.
+    
+    *Parte 1*. Investigue qué es la virtualización, una máquina virtual y cómo se instala un sistema operativo en una. 
+    
+    *Parte 2*. Instale [VirtualBox](https://www.virtualbox.org/) en su sistema operativo Windows o el que tenga. Luego, instale el sistema operativo como una máquina virtual ([Video 1](https://www.youtube.com/watch?v=9-ZGT6T65VA)). Luego, instale el VirtualBox Extension Pack.x
+    
+    *Parte 3*. Utilice las los archivos ISO de la práctica anterior e instálelos mediante VirtualBox ([Video](https://www.youtube.com/watch?v=GEx046EHphI)).
+    
+    *Parte 4*. Pruebe que puede arrancar cada uno de los tres sistemas operativos como máquinas virtuales.
+    
+    Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
-- *Parte 1*. Investigue qué es la virtualización, una máquina virtual y cómo se instala un sistema operativo en una. 
-- *Parte 2*. Instale [VirtualBox](https://www.virtualbox.org/) en su sistema operativo Windows o el que tenga. Luego, instale el sistema operativo como una máquina virtual ([Video 1](https://www.youtube.com/watch?v=9-ZGT6T65VA)). Luego, instale el VirtualBox Extension Pack.x
-- *Parte 3*. Utilice las los archivos ISO de la práctica anterior e instálelos mediante VirtualBox ([Video](https://www.youtube.com/watch?v=GEx046EHphI)).
-- *Parte 4*. Pruebe que puede arrancar cada uno de los tres sistemas operativos como máquinas virtuales.
-- Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+9. *Práctica 2.5: Recuperación de archivos*. (Entrega: 6 de diciembre de 2021).
 
-9. Práctica 2.5: Recuperación de archivos. (Entrega: 6 de diciembre de 2021).
-
-- *Objetivo*: Aprender el uso de una herramienta de software para el mantenimiento de una computadora.
-
-- Como prerrequisito, debe completar la Práctica 2.4.
-- Utilice Qbittorrent y, mediante su motor de búsqueda, localice la imagen ISO del sistema operativo Windows usando la frase "Active Boot Disk 10" ([tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)). Identifique la entrada que tiene más semillas (seeds) (de 640 Kb de tamaño) y descárguela o agregue el torrent a qBittorrent desde [aquí](https://limetor.com/Active-Boot-Disk-Suite-10-1-0-Modified-Edition-Feb-2015-%28ISO%29--%20Core-X%20-%20%20FRG%20-torrent-7452833.html). 
-- Borre a propósito y luego rescate un par de archivos utilizando *Active Boot Disk* ([tutorial](https://www.youtube.com/watch?v=sHMGRn_wWlc)) y explore las otras herramientas.
-- *Aplicación práctica*: Imagine que por alguna razón, su sistema operativo Windows no funciona y que requiere copiar los archivos. Busque los archivos de usuario de la cuenta principal y haga una copia de alguno de ellos a una unidad externa (USB) ([video](https://www.youtube.com/watch?v=U3LaBt0Rcls)).
-- Otra aplicación práctica es usar la computadora si falla el sistema operativo Windows. Arranque su sistema operativo Linux desde la USB y trabaje un archivo de texto de Word, con Libre Office. Navegue por Internet y envíelo a su propio correo.
-- Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+    *Objetivo*: Aprender el uso de una herramienta de software para el mantenimiento de una computadora.
+    
+    Como prerrequisito, debe completar la Práctica 2.4.
+    
+    Utilice Qbittorrent y, mediante su motor de búsqueda, localice la imagen ISO del sistema operativo Windows usando la frase "Active Boot Disk 10" ([tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)). Identifique la entrada que tiene más semillas (seeds) (de 640 Kb de tamaño) y descárguela o agregue el torrent a qBittorrent desde [aquí](https://limetor.com/Active-Boot-Disk-Suite-10-1-0-Modified-Edition-Feb-2015-%28ISO%29--%20Core-X%20-%20%20FRG%20-torrent-7452833.html). 
+    
+    Borre a propósito y luego rescate un par de archivos utilizando *Active Boot Disk* ([tutorial](https://www.youtube.com/watch?v=sHMGRn_wWlc)) y explore las otras herramientas.
+    
+    *Aplicación práctica*: Imagine que por alguna razón, su sistema operativo Windows no funciona y que requiere copiar los archivos. Busque los archivos de usuario de la cuenta principal y haga una copia de alguno de ellos a una unidad externa (USB) ([video](https://www.youtube.com/watch?v=U3LaBt0Rcls)). Otra aplicación práctica es usar la computadora si falla el sistema operativo Windows. Arranque su sistema operativo Linux desde la USB y trabaje un archivo de texto de Word con Libre Office, navegue por Internet y envíelo a su propio correo.
+    
+    Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 10. *Práctica 2.6. Particiones y sistemas de archivos*. (Entrega: 6 de diciembre de 2021).
 
-- *Objetivo*: Comprender y practicar la preparación de dispositivos de almacenamiento en una computadora.
-
-- *Parte 1*. Investigue los conceptos involucrados: partición (física y lógica, primaria, partición de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), GPT y MBR ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)), formatear un dispositivo de almacenamiento ([guía](https://www.youtube.com/watch?v=YshcHw9aIno)), sistema de archivos ([guía](https://www.youtube.com/watch?v=ukzkZA73fkg)), archivo ([guía](https://www.youtube.com/watch?v=Ub7guhuy7_A)), tipos de archivo (binario, texto, programa) ([guía](https://www.youtube.com/watch?v=LbopJOLgo5g)), cómo se guarda un archivo ([guía](https://www.youtube.com/watch?v=ProWo1W-4C0)) y las operaciones de manejo de archivos ([guía](https://www.youtube.com/watch?v=f2dmh_VkNgw)).
-- *Parte 2*. Investigue los conceptos involucrados: bootear un equipo ([guía](https://www.youtube.com/watch?v=O2S7YyKb5LI)), BIOS ([guía](https://www.youtube.com/watch?v=HD9qXyvIzOc)), UEFI ([guía](https://www.youtube.com/watch?v=X3Cx6wm6PtY)), partición (física y lógica, de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), GPT y MBR ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)).
-- *Parte 3*. Use una USB sin datos o nueva y practique los procesos de manejo de particiones (crear, cambiar de tamaño, fusionar y eliminar particiones en Windows con Disk Management ([guía](https://www.youtube.com/watch?v=gXvyWWi7lh8)), de los siguientes tipos: FAT, exFAT, FAT32, NTFS y EXT4. Saque sus conclusiones.
-- Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+     *Objetivo*: Comprender y practicar la preparación de dispositivos de almacenamiento en una computadora.
+     
+     *Parte 1*. Investigue los conceptos involucrados: partición (física y lógica, primaria, partición de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), GPT y MBR ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)), formatear un dispositivo de almacenamiento ([guía](https://www.youtube.com/watch?v=YshcHw9aIno)), sistema de archivos ([guía](https://www.youtube.com/watch?v=ukzkZA73fkg)), archivo ([guía](https://www.youtube.com/watch?v=Ub7guhuy7_A)), tipos de archivo (binario, texto, programa) ([guía](https://www.youtube.com/watch?v=LbopJOLgo5g)), cómo se guarda un archivo ([guía](https://www.youtube.com/watch?v=ProWo1W-4C0)) y las operaciones de manejo de archivos ([guía](https://www.youtube.com/watch?v=f2dmh_VkNgw)).
+     
+     *Parte 2*. Investigue los conceptos involucrados: bootear un equipo ([guía](https://www.youtube.com/watch?v=O2S7YyKb5LI)), BIOS ([guía](https://www.youtube.com/watch?v=HD9qXyvIzOc)), UEFI ([guía](https://www.youtube.com/watch?v=X3Cx6wm6PtY)), partición (física y lógica, de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), GPT y MBR ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)).
+     
+     *Parte 3*. Use una USB sin datos o nueva y practique los procesos de manejo de particiones (crear, cambiar de tamaño, fusionar y eliminar particiones en Windows con Disk Management ([guía](https://www.youtube.com/watch?v=gXvyWWi7lh8)), de los siguientes tipos: FAT, exFAT, FAT32, NTFS y EXT4. Saque sus conclusiones.
+     
+     Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 11. *Práctica 2.7. Instalación de driver o controlador de hardware*. (Entrega: 8 de diciembre de 2021).
 
-- *Objetivo*: Aprender a instalar drivers en el sistema operativo Windows.
-
-- Instalar la impresora, escanner o cualquier dispositivo externo usando los controladores o drivers descargados desde el sitio del fabricante, no desde el disco de instalación. 
-- Entregue el reporte de experiencia en un video usando la aplicación Vokoscreen-NG. Suba su video a su Google Drive.
+     *Objetivo*: Aprender a instalar drivers en el sistema operativo Windows.
+     
+     Instalar la impresora, escanner o cualquier dispositivo externo usando los controladores o drivers descargados desde el sitio del fabricante, no desde el disco de instalación.
+     
+     Entregue el reporte de experiencia en un video usando la aplicación Vokoscreen-NG. Suba su video a su Google Drive.
 
 12. *Práctica 2.8. Comandos básicos de un sistema operativo y de manejo de archivos*. (Entrega: 8 de diciembre de 2021).
 
-- *Objetivo*: Practicar los comandos básicos del manejo de archivos en la línea de comandos, en los sistemas operativos Windows y Linux.
-
-- *Parte 1*. En una terminal de PowerShell de Windows 10, pruebe los comandos del [video](https://www.youtube.com/watch?v=UIxpx2Aohxs) y practique la recuperación de archivos ocultos por un virus usando la terminal de MS-DOS ([video 1](https://www.youtube.com/watch?v=K59r0Bb86Aw), [video 2](https://www.youtube.com/watch?v=-uC2LVTvQRE)).
-- *Parte 2*. Cargue el sistema operativo Linux de la práctica 2.4., abra una terminal y pruebe los comandos del [video](https://www.youtube.com/watch?v=EHSbmmqhOl0). 
-- Entregue el reporte de la práctica y comente su experiencia en un video usando la aplicación de grabación de pantalla que tenga disponible en Windows y en Linux. Suba sus videos a su Google Drive.
-- Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+     *Objetivo*: Practicar los comandos básicos del manejo de archivos en la línea de comandos, en los sistemas operativos Windows y Linux.
+     
+     *Parte 1*. En una terminal de PowerShell de Windows 10, pruebe los comandos del [video](https://www.youtube.com/watch?v=UIxpx2Aohxs) y practique la recuperación de archivos ocultos por un virus usando la terminal de MS-DOS ([video 1](https://www.youtube.com/watch?v=K59r0Bb86Aw), [video 2](https://www.youtube.com/watch?v=-uC2LVTvQRE)).
+     
+     *Parte 2*. Cargue el sistema operativo Linux de la práctica 2.4., abra una terminal y pruebe los comandos del [video](https://www.youtube.com/watch?v=EHSbmmqhOl0). 
+     
+     Entregue el reporte de la práctica y comente su experiencia en un video usando la aplicación de grabación de pantalla que tenga disponible en Windows y en Linux. Suba sus videos a su Google Drive.
+     
+     Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 ##### Bibliografía Complementaria:
 
@@ -317,49 +391,101 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 3. Diagrama de flujo, pseudocódigo y codificación.
 4. Tareas y prácticas:
 5. *Tarea 3.1. Desarrollo de software*. (Entrega: 13 de diciembre de 2021).
-- *Objetivo*: Comprender los conceptos básicos de desarrollo de software.
-- *Parte 1*. Investigue los conceptos básicos de programación de software: *archivo*, *software* ([guía](https://www.youtube.com/watch?v=qfLSn6pCRZ4&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=17)), *programa*, *aplicación* (*app*), *código*, *código fuente*, *archivo de texto plano*, *interpretar código fuente*, *compilar código fuente*, *archivo binario*, *código binario*, *código objeto*, *archivo executable*, *código executable*, *codificar* o *escribir software*, *programar una computadora*, *desarrollar software*, *ejecutar software* y *copiar software*, *software como herramienta*. 
-- Busque la definición y simplifíquela con una frase corta y acompañe la definición con un par de ejemplos. (Entregable 1).
-- *Parte 2*. Estudie los videos necesarios en el video [Aprende a programar en 11 minutos](https://www.youtube.com/watch?v=TAyyujKoY6k). Saque su conclusiones. (Entregable).
-- Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable 3) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+    *Objetivo*: Comprender los conceptos básicos de desarrollo de software.
+    
+    *Parte 1*. Investigue los conceptos básicos de programación de software: *archivo*, *software* ([guía](https://www.youtube.com/watch?v=qfLSn6pCRZ4&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=17)), *programa*, *aplicación* (*app*), *código*, *código fuente*, *archivo de texto plano*, *interpretar código fuente*, *compilar código fuente*, *archivo binario*, *código binario*, *código objeto*, *archivo executable*, *código executable*, *codificar* o *escribir software*, *programar una computadora*, *desarrollar software*, *ejecutar software* y *copiar software*, *software como herramienta*.
+    
+    Busque la definición y simplifíquela con una frase corta y acompañe la definición con un par de ejemplos. (Entregable 1).
+    
+    *Parte 2*. Estudie los videos necesarios en el video [Aprende a programar en 11 minutos](https://www.youtube.com/watch?v=TAyyujKoY6k). Saque su conclusiones. (Entregable).
+    
+    Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable 3) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
 6.*Práctica 3.1. Algoritmos y pseudocódigo*. (Entrega: 15 de septiembre de 2021).
-- *Objetivo*: Comprender los conceptos de algoritmo y pseudocódigo.
-- *Parte 1*. Investigue qué es la [resolución de problemas](https://es.wikipedia.org/wiki/Resolución_de_problemas) y cómo se aplica en la informática con la aplicación de la Máquina de Turing. También, investigue qué es un [algoritmo](https://es.wikipedia.org/wiki/Algoritmo) (utilice como base los videos Bases de la Programación) y compárelo con la definición de una receta.
-- *Parte 2*. Investigue qué es el [pseudocódigo](https://es.wikipedia.org/wiki/Pseudocódigo) y su utilidad para el aprendizaje de la programación de computadoras.
-- *Parte 3*. Luego, instale la aplicación *[PseInt](http://pseint.sourceforge.net/)* en su equipo y haga una compilación de los elementos del pseudocódigo en su cuaderno utilizado en *PSeInt*, a parti6. de la documentación en la Ayuda de la aplicación y de la consulta del siguiente [curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw). Concéntrese en comprender la lógica de los tipos y estructuras de datos, de los comandos, de las estructuras de control y de la entrada, salida, almacenamiento y procesamiento de datos. 
-- *Parte 4*. Estudie la aplicación de PSeInt a la programación de una aplicación sencilla de un sistema de información para la operación de un estacionamiento, en la siguiente [lista de videos](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). Previamente, para cada video, descargue el archivo con el código fuente del pseudocódigo, disponible en la descripción de cada uno de ellos. 
-- *Parte 5*. De manera progresiva documente cada archivo con comentarios, según la explicación del autor, hasta que le quede completamente clara la lógica de la programación. Distinga entre proceso principal y subprocesos. Para cada subproceso identifique los parámetros o datos de entrada, el tipo de pase de los mismos y el valor de regreso. En la llamada del subproceso identifique los argumentos y el valor devuelto por el suproceso. Comprenda el concepto de ámbito (*scope*) de una variable y cómo funciona el tipo de pase de parámetros: por valor y por referencia.
-- Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
-7. *Práctica 3.3. Programación Parte 1: Control básico, condicionales y cicl-os*. (Demostrativa).
-- *Objetivo*: Aprender las estructuras de control, las condicionales y los ciclos en la programación de computadoras.
-- Estudie los videos necesarios en el *[Curso de PseInt de cero a siempre](htps://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw)*, para cumplir el objetivo e identifique los conceptos estudiados.
-- Tome notas a mano en su cuaderno y practique los ejercicios del video en PseInt.
-- Saque sus conclusiones y expóngalas en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+   *Objetivo*: Comprender los conceptos de algoritmo y pseudocódigo.
+    
+   *Parte 1*. Investigue qué es la [resolución de problemas](https://es.wikipedia.org/wiki/Resolución_de_problemas) y cómo se aplica en la informática con la aplicación de la Máquina de Turing. También, investigue qué es un [algoritmo](https://es.wikipedia.org/wiki/Algoritmo) (utilice como base los videos Bases de la Programación) y compárelo con la definición de una receta.
+   *Parte 2*. Investigue qué es el [pseudocódigo](https://es.wikipedia.org/wiki/Pseudocódigo) y su utilidad para el aprendizaje de la programación de computadoras.
+    
+   *Parte 3*. Luego, instale la aplicación *[PseInt](http://pseint.sourceforge.net/)* en su equipo y haga una compilación de los elementos del pseudocódigo en su cuaderno utilizado en *PSeInt*, a parti6. de la documentación en la Ayuda de la aplicación y de la consulta del siguiente [curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw). Concéntrese en comprender la lógica de los tipos y estructuras de datos, de los comandos, de las estructuras de control y de la entrada, salida, almacenamiento y procesamiento de datos.
+   
+   *Parte 4*. Estudie la aplicación de PSeInt a la programación de una aplicación sencilla de un sistema de información para la operación de un estacionamiento, en la siguiente [lista de videos](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). Previamente, para cada video, descargue el archivo con el código fuente del pseudocódigo, disponible en la descripción de cada uno de ellos. 
+    
+   *Parte 5*. De manera progresiva documente cada archivo con comentarios, según la explicación del autor, hasta que le quede completamente clara la lógica de la programación. Distinga entre proceso principal y subprocesos. Para cada subproceso identifique los parámetros o datos de entrada, el tipo de pase de los mismos y el valor de regreso. En la llamada del subproceso identifique los argumentos y el valor devuelto por el suproceso. Comprenda el concepto de ámbito (*scope*) de una variable y cómo funciona el tipo de pase de parámetros: por valor y por referencia.
+    
+   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+
+7. *Práctica 3.3. Programación Parte 1: Control básico, condicionales y ciclos*. (Demostrativa).
+
+    *Objetivo*: Aprender las estructuras de control, las condicionales y los ciclos en la programación de computadoras.
+    
+    Estudie los videos necesarios en el *[Curso de PseInt de cero a siempre](htps://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw)*, para cumplir el objetivo e identifique los conceptos estudiados.
+    
+    Tome notas a mano en su cuaderno y practique los ejercicios del video en PseInt.
+    
+    Saque sus conclusiones y expóngalas en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
 8. *Práctica 3.4. Programación Parte 2: Diagramas de flujo*. (Demostrativa).
-- *Objetivo*: Aprender los diagramas de flujo y el pseudocódigo como dos formas complementarias de la programación de computadoras.
-- Estudie los videos necesarios en el *[Curso de PseInt de cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw)*, para cumplir el objetivo e identifique los conceptos estudiados.
-- Tome notas a mano en su cuaderno y practique los ejercicios del video en PseInt.
-- Saque sus conclusiones y expóngalas en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+    *Objetivo*: Aprender los diagramas de flujo y el pseudocódigo como dos formas complementarias de la programación de computadoras.
+    
+    Estudie los videos necesarios en el *[Curso de PseInt de cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw)*, para cumplir el objetivo e identifique los conceptos estudiados.
+    
+    Tome notas a mano en su cuaderno y practique los ejercicios del video en PseInt.
+    
+    Saque sus conclusiones y expóngalas en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
 9. *Práctica 3.5. Programación Parte 3: Contadores, arreglos y estructuras de datos*. (Entrega: 21 de abril de 2021).
-- *Objetivo*: Aprender sobre los contadores, arreglos y otras estructuras de datos para la programación de computadoras.
-- Estudie los videos necesarios en el *[Curso de PseInt de cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw)*, para cumplir el objetivo e identifique los conceptos estudiados.
-- Tome notas a mano en su cuaderno y practique los ejercicios del video en PseInt.
-- Saque sus conclusiones y expóngalas en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+    *Objetivo*: Aprender sobre los contadores, arreglos y otras estructuras de datos para la programación de computadoras.
+    
+    Estudie los videos necesarios en el *[Curso de PseInt de cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw)*, para cumplir el objetivo e identifique los conceptos estudiados.
+    
+    Tome notas a mano en su cuaderno y practique los ejercicios del video en PseInt.
+    
+    Saque sus conclusiones y expóngalas en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
 10. *Práctica 3.6. Programación Parte 4: Funciones*. (Demostrativa).
-- *Objetivo*: Aprender el concepto de subrutina o función en la programación de computadoras.
-- Estudie los videos necesarios en el *[Curso de PseInt de cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw)*, para cumplir el objetivo e identifique los conceptos estudiados.
-- Tome notas a mano en su cuaderno y practique los ejercicios del video en PseInt.
-- Saque sus conclusiones y expóngalas en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+     *Objetivo*: Aprender el concepto de subrutina o función en la programación de computadoras.
+     
+     Estudie los videos necesarios en el *[Curso de PseInt de cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw)*, para cumplir el objetivo e identifique los conceptos estudiados.
+     
+     Tome notas a mano en su cuaderno y practique los ejercicios del video en PseInt.
+     
+     Saque sus conclusiones y expóngalas en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
 11. *Tarea 3.7. Ejercicios programación de algoritmos*. (Entrega: 5 de enero de 2021). 
-- Ponga a prueba los conceptos aprendidos. De acuerdo a su número de lista (que se envió al grupo de Telegram), realicen los ejercicios de la lectura 2.2. que le correspondan: 
-- *Lista 1*: Ejercicios: 45, 26; *2*: 39, 9; *3*: 36, 33; 4 : 24, 11; *5*: 17, 39; *6*: 28, 15; *7*: 38, 41; *8*: 36, 8; *9*: 17, 37; *10*: 23, 35; *11*: 43, 43; *12*: 36, 8; *13*: 17, 10; *14*: 33, 43; *15*: 25, 25; *16*: 45, 44; *17* : 42, 11; *18*: 38, 32; *19*: 18, 44; *20*: 9, 25; *Lista 1 y 2*: 25, 47; *3 y 4*: 25, 37; *5 y 6*: 36, 32; *7 y 8*: 26, 39; *9 y 10*: 9, 36; *11 y 12*: 33, 24; *13 y 14*: 11, 17; 15 y 16 : 39, 28; *17 y 18*: 15, 38; *19 y 20*: 41, 36.
-- Cada ejercicio debe crearse en un archivo con el nombre del número de algoritmo y el título del algorimo. Por ejemplo, para el primer algoritmo llamado "Promedio", le correpondería el nombre de *01. Promedio.psc*. 
-- Modifique el pseudocódigo propuesto por el autor, de acuerdo a las reglas de PseInt configuradas anteriormente. Modifique el algoritmo de acuerdo a la estructura del algoritmo aprendida. Ingrese los datos con la ayuda suficiente para manejar los errores de captura de datos. Haga los cálculos de manera correcta y genere la salida respectiva. Modifique el algoritmo para que se ejecute de manera iterativa y termine de manera elegante. Por último, incluya los comentarios respectivos en cada parte y los datos para identificarlo a usted como su autor y la referencia bibliográfica original. Cada algoritmo debe ser probado como correcto.
-- Guarde el pseudocódigo del algoritmo (en formato *psc*) y el diagrama de flujo (como imagen) y suba sus archivos a su cuenta de Google Drive en el diretorio respectivo de la tarea y comparta el link con el profesor.
+
+     *Objetivo*: Poner a prueba los conceptos aprendidos.
+     
+     De acuerdo a su número de lista (que se envió al grupo de Telegram), realicen los ejercicios de la lectura 2.2. que le correspondan:
+     
+     *Lista 1*: Ejercicios: 45, 26; *2*: 39, 9; *3*: 36, 33; 4 : 24, 11; *5*: 17, 39; *6*: 28, 15; *7*: 38, 41; *8*: 36, 8; *9*: 17, 37; *10*: 23, 35; *11*: 43, 43; *12*: 36, 8; *13*: 17, 10; *14*: 33, 43; *15*: 25, 25; *16*: 45, 44; *17* : 42, 11; *18*: 38, 32; *19*: 18, 44; *20*: 9, 25; *Lista 1 y 2*: 25, 47; *3 y 4*: 25, 37; *5 y 6*: 36, 32; *7 y 8*: 26, 39; *9 y 10*: 9, 36; *11 y 12*: 33, 24; *13 y 14*: 11, 17; 15 y 16 : 39, 28; *17 y 18*: 15, 38; *19 y 20*: 41, 36.
+     
+     Cada ejercicio debe crearse en un archivo con el nombre del número de algoritmo y el título del algorimo. Por ejemplo, para el primer algoritmo llamado "Promedio", le correpondería el nombre de *01. Promedio.psc*. 
+     
+     Modifique el pseudocódigo propuesto por el autor, de acuerdo a las reglas de PseInt configuradas anteriormente.
+     
+     Modifique el algoritmo de acuerdo a la estructura del algoritmo aprendida. Ingrese los datos con la ayuda suficiente para manejar los errores de captura de datos.
+     
+     Haga los cálculos de manera correcta y genere la salida respectiva.
+     
+     Modifique el algoritmo para que se ejecute de manera iterativa y termine de manera elegante.
+     
+     Por último, incluya los comentarios respectivos en cada parte y los datos para identificarlo a usted como su autor y la referencia bibliográfica original.
+     
+     Cada algoritmo debe ser probado como correcto.
+     
+     Guarde el pseudocódigo del algoritmo (en formato *psc*) y el diagrama de flujo (como imagen) y suba sus archivos a su cuenta de Google Drive en el diretorio respectivo de la tarea y comparta el link con el profesor.
+
 #### Bibliografía Obligatoria:
 - Alva Majo. (2018, Jul 11). [Aprende a programar en 11 minutos](https://www.youtube.com/watch?v=TAyyujKoY6k). *YouTube* [video] (12:32 min). (*Lectura 2.1.*)
 - Rodríguez Hernández, M. et al (s.f.). Recopilación de algoritmos. [mimeo]. ([url](https://es.slideshare.net/andresrivero73345/algoritmos-50-ejemplos-1)). ([url](https://drive.google.com/file/d/1TE1LSUDEm4Ue7d-0GGvfrEQG4NWoa29p/view?usp=sharing)). (*Lectura 2.2*).
 - JhonvaCode. (2018, Jan 14) [Curso de PSeint de cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw). *YouTube*. (7 videos). (*Lectura 2.3*).
+
 #### Bibliografía Complementaria:
 - Tecno Hobbies. (2018, Jan 11). [Curso de Pseint 2018](https://www.youtube.com/playlist?list=PLwOemaB2t99ZEIKLeoxdz91F9AKC-vkK7). *YouTube* (31 videos). 
 - Novara, P. (2019). PSeInt [software] ([url](http://pseint.sourceforge.net/index.php?page=portada.php)). ([guía rápida](http://pseint.sourceforge.net/slide/pseint.html)). ([descargar](http://pseint.sourceforge.net/index.php?page=actualizacion.php)).
@@ -377,37 +503,66 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 3. Los sistemas empresariales de información (ERP)
 4. Prácticas y tareas:
 5. *Tarea 4.1. LEO: El primer sistema empresarial en el mundo*. (Entrega: por definir).
-- *Objetivo*: Comprender el surgimiento de los sistemas de información automatizados en las organizaciones.
-- *Parte 1*. De manera individual, investigue la historia del proyecto LEO a partir de la bibliografía anexa o la que encuentre en [Google Académico](https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=enterprise+OR+system+OR+Lyons+%22leo+project%22&btnG=):
-- Zavala, J. (2011). La industria del software y su importancia. In *[La ingeniería de software: Una discusión epistemológica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing)* (pp. 77-87). Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México.
-- Land, F. (2000). [The first business computer: A case study in user-driven innovation](http://eprints.lse.ac.uk/19150/1/The%20first%20business%20computer(lsero).pdf). *IEEE Annals of the History of Computing, 22*(3), 16-26.
-- [Information Age: The computer that changed our world](https://www.youtube.com/watch?v=X0yYDxjBnTM) (video), [LEO: The automatic office](https://www.youtube.com/watch?v=-8K-xbx7jBM) (1957) (Video), [Ernest Kaye: LEO 1952](https://www.youtube.com/watch?v=GE6TX70A3Rc) (Video), [LEO: Celebrating The Pioneers](https://www.youtube.com/watch?v=Lrn24SdW64I) (Video).
-- *Parte 2*. Haga un breve reporte en su cuaderno sobre la importancia del proyecto.
-- *Parte 3*. El grupo debe organizarse en equipos de 3 miembros. Por equipo, deben planificar una sesión colectiva y contribuyendo con sus notas individuales reescriban colectivamente sus conclusiones sobre el *Proyecto LEO*. Suban el reporte de la investigación con la siguiente estructura: *Introducción*, *Contexto*, *Desarrollo*, *Conclusiones* y *Bibliografía*.
-- Suban su texto al Google Drive de cada uno de los integrantes.
+
+    *Objetivo*: Comprender el surgimiento de los sistemas de información automatizados en las organizaciones.
+    
+    *Parte 1*. De manera individual, investigue la historia del proyecto LEO a partir de la bibliografía anexa o la que encuentre en [Google Académico](https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=enterprise+OR+system+OR+Lyons+%22leo+project%22&btnG=):
+     - Zavala, J. (2011). La industria del software y su importancia. In *[La ingeniería de software: Una discusión epistemológica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing)* (pp. 77-87). Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México.
+     - Land, F. (2000). [The first business computer: A case study in user-driven innovation](http://eprints.lse.ac.uk/19150/1/The%20first%20business%20computer(lsero).pdf). *IEEE Annals of the History of Computing, 22*(3), 16-26.
+     - [Information Age: The computer that changed our world](https://www.youtube.com/watch?v=X0yYDxjBnTM) (video), [LEO: The automatic office](https://www.youtube.com/watch?v=-8K-xbx7jBM) (1957) (Video), [Ernest Kaye: LEO 1952](https://www.youtube.com/watch?v=GE6TX70A3Rc) (Video), [LEO: Celebrating The Pioneers](https://www.youtube.com/watch?v=Lrn24SdW64I) (Video).
+
+    *Parte 2*. Haga un breve reporte en su cuaderno sobre la importancia del proyecto.
+    
+    *Parte 3*. El grupo debe organizarse en equipos de 3 miembros. Por equipo, deben planificar una sesión colectiva y contribuyendo con sus notas individuales reescriban colectivamente sus conclusiones sobre el *Proyecto LEO*. Suban el reporte de la investigación con la siguiente estructura: *Introducción*, *Contexto*, *Desarrollo*, *Conclusiones* y *Bibliografía*.
+    
+    Suban su texto al Google Drive de cada uno de los integrantes.
+
 6. *Tarea 4.2. Los informáticos y el poder gerencial*. (Entrega: por definir).
-- *Objetivo*: Comprender el surgimiento de los informáticos como una nueva clase laboral y sus desafíos gerenciales. 
-- *Parte 1*. Los equipos de la práctica anterior, hagan una lectura colectiva del artículo Ensmenger, N. L. (2003). [Letting the “Computer Boys” take over: Technology and the politics of organizational transformation](https://www.researchgate.net/publication/248710837_Letting_the_Computer_Boys_Take_Over_Technology_and_the_Politics_of_Organizational_Transformation). *International Review of Social History (IRSH), 48* (S11) (December 2003), 153–180. DOI: 10.1017/S0020859003001305. 
-- *Parte 2*. Por equipo, deben planificar una sesión colectiva y sacar sus conclusiones sobre el tema. Suban el reporte de la investigación con la siguiente estructura: *Introducción*, *Contexto*, *Desarrollo*, *Conclusiones* y *Bibliografía*.
-- Suban su texto al Google Drive de cada uno de los integrantes.
+
+    *Objetivo*: Comprender el surgimiento de los informáticos como una nueva clase laboral y sus desafíos gerenciales. 
+    
+    *Parte 1*. Los equipos de la práctica anterior, hagan una lectura colectiva del artículo 
+    
+    Ensmenger, N. L. (2003). [Letting the “Computer Boys” take over: Technology and the politics of organizational transformation](https://www.researchgate.net/publication/248710837_Letting_the_Computer_Boys_Take_Over_Technology_and_the_Politics_of_Organizational_Transformation). *International Review of Social History (IRSH), 48* (S11) (December 2003), 153–180. DOI: 10.1017/S0020859003001305.
+    *Parte 2*. Por equipo, deben planificar una sesión colectiva y sacar sus conclusiones sobre el tema. Suban el reporte de la investigación con la siguiente estructura: *Introducción*, *Contexto*, *Desarrollo*, *Conclusiones* y *Bibliografía*.
+    
+    Suban su texto al Google Drive de cada uno de los integrantes.
+
 7. *Tarea 4.3. Los sistemas de información empresarial y su evolución histórica*. (Entrega: por definir).
-- *Objetivo*: Comprender el concepto y evolución histórica de los sistemas de información empresariales. 
-- *Parte 1*. Los equipos de la práctica anterior, hagan una lectura colectiva de los primeros dos capítulos Hormigo, I. G.  (2011). [Sistema de información empresarial](http://libgen.rs/book/index.php?md5=77DE9AE1D073B9367127448826BA6460)* (pp. 1-30). Catalunya: Universitat Oberta de Catalunya.
-- Consultar también la siguiente bibliografía complementaria: (1). Sánchez, A. (2016). Sistema de información: Concepto, elementos, etapas, funciones y ejemplo. ([Video](https://www.youtube.com/watch?v=Ibh62H7M1Jo)), (2). Extensión del ITTG sede Bochil Pagina Oficial (2015). [Elementos de un sistema de información] (https://www.youtube.com/watch?v=kAzxXgKiwTE) (Video) y (3). Molar, A. (2015). [Tipos de sistemas de Información](https://www.youtube.com/watch?v=vh4Wg-MiLhw) (Video).
-- *Parte 2*. Por equipo, deben planificar una sesión colectiva y sacar sus conclusiones sobre el tema. Suban el reporte de la investigación con la siguiente estructura: *Introducción*, *Contexto*, *Desarrollo*, *Conclusiones* y *Bibliografía*.
-- Suban su texto al Google Drive de cada uno de los integrantes.
+
+    *Objetivo*: Comprender el concepto y evolución histórica de los sistemas de información empresariales. 
+    
+    *Parte 1*. Los equipos de la práctica anterior, hagan una lectura colectiva de los primeros dos capítulos Hormigo, I. G.  (2011). [Sistema de información empresarial](http://libgen.rs/book/index.php?md5=77DE9AE1D073B9367127448826BA6460)* (pp. 1-30). Catalunya: Universitat Oberta de Catalunya.
+    
+    Consultar también la siguiente bibliografía complementaria: (1). Sánchez, A. (2016). Sistema de información: Concepto, elementos, etapas, funciones y ejemplo. ([Video](https://www.youtube.com/watch?v=Ibh62H7M1Jo)), (2). Extensión del ITTG sede Bochil Pagina Oficial (2015). [Elementos de un sistema de información] (https://www.youtube.com/watch?v=kAzxXgKiwTE) (Video) y (3). Molar, A. (2015). [Tipos de sistemas de Información](https://www.youtube.com/watch?v=vh4Wg-MiLhw) (Video).
+    
+    *Parte 2*. Por equipo, deben planificar una sesión colectiva y sacar sus conclusiones sobre el tema. Suban el reporte de la investigación con la siguiente estructura: *Introducción*, *Contexto*, *Desarrollo*, *Conclusiones* y *Bibliografía*.
+    
+    Suban su texto al Google Drive de cada uno de los integrantes.
+
 8. *Práctica 4.4. Arquitectura de un sistemas de información*. (Entrega: por definir).
-- *Objetivo*: Comprender la arquitectura de un sistema de información empresarial.
-- *Parte 1*. Investigue la arquitectura de un sistema de información empresarial en la actualidad en el capìtulo Hormigo, I. G. (2011). Arquitectura del sistema ERP y sus módulos funcionales. In H. G. Fuster, I. G. Hormigo, J. M. Joana, & J. R. Rodríguez (Eds.). *Fundamentos de sistemas de información* (pp. 31-43). Catalunya: Universitat Oberta de Catalunya. ([url](http://libgen.rs/book/index.php?md5=77DE9AE1D073B9367127448826BA6460).
-- *Parte 2*. Haga un breve reporte en su cuaderno la investigación sobre qué es un sistema de información, un sistema de información empresarial y la tipología de ellos. Este es su entregable.
-- *Parte 3*. Tome como estudio de caso la solución denominada de código libre y abierto Adaxa Suite ([proveedor](http://www.adaxa.com/), [video](https://www.youtube.com/watch?v=SST_AEKg-uw), [revisión](https://www.predictiveanalyticstoday.com/adaxa-suite/)) y describa las ventajas y desventajas que tiene respecto a soluciones comerciales equivalentes en software privativo.
-- *Parte 4*. Instale y configure [XAMPP Server](https://www.apachefriends.org/es/index.html) en su computadora ([guía](https://www.youtube.com/watch?v=6Yrw2TYCqqg), [descargar](https://www.apachefriends.org/xampp-files/8.0.10/xampp-windows-x64-8.0.10-0-VS16-installer.exe)) en Windows.
-- *Parte 5*. Revise el ERP [Dolibarr](https://www.dolibarr.org/), [descárguelo](https://sourceforge.net/projects/dolibarr/files/Dolibarr%20ERP-CRM/14.0.2/)) e instálelo ([guía](https://www.youtube.com/watch?v=_6_k0nUyezE)) como un ejemplo de una aplicación empresarial.
-- *Parte 4*. Haga las [primeras configuraciones](https://wiki.dolibarr.org/index.php?title=Primeras_configuraciones) y pruébelo.
+
+    *Objetivo*: Comprender la arquitectura de un sistema de información empresarial.
+    
+    *Parte 1*. Investigue la arquitectura de un sistema de información empresarial en la actualidad en el capìtulo 
+    
+    Hormigo, I. G. (2011). Arquitectura del sistema ERP y sus módulos funcionales. *In* H. G. Fuster, I. G. Hormigo, J. M. Joana, & J. R. Rodríguez (Eds.). *Fundamentos de sistemas de información* (pp. 31-43). Catalunya: Universitat Oberta de Catalunya. ([url](http://libgen.rs/book/index.php?md5=77DE9AE1D073B9367127448826BA6460).
+    
+    *Parte 2*. Haga un breve reporte en su cuaderno la investigación sobre qué es un sistema de información, un sistema de información empresarial y la tipología de ellos. Este es su entregable.
+    
+    *Parte 3*. Tome como estudio de caso la solución denominada de código libre y abierto Adaxa Suite ([proveedor](http://www.adaxa.com/), [video](https://www.youtube.com/watch?v=SST_AEKg-uw), [revisión](https://www.predictiveanalyticstoday.com/adaxa-suite/)) y describa las ventajas y desventajas que tiene respecto a soluciones comerciales equivalentes en software privativo.
+    
+    *Parte 4*. Instale y configure [XAMPP Server](https://www.apachefriends.org/es/index.html) en su computadora ([guía](https://www.youtube.com/watch?v=6Yrw2TYCqqg), [descargar](https://www.apachefriends.org/xampp-files/8.0.10/xampp-windows-x64-8.0.10-0-VS16-installer.exe)) en Windows.
+    
+    *Parte 5*. Revise el ERP [Dolibarr](https://www.dolibarr.org/), [descárguelo](https://sourceforge.net/projects/dolibarr/files/Dolibarr%20ERP-CRM/14.0.2/)) e instálelo ([guía](https://www.youtube.com/watch?v=_6_k0nUyezE)) como un ejemplo de una aplicación empresarial.
+    
+    *Parte 6*. Haga las [primeras configuraciones](https://wiki.dolibarr.org/index.php?title=Primeras_configuraciones) y pruébelo.
 - Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+
 #### Bibliografía Obligatoria:
 - Hormigo, I. G.  (2011). Sistema de información empresarial. In H. G. Fuster, I. G. Hormigo, J. M. Joana, & J. R. Rodríguez (Eds.). *Fundamentos de sistemas de información* (pp. 5-15). Catalunya: Universitat Oberta de Catalunya. ([url](http://libgen.rs/book/index.php?md5=77DE9AE1D073B9367127448826BA6460)). (*Lectura 4.1.*)
 - Zavala, J. (2011). ¿Qué es la ingenieria de software?: Una visión crítica . In *La ingeniería de software: Una discusión epistemológica (pp. 77-126)*. Tesis de Maestría en Ciencias de la Computación. Universidad Aunoma Metropolitana, Unidad Azcapotzalco, Ciudad de México. (https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing). (*Lectura 4.2.*)
+
 #### Bibliografía Complementaria:
 - Ensmenger, N. L. (2003). [Letting the “Computer Boys” take over: Technology and the politics of organizational transformation](https://www.researchgate.net/publication/248710837_Letting_the_Computer_Boys_Take_Over_Technology_and_the_Politics_of_Organizational_Transformation). *International Review of Social History (IRSH), 48* (S11) (December 2003), 153–180. DOI: 10.1017/S0020859003001305.
 - Haigh, T. (2001). [Inventing information systems: The systems men and the computer, 1950-1968](https://www.jstor.org/stable/i356703). *The Business History Review 75*(1) (Computers and Communications Networks, Spring), 15-61.
@@ -420,10 +575,12 @@ Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (ma
 4. Base de datos
 5. Prácticas
 6. *Práctica 4.1. Editor de textos* (Entrega: Fecha por definir)
-- Concepto y funcionamiento de un editor de textos y desarrollar las habilidades de edición profesional. - Usar estilo APA. Sugerencia: Usar [plantilla para tesis](https://drive.google.com/file/d/0B8yPXE-mYJ1wZkhtVDRNRjNLeW8/view?usp=sharing).
-- [DB libros](https://drive.google.com/file/d/1tirAfY-27e_Ae9I3BvNiIBNfm20Ev4Tz/view?usp=sharing) para ejercicio de combinar correspondencia.
+    - Concepto y funcionamiento de un editor de textos y desarrollar las habilidades de edición profesional.
+    - Usar estilo APA. Sugerencia: Usar [plantilla para tesis](https://drive.google.com/file/d/0B8yPXE-mYJ1wZkhtVDRNRjNLeW8/view?usp=sharing).
+    - [DB libros](https://drive.google.com/file/d/1tirAfY-27e_Ae9I3BvNiIBNfm20Ev4Tz/view?usp=sharing) para ejercicio de combinar correspondencia.
+
 7. *Práctica 4.2. Presentaciones* (Entrega: Fecha por definir)
-- Concepto y funcionamiento de una presentación y aplicar los principios de [Reynolds (2011)]() para elaborar una presentación profesional. Sugerencia: Usar [plantilla](https://drive.google.com/file/d/0B8yPXE-mYJ1wckFFZzZBUWVhRWs/view?usp=sharing). 
+   - Concepto y funcionamiento de una presentación y aplicar los principios de [Reynolds (2011)]() para elaborar una presentación profesional. Sugerencia: Usar [plantilla](https://drive.google.com/file/d/0B8yPXE-mYJ1wckFFZzZBUWVhRWs/view?usp=sharing). 
 8. *Práctica 4.3. Tablas dinámicas con hoja de cálculo*. (Entrega: por definir). 
 - *Objetivo*: Practicar la creación de tablas dinámicas para la resolución de preguntas cuantitativas a una base de datos.
 - *Parte 1*. Desde el sitio web del Inegi, del [Censo Nacional de Población y Vivienda del INEGI](https://www.inegi.org.mx/programas/ccpv/2010/), descargue el [Cuestionario Básico](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cpv2010_cuest_basico_d.pdf), la [Descripción de la Base de Datos](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/diccionario_cuestionario_basico.xls), una [muestra de la base de datos](https://www.inegi.org.mx/programas/ccpv/2010/), la [Síntesis Metodológica y Conceptual](http://internet.contenidos.inegi.org.mx/contenidos/Productos/prod_serv/contenidos/espanol/bvinegi/productos/metodologias/est/sm_cpv2010.pdf) y el [Cuestionario Ampliado](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cpv2010_cuest_ampliado_d.pdf); y, de la pestaña [Microdatos](https://www.inegi.org.mx/programas/ccpv/2010/#Microdatos), descargue la muestra de la Base de Datos de Personas ([dbf en zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/microdatos/ejemplobd/dummy_personas_cpv2010_dbf.zip)), Base de Datos de Viviendas ([dbf en zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/microdatos/ejemplobd/dummy_viviendas_cpv2010_dbf.zip)) y el Catálogo de la Integración General de Localidades (CIGEL) ([dbf en zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cigel_2010_hab_dbf.zip)) y los demás catálogos. También descargue el archivo [DUMMY_PERSONAS_5K.dbf.zip](https://drive.google.com/file/d/1TNXXZZQ9GEJKU8UD-YyuklF4a1E8w_0b/view?usp=sharing), que es una muestra muy pequeña de la base de datos, para realizar el ejercicio.
