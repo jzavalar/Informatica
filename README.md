@@ -306,7 +306,9 @@ Que al finalizar el curso el alumno sea capaz de:
     
     *Parte 3*. Investigue un poco sobre las distribuciones del sistema operativo GNU/Linux ([guía 1](https://www.youtube.com/watch?v=RLStWVb1fWo&t=313s)) ([guía 2](https://www.youtube.com/watch?v=gbqv0AkqsXw)). Descargue el archivo ISO del sistema operativo Linux [Ubuntu](https://releases.ubuntu.com/) y [Fedora](https://getfedora.org/es/) ([guía](https://www.youtube.com/watch?v=gbqv0AkqsXw)) ([url]()), 32 o 64 bits, según sea su procesador CPU de su laptop.
     
-    *Parte 4*. Utilice la aplicación [Ventoy](https://www.ventoy.net/en/index.html) siguiendo el tutorial ([video](https://www.youtube.com/watch?v=_3p-f_Cwa4g)) en una USB vacía, de 16 Gib, por lo menos. Si en su computadora no funciona Ventoy, use [Yumi](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) según esta [guía](https://www.youtube.com/watch?v=dR8ewnlfzVc) o [Rufus](https://rufus.ie/es/) ([guía](https://www.youtube.com/watch?v=qedjN2AA3gU)). 
+    *Parte 4*. Utilice la aplicación [Ventoy](https://www.ventoy.net/en/index.html) siguiendo el siguiente tutorial en [video](https://www.youtube.com/watch?v=_3p-f_Cwa4g) o este [tutorial escrito](https://websetnet.net/es/crear-un-instalador-usb-de-arranque-para-linux-a-trav%C3%A9s-de-la-nueva-soluci%C3%B3n-ventoy/amp/), en una USB vacía, de 16 Gib, por lo menos. 
+    
+    Si en su computadora no funciona Ventoy, use [Yumi](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) según esta [guía en video](https://www.youtube.com/watch?v=dR8ewnlfzVc) o este [tutorial escrito](https://hacerusbbooteable.com/usb-multibooteable-con-yumi/) o usa [Rufus](https://rufus.ie/es/) siguiendo este ([tutorial en video](https://www.youtube.com/watch?v=qedjN2AA3gU)) o esta [guía escrita](https://www.xataka.com/basics/que-rufus-como-utilizarlo-para-crear-usb-arranque). 
     
     *Parte 5*. Investigue los conceptos: bootear un equipo ([guía](https://www.youtube.com/watch?v=O2S7YyKb5LI)), BIOS ([guía](https://www.youtube.com/watch?v=HD9qXyvIzOc)) y UEFI ([guía](https://www.youtube.com/watch?v=X3Cx6wm6PtY)). Pruebe que puede arrancar cada uno de los tres sistemas operativos desde la USB.
     
@@ -402,23 +404,23 @@ Que al finalizar el curso el alumno sea capaz de:
     
     Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable 3) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
-6.*Práctica 3.2. Algoritmos y pseudocódigo*. (Entrega: 13 de diciembre de 2021).
-   
-   *Objetivo*: Comprender los conceptos de algoritmo y pseudocódigo.
+6. *Práctica 3.2. Algoritmos y pseudocódigo*. (Entrega: 13 de diciembre de 2021).
+
+    *Objetivo*: Comprender los conceptos de algoritmo y pseudocódigo.
     
-   *Parte 1*. Investigue qué es la [resolución de problemas](https://es.wikipedia.org/wiki/Resolución_de_problemas) y cómo se aplica en la informática con la aplicación de la Máquina de Turing. También, investigue qué es un [algoritmo](https://es.wikipedia.org/wiki/Algoritmo) (utilice como base los videos Bases de la Programación) y compárelo con la definición de una receta.
+    *Parte 1*. Investigue qué es la [resolución de problemas](https://es.wikipedia.org/wiki/Resolución_de_problemas) y cómo se aplica en la informática con la aplicación de la Máquina de Turing. También, investigue qué es un [algoritmo](https://es.wikipedia.org/wiki/Algoritmo) (utilice como base los videos Bases de la Programación) y compárelo con la definición de una receta.
    
-   *Parte 2*. Investigue qué es el [pseudocódigo](https://es.wikipedia.org/wiki/Pseudocódigo) y su utilidad para el aprendizaje de la programación de computadoras.
+    *Parte 2*. Investigue qué es el [pseudocódigo](https://es.wikipedia.org/wiki/Pseudocódigo) y su utilidad para el aprendizaje de la programación de computadoras.
     
-   *Parte 3*. Luego, instale la aplicación *[PseInt](http://pseint.sourceforge.net/)* en su equipo y haga una compilación de los elementos del pseudocódigo en su cuaderno utilizado en *PSeInt*, a parti6. de la documentación en la Ayuda de la aplicación y de la consulta del siguiente [curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw).
+    *Parte 3*. Luego, instale la aplicación *[PseInt](http://pseint.sourceforge.net/)* en su equipo y haga una compilación de los elementos del pseudocódigo en su cuaderno utilizado en *PSeInt*, a parti6. de la documentación en la Ayuda de la aplicación y de la consulta del siguiente [curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw).
    
-   Concéntrese en comprender la lógica de los tipos y estructuras de datos, de los comandos, de las estructuras de control y de la entrada, salida, almacenamiento y procesamiento de datos.
+    Concéntrese en comprender la lógica de los tipos y estructuras de datos, de los comandos, de las estructuras de control y de la entrada, salida, almacenamiento y procesamiento de datos.
    
-   *Parte 4*. Estudie la aplicación de PSeInt a la programación de una aplicación sencilla de un sistema de información para la operación de un estacionamiento, en la siguiente [lista de videos](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). Previamente, para cada video, descargue el archivo con el código fuente del pseudocódigo, disponible en la descripción de cada uno de ellos. 
+    *Parte 4*. Estudie la aplicación de PSeInt a la programación de una aplicación sencilla de un sistema de información para la operación de un estacionamiento, en la siguiente [lista de videos](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). Previamente, para cada video, descargue el archivo con el código fuente del pseudocódigo, disponible en la descripción de cada uno de ellos. 
     
-   *Parte 5*. De manera progresiva documente cada archivo con comentarios, según la explicación del autor, hasta que le quede completamente clara la lógica de la programación. Distinga entre proceso principal y subprocesos. Para cada subproceso identifique los parámetros o datos de entrada, el tipo de pase de los mismos y el valor de regreso. En la llamada del subproceso identifique los argumentos y el valor devuelto por el suproceso. Comprenda el concepto de ámbito (*scope*) de una variable y cómo funciona el tipo de pase de parámetros: por valor y por referencia.
+    *Parte 5*. De manera progresiva documente cada archivo con comentarios, según la explicación del autor, hasta que le quede completamente clara la lógica de la programación. Distinga entre proceso principal y subprocesos. Para cada subproceso identifique los parámetros o datos de entrada, el tipo de pase de los mismos y el valor de regreso. En la llamada del subproceso identifique los argumentos y el valor devuelto por el suproceso. Comprenda el concepto de ámbito (*scope*) de una variable y cómo funciona el tipo de pase de parámetros: por valor y por referencia.
     
-   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+    Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
 
 7. *Práctica 3.3. Programación Parte 1: Control básico, condicionales y ciclos*. (Demostrativa).
 
@@ -562,7 +564,8 @@ Que al finalizar el curso el alumno sea capaz de:
     *Parte 5*. Revise el ERP [Dolibarr](https://www.dolibarr.org/), [descárguelo](https://sourceforge.net/projects/dolibarr/files/Dolibarr%20ERP-CRM/14.0.2/)) e instálelo ([guía](https://www.youtube.com/watch?v=_6_k0nUyezE)) como un ejemplo de una aplicación empresarial.
     
     *Parte 6*. Haga las [primeras configuraciones](https://wiki.dolibarr.org/index.php?title=Primeras_configuraciones) y pruébelo.
-- Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+    
+    Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
 
 #### Bibliografía Obligatoria:
 - Hormigo, I. G.  (2011). Sistema de información empresarial. In H. G. Fuster, I. G. Hormigo, J. M. Joana, & J. R. Rodríguez (Eds.). *Fundamentos de sistemas de información* (pp. 5-15). Catalunya: Universitat Oberta de Catalunya. ([url](http://libgen.rs/book/index.php?md5=77DE9AE1D073B9367127448826BA6460)). (*Lectura 4.1.*)
@@ -580,13 +583,13 @@ Que al finalizar el curso el alumno sea capaz de:
 4. Base de datos
 5. Prácticas
 6. *Práctica 5.1. Editor de textos* (Entrega: Fecha por definir)
-   
+    
     - Concepto y funcionamiento de un editor de textos y desarrollar las habilidades de edición profesional.
     - Usar estilo APA. Sugerencia: Usar [plantilla para tesis](https://drive.google.com/file/d/0B8yPXE-mYJ1wZkhtVDRNRjNLeW8/view?usp=sharing).
     - [DB libros](https://drive.google.com/file/d/1tirAfY-27e_Ae9I3BvNiIBNfm20Ev4Tz/view?usp=sharing) para ejercicio de combinar correspondencia.
 
 7. *Práctica 5.2. Presentaciones* (Entrega: Fecha por definir)
-   - Concepto y funcionamiento de una presentación y aplicar los principios de [Reynolds (2011)]() para elaborar una presentación profesional. Sugerencia: Usar [plantilla](https://drive.google.com/file/d/0B8yPXE-mYJ1wckFFZzZBUWVhRWs/view?usp=sharing). 
+    - Concepto y funcionamiento de una presentación y aplicar los principios de [Reynolds (2011)]() para elaborar una presentación profesional. Sugerencia: Usar [plantilla](https://drive.google.com/file/d/0B8yPXE-mYJ1wckFFZzZBUWVhRWs/view?usp=sharing). 
 
 8. *Práctica 5.3. Tablas dinámicas con hoja de cálculo*. (Entrega: por definir). 
 
@@ -614,7 +617,7 @@ Que al finalizar el curso el alumno sea capaz de:
     
     Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
 
-9. *Práctica 4.4. Base de datos geográfica*. (Opcional).
+9. *Práctica 5.4. Base de datos geográfica*. (Opcional).
 
     *Objetivo*: Crear un sistema integrado de bases de datos geográficas con PostgreSQL, R y QGIS.
     
