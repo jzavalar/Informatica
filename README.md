@@ -402,14 +402,17 @@ Que al finalizar el curso el alumno sea capaz de:
     
     Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable 3) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
-6.*Práctica 3.1. Algoritmos y pseudocódigo*. (Entrega: 15 de septiembre de 2021).
-
+6.*Práctica 3.2. Algoritmos y pseudocódigo*. (Entrega: 13 de diciembre de 2021).
+   
    *Objetivo*: Comprender los conceptos de algoritmo y pseudocódigo.
     
    *Parte 1*. Investigue qué es la [resolución de problemas](https://es.wikipedia.org/wiki/Resolución_de_problemas) y cómo se aplica en la informática con la aplicación de la Máquina de Turing. También, investigue qué es un [algoritmo](https://es.wikipedia.org/wiki/Algoritmo) (utilice como base los videos Bases de la Programación) y compárelo con la definición de una receta.
+   
    *Parte 2*. Investigue qué es el [pseudocódigo](https://es.wikipedia.org/wiki/Pseudocódigo) y su utilidad para el aprendizaje de la programación de computadoras.
     
-   *Parte 3*. Luego, instale la aplicación *[PseInt](http://pseint.sourceforge.net/)* en su equipo y haga una compilación de los elementos del pseudocódigo en su cuaderno utilizado en *PSeInt*, a parti6. de la documentación en la Ayuda de la aplicación y de la consulta del siguiente [curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw). Concéntrese en comprender la lógica de los tipos y estructuras de datos, de los comandos, de las estructuras de control y de la entrada, salida, almacenamiento y procesamiento de datos.
+   *Parte 3*. Luego, instale la aplicación *[PseInt](http://pseint.sourceforge.net/)* en su equipo y haga una compilación de los elementos del pseudocódigo en su cuaderno utilizado en *PSeInt*, a parti6. de la documentación en la Ayuda de la aplicación y de la consulta del siguiente [curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw).
+   
+   Concéntrese en comprender la lógica de los tipos y estructuras de datos, de los comandos, de las estructuras de control y de la entrada, salida, almacenamiento y procesamiento de datos.
    
    *Parte 4*. Estudie la aplicación de PSeInt a la programación de una aplicación sencilla de un sistema de información para la operación de un estacionamiento, en la siguiente [lista de videos](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). Previamente, para cada video, descargue el archivo con el código fuente del pseudocódigo, disponible en la descripción de cada uno de ellos. 
     
@@ -497,6 +500,7 @@ Que al finalizar el curso el alumno sea capaz de:
 - Glez, R. (2017, Jul 29). [Mi vida es un algoritmo](https://www.youtube.com/watch?v=MiaLpkV8JyM). *YouTube* (video) (58:15 min).
 - BBC Newsbeat. (2014, Sep 4). [Por qué vale la pena aprender a programar... ¡nunca es tarde!](http://www.bbc.com/mundo/noticias/2014/09/140904_tecnologia_lenguaje_programacion_finde_yv). *BBC Mundo*.
 
+
 ### Unidad 4. Informática: Aplicación de la computación en las organizaciones
 1. La informática como profesión: Los chicos de la computadora
 2. La informática como herramienta de gestión en las organizaciones
@@ -524,6 +528,7 @@ Que al finalizar el curso el alumno sea capaz de:
     *Parte 1*. Los equipos de la práctica anterior, hagan una lectura colectiva del artículo 
     
     Ensmenger, N. L. (2003). [Letting the “Computer Boys” take over: Technology and the politics of organizational transformation](https://www.researchgate.net/publication/248710837_Letting_the_Computer_Boys_Take_Over_Technology_and_the_Politics_of_Organizational_Transformation). *International Review of Social History (IRSH), 48* (S11) (December 2003), 153–180. DOI: 10.1017/S0020859003001305.
+    
     *Parte 2*. Por equipo, deben planificar una sesión colectiva y sacar sus conclusiones sobre el tema. Suban el reporte de la investigación con la siguiente estructura: *Introducción*, *Contexto*, *Desarrollo*, *Conclusiones* y *Bibliografía*.
     
     Suban su texto al Google Drive de cada uno de los integrantes.
@@ -574,43 +579,78 @@ Que al finalizar el curso el alumno sea capaz de:
 3. Hoja de cálculo
 4. Base de datos
 5. Prácticas
-6. *Práctica 4.1. Editor de textos* (Entrega: Fecha por definir)
+6. *Práctica 5.1. Editor de textos* (Entrega: Fecha por definir)
+   
     - Concepto y funcionamiento de un editor de textos y desarrollar las habilidades de edición profesional.
     - Usar estilo APA. Sugerencia: Usar [plantilla para tesis](https://drive.google.com/file/d/0B8yPXE-mYJ1wZkhtVDRNRjNLeW8/view?usp=sharing).
     - [DB libros](https://drive.google.com/file/d/1tirAfY-27e_Ae9I3BvNiIBNfm20Ev4Tz/view?usp=sharing) para ejercicio de combinar correspondencia.
 
-7. *Práctica 4.2. Presentaciones* (Entrega: Fecha por definir)
+7. *Práctica 5.2. Presentaciones* (Entrega: Fecha por definir)
    - Concepto y funcionamiento de una presentación y aplicar los principios de [Reynolds (2011)]() para elaborar una presentación profesional. Sugerencia: Usar [plantilla](https://drive.google.com/file/d/0B8yPXE-mYJ1wckFFZzZBUWVhRWs/view?usp=sharing). 
-8. *Práctica 4.3. Tablas dinámicas con hoja de cálculo*. (Entrega: por definir). 
-- *Objetivo*: Practicar la creación de tablas dinámicas para la resolución de preguntas cuantitativas a una base de datos.
-- *Parte 1*. Desde el sitio web del Inegi, del [Censo Nacional de Población y Vivienda del INEGI](https://www.inegi.org.mx/programas/ccpv/2010/), descargue el [Cuestionario Básico](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cpv2010_cuest_basico_d.pdf), la [Descripción de la Base de Datos](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/diccionario_cuestionario_basico.xls), una [muestra de la base de datos](https://www.inegi.org.mx/programas/ccpv/2010/), la [Síntesis Metodológica y Conceptual](http://internet.contenidos.inegi.org.mx/contenidos/Productos/prod_serv/contenidos/espanol/bvinegi/productos/metodologias/est/sm_cpv2010.pdf) y el [Cuestionario Ampliado](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cpv2010_cuest_ampliado_d.pdf); y, de la pestaña [Microdatos](https://www.inegi.org.mx/programas/ccpv/2010/#Microdatos), descargue la muestra de la Base de Datos de Personas ([dbf en zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/microdatos/ejemplobd/dummy_personas_cpv2010_dbf.zip)), Base de Datos de Viviendas ([dbf en zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/microdatos/ejemplobd/dummy_viviendas_cpv2010_dbf.zip)) y el Catálogo de la Integración General de Localidades (CIGEL) ([dbf en zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cigel_2010_hab_dbf.zip)) y los demás catálogos. También descargue el archivo [DUMMY_PERSONAS_5K.dbf.zip](https://drive.google.com/file/d/1TNXXZZQ9GEJKU8UD-YyuklF4a1E8w_0b/view?usp=sharing), que es una muestra muy pequeña de la base de datos, para realizar el ejercicio.
-- *Parte 2*. En primer lugar, utilice *Calc* de *LibreOffice* ([ayuda](https://help.libreoffice.org/Calc/Importing_and_Exporting_dBASE_Files/es)) para abrir el archivo disponible del Inegi en el formato DBF y expórtelo a cualquier otro como XLSX, XLS o CSV.
-- *Parte 3*. En segundo lugar, utilice el paquete [rio](https://cran.r-project.org/web/packages/rio/) en [RStudio](https://rstudio.com/) para abrir (importar / exportar) y convertir alguno de los archivos en los formatos disponibles del Inegi: DBF, SAS, SAV, DTA a cualquier otro como XLSX, XLS o CSV. Básese en [este script](https://drive.google.com/file/d/15W7CjN2TmjFo5OSXbbftaWCwm8DagNWo/view?usp=sharing) y adáptelo a su caso particular hasta que le funcione correctamente.
-- *Parte 4*. Practique la consulta multidimensional de datos con la pequeña muestra de la base de datos descargada en la Parte 1 (DUMMY_PERSONAS_5K.dbf). Luego, revise la metodología y la solución en Google Sheets (Google Drive) [aquí](https://drive.google.com/file/d/1Uqu6m_Fv1AqR5Nf8H_8JbffWmr_L01si/view?usp=sharing) y haga lo equivalente en Excel (Microsoft Office) y Calc (LibreOffice). Tome como base la siguiente pregunta:
-- *¿Cuántos jefes de familia hay en la base de datos que son estudiantes y son menores de edad?* y *¿Cuál es su distribución por edad y sexo?*
-- *Tip*: Si bien, este problema puede resolverse aplicado filtros de manera consecutiva, también puede resolverse realizando una consulta a la base de datos mediante una tabla dinámica.
-- *Parte 5*. Complementariamente, repita el ejercicio de la creación de un tablero de control dinámico (*Dashboard*) del video [Cómo crear un Dashboard interactivo en Excel en menos de 10 min!](https://www.youtube.com/watch?v=Oanr41Tz28U) (14:33 min). Descargue los datos [aquí](https://www.consultaconmax.com/s/20190711_Dashboard.xlsx).
-- Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+
+8. *Práctica 5.3. Tablas dinámicas con hoja de cálculo*. (Entrega: por definir). 
+
+    *Objetivo*: Practicar la creación de tablas dinámicas para la resolución de preguntas cuantitativas a una base de datos.
+    
+    *Parte 1*. Desde el sitio web del Inegi, del [Censo Nacional de Población y Vivienda del INEGI](https://www.inegi.org.mx/programas/ccpv/2010/), descargue el [Cuestionario Básico](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cpv2010_cuest_basico_d.pdf), la [Descripción de la Base de Datos](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/diccionario_cuestionario_basico.xls), una [muestra de la base de datos](https://www.inegi.org.mx/programas/ccpv/2010/), la [Síntesis Metodológica y Conceptual](http://internet.contenidos.inegi.org.mx/contenidos/Productos/prod_serv/contenidos/espanol/bvinegi/productos/metodologias/est/sm_cpv2010.pdf) y el [Cuestionario Ampliado](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cpv2010_cuest_ampliado_d.pdf).
+    
+    De la pestaña [Microdatos](https://www.inegi.org.mx/programas/ccpv/2010/#Microdatos), descargue la muestra de la Base de Datos de Personas ([dbf en zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/microdatos/ejemplobd/dummy_personas_cpv2010_dbf.zip)), Base de Datos de Viviendas ([dbf en zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/microdatos/ejemplobd/dummy_viviendas_cpv2010_dbf.zip)) y el Catálogo de la Integración General de Localidades (CIGEL) ([dbf en zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cigel_2010_hab_dbf.zip)) y los demás catálogos.
+    
+    También descargue el archivo [DUMMY_PERSONAS_5K.dbf.zip](https://drive.google.com/file/d/1TNXXZZQ9GEJKU8UD-YyuklF4a1E8w_0b/view?usp=sharing), que es una muestra muy pequeña de la base de datos, para realizar el ejercicio.
+    
+    *Parte 2*. En primer lugar, utilice *Calc* de *LibreOffice* ([ayuda](https://help.libreoffice.org/Calc/Importing_and_Exporting_dBASE_Files/es)) para abrir el archivo disponible del Inegi en el formato DBF y expórtelo a cualquier otro como XLSX, XLS o CSV.
+    
+    *Parte 3*. En segundo lugar, utilice el paquete [rio](https://cran.r-project.org/web/packages/rio/) en [RStudio](https://rstudio.com/) para abrir (importar / exportar) y convertir alguno de los archivos en los formatos disponibles del Inegi: DBF, SAS, SAV, DTA a cualquier otro como XLSX, XLS o CSV. Básese en [este script](https://drive.google.com/file/d/15W7CjN2TmjFo5OSXbbftaWCwm8DagNWo/view?usp=sharing) y adáptelo a su caso particular hasta que le funcione correctamente.
+    
+    *Parte 4*. Practique la consulta multidimensional de datos con la pequeña muestra de la base de datos descargada en la Parte 1 (DUMMY_PERSONAS_5K.dbf). Luego, revise la metodología y la solución en Google Sheets (Google Drive) [aquí](https://drive.google.com/file/d/1Uqu6m_Fv1AqR5Nf8H_8JbffWmr_L01si/view?usp=sharing) y haga lo equivalente en Excel (Microsoft Office) y Calc (LibreOffice). Tome como base la siguiente pregunta:
+    
+     - *¿Cuántos jefes de familia hay en la base de datos que son estudiantes y son menores de edad?* y 
+    
+     - *¿Cuál es su distribución por edad y sexo?*
+    
+    *Tip*: Si bien, este problema puede resolverse aplicado filtros de manera consecutiva, también puede resolverse realizando una consulta a la base de datos mediante una tabla dinámica.
+    
+    *Parte 5*. Complementariamente, repita el ejercicio de la creación de un tablero de control dinámico (*Dashboard*) del video [Cómo crear un Dashboard interactivo en Excel en menos de 10 min!](https://www.youtube.com/watch?v=Oanr41Tz28U) (14:33 min). Descargue los datos [aquí](https://www.consultaconmax.com/s/20190711_Dashboard.xlsx).
+    
+    Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+
 9. *Práctica 4.4. Base de datos geográfica*. (Opcional).
-- *Objetivo*: Crear un sistema integrado de bases de datos geográficas con PostgreSQL, R y QGIS.
-- *Parte 1*. Instale [PostgreSQL](https://www.postgresql.org/), [Stack Builder](https://www.enterprisedb.com/edb-docs/d/postgresql/installation-getting-started/installation-guide-installers/11/PostgreSQL_Installation_Guide.1.09.html) y [PostGIS](https://www.postgis.net/) ([url](https://www.postgresql.org/download/windows/)), [pgAdmin 4](https://www.pgadmin.org/) ([url]()) en Windows ([guía](https://www.youtube.com/watch?v=bq9dOrwZ-KA)) y QGIS ([guía](https://www.youtube.com/watch?v=PG3Xmt3S9Ac)).
-- *Parte 2*. Cree un usuario del servidor *PostgreSQL* y conéctese ([guía](https://www.youtube.com/watch?v=jxIEDKzGrOs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=1)).
-- *Parte 3*. Descargue los archivos de la base de datos geográfica ([url](http://s3.cleverelephant.ca/postgis-workshop-2018.zip)) ([tutorial PostGIS](https://postgis.net/workshops/postgis-intro/)). Cree una base de datos espacial ([guía](https://www.youtube.com/watch?v=UtiIY39qmhg)). 
-- *Parte 4*. Use la aplicación *shp2pgsql* para importar los archivos shapefiles ([guía 1](https://postgis.net/workshops/postgis-intro/loading_data.html), [guia 2](https://www.youtube.com/watch?v=N_GvAi5RitM)) (si después de instalar PostGIS (en Windows), ocurre un error por la falta del archivo libsqlite3-0.dll, éste debe descargarse y copiarse al directorio base de la aplicación desde [aquí](https://www.pconlife.com/download/otherfile/35257/d56eb0e10349ffd8a57efb66d452d3a2/), por ejemplo, la [versión 64 bits](https://www.pconlife.com/download/otherfile/35257/d56eb0e10349ffd8a57efb66d452d3a2/)).
-- *Parte 5*. Conéctese a la base de datos desde RStudio y pruebe R con la base de datos ([guía](https://www.youtube.com/watch?v=-F5SpGhnNG8)).
-- *Parte 6*. Conéctese a la base de datos con *QGiS*, despliegue el mapa ([guía](https://www.youtube.com/watch?v=NYKHlSd932c)). 
-- *Parte 7*. Respalde la base de datos ([guía](https://www.youtube.com/watch?v=icEvkyIXqug&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=66&t=0s)).
-- Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito o pruebe algún tutorial.
-- Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+
+    *Objetivo*: Crear un sistema integrado de bases de datos geográficas con PostgreSQL, R y QGIS.
+    
+    *Parte 1*. Instale [PostgreSQL](https://www.postgresql.org/), [Stack Builder](https://www.enterprisedb.com/edb-docs/d/postgresql/installation-getting-started/installation-guide-installers/11/PostgreSQL_Installation_Guide.1.09.html) y [PostGIS](https://www.postgis.net/) ([url](https://www.postgresql.org/download/windows/)), [pgAdmin 4](https://www.pgadmin.org/) ([url]()) en Windows ([guía](https://www.youtube.com/watch?v=bq9dOrwZ-KA)) y QGIS ([guía](https://www.youtube.com/watch?v=PG3Xmt3S9Ac)).
+    
+    *Parte 2*. Cree un usuario del servidor *PostgreSQL* y conéctese ([guía](https://www.youtube.com/watch?v=jxIEDKzGrOs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=1)).
+    
+    *Parte 3*. Descargue los archivos de la base de datos geográfica ([url](http://s3.cleverelephant.ca/postgis-workshop-2018.zip)) ([tutorial PostGIS](https://postgis.net/workshops/postgis-intro/)). Cree una base de datos espacial ([guía](https://www.youtube.com/watch?v=UtiIY39qmhg)). 
+    
+    *Parte 4*. Use la aplicación *shp2pgsql* para importar los archivos shapefiles ([guía 1](https://postgis.net/workshops/postgis-intro/loading_data.html), [guia 2](https://www.youtube.com/watch?v=N_GvAi5RitM)) (si después de instalar PostGIS (en Windows), ocurre un error por la falta del archivo libsqlite3-0.dll, éste debe descargarse y copiarse al directorio base de la aplicación desde [aquí](https://www.pconlife.com/download/otherfile/35257/d56eb0e10349ffd8a57efb66d452d3a2/), por ejemplo, la [versión 64 bits](https://www.pconlife.com/download/otherfile/35257/d56eb0e10349ffd8a57efb66d452d3a2/)).
+    
+    *Parte 5*. Conéctese a la base de datos desde RStudio y pruebe R con la base de datos ([guía](https://www.youtube.com/watch?v=-F5SpGhnNG8)).
+    
+    *Parte 6*. Conéctese a la base de datos con *QGiS*, despliegue el mapa ([guía](https://www.youtube.com/watch?v=NYKHlSd932c)). 
+    
+    *Parte 7*. Respalde la base de datos ([guía](https://www.youtube.com/watch?v=icEvkyIXqug&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=66&t=0s)).
+    
+    Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito o pruebe algún tutorial.
+    
+    Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
 
 
 ### Proyecto de fin de curso: 
-- El proyecto es opcopnal, pero otorgará un punto extra a la calificación final si cumple los requisitos del mismo.
-- Por equipo, estudien la lista de videos sobre el desarrollo de un  [Sistema para un Parqueadero en #PseInt](https://www.youtube.com/watch?v=9jLu8yrdsjM&list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f) (Altas, Bajas y Cambios).
-- Después, elijan alguno de los siguientes temas para adaptarlo: (1) Tienda de abarrotes, (2) Biblioteca, (3) Librería, (4) Escuela, (5) Contactos.
-- Documente el código de su proyecto con suficientes comentarios
-- Prepare la exposición de su trabajo.
-- Suba los entregables de su proyecto a el Google Drive de cada participante.
+
+El proyecto es opcional, pero otorgará un punto extra a la calificación final si cumple los requisitos del mismo.
+
+Por equipo, estudien la lista de videos sobre el desarrollo de un  [Sistema para un Parqueadero en #PseInt](https://www.youtube.com/watch?v=9jLu8yrdsjM&list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f) (Altas, Bajas y Cambios).
+
+Después, elijan alguno de los siguientes temas para adaptarlo: (1) Tienda de abarrotes, (2) Biblioteca, (3) Librería, (4) Escuela, (5) Contactos.
+
+Documente el código de su proyecto con suficientes comentarios
+
+Prepare la exposición de su trabajo.
+
+Suba los entregables de su proyecto a el Google Drive de cada participante.
+
 #### Bibliografía Complementaria:
 - JhonvaCode. (2018, Jan 14) [Sistema de un parqueadero en #PseInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). *YouTube*. (7 videos). (*Lectura 2.3*).
 
@@ -622,7 +662,7 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 
 #### Calificación
 | Factor | Porcentaje | Observaciones |
-| ------------- | ------------- | ------------- |
+| --- | :---: | ------------- |
 | Asistencia puntual | 10% |  |
 | Tareas|30% |Se entrega en la fecha programada |
 | Prácticas| 30% |Se entregan  en la fecha programada |
