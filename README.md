@@ -359,6 +359,10 @@ Que al finalizar el curso el alumno sea capaz de:
   *Parte 2*. Investigue los conceptos involucrados: bootear un equipo ([guía](https://www.youtube.com/watch?v=O2S7YyKb5LI)), BIOS ([guía](https://www.youtube.com/watch?v=HD9qXyvIzOc)), UEFI ([guía](https://www.youtube.com/watch?v=X3Cx6wm6PtY)), partición (física y lógica, de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), GPT y MBR ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)).
      
   *Parte 3*. Use una USB sin datos o nueva y practique los procesos de manejo de particiones (crear, cambiar de tamaño, fusionar y eliminar particiones en Windows con Disk Management ([guía](https://www.youtube.com/watch?v=gXvyWWi7lh8)), de los siguientes tipos: FAT, exFAT, FAT32, NTFS y EXT4. Saque sus conclusiones.
+  
+  *Parte 4*. Repita las mismas operaciones de la *Parte 3* de esta práctica usando la aplicación [GParted Live CD/USB/HD/PXE Bootable Image](https://gparted.org/download.php) copiando el archivo ISO en la USB con Ventoy y arrancando el ISO. Utilice este [tutorial](https://www.youtube.com/watch?v=-kYe3BYPurA). Compare Disk Management y gParted y saque sus conclusiones.
+  
+  ***Aplicación***: Con alguna de estas dos herramientas se puede preparar el disco duro de la computadora para instalar Linux como segundo sistema operativo o en *dual boot, sin perder información*, después de dejar un espacio libre de unos 20 a 50 GB, dependiendo del tamaño del disco disponible. Ver este [tutorial](https://www.youtube.com/watch?v=ycTh_x-hzro).  
      
   Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
