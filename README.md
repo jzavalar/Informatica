@@ -319,7 +319,9 @@ Que al finalizar el curso el alumno sea capaz de:
   Si en su computadora no funciona Ventoy, use [Yumi](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) según esta [guía en video](https://www.youtube.com/watch?v=dR8ewnlfzVc) o este [tutorial escrito](https://hacerusbbooteable.com/usb-multibooteable-con-yumi/) (Descargue el archivo para arrancar la ISO de Windows [aqui](https://github.com/ventoy/vhdiso/releases/download/v3.0/ventoy_vhdboot.zip)) o usa [Rufus](https://rufus.ie/es/) siguiendo este ([tutorial en video](https://www.youtube.com/watch?v=qedjN2AA3gU)) o esta [guía escrita](https://www.xataka.com/basics/que-rufus-como-utilizarlo-para-crear-usb-arranque). 
     
   *Parte 5*. Investigue los conceptos: bootear un equipo ([guía](https://www.youtube.com/watch?v=O2S7YyKb5LI)), BIOS ([guía](https://www.youtube.com/watch?v=HD9qXyvIzOc)) y UEFI ([guía](https://www.youtube.com/watch?v=X3Cx6wm6PtY)). Pruebe que puede arrancar cada uno de los tres sistemas operativos desde la USB.
-    
+  
+  *Aplicación práctica*: Con la USB puede usar la computadora, a apesar de que falle el sistema operativo Windows ya que es posible arrancar su sistema operativo Linux desde la USB y trabajar en él con las tareas cotidianas de oficina como abrir o crear un archivo de texto de Word con Libre Office, navegar por Internet y enviarlo por correo.
+      
   Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 - *Práctica 2.4. Instalación de sistemas operativos como máquinas virtuales*. (Entrega: 1 de diciembre de 2021).
@@ -345,8 +347,12 @@ Que al finalizar el curso el alumno sea capaz de:
   Utilice Qbittorrent y, mediante su motor de búsqueda, localice la imagen ISO del sistema operativo Windows usando la frase "Active Boot Disk 10" ([tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)). Identifique la entrada que tiene más semillas (seeds) (de 640 Kb de tamaño) y descárguela o agregue el torrent a qBittorrent desde [aquí](https://limetor.com/Active-Boot-Disk-Suite-10-1-0-Modified-Edition-Feb-2015-%28ISO%29--%20Core-X%20-%20%20FRG%20-torrent-7452833.html). 
     
   Borre a propósito y luego rescate un par de archivos utilizando *Active Boot Disk* ([tutorial](https://www.youtube.com/watch?v=sHMGRn_wWlc)) y explore las otras herramientas.
+  
+  De manera análoga, puede utilizar esta herramienta para recuperar una partición borrada por accidente. Ver el siguiente [tutorial](https://www.youtube.com/watch?v=EGwIOPyPejU). 
+  
+  También puede usar Linux para recuperar la partición con TestDisk. Ver este [tutorial](https://www.youtube.com/watch?v=EncqYP1ijFg).
     
-  *Aplicación práctica*: Imagine que por alguna razón, su sistema operativo Windows no funciona y que requiere copiar los archivos. Busque los archivos de usuario de la cuenta principal y haga una copia de alguno de ellos a una unidad externa (USB) ([video](https://www.youtube.com/watch?v=U3LaBt0Rcls)). Otra aplicación práctica es usar la computadora si falla el sistema operativo Windows. Arranque su sistema operativo Linux desde la USB y trabaje un archivo de texto de Word con Libre Office, navegue por Internet y envíelo a su propio correo.
+  *Aplicación práctica*: Si, por alguna razón desconocida, su sistema operativo Windows ya no funciona arranca y no es posible recuperarlo y no respaldó su información, entonces requiere copiar sus archivos para volver a usarlos. Localice la cuenta del usuario y haga una copia de sus archivos a una unidad externa conectasa con un cable USB ([video](https://www.youtube.com/watch?v=U3LaBt0Rcls)).
     
   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
