@@ -346,11 +346,11 @@ Que al finalizar el curso el alumno sea capaz de:
     
   Utilice Qbittorrent y, mediante su motor de búsqueda, localice la imagen ISO del sistema operativo Windows usando la frase "Active Boot Disk 10" ([tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)). Identifique la entrada que tiene más semillas (seeds) (de 640 Kb de tamaño) y descárguela o agregue el torrent a qBittorrent desde [aquí](https://limetor.com/Active-Boot-Disk-Suite-10-1-0-Modified-Edition-Feb-2015-%28ISO%29--%20Core-X%20-%20%20FRG%20-torrent-7452833.html). 
     
-  Borre a propósito y luego rescate un par de archivos utilizando *Active Boot Disk* ([tutorial](https://www.youtube.com/watch?v=sHMGRn_wWlc)) y explore las otras herramientas.
+  Borre a propósito y luego rescate un par de archivos utilizando *Active Boot Disk* ([tutorial](https://www.youtube.com/watch?v=sHMGRn_wWlc)) y explore las otras herramientas. 
   
-  De manera análoga, puede utilizar esta herramienta para recuperar una partición borrada por accidente. Ver el siguiente [tutorial](https://www.youtube.com/watch?v=EGwIOPyPejU). 
+  De manera análoga, puede utilizar *[TestDisk](https://www.cgsecurity.org/wiki/TestDisk_ES)*, con *[PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec_ES)* para recuperar archivos. Ver este [tutorial](https://www.youtube.com/watch?v=NKzBBk1wWyY).
   
-  También puede usar Linux para recuperar la partición con TestDisk. Ver este [tutorial](https://www.youtube.com/watch?v=EncqYP1ijFg).
+  *Muy importante*: Inmediatamente después de darse cuenta de que ha borrado un archivo por accidente o que ha descubierto alguna falta, *no guarde mas fotos o archivos en esa memoria o disco* para prevenir la sobreescritura de los datos perdidos. Esto significa, requiere otro medio de almacenamiento para guardar los archivos recuperados.
     
   *Aplicación práctica*: Si, por alguna razón desconocida, su sistema operativo Windows ya no funciona arranca y no es posible recuperarlo y no respaldó su información, entonces requiere copiar sus archivos para volver a usarlos. Localice la cuenta del usuario y haga una copia de sus archivos a una unidad externa conectasa con un cable USB ([video](https://www.youtube.com/watch?v=U3LaBt0Rcls)).
     
@@ -368,7 +368,9 @@ Que al finalizar el curso el alumno sea capaz de:
   
   *Parte 4*. Repita las mismas operaciones de la *Parte 3* de esta práctica usando la aplicación [GParted Live CD/USB/HD/PXE Bootable Image](https://gparted.org/download.php) copiando el archivo ISO en la USB con Ventoy y arrancando el ISO. Utilice este [tutorial](https://www.youtube.com/watch?v=-kYe3BYPurA). Compare Disk Management y gParted y saque sus conclusiones.
   
-  ***Aplicación***: Con alguna de estas dos herramientas se puede preparar el disco duro de la computadora para instalar Linux como segundo sistema operativo o en *dual boot, sin perder información*, después de dejar un espacio libre de unos 20 a 50 GB, dependiendo del tamaño del disco disponible. Ver este [tutorial](https://www.youtube.com/watch?v=ycTh_x-hzro).  
+  *Parte 5*. Practique la *recuperación de particiones eliminadas* con *[TestDisk](https://www.cgsecurity.org/wiki/TestDisk_ES)* ([tutorial](https://www.youtube.com/watch?v=w_JqR-9qcX8)) en discos o dispositivos de almacenamiento formateados. También, practique la *recuperación de dispositivos* que no son reconocidos o que piden ser formateados, como una USB ([tutorial](https://www.youtube.com/watch?v=SV9-PdEg3nA)). 
+  
+  *Aplicación*: Con alguna de estas dos herramientas se puede preparar el disco duro de la computadora para instalar Linux como segundo sistema operativo o en *dual boot, sin perder información*, después de dejar un espacio libre de unos 20 a 50 GB, dependiendo del tamaño del disco disponible. Ver este [tutorial](https://www.youtube.com/watch?v=ycTh_x-hzro).  
      
   Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
