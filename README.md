@@ -418,7 +418,7 @@ Que al finalizar el curso el alumno sea capaz de:
     
   *Parte 1*. Investigue los conceptos básicos de programación de software: *archivo*, *software* ([guía](https://www.youtube.com/watch?v=qfLSn6pCRZ4&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=17)), *programa*, *aplicación* (*app*), *código*, *código fuente*, *archivo de texto plano*, *interpretar código fuente*, *compilar código fuente*, *archivo binario*, *código binario*, *código objeto*, *archivo executable*, *código executable*, *codificar* o *escribir software*, *programar una computadora*, *desarrollar software*, *ejecutar software* y *copiar software*, *software como herramienta*.
     
-  Busque la definición y simplifíquela con una frase corta y acompañe la definición con un par de ejemplos. (Entregable 1).
+  Busque la definición (por ejemplo, en [Study Rocket](https://studyrocket-co-uk.translate.goog/revision/gcse-computer-science-aqa?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419)) y simplifíquela con una frase corta y acompañe la definición con un par de ejemplos. (Entregable 1).
     
   *Parte 2*. Estudie los videos necesarios en el video [Aprende a programar en 11 minutos](https://www.youtube.com/watch?v=TAyyujKoY6k). Saque su conclusiones. (Entregable).
     
