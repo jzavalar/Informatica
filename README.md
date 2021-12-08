@@ -420,7 +420,7 @@ Que al finalizar el curso el alumno sea capaz de:
     
   Busque la definición (por ejemplo, en [Study Rocket](https://studyrocket-co-uk.translate.goog/revision/gcse-computer-science-aqa?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419)) y simplifíquela con una frase corta y acompañe la definición con un par de ejemplos. (Entregable 1).
     
-  *Parte 2*. Estudie los videos necesarios en el video [Aprende a programar en 11 minutos](https://www.youtube.com/watch?v=TAyyujKoY6k). Saque sus conclusiones. (Entregable).
+  *Parte 2*. Estudie los videos necesarios en el video [Aprende a programar en 11 minutos](https://www.youtube.com/watch?v=TAyyujKoY6k). Saque sus conclusiones. (Entregable 2).
     
   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable 3) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
