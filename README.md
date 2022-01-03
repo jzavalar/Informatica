@@ -462,7 +462,7 @@ Que al finalizar el curso el alumno sea capaz de:
     
   Saque sus conclusiones y expóngalas en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
-- *Práctica 3.5. Programación Parte 3: Contadores, arreglos y estructuras de datos*. (Entrega: 21 de abril de 2021).
+- *Práctica 3.5. Programación Parte 3: Contadores, arreglos y estructuras de datos*. (Demostrativa).
 
   *Objetivo*: Aprender sobre los contadores, arreglos y otras estructuras de datos para la programación de computadoras.
     
