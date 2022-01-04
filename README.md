@@ -314,13 +314,19 @@ Que al finalizar el curso el alumno sea capaz de:
     
   *Parte 3*. Investigue un poco sobre las distribuciones del sistema operativo GNU/Linux ([guía 1](https://www.youtube.com/watch?v=RLStWVb1fWo&t=313s)) ([guía 2](https://www.youtube.com/watch?v=gbqv0AkqsXw)). Descargue el archivo ISO del sistema operativo Linux [Ubuntu](https://releases.ubuntu.com/), [Ubuntu Mate](https://ubuntu-mate.org/download/) o [Fedora](https://getfedora.org/es/) ([guía](https://www.youtube.com/watch?v=gbqv0AkqsXw)) de 32 o 64 bits, según sea la arquitectura del procesador (CPU) de su laptop.
     
-  *Parte 4*. Utilice la aplicación [Ventoy](https://www.ventoy.net/en/index.html) siguiendo el siguiente tutorial en [video](https://www.youtube.com/watch?v=_3p-f_Cwa4g) o este [tutorial escrito](https://websetnet.net/es/crear-un-instalador-usb-de-arranque-para-linux-a-trav%C3%A9s-de-la-nueva-soluci%C3%B3n-ventoy/amp/), en una USB vacía, de 16 Gib, por lo menos. 
-    
-  Si en su computadora no funciona Ventoy, use [Yumi](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) según esta [guía en video](https://www.youtube.com/watch?v=dR8ewnlfzVc) o este [tutorial escrito](https://hacerusbbooteable.com/usb-multibooteable-con-yumi/) (Descargue el archivo para arrancar la ISO de Windows [aqui](https://github.com/ventoy/vhdiso/releases/download/v3.0/ventoy_vhdboot.zip)) o usa [Rufus](https://rufus.ie/es/) siguiendo este ([tutorial en video](https://www.youtube.com/watch?v=qedjN2AA3gU)) o esta [guía escrita](https://www.xataka.com/basics/que-rufus-como-utilizarlo-para-crear-usb-arranque). 
-    
-  *Parte 5*. Investigue los conceptos: bootear un equipo ([guía](https://www.youtube.com/watch?v=O2S7YyKb5LI)), BIOS ([guía](https://www.youtube.com/watch?v=HD9qXyvIzOc)) y UEFI ([guía](https://www.youtube.com/watch?v=X3Cx6wm6PtY)). Pruebe que puede arrancar cada uno de los tres sistemas operativos desde la USB.
+  *Parte 4*. Esta práctica requiere un dispositivo externo (USB o disco duro externo). Existen varias aplicaciones que se pueden utilizar, entre ellas, destacan **Ventoy**, **Yumi** o **Rufus**. 
   
-  *Aplicación práctica*: Con la USB puede usar la computadora, a apesar de que falle el sistema operativo Windows ya que es posible arrancar su sistema operativo Linux desde la USB y trabajar en él con las tareas cotidianas de oficina como abrir o crear un archivo de texto de Word con Libre Office, navegar por Internet y enviarlo por correo.
+  **Advertencia:** Siempre debe tener **cuidado de NO instalar Ventoy, Yumi o Rufus en el disco duro de su computadora**. Por ello, previamente, **debe respaldar los archivos de la USB, antes.** Después de preparar la USB con Ventoy o Yumi, ya puede utilizarla para grabar archivos.
+  
+  Utilice la aplicación [Ventoy](https://www.ventoy.net/en/index.html) siguiendo el siguiente tutorial en [video](https://www.youtube.com/watch?v=_3p-f_Cwa4g) o este [tutorial escrito](https://websetnet.net/es/crear-un-instalador-usb-de-arranque-para-linux-a-trav%C3%A9s-de-la-nueva-soluci%C3%B3n-ventoy/amp/), en una USB vacía, de 16 Gib, por lo menos. Una vez preparado el dispositivo externo, copie los archivos ISO a la raíz y listo! 
+    
+  Si en su computadora no funciona Ventoy, use [Yumi](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) según esta [guía en video](https://www.youtube.com/watch?v=dR8ewnlfzVc) o este [tutorial escrito](https://hacerusbbooteable.com/usb-multibooteable-con-yumi/) (Descargue el archivo para arrancar la ISO de Windows [aquí](https://github.com/ventoy/vhdiso/releases/download/v3.0/ventoy_vhdboot.zip)). Cada vez que ejecute Yumi, puede instalar o desinstalar las imágenes ISO.
+  
+  Por último, puede usar [Rufus](https://rufus.ie/es/) siguiendo este ([tutorial en video](https://www.youtube.com/watch?v=qedjN2AA3gU)) o esta [guía escrita](https://www.xataka.com/basics/que-rufus-como-utilizarlo-para-crear-usb-arranque). Rufus sólo instala una imagen ISO, a la vez.
+  
+  *Parte 5*. Investigue los conceptos: bootear un equipo ([guía](https://www.youtube.com/watch?v=O2S7YyKb5LI)), BIOS ([guía](https://www.youtube.com/watch?v=HD9qXyvIzOc)) y UEFI ([guía](https://www.youtube.com/watch?v=X3Cx6wm6PtY)). Pruebe que puede arrancar cada uno de los sistemas operativos instalados desde la USB.
+  
+  *Aplicación práctica*: Con la USB puede usar la computadora, si falla el sistema operativo Windows, ya que es posible arrancar su sistema operativo Linux desde la USB y trabajar en él con las tareas cotidianas de oficina como abrir o crear un archivo de texto de Word con Libre Office, navegar por Internet y enviarlo por correo.
       
   Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
