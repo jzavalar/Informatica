@@ -400,7 +400,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
 ##### Bibliografía Complementaria:
 
-- Stallings, W. (2005). *Sistemas operativos: Aspectos internos y principios de diseño*. México: Pearson-Prentice-Hall. (pp. 53-104). ([url](http://cotana.informatica.edu.bo/downloads/Sistemas%20Operativos.pdf)).
+- Stallings, W. (2005). *Sistemas operativos: Aspectos internos y principios de diseño* (pp. 53-104). México: Pearson-Prentice-Hall. ([url](http://cotana.informatica.edu.bo/downloads/Sistemas%20Operativos.pdf)).
 - Nate Gentile. (2017, Feb 19). Entiende Linux y el software libre de una vez. *YouTube* [video]. (17:41 min). ([url](https://www.youtube.com/watch?v=UUJ0dFpj1-M)).
 - Nate Gentile. (2018, Dic 16). ¿Por qué Linux no es popular?. *YouTube* [video]. (13:26 min). ([url](https://www.youtube.com/watch?v=NDhJfHhe3e4)).
 - Wolf, G., Ruiz, E., Bergero, F. & Meza, E. (2015). *Fundamentos de sistemas operativos*. México: Universidad Nacional Autónoma de México. ([url](https://www.researchgate.net/publication/305994090_Fundamentos_de_sistemas_operativos)). ([Introducción](http://gwolf.sistop.org/laminas/02-introduccion.pdf), [Archivos y Directorios](http://gwolf.sistop.org/laminas/14-archivos-y-directorios.pdf)).
@@ -492,7 +492,7 @@ Que al finalizar el curso el alumno sea capaz de:
      
   De acuerdo a su número de lista (que se envió al grupo de Telegram), realicen los ejercicios de la lectura 2.2. que le correspondan:
      
-  *Número de Lista* **1**: Ejercicios: 45, 26; *Número de Lista* **2**: 39, 9; **3**: 36, 33; **4** : 24, 11; **5**: 17, 39; **6**: 28, 15; **7**: 38, 41; **8**: 36, 8; **9**: 17, 37; **10**: 23, 35; **11**: 43, 43; **12**: 36, 8; **13**: 17, 10; **14**: 33, 43; **15**: 25, 25; **16**: 45, 44; **17** : 42, 11; **18**: 38, 32; **19**: 18, 44; **20**: 9, 25; **Lista** **1 y 2**: 25, 47; **3 y 4**: 25, 37; **5 y 6**: 36, 32; **7 y 8**: 26, 39; **9 y 10**: 9, 36; **11 y 12**: 33, 24; **13 y 14**: 11, 17; **15 y 16** : 39, 28; **17 y 18**: 15, 38; **19 y 20**: 41, 36.
+  *Número de Lista* **1**: Ejercicios: 45, 26; *Número de Lista* **2**: 39, 9; **3**: 36, 33; **4** : 24, 11; **5**: 17, 39; **6**: 28, 15; **7**: 38, 41; **8**: 36, 8; **9**: 17, 37; **10**: 23, 35; **11**: 43, 43; **12**: 36, 8; **13**: 17, 10; **14**: 33, 43; **15**: 25, 25; **16**: 45, 44; **17** : 42, 11; **18**: 38, 32; **19**: 18, 44; **20**: 9, 25 ([ver ejemplos](https://drive.google.com/drive/folders/1lyLaYpfCnXhpXcUT55n7IsQgtstMr-XS?usp=sharing)); **Lista** **1 y 2**: 25, 47; **3 y 4**: 25, 37; **5 y 6**: 36, 32; **7 y 8**: 26, 39; **9 y 10**: 9, 36; **11 y 12**: 33, 24; **13 y 14**: 11, 17; **15 y 16** : 39, 28; **17 y 18**: 15, 38; **19 y 20**: 41, 36.
      
   Cada ejercicio debe crearse en un archivo con el nombre del número de algoritmo y el título del algorimo. Por ejemplo, para el primer algoritmo llamado "Promedio", le correpondería el nombre de *01. Promedio.psc*. 
      
