@@ -690,8 +690,10 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 | Asistencia puntual | 10% |  |
 | Tareas|30% |Se entrega en la fecha programada |
 | Prácticas| 30% |Se entregan  en la fecha programada |
-| Exámenes| 30% | La fecha se acordará previamente |
+| Exámenes| 30% | 1*,2**|
 | Total | 100% | |
+Notas a). Primer exámen: Teórico (Unidades 1, 2 y 3) y Práctico (Programación).
+      b). Segundo exámen: Práctico Unidad 4.
 
 La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
 
