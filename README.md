@@ -525,7 +525,7 @@ Que al finalizar el curso el alumno sea capaz de:
 3. Los sistemas empresariales de información (ERP)
 4. Prácticas y tareas:
 
-- *Tarea 4.1. LEO: El primer sistema empresarial en el mundo*. (Entrega: 10 de enero de 2022).
+- *Tarea 4.1. LEO: El primer sistema empresarial en el mundo*. (Entrega: 12 de enero de 2022).
 
   *Objetivo*: Comprender el surgimiento de los sistemas de información automatizados en las organizaciones.
     
@@ -540,7 +540,7 @@ Que al finalizar el curso el alumno sea capaz de:
     
   Suban su texto al Google Drive de cada uno de los integrantes.
 
-- *Tarea 4.2. Los informáticos y el poder gerencial*. (Entrega: 12 de enero de 2022).
+- *Tarea 4.2. Los informáticos y el poder gerencial*. (Entrega: 17 de enero de 2022).
 
   *Objetivo*: Comprender el surgimiento de los informáticos como una nueva clase laboral y sus desafíos gerenciales. 
     
@@ -552,7 +552,7 @@ Que al finalizar el curso el alumno sea capaz de:
     
   Suban su texto al Google Drive de cada uno de los integrantes.
 
-- *Tarea 4.3. Los sistemas de información empresarial y su evolución histórica*. (Entrega: 17 de enero de 2022).
+- *Tarea 4.3. Los sistemas de información empresarial y su evolución histórica*. (Entrega: 19 de enero de 2022).
 
   *Objetivo*: Comprender el concepto y evolución histórica de los sistemas de información empresariales. 
     
@@ -564,7 +564,7 @@ Que al finalizar el curso el alumno sea capaz de:
     
   Suban su texto al Google Drive de cada uno de los integrantes.
 
-- *Práctica 4.4. Arquitectura de un sistemas de información*. (Entrega: 19 de enero de 2022).
+- *Práctica 4.4. Arquitectura de un sistemas de información*. (Entrega: 24 de enero de 2022).
 
   *Objetivo*: Comprender la arquitectura de un sistema de información empresarial.
     
@@ -600,7 +600,7 @@ Que al finalizar el curso el alumno sea capaz de:
 4. Base de datos
 5. Prácticas
 
-- *Práctica 5.1. Tablas dinámicas con hoja de cálculo*. (Entrega: 24 de enero de 2022). 
+- *Práctica 5.1. Tablas dinámicas con hoja de cálculo*. (Entrega: 26 de enero de 2022). 
 
   *Objetivo*: Practicar la creación de tablas dinámicas para la resolución de preguntas cuantitativas a una base de datos.
     
@@ -626,7 +626,7 @@ Que al finalizar el curso el alumno sea capaz de:
     
   Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
 
-- *Práctica 5.2. Editor de textos* (Entrega: 26 de enero de 2022)
+- *Práctica 5.2. Editor de textos* (Entrega: 31 de enero de 2022)
     
   - Concepto y funcionamiento de un editor de textos y desarrollar las habilidades de edición profesional.
   - Usar estilo APA. Sugerencia: Usar [plantilla para tesis](https://drive.google.com/file/d/0B8yPXE-mYJ1wZkhtVDRNRjNLeW8/view?usp=sharing).
@@ -638,7 +638,7 @@ Que al finalizar el curso el alumno sea capaz de:
   
   Sugerencia: Usar [plantilla](https://drive.google.com/file/d/0B8yPXE-mYJ1wckFFZzZBUWVhRWs/view?usp=sharing). 
 
-- *Práctica 5.4. Base de datos geográfica*. (Opcional, pero se otorgará **medio punto extra* a la calificación final a quien la realice bien).
+- *Práctica 5.4. Base de datos geográfica*. (Opcional: 4 de febrero de 2022. Se otorgará **medio punto extra* a la calificación final a quien la realice bien).
 
   *Objetivo*: Crear un sistema integrado de bases de datos geográficas con PostgreSQL, R y QGIS.
     
@@ -663,7 +663,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
 ### Proyecto de fin de curso: 
 
-El proyecto es opcional, pero otorgará un **punto extra a la calificación final** si cumple los requisitos del mismo.
+El proyecto es opcional, pero otorgará un **punto extra a la calificación final** si cumple los requisitos del mismo. Fecha de entrega: 4 de febrero de 2022.
 
 En equipos de 3, estudien la lista de videos sobre el desarrollo de un  [Sistema para un Parqueadero en #PseInt](https://www.youtube.com/watch?v=9jLu8yrdsjM&list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f) (Altas, Bajas y Cambios).
 
@@ -693,8 +693,7 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 | Exámenes| 30% | 1*,2**|
 | Total | 100% | |
 
-**Notas:** a). Primer exámen: Teórico (Unidades 1, 2 y 3) y Práctico (Programación).
-      b). Segundo exámen: Práctico Unidad 4.
+**Notas:** **a).** Primer exámen: *Teórico* (Unidades 1, 2 y 3) y *Práctico* (Programación) (Fecha: 10 de enero de 2022); **b).** Segundo exámen: Práctico (Unidad 4)
 
 La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
 
