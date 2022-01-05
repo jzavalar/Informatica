@@ -346,7 +346,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
   *Objetivo*: Aprender el uso de una herramienta de software para el mantenimiento de una computadora.
     
-  Como prerrequisito, debe completar la Práctica 2.4.
+  Como prerrequisito, debe completar la Práctica 2.3.
     
   Utilice Qbittorrent y, mediante su motor de búsqueda, localice la imagen ISO del sistema operativo Windows usando la frase "Active Boot Disk 10" ([tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)). Identifique la entrada que tiene más semillas (seeds) (de 640 Kb de tamaño) y descárguela o agregue el torrent a qBittorrent desde [aquí](https://limetor.com/Active-Boot-Disk-Suite-10-1-0-Modified-Edition-Feb-2015-%28ISO%29--%20Core-X%20-%20%20FRG%20-torrent-7452833.html). 
     
