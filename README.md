@@ -496,17 +496,7 @@ Que al finalizar el curso el alumno sea capaz de:
      
   Cada ejercicio debe crearse en un archivo con el nombre del número de algoritmo y el título del algorimo. Por ejemplo, para el primer algoritmo llamado "Promedio", le correpondería el nombre de *01. Promedio.psc*. 
      
-  Modifique el pseudocódigo propuesto por el autor, de acuerdo a las reglas de PseInt configuradas anteriormente.
-     
-  Modifique el algoritmo de acuerdo a la estructura del algoritmo aprendida. Ingrese los datos con la ayuda suficiente para manejar los errores de captura de datos.
-     
-  Haga los cálculos de manera correcta y genere la salida respectiva.
-     
-  Modifique el algoritmo para que se ejecute de manera iterativa y termine de manera elegante.
-     
-  Por último, incluya los comentarios respectivos en cada parte y los datos para identificarlo a usted como su autor y la referencia bibliográfica original.
-     
-  Cada algoritmo debe ser probado como correcto.
+  Modifique el pseudocódigo propuesto por el autor, de acuerdo a las reglas de PseInt configuradas anteriormente y de acuerdo a la estructura del algoritmo aprendida en la clase. Ingrese los datos con la ayuda suficiente para manejar los errores en la captura de datos. Cuando sea necesario, corrija el algoritmo para que los cálculos se realizcen de manera correcta y genere la salida respectiva. Incluya las modificaciones para que el algoritmo se ejecute de manera iterativa y termine de manera elegante. Incluya los comentarios respectivos en cada parte y los datos para identificarlo a usted como autor de las modificaciones y al autor, con la referencia bibliográfica original. Por último, pruebe que los algoritmos son correctos.
      
   Guarde el pseudocódigo del algoritmo (en formato *psc*) y el diagrama de flujo (como imagen) y suba sus archivos a su cuenta de Google Drive en el diretorio respectivo de la tarea y comparta el link con el profesor.
 
@@ -529,14 +519,13 @@ Que al finalizar el curso el alumno sea capaz de:
 - R project en Bossie Awards ([url](https://www.infoworld.com/article/3228150/analytics/bossie-awards-2017-the-best-databases-and-analytics-tools.html#slide11)). 
 
 
-
 ### Unidad 4. Informática: Aplicación de la computación en las organizaciones
 1. La informática como profesión: Los chicos de la computadora
 2. La informática como herramienta de gestión en las organizaciones
 3. Los sistemas empresariales de información (ERP)
 4. Prácticas y tareas:
 
-- *Tarea 4.1. LEO: El primer sistema empresarial en el mundo*. (Entrega: por definir).
+- *Tarea 4.1. LEO: El primer sistema empresarial en el mundo*. (Entrega: 10 de enero de 2022).
 
   *Objetivo*: Comprender el surgimiento de los sistemas de información automatizados en las organizaciones.
     
@@ -545,13 +534,13 @@ Que al finalizar el curso el alumno sea capaz de:
    - Land, F. (2000). [The first business computer: A case study in user-driven innovation](http://eprints.lse.ac.uk/19150/1/The%20first%20business%20computer(lsero).pdf). *IEEE Annals of the History of Computing, 22*(3), 16-26.
    - [Information Age: The computer that changed our world](https://www.youtube.com/watch?v=X0yYDxjBnTM) (video), [LEO: The automatic office](https://www.youtube.com/watch?v=-8K-xbx7jBM) (1957) (Video), [Ernest Kaye: LEO 1952](https://www.youtube.com/watch?v=GE6TX70A3Rc) (Video), [LEO: Celebrating The Pioneers](https://www.youtube.com/watch?v=Lrn24SdW64I) (Video).
 
-  *Parte 2*. Haga un breve reporte en su cuaderno sobre la importancia del proyecto.
+  *Parte 2*. Haga un breve reporte en su cuaderno sobre la importancia del Proyecto LEO.
     
-  *Parte 3*. El grupo debe organizarse en equipos de 3 miembros. Por equipo, deben planificar una sesión colectiva y contribuyendo con sus notas individuales reescriban colectivamente sus conclusiones sobre el *Proyecto LEO*. Suban el reporte de la investigación con la siguiente estructura: *Introducción*, *Contexto*, *Desarrollo*, *Conclusiones* y *Bibliografía*.
+  *Parte 3*. El grupo debe organizarse en equipos de 3 miembros y planificar una sesión colectiva y contribuyendo con sus notas individuales reescriban colectivamente sus conclusiones sobre el *Proyecto LEO*. Suban el reporte de la investigación con la siguiente estructura: *Introducción*, *Contexto*, *Desarrollo*, *Conclusiones* y *Bibliografía*.
     
   Suban su texto al Google Drive de cada uno de los integrantes.
 
-- *Tarea 4.2. Los informáticos y el poder gerencial*. (Entrega: por definir).
+- *Tarea 4.2. Los informáticos y el poder gerencial*. (Entrega: 12 de enero de 2022).
 
   *Objetivo*: Comprender el surgimiento de los informáticos como una nueva clase laboral y sus desafíos gerenciales. 
     
@@ -563,7 +552,7 @@ Que al finalizar el curso el alumno sea capaz de:
     
   Suban su texto al Google Drive de cada uno de los integrantes.
 
-- *Tarea 4.3. Los sistemas de información empresarial y su evolución histórica*. (Entrega: por definir).
+- *Tarea 4.3. Los sistemas de información empresarial y su evolución histórica*. (Entrega: 17 de enero de 2022).
 
   *Objetivo*: Comprender el concepto y evolución histórica de los sistemas de información empresariales. 
     
@@ -575,7 +564,7 @@ Que al finalizar el curso el alumno sea capaz de:
     
   Suban su texto al Google Drive de cada uno de los integrantes.
 
-- *Práctica 4.4. Arquitectura de un sistemas de información*. (Entrega: por definir).
+- *Práctica 4.4. Arquitectura de un sistemas de información*. (Entrega: 19 de enero de 2022).
 
   *Objetivo*: Comprender la arquitectura de un sistema de información empresarial.
     
@@ -611,19 +600,7 @@ Que al finalizar el curso el alumno sea capaz de:
 4. Base de datos
 5. Prácticas
 
-- *Práctica 5.1. Editor de textos* (Entrega: Fecha por definir)
-    
-  - Concepto y funcionamiento de un editor de textos y desarrollar las habilidades de edición profesional.
-  - Usar estilo APA. Sugerencia: Usar [plantilla para tesis](https://drive.google.com/file/d/0B8yPXE-mYJ1wZkhtVDRNRjNLeW8/view?usp=sharing).
-  - [DB libros](https://drive.google.com/file/d/1tirAfY-27e_Ae9I3BvNiIBNfm20Ev4Tz/view?usp=sharing) para ejercicio de combinar correspondencia.
-
-- *Práctica 5.2. Presentaciones* (Entrega: Fecha por definir)
-
-  Concepto y funcionamiento de una presentación y aplicar los principios de [Reynolds (2011)]() para elaborar una presentación profesional. 
-  
-  Sugerencia: Usar [plantilla](https://drive.google.com/file/d/0B8yPXE-mYJ1wckFFZzZBUWVhRWs/view?usp=sharing). 
-
-- *Práctica 5.3. Tablas dinámicas con hoja de cálculo*. (Entrega: por definir). 
+- *Práctica 5.1. Tablas dinámicas con hoja de cálculo*. (Entrega: 24 de enero de 2022). 
 
   *Objetivo*: Practicar la creación de tablas dinámicas para la resolución de preguntas cuantitativas a una base de datos.
     
@@ -649,7 +626,19 @@ Que al finalizar el curso el alumno sea capaz de:
     
   Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
 
-- *Práctica 5.4. Base de datos geográfica*. (Opcional).
+- *Práctica 5.2. Editor de textos* (Entrega: 26 de enero de 2022)
+    
+  - Concepto y funcionamiento de un editor de textos y desarrollar las habilidades de edición profesional.
+  - Usar estilo APA. Sugerencia: Usar [plantilla para tesis](https://drive.google.com/file/d/0B8yPXE-mYJ1wZkhtVDRNRjNLeW8/view?usp=sharing).
+  - [DB libros](https://drive.google.com/file/d/1tirAfY-27e_Ae9I3BvNiIBNfm20Ev4Tz/view?usp=sharing) para ejercicio de combinar correspondencia.
+
+- *Práctica 5.3. Presentaciones* (Entrega: 31 de enero de 2022)
+
+  Concepto y funcionamiento de una presentación y aplicar los principios de [Reynolds (2011)]() para elaborar una presentación profesional. 
+  
+  Sugerencia: Usar [plantilla](https://drive.google.com/file/d/0B8yPXE-mYJ1wckFFZzZBUWVhRWs/view?usp=sharing). 
+
+- *Práctica 5.4. Base de datos geográfica*. (Opcional, pero se otorgará **medio punto extra* a la calificación final a quien la realice bien).
 
   *Objetivo*: Crear un sistema integrado de bases de datos geográficas con PostgreSQL, R y QGIS.
     
@@ -669,14 +658,14 @@ Que al finalizar el curso el alumno sea capaz de:
     
   Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito o pruebe algún tutorial.
     
-  Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+  Saque sus conclusiones y documente en un video la realización de la práctica y su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
 
 
 ### Proyecto de fin de curso: 
 
-El proyecto es opcional, pero otorgará un punto extra a la calificación final si cumple los requisitos del mismo.
+El proyecto es opcional, pero otorgará un **punto extra a la calificación final** si cumple los requisitos del mismo.
 
-Por equipo, estudien la lista de videos sobre el desarrollo de un  [Sistema para un Parqueadero en #PseInt](https://www.youtube.com/watch?v=9jLu8yrdsjM&list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f) (Altas, Bajas y Cambios).
+En equipos de 3, estudien la lista de videos sobre el desarrollo de un  [Sistema para un Parqueadero en #PseInt](https://www.youtube.com/watch?v=9jLu8yrdsjM&list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f) (Altas, Bajas y Cambios).
 
 Después, elijan alguno de los siguientes temas para adaptarlo: (1) Tienda de abarrotes, (2) Biblioteca, (3) Librería, (4) Escuela, (5) Contactos.
 
@@ -684,7 +673,7 @@ Documente el código de su proyecto con suficientes comentarios
 
 Prepare la exposición de su trabajo.
 
-Suba los entregables de su proyecto a el Google Drive de cada participante.
+Documente en un video la realización de la práctica y su experiencia en la realización de la actividad. Comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
 
 #### Bibliografía Complementaria:
 - JhonvaCode. (2018, Jan 14) [Sistema de un parqueadero en #PseInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). *YouTube*. (7 videos). (*Lectura 2.3*).
@@ -707,4 +696,4 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
 
 #### Evaluación de Recuperación
-La *evaluación de recuperación* no será aplidada por el profesor, sino por la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente.
+La *evaluación de recuperación* no será aplidada por el profesor, sino por la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente. Por lo que deberá coordinarse con el Coordinador de la Licenciatura.
