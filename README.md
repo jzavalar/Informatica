@@ -11,7 +11,7 @@
 
 **Asesorías:**  *Lunes* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps).
 
-**Intructor:** *profr. dr. Jesús Zavala Ruiz*
+**Profesor:** *dr. Jesús Zavala Ruiz*
 
 **Contacto**:
 - Correo electrónico: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)
