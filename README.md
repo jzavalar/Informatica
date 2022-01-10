@@ -504,7 +504,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
 #### Bibliografía Complementaria:
 - Tecno Hobbies. (2018, Jan 11). [Curso de Pseint 2018](https://www.youtube.com/playlist?list=PLwOemaB2t99ZEIKLeoxdz91F9AKC-vkK7). *YouTube* (31 videos). 
-- Novara, P. (2019). PSeInt [software] ([url](http://pseint.sourceforge.net/index.php?page=portada.php)). ([guía rápida](http://pseint.sourceforge.net/slide/pseint.html)). ([descargar](http://pseint.sourceforge.net/index.php?page=actualizacion.php)).
+- Novara, P. (2019). PSeInt [software] ([url](http://pseint.sourceforge.net/index.php?page=portada.php)). ([guía rápida](http://pseint.sourceforge.net/slide/pseint.html)). ([descargar](http://pseint.sourceforge.net/index.php?page=actualizacion.php)). [PSeInt en línea](https://www.rollapp.com/app/pseint)
 - Tecno Hobbies. (2018, Jan 11). [Curso de Pseint 2018](https://www.youtube.com/playlist?list=PLwOemaB2t99ZEIKLeoxdz91F9AKC-vkK7). *YouTube*. (31 videos).
 - Anonymous (2020). GCSE Computer Science AQA - Revision Content. Computational thinking and problem solving. Study Rocket. [url](https://studyrocket.co.uk/revision/gcse-computer-science-aqa) [traducción al español](https://studyrocket-co-uk.translate.goog/revision/gcse-computer-science-aqa?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419&_x_tr_pto=op). London, England.
 - Pasos por ingeniería. (2016, Jul 14). [Algoritmos](https://www.youtube.com/watch?list=PL46-B5QR6sHm_qTw3tet7XHynE8bEucoa). *YouTube* (8 videos).
