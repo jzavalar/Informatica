@@ -20,7 +20,7 @@
 
 ### Introducción
 
-Hoy en día, ante lo ubícuo de las computadoras, casi olvidamos que un día, hace un poco más de medio siglo, las computadoras eran humanas y femeninas (Light, 1999). Entonces se les llamaba *calculistas o calculadoras* y eran las más brillantes matemáticas y tu trabajo era secreto. Así lo documentó LeAnn Erickson (2010) en su película *Top Secret Rosies: The Female Computers of WWII* y Theodore Melfi (2016) en la película *Talentos Ocultos* (*Hidden Figures*). Hoy tenemos computadoras hasta en la cocina, en la forma de componentes electrónicos inteligentes, pero su principal uso sigue siendo militar, científico, gubernamental y de negocios. La masificación de las computadoras llegó con los dispositivos móviles: las tablets y los teléfonos celulares inteligentes (smartphones).
+Hoy en día, ante lo ubícuo de las computadoras, casi olvidamos que un día, hace un poco más de medio siglo, las computadoras eran humanas y femeninas ([Light, 1999](https://www.jstor.org/stable/25147356) ([pdf](http://pcfly.info/doc/Computers/18.pdf))). En aquellos tiempos se les llamaba *calculistas* o *calculadoras* y eran las más brillantes matemáticas y tu trabajo era secreto. Así lo documentó LeAnn Erickson (2010) en su película *Top Secret Rosies: The Female Computers of WWII* ([Sitio web](http://www.topsecretrosies.com/), [torrent](https://thepiratebay.org/description.php?id=6804294)) y Theodore Melfi (2016) en la película *Talentos Ocultos* (*Hidden Figures*) ([Ficha](https://www.imdb.com/title/tt4846340/), [torrent](https://thepiratebay.org/description.php?id=17551668)). Hoy tenemos computadoras hasta en la cocina, en la forma de componentes electrónicos inteligentes, pero su principal uso sigue siendo militar, científico, gubernamental y de negocios. La masificación de las computadoras llegó con los dispositivos móviles: las tablets y los teléfonos celulares inteligentes (smartphones).
 
 Lo que hace la computadora electrónica es calcular, sin embargo, ante el usuario con quien interactúa, sólo maneja símbolos con significado práctico (información) en la forma de señales, mensajes, imágenes, sonidos o cualquier otra representación legible o no a los seres humanos. Esto hace que se considere a la computadora como una máquina simbólica. Lo simbólico, en un primer sentido, está ligado al cálculo como una operación simbólica, como sinónimo de abstracción o modelado de la realidad (el conocimiento como proceso). En un segundo sentido, simbólico es lo inmaterial, intelectual (o ritual) (en contraposición lógica a lo físico y/o material, como producto). De lo anterior se deriva la interpretación de la computadora como máquina simbólica. En un tercer sentido, lo simbólico está asociado al proceso de significación que se relaciona con la antropología, la semiótica y la lingüística, que tiene que ver con los símbolos y los procesos por los cuáles se les asignan significados culturales. Esta última acepción considera a la computadora como una máquina semiótica.
 
@@ -33,9 +33,6 @@ Esta UEA pretende proporcionar las bases para que los alumnos pierdan el miedo a
 [Programa vigente](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf).
 
 [Calendario UAM vigente](http://www.uam.mx/calendario/index.html).
-
-Citas:
-Lifght, J. S. (1999). [When computers were women](http://pcfly.info/doc/Computers/18.pdf). *Technology and Culture, 40*(3), 455-483.
 
 
 ### Objetivo
