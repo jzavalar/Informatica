@@ -265,6 +265,7 @@ Que al finalizar el curso el alumno sea capaz de:
 - Grier. D. A. (2001). [Human computers. The first pioneers of the information age](https://www.sciencedirect.com/science/article/pii/S0160932700013387). *Endeavour 25*(1), 28-32. 
 - Haigh, T., Priestley, M., & Rope, C. (2016). *[ENIAC in action. Making and remaking the modern computer](http://eniacinaction.com/)*. MIT Press. 
 - Li-khriss Team. (2017, Sep 4). [Descargar videos HD con Youtube DL en Windows](https://www.youtube.com/watch?v=HQig5v-Jz7A). *YouTube*. [video]. (5:53 min).
+- Computer History Archives Project. (2021, Dec 26). Computer History UK LEO III Computer 1966 (Full Version) (J. Lyons Electronic Office Automation). YouTube. ([video](https://www.youtube.com/watch?v=H_0Astp1dEU&list=UUOyJD0RHtF_77_oAf5tT1nQ&index=4))
 
 ###### Películas:
 - *[Código Enigma / The imitation game](https://www.youtube.com/watch?v=0DFqSmdbsUM)*. *YouTube*. [video] (1:53:53 hr).
@@ -529,7 +530,8 @@ Que al finalizar el curso el alumno sea capaz de:
   *Parte 1*. De manera individual, investigue la historia del proyecto LEO a partir de la bibliografía anexa o la que encuentre en [Google Académico](https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=enterprise+OR+system+OR+Lyons+%22leo+project%22&btnG=):
    - Zavala, J. (2011). La industria del software y su importancia. In *[La ingeniería de software: Una discusión epistemológica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing)* (pp. 77-87). Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México.
    - Land, F. (2000). [The first business computer: A case study in user-driven innovation](http://eprints.lse.ac.uk/19150/1/The%20first%20business%20computer(lsero).pdf). *IEEE Annals of the History of Computing, 22*(3), 16-26.
-   - [Information Age: The computer that changed our world](https://www.youtube.com/watch?v=X0yYDxjBnTM) (video), [LEO: The automatic office](https://www.youtube.com/watch?v=-8K-xbx7jBM) (1957) (Video), [Ernest Kaye: LEO 1952](https://www.youtube.com/watch?v=GE6TX70A3Rc) (Video), [LEO: Celebrating The Pioneers](https://www.youtube.com/watch?v=Lrn24SdW64I) (Video).
+   - Information Age: The computer that changed our world ([video](https://www.youtube.com/watch?v=X0yYDxjBnTM)), LEO: The automatic office (1957) ([Video](https://www.youtube.com/watch?v=-8K-xbx7jBM)), Ernest Kaye: LEO 1952 ([Video](https://www.youtube.com/watch?v=GE6TX70A3Rc)), LEO: Celebrating The Pioneers ([Video](https://www.youtube.com/watch?v=Lrn24SdW64I)).
+   - The Centre for Computing History. (2021, Nov 30). LEO: The story of the world’s first business computer - Computing History UK. YouTube ([video](https://www.youtube.com/watch?v=Rzu68nRVwtE))
 
   *Parte 2*. Haga un breve reporte en su cuaderno sobre la importancia del Proyecto LEO.
     
@@ -588,7 +590,6 @@ Que al finalizar el curso el alumno sea capaz de:
 #### Bibliografía Complementaria:
 - Ensmenger, N. L. (2003). [Letting the “Computer Boys” take over: Technology and the politics of organizational transformation](https://www.researchgate.net/publication/248710837_Letting_the_Computer_Boys_Take_Over_Technology_and_the_Politics_of_Organizational_Transformation). *International Review of Social History (IRSH), 48* (S11) (December 2003), 153–180. DOI: 10.1017/S0020859003001305.
 - Haigh, T. (2001). [Inventing information systems: The systems men and the computer, 1950-1968](https://www.jstor.org/stable/i356703). *The Business History Review 75*(1) (Computers and Communications Networks, Spring), 15-61.
-- Computer History Archives Project. (2021, Dec 26). Computer History UK LEO III Computer 1966 (Full Version) (J. Lyons Electronic Office Automation). YouTube. ([video](https://www.youtube.com/watch?v=H_0Astp1dEU&list=UUOyJD0RHtF_77_oAf5tT1nQ&index=4))
 
 
 ### Unidad 5. Software de oficina
