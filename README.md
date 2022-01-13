@@ -588,6 +588,7 @@ Que al finalizar el curso el alumno sea capaz de:
 #### Bibliografía Complementaria:
 - Ensmenger, N. L. (2003). [Letting the “Computer Boys” take over: Technology and the politics of organizational transformation](https://www.researchgate.net/publication/248710837_Letting_the_Computer_Boys_Take_Over_Technology_and_the_Politics_of_Organizational_Transformation). *International Review of Social History (IRSH), 48* (S11) (December 2003), 153–180. DOI: 10.1017/S0020859003001305.
 - Haigh, T. (2001). [Inventing information systems: The systems men and the computer, 1950-1968](https://www.jstor.org/stable/i356703). *The Business History Review 75*(1) (Computers and Communications Networks, Spring), 15-61.
+- Computer History Archives Project. (2021, Dec 26). Computer History UK LEO III Computer 1966 (Full Version) (J. Lyons Electronic Office Automation). YouTube. ([video](https://www.youtube.com/watch?v=H_0Astp1dEU&list=UUOyJD0RHtF_77_oAf5tT1nQ&index=4))
 
 
 ### Unidad 5. Software de oficina
