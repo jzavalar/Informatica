@@ -527,7 +527,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
   *Objetivo*: Comprender el surgimiento de los sistemas de información automatizados en las organizaciones.
     
-  *Parte 1*. De manera individual, investigue la historia del proyecto LEO a partir de la bibliografía anexa o la que encuentre en [Google Académico](https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=enterprise+OR+system+OR+Lyons+%22leo+project%22&btnG=):
+  *Parte 1*. De manera individual, investigue la historia del proyecto LEO a partir de la bibliografía que encuentre en [Google Académico](https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=enterprise+OR+system+OR+Lyons+%22leo+project%22&btnG=) o la bibliografía anexa:
    - Zavala, J. (2011). La industria del software y su importancia. In *[La ingeniería de software: Una discusión epistemológica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing)* (pp. 77-87). Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México.
    - Land, F. (2000). [The first business computer: A case study in user-driven innovation](http://eprints.lse.ac.uk/19150/1/The%20first%20business%20computer(lsero).pdf). *IEEE Annals of the History of Computing, 22*(3), 16-26.
    - Information Age: The computer that changed our world ([video](https://www.youtube.com/watch?v=X0yYDxjBnTM)), LEO: The automatic office (1957) ([Video](https://www.youtube.com/watch?v=-8K-xbx7jBM)), Ernest Kaye: LEO 1952 ([Video](https://www.youtube.com/watch?v=GE6TX70A3Rc)), LEO: Celebrating The Pioneers ([Video](https://www.youtube.com/watch?v=Lrn24SdW64I)).
