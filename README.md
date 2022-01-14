@@ -514,8 +514,9 @@ Que al finalizar el curso el alumno sea capaz de:
 - DW Documental (2019, Sep 26). [¿De qué es capaz la inteligencia artificial?](https://www.youtube.com/watch?v=34Kz-PP_X7c). *YouTube* (video) (42:35 min).
 - Glez, R. (2017, Jul 29). [Mi vida es un algoritmo](https://www.youtube.com/watch?v=MiaLpkV8JyM). *YouTube* (video) (58:15 min).
 - BBC Newsbeat. (2014, Sep 4). [Por qué vale la pena aprender a programar... ¡nunca es tarde!](http://www.bbc.com/mundo/noticias/2014/09/140904_tecnologia_lenguaje_programacion_finde_yv). *BBC Mundo*.
-- R project en Bossie Awards ([url](https://www.infoworld.com/article/3228150/analytics/bossie-awards-2017-the-best-databases-and-analytics-tools.html#slide11)). 
-
+- R project en Bossie Awards ([url](https://www.infoworld.com/article/3228150/analytics/bossie-awards-2017-the-best-databases-and-analytics-tools.html#slide11)).
+- RStudio Cloud ([url](https://rstudio.cloud/)) (Sitio web para uasr R en línea)
+- Baruffa, O. (2022, Jan 13). [Big book of R](https://www.bigbookofr.com/). (Sitio web) (Compilación de libros y fuentes documentales sobre R).
 
 ### Unidad 4. Informática: Aplicación de la computación en las organizaciones
 1. La informática como profesión: Los chicos de la computadora
