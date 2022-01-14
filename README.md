@@ -434,7 +434,7 @@ Que al finalizar el curso el alumno sea capaz de:
    
   *Parte 2*. Investigue qué es el [pseudocódigo](https://es.wikipedia.org/wiki/Pseudocódigo) y su utilidad para el aprendizaje de la programación de computadoras.
     
-  *Parte 3*. Luego, instale la aplicación *[PseInt](http://pseint.sourceforge.net/)* en su equipo y haga una compilación de los elementos del pseudocódigo en su cuaderno utilizado en *PSeInt*, a parti6. de la documentación en la Ayuda de la aplicación y de la consulta del siguiente [curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw).
+  *Parte 3*. Luego, instale la aplicación *[PseInt](http://pseint.sourceforge.net/)* en su equipo y haga una compilación de los elementos del pseudocódigo en su cuaderno utilizado en *PSeInt*, a parti6. de la documentación en la Ayuda de la aplicación y de la consulta del siguiente [curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw). Cree su cuenta para acceder a PSeInt en Internet en [RollApp](https://www.rollapp.com/app/pseint).
    
   Concéntrese en comprender la lógica de los tipos y estructuras de datos, de los comandos, de las estructuras de control y de la entrada, salida, almacenamiento y procesamiento de datos.
    
