@@ -679,6 +679,9 @@ Documente en un video la realización de la práctica y su experiencia en la rea
 #### Bibliografía Complementaria:
 - JhonvaCode. (2018, Jan 14) [Sistema de un parqueadero en #PseInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). *YouTube*. (7 videos). (*Lectura 2.3*).
 
+#### Bibliografía General Complementaria:
+- Khan Academy (2022). [Principios de Ciencias de la Computación avanzados (AP Computer Science Principles)](https://es.khanacademy.org/computing/ap-computer-science-principles). Khan Academy [Sitio web]. (Curso de revisión que incluye preguntas de práctica, artículos educativos y videos que cubren, entre otros temas programación, algoritmos, simulaciones y análisis de datos. Utilícelo como repaso para aprender y para la preparación de sus evaluaciones.) 
+
 
 ## Modalidades de Evaluación
 
