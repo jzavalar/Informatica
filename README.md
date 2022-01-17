@@ -699,9 +699,9 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 
 **Notas:
   - **a).** Primer examen: *Teórico* (Unidades 1, 2 y 3) y *Práctico* (Programación): Fecha: 10 de enero de 2022
-  - **b).** Segundo examen: Teórico - Práctico (Unidades 4 (Sistemas de Información) y 5 (Tablas dinámicas)): Fecha: Viernes 4 de febrero de 2022, 20:00-22:00 hr
+  - **b).** Segundo examen: Teórico - Práctico (Unidades 4 (Sistemas de Información) y 5 (Tablas dinámicas)): Fecha: Miércoles 2 de febrero de 2022, de 12:00 a las 14:00 hr.
   - **Evaluación Global:** Todo el curso (Teoría y Práctica): Fecha 7 de febrero de 2022: 12-14 hr.
-  - **Entrega de calificaciones:** 8 de febrero de 2022.   
+  - **Entrega de calificaciones:** 8 de febrero de 2022.
 
 La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
 
