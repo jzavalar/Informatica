@@ -592,6 +592,7 @@ Que al finalizar el curso el alumno sea capaz de:
 #### Bibliografía Complementaria:
 - Ensmenger, N. L. (2003). [Letting the “Computer Boys” take over: Technology and the politics of organizational transformation](https://www.researchgate.net/publication/248710837_Letting_the_Computer_Boys_Take_Over_Technology_and_the_Politics_of_Organizational_Transformation). *International Review of Social History (IRSH), 48* (S11) (December 2003), 153–180. DOI: 10.1017/S0020859003001305.
 - Haigh, T. (2001). [Inventing information systems: The systems men and the computer, 1950-1968](https://www.jstor.org/stable/i356703). *The Business History Review 75*(1) (Computers and Communications Networks, Spring), 15-61.
+- Anonymous (s.f.). [Welcome to LEO, the first business computer](http://www.computinghistory.org.uk/pages/50348/Welcome-to-LEO-the-first-business-computer/). The Centre for Computing History. Cambridge, UK.
 
 
 ### Unidad 5. Software de oficina
