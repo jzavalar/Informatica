@@ -631,7 +631,7 @@ Que al finalizar el curso el alumno sea capaz de:
 - *Práctica 5.2. Editor de textos* (Entrega: 31 de enero de 2022)
     
   - Concepto y funcionamiento de un editor de textos y desarrollar las habilidades de edición profesional.
-  - Usar estilo APA. Sugerencia: Usar [plantilla para tesis](https://drive.google.com/file/d/0B8yPXE-mYJ1wZkhtVDRNRjNLeW8/view?usp=sharing).
+  - Usar estilo APA. Sugerencia: Usar [plantilla para tesis](https://docs.google.com/document/d/1F-oCU7yAE_t-Yep-CmG0Wfi5w7jOtM_i/edit?usp=sharing&ouid=108201401516590627031&rtpof=true&sd=true).
   - [DB libros](https://drive.google.com/file/d/1tirAfY-27e_Ae9I3BvNiIBNfm20Ev4Tz/view?usp=sharing) para ejercicio de combinar correspondencia.
 
 - *Práctica 5.3. Presentaciones* (Entrega: 31 de enero de 2022)
