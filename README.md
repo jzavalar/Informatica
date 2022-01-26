@@ -636,7 +636,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
 - *Práctica 5.3. Presentaciones* (Entrega: 31 de enero de 2022)
 
-  Concepto y funcionamiento de una presentación y aplicar los principios de [Reynolds (2011)]() para elaborar una presentación profesional. 
+  Concepto y funcionamiento de una presentación y aplicar los principios de [Reynolds (2011)]() para elaborar una presentación profesional. Haga la presentación de cómo realizar la combinación de correspondencia de la práctica 5.2 y así documente su pr 
   
   Sugerencia: Usar [plantilla](https://drive.google.com/file/d/0B8yPXE-mYJ1wckFFZzZBUWVhRWs/view?usp=sharing). 
 
