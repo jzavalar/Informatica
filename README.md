@@ -640,7 +640,7 @@ Que al finalizar el curso el alumno sea capaz de:
   
   Sugerencia: Usar [plantilla](https://drive.google.com/file/d/0B8yPXE-mYJ1wckFFZzZBUWVhRWs/view?usp=sharing). 
 
-- *Práctica 5.4. Base de datos geográfica*. (Opcional: 4 de febrero de 2022. Se otorgará **medio punto extra* a la calificación final a quien la realice bien).
+- *Práctica 5.4. Base de datos geográfica*. (Opcional: 4 de febrero de 2022. Se otorgará **medio punto extra** a la calificación final a quien la realice bien).
 
   *Objetivo*: Crear un sistema integrado de bases de datos geográficas con PostgreSQL, R y QGIS.
     
