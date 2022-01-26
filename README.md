@@ -669,13 +669,13 @@ El proyecto es opcional, pero otorgará un **punto extra a la calificación fina
 
 En equipos de 3, estudien la lista de videos sobre el desarrollo de un  [Sistema para un Parqueadero en #PseInt](https://www.youtube.com/watch?v=9jLu8yrdsjM&list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f) (Altas, Bajas y Cambios).
 
-Después, elijan alguno de los siguientes temas para adaptarlo: (1) Tienda de abarrotes, (2) Biblioteca, (3) Librería, (4) Escuela, (5) Contactos.
+Después, elijan alguno de los siguientes temas para adaptarlo: (1) Tienda de abarrotes, (2) Biblioteca, (3) Librería, (4) Escuela, (5) Restaurante.
 
-Documente el código de su proyecto con suficientes comentarios
+Documente el código de su proyecto con suficientes comentarios.
 
 Prepare la exposición de su trabajo.
 
-Documente en un video la realización de la práctica y su experiencia en la realización de la actividad. Comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+Documente en un video la realización de la práctica y su experiencia en la realización de la actividad. Comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a la cuenta de Google Drive donde corresponda, de cada uno de los miembros del equipo.
 
 #### Bibliografía Complementaria:
 - JhonvaCode. (2018, Jan 14) [Sistema de un parqueadero en #PseInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). *YouTube*. (7 videos). (*Lectura 2.3*).
@@ -695,13 +695,13 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 | Asistencia puntual | 10% |  |
 | Tareas|30% |Se entrega en la fecha programada |
 | Prácticas| 30% |Se entregan  en la fecha programada |
-| Exámenes| 30% | 1*,2**|
+| Exámenes| 30% | Prinmero (a), Segundo (b)|
 | Total | 100% | |
 
 **Notas:
   - **a).** Primer examen: *Teórico* (Unidades 1, 2 y 3) y *Práctico* (Programación): Fecha: 10 de enero de 2022
-  - **b).** Segundo examen: Teórico - Práctico (Unidades 4 (Sistemas de Información) y 5 (Tablas dinámicas)): Fecha: Miércoles 2 de febrero de 2022, de 12:00 a las 14:00 hr.
-  - **Evaluación Global:** Todo el curso (Teoría y Práctica): Fecha 7 de febrero de 2022: 12-14 hr.
+  - **b).** Segundo examen: *Teórico - Práctico* (Unidad 4 (Sistemas de Información) y Unidad 5 (Tablas dinámicas)): Fecha: Miércoles 2 de febrero de 2022, de 12:00 a las 14:00 hr.
+  - **Evaluación Global:** Todo el curso (Teoría y Práctica) para quienes tengan baja calificación o deseen subir: Fecha 7 de febrero de 2022, de 12:00 a 14:00 hr.
   - **Entrega de calificaciones:** 8 de febrero de 2022.
 
 La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
