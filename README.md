@@ -632,7 +632,7 @@ Que al finalizar el curso el alumno sea capaz de:
     
   - Concepto y funcionamiento de un editor de textos y desarrollar las habilidades de edición profesional.
   - Usar estilo APA. Sugerencia: Usar [plantilla para tesis](https://docs.google.com/document/d/1F-oCU7yAE_t-Yep-CmG0Wfi5w7jOtM_i/edit?usp=sharing&ouid=108201401516590627031&rtpof=true&sd=true) y este [texto para practicar](https://drive.google.com/file/d/1QdnYt8k07_xeJQBZJ-MI2pzo4BV--DwT/view?usp=sharing).
-  - [DB libros](https://drive.google.com/file/d/1tirAfY-27e_Ae9I3BvNiIBNfm20Ev4Tz/view?usp=sharing) para ejercicio de combinar correspondencia.
+  - [DB libros](https://docs.google.com/spreadsheets/d/1TpKMa1JCQhktzL2Aidj27_HoOnYmTj1j/edit?usp=sharing&ouid=108201401516590627031&rtpof=true&sd=true) para ejercicio de combinar correspondencia.
 
 - *Práctica 5.3. Presentaciones* (Entrega: 31 de enero de 2022)
 
