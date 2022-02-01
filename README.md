@@ -504,6 +504,7 @@ Que al finalizar el curso el alumno sea capaz de:
 - JhonvaCode. (2018, Jan 14) [Curso de PSeint de cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw). *YouTube*. (7 videos). (*Lectura 2.3*).
 
 #### Bibliografía Complementaria:
+- Bachman, C. W. (2007, Jan/1973). [The programmer as navigator](https://doi.org/10.1145/1283920.1283928). ACM Turing award lectures. Year Awarded: 1973. *ACM Digital Library*. ([pdf](https://dl.acm.org/doi/pdf/10.1145/1283920.1283928)) (Supplemental Material: [pdf](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F1283920.1283928&file=a1973-bachman_ps.pdf))
 - Tecno Hobbies. (2018, Jan 11). [Curso de Pseint 2018](https://www.youtube.com/playlist?list=PLwOemaB2t99ZEIKLeoxdz91F9AKC-vkK7). *YouTube* (31 videos). 
 - Novara, P. (2019). PSeInt [software] ([url](http://pseint.sourceforge.net/index.php?page=portada.php)). ([guía rápida](http://pseint.sourceforge.net/slide/pseint.html)). ([descargar](http://pseint.sourceforge.net/index.php?page=actualizacion.php)). [PSeInt en línea](https://www.rollapp.com/app/pseint)
 - Tecno Hobbies. (2018, Jan 11). [Curso de Pseint 2018](https://www.youtube.com/playlist?list=PLwOemaB2t99ZEIKLeoxdz91F9AKC-vkK7). *YouTube*. (31 videos).
