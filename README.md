@@ -516,8 +516,10 @@ Que al finalizar el curso el alumno sea capaz de:
 - Glez, R. (2017, Jul 29). [Mi vida es un algoritmo](https://www.youtube.com/watch?v=MiaLpkV8JyM). *YouTube* (video) (58:15 min).
 - BBC Newsbeat. (2014, Sep 4). [Por qué vale la pena aprender a programar... ¡nunca es tarde!](http://www.bbc.com/mundo/noticias/2014/09/140904_tecnologia_lenguaje_programacion_finde_yv). *BBC Mundo*.
 - R project en Bossie Awards ([url](https://www.infoworld.com/article/3228150/analytics/bossie-awards-2017-the-best-databases-and-analytics-tools.html#slide11)).
-- RStudio Cloud ([url](https://rstudio.cloud/)) (Sitio web para uasr R en línea)
+- RStudio Cloud ([url](https://rstudio.cloud/)) (Sitio web para usar R en línea).
 - Baruffa, O. (2022, Jan 13). [Big book of R](https://www.bigbookofr.com/). (Sitio web) (Compilación de libros y fuentes documentales sobre R).
+- Burns, P. (2002). [Impatient R](https://www.burns-stat.com/documents/tutorials/impatient-r/). Burns statistics. (Tutorial sobre algunos consejos para los principiantes impacientes que quieren aprender el lenguaje de programación R).
+- Burns, P. (2011). [The R inferno](https://www.burns-stat.com/documents/books/the-r-inferno/). Burns statistics. ([pdf](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf)). (Un libro sobre puntos problemáticos, rarezas, trampas, fallas en R).
 
 ### Unidad 4. Informática: Aplicación de la computación en las organizaciones
 1. La informática como profesión: Los chicos de la computadora
