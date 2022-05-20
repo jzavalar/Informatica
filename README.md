@@ -28,7 +28,7 @@ Por lo anterior, la computadora se puede considerar como una máquina simbólica
 
 Para entender el alcance de la computación y la informática, simplemente hay que echar una mirada alrededor y percatarse de su ubicuidad: dispositivos electrónicos de todos tamaños y usos invaden nuestra cotidianeidad, tales como teléfonos celulares, tabletas, laptops, juguetes, refrigeradores, cafeteras, etc., todos con inteligencia artificial implantada en software.
 
-Esta UEA pretende proporcionar las bases para que los alumnos pierdan el miedo a las computadoras y le saquen el mejor de los provechos en su vida escolar y profesional y que exploren por su cuenta, ese vasto mundo de la informática, al mismo tiempo que se percatan de la importancia que tiene en la administración de las empresas privadas, la administarción pública y las organizaciones, en general.
+Esta UEA tiene un **enfoque teórico-práctico** y pretende proporcionar las bases para que los alumnos pierdan el miedo a las computadoras y le saquen el mejor de los provechos en su vida escolar y profesional y que exploren por su cuenta ese vasto mundo digital. Al mismo tiempo, se propone que se percaten de la importancia que tiene en la administración de las empresas privadas, en la administarción pública, en las organizaciones, en general.
 
 [Programa vigente](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf).
 
