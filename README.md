@@ -468,8 +468,8 @@ Que al finalizar el curso el alumno sea capaz de:
 - *Práctica 3.3. Programación Parte 1: Control básico, condicionales y ciclos*. (Demostrativa).
 
   *Objetivo*: Aprender las estructuras de control, las condicionales y los ciclos en la programación de computadoras.
-    
-  Estudie los videos necesarios en el *[Curso de PseInt de cero a siempre](htps://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw)*, para cumplir el objetivo e identifique los conceptos estudiados.
+  
+  Estudie los videos necesarios en el *[Curso de PseInt de cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw)*, para cumplir el objetivo e identifique los conceptos estudiados.
     
   Tome notas a mano en su cuaderno y practique los ejercicios del video en PseInt.
     
