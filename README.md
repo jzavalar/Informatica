@@ -196,7 +196,7 @@ Que al finalizar el curso el alumno sea capaz de:
     
   Luego, descargue los 6 videos de la *Lectura 1.1*, incluyendo los subtítulos en inglés y en español.
     
-  Utilice en primer video y genere automáticamente los subtítulos con la herramienta [Clideo](https://clideo.com/resources/how-to-generate-subtitles-from-video-automatically); luego, compare los subtítulos generados y los descargados y saque sus conclusiones.
+  Utilice en primer video y genere automáticamente los subtítulos con la herramienta [Clideo](https://clideo.com/create-subtitles) según la [guía](https://clideo.com/resources/how-to-generate-subtitles-from-video-automatically) correspondiente. Luego, compare los subtítulos generados y los descargados y saque sus conclusiones.
   
   Modifique uno de los archivos de subtítulos con alguna de las siguientes herramientas: . Pruebe el despliegue de los subtítulos con *[VLC](https://www.videolan.org/vlc/)*.
     
