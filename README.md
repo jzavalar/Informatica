@@ -199,6 +199,8 @@ Que al finalizar el curso el alumno sea capaz de:
   Luego, descargue los 6 videos de la *Lectura 1.1*, incluyendo los subtítulos en inglés y en español.
     
   Modifique uno de los archivos de subtítulos para que aprenda cómo hacerlo. Pruebe el despliegue de los subtítulos con *[VLC](https://www.videolan.org/vlc/)*.
+  
+  Utilice en primer video y genere los subtítulos con [esta guía](https://clideo.com/resources/how-to-generate-subtitles-from-video-automatically) y compare los subtítulos generados y los subtítulos descargados y saque sus conclusiones.
     
   Vea los seis videos e identifique los conceptos de la Unidad: Code.org (2018, Jan 30). [How computers work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). *YouTube*. (6 videos).
     
