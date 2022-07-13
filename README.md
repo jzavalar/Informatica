@@ -175,7 +175,7 @@ Que al finalizar el curso el alumno sea capaz de:
 3. La computadora digital como máquina simbólica de propósito general
 4. Tareas y prácticas:
  
-- *Práctica 1.1. Partes de la computadora*. (Entrega: ).
+- *Práctica 1.1. Partes de la computadora*. (Entrega: 18 de julio de 2022).
 
   *Objetivo:* Identificar las partes de los varios tipos de computadoras modernas
     
@@ -190,7 +190,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Suba los archivos a su cuenta de *Google Drive*. 
 
 
-- *Práctica 1.2. Funciones de la computadora*. (Entrega: ).
+- *Práctica 1.2. Funciones de la computadora*. (Entrega: 20 de julio de 2022).
 
   *Objetivos*: Identificar las funciones básicas de una computadora, aprender a descargar videos con una herramienta de software y editar los subtítulos.
     
@@ -207,7 +207,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Documente en un video su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Tarea 1.3. Historia de la computación*. (Entrega: ).
+- *Tarea 1.3. Historia de la computación: Paete 1*. (Entrega: 25 de julio de 2022).
 
   *Objetivo*: Aprender una historia breve de la computación.
     
@@ -216,7 +216,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Documente en un video su experiencia en la realización de la actividad y escanée o tome una foto de su tarea. Comparta el video en el grupo de Telegram y suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Práctica 1.4. Historia de la computación*. (Entrega: ).
+- *Práctica 1.4. Historia de la computación: Parte 2*. (Entrega: 25 de julio de 2022).
 
   *Objetivos*: Aprender algunos aspectos de la historia de la computación a través del cine.
    
@@ -227,7 +227,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Tarea 1.5. Conceptos fundamentales*. (Entrega: ).
+- *Tarea 1.5. Conceptos fundamentales*. (Entrega: 27 de julio de 2022).
 
   *Objetivos*: Aprender a diseñar mapas conceptuales y aprender una herramienta de software para diseñar mapas conceptuales.
     
@@ -238,7 +238,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Práctica 1.6. Adquisición de una computadora*. (Entrega: ).
+- *Práctica 1.6. Adquisición de una computadora*. (Entrega: 27 de julio de 2022).
 
   *Objetivos*: Aprender a evaluar la compra de una computadora nueva y de segunda mano.
 
@@ -251,7 +251,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Práctica 1.7. Encriptación*. (Opcional) (Entrega: ).
+- *Práctica 1.7. Encriptación*. (Opcional) (Entrega: 27 de julio de 2022).
 
   *Objetivos*: Aplique la encriptación a través de aplicarla en su teléfono celular.
 
@@ -292,7 +292,7 @@ Que al finalizar el curso el alumno sea capaz de:
 3. Funciones principales
 4. Tareas y prácticas:
 
-- *Tarea 2.1. Conceptos básicos de software*. (Entrega: ).
+- *Tarea 2.1. Conceptos básicos de software*. (Entrega: 1 de agosto de 2022).
 
   *Objetivo*: Comprender los conceptos básicos de software.
     
@@ -303,7 +303,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Tarea 2.2. Licenciamiento de software*. (Entrega: ).
+- *Tarea 2.2. Licenciamiento de software*. (Entrega: 1 de agosto de 2022).
 
   *Objetivo*: Comprender los conceptos básicos de licenciamiento de software.
     
@@ -316,7 +316,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Práctica 2.3. Instalación de sistemas operativos en un medio extraible*. (Entrega: 1 de diciembre de 2021).
+- *Práctica 2.3. Instalación de sistemas operativos en un medio extraible*. (Entrega: 3 de agosto de 2022).
 
   *Objetivo*: Aprender a usar varios sistemas operativos desde un medio extraíble.
     
@@ -341,7 +341,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Práctica 2.4. Instalación de sistemas operativos como máquinas virtuales*. (Entrega: 1 de diciembre de 2021).
+- *Práctica 2.4. Instalación de sistemas operativos como máquinas virtuales*. (Entrega: 3 de agosto de 2022).
 
   *Objetivo*: Aprender a instalar varios sistemas operativos como un máquinas virtuales.
     
@@ -356,7 +356,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Práctica 2.5: Recuperación de archivos*. (Entrega: ).
+- *Práctica 2.5: Recuperación de archivos*. (Entrega: 8 de agosto de 2022).
 
   *Objetivo*: Aprender el uso de una herramienta de software para el mantenimiento de una computadora.
     
@@ -375,7 +375,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Práctica 2.6. Particiones y sistemas de archivos*. (Entrega: ).
+- *Práctica 2.6. Particiones y sistemas de archivos*. (Entrega: 8 de agosto de 2022).
 
   *Objetivo*: Comprender y practicar la preparación de dispositivos de almacenamiento en una computadora.
      
@@ -394,7 +394,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Práctica 2.7. Instalación de driver o controlador de hardware*. (Entrega: ).
+- *Práctica 2.7. Instalación de driver o controlador de hardware*. (Entrega: 8 de agosto de 2022).
 
   *Objetivo*: Aprender a instalar drivers en el sistema operativo Windows.
      
@@ -403,7 +403,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Entregue el reporte de experiencia en un video usando la aplicación Vokoscreen-NG. Suba su video a su Google Drive.
 
 
-- *Práctica 2.8. Comandos básicos de un sistema operativo y de manejo de archivos*. (Entrega: ).
+- *Práctica 2.8. Comandos básicos de un sistema operativo y de manejo de archivos*. (Entrega: 10 de agosto de 2022).
 
   *Objetivo*: Practicar los comandos básicos del manejo de archivos en la línea de comandos, en los sistemas operativos Windows y Linux.
      
@@ -433,7 +433,7 @@ Que al finalizar el curso el alumno sea capaz de:
 3. Diagrama de flujo, pseudocódigo y codificación.
 4. Tareas y prácticas:
 
-- *Tarea 3.1. Desarrollo de software*. (Entrega: ).
+- *Tarea 3.1. Desarrollo de software*. (Entrega: 15 de agosto de 2022).
 
   *Objetivo*: Comprender los conceptos básicos de desarrollo de software.
     
@@ -446,7 +446,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable 3) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Práctica 3.2. Algoritmos y pseudocódigo*. (Entrega: ).
+- *Práctica 3.2. Algoritmos y pseudocódigo*. (Entrega: 15 de agosto de 2022).
 
   *Objetivo*: Comprender los conceptos de algoritmo y pseudocódigo.
     
@@ -465,7 +465,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
 
 
-- *Práctica 3.3. Programación Parte 1: Control básico, condicionales y ciclos*. (Demostrativa).
+- *Práctica 3.3. Programación Parte 1: Control básico, condicionales y ciclos*. (Entrega: 15 de agosto de 2022).
 
   *Objetivo*: Aprender las estructuras de control, las condicionales y los ciclos en la programación de computadoras.
   
@@ -476,7 +476,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Saque sus conclusiones y expóngalas en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Práctica 3.4. Programación Parte 2: Diagramas de flujo*. (Demostrativa).
+- *Práctica 3.4. Programación Parte 2: Diagramas de flujo*. (Entrega: 17 de agosto de 2022).
 
   *Objetivo*: Aprender los diagramas de flujo y el pseudocódigo como dos formas complementarias de la programación de computadoras.
     
@@ -487,7 +487,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Saque sus conclusiones y expóngalas en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Práctica 3.5. Programación Parte 3: Contadores, arreglos y estructuras de datos*. (Demostrativa).
+- *Práctica 3.5. Programación Parte 3: Contadores, arreglos y estructuras de datos*. (Entrega: 17 de agosto de 2022).
 
   *Objetivo*: Aprender sobre los contadores, arreglos y otras estructuras de datos para la programación de computadoras.
     
@@ -498,7 +498,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Saque sus conclusiones y expóngalas en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Práctica 3.6. Programación Parte 4: Funciones*. (Demostrativa).
+- *Práctica 3.6. Programación Parte 4: Funciones*. (Entrega: 22 de agosto de 2022).
 
   *Objetivo*: Aprender el concepto de subrutina o función en la programación de computadoras.
      
@@ -509,7 +509,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Saque sus conclusiones y expóngalas en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Tarea 3.7. Ejercicios programación de algoritmos*. (Entrega: ). 
+- *Tarea 3.7. Ejercicios programación de algoritmos*. (Entrega: 22-24 de agosto de 2022). 
 
   *Objetivo*: Poner a prueba los conceptos aprendidos.
      
@@ -552,7 +552,7 @@ Que al finalizar el curso el alumno sea capaz de:
 3. Los sistemas empresariales de información (ERP)
 4. Prácticas y tareas:
 
-- *Tarea 4.1. LEO: El primer sistema empresarial en el mundo*. (Entrega: 12 de enero de 2022).
+- *Tarea 4.1. LEO: El primer sistema empresarial en el mundo*. (Entrega: ).
 
   *Objetivo*: Comprender el surgimiento de los sistemas de información automatizados en las organizaciones.
     
@@ -582,7 +582,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Suban su texto al Google Drive de cada uno de los integrantes.
 
 
-- *Tarea 4.3. Los sistemas de información empresarial y su evolución histórica*. (Entrega: 19 de enero de 2022).
+- *Tarea 4.3. Los sistemas de información empresarial y su evolución histórica*. (Entrega: ).
 
   *Objetivo*: Comprender el concepto y evolución histórica de los sistemas de información empresariales. 
     
@@ -633,7 +633,7 @@ Que al finalizar el curso el alumno sea capaz de:
 4. Base de datos
 5. Prácticas
 
-- *Práctica 5.1. Tablas dinámicas con hoja de cálculo*. (Entrega: 26 de enero de 2022). 
+- *Práctica 5.1. Tablas dinámicas con hoja de cálculo*. (Entrega: ). 
 
   *Objetivo*: Practicar la creación de tablas dinámicas para la resolución de preguntas cuantitativas a una base de datos.
     
@@ -669,14 +669,14 @@ Que al finalizar el curso el alumno sea capaz de:
   - [DB libros](https://docs.google.com/spreadsheets/d/1TpKMa1JCQhktzL2Aidj27_HoOnYmTj1j/edit?usp=sharing&ouid=108201401516590627031&rtpof=true&sd=true) para ejercicio de combinar correspondencia.
 
 
-- *Práctica 5.3. Presentaciones* (Entrega: 31 de enero de 2022)
+- *Práctica 5.3. Presentaciones* (Entrega: )
 
   Concepto y funcionamiento de una presentación y aplicar los principios de alguna de estas [referencias](http://libgen.rs/search.php?req=presentaciones&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) o [Reynolds (2020)](http://libgen.rs/book/index.php?md5=5F62AC031A18BBA03CC2E3E9FC00B234) para elaborar una presentación profesional. Haga la presentación de cómo realizar la combinación de correspondencia de la práctica 5.2 y así documente su proceso. Suba la presentación a su Google Drive.
   
   Sugerencia: Usar [plantilla](https://drive.google.com/file/d/0B8yPXE-mYJ1wckFFZzZBUWVhRWs/view?usp=sharing). 
 
 
-- *Práctica 5.4. Base de datos geográfica*. (Opcional: . Se otorgará **punto extra** a la calificación final a quien la realice).
+- *Práctica 5.4. Base de datos geográfica*. (Entrega: ).
 
   *Objetivo*: Crear un sistema integrado de bases de datos geográficas con PostgreSQL, R y QGIS.
     
