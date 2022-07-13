@@ -181,9 +181,7 @@ Que al finalizar el curso el alumno sea capaz de:
     
   Investigue e identifique las partes en una computadora de escritorio, una laptop, una tableta y un teléfono celular.
     
-  Haga un *collage* a mano en su cuaderno, identificando las partes de cada tipo de computadora, en una página para tipo.
-    
-  Escanée la hoja o tome una foto de su tarea.
+  Haga un *collage* a mano en su cuaderno, identificando de manera legible las partes de cada tipo de computadora, en una página para tipo. Tome una foto y envíela al grupo de Telegram.
     
   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de *Telegram*.
     
@@ -198,9 +196,9 @@ Que al finalizar el curso el alumno sea capaz de:
     
   Luego, descargue los 6 videos de la *Lectura 1.1*, incluyendo los subtítulos en inglés y en español.
     
-  Modifique uno de los archivos de subtítulos para que aprenda cómo hacerlo. Pruebe el despliegue de los subtítulos con *[VLC](https://www.videolan.org/vlc/)*.
+  Utilice en primer video y genere automáticamente los subtítulos con la herramienta [Clideo](https://clideo.com/resources/how-to-generate-subtitles-from-video-automatically); luego, compare los subtítulos generados y los descargados y saque sus conclusiones.
   
-  Utilice en primer video y genere los subtítulos con [esta guía](https://clideo.com/resources/how-to-generate-subtitles-from-video-automatically) y compare los subtítulos generados y los subtítulos descargados y saque sus conclusiones.
+  Modifique uno de los archivos de subtítulos con alguna de las siguientes herramientas: . Pruebe el despliegue de los subtítulos con *[VLC](https://www.videolan.org/vlc/)*.
     
   Vea los seis videos e identifique los conceptos de la Unidad: Code.org (2018, Jan 30). [How computers work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). *YouTube*. (6 videos).
     
