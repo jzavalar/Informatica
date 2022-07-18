@@ -7,7 +7,7 @@
 
 **Horario:** *Lunes y Miércoles de 12:00 a 14:00*.
 
-**Salón:** *Sala K, anexo del Edificio A*.
+**Salón:** *Anexo del Edificio A, Sala K (AA-K)*.
 
 **Asesorías:**  *Martes* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps), previa programación, a petición del alumno.
 
