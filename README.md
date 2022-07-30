@@ -3,13 +3,14 @@
 ## Programa Analítico de la UEA Informática (Teoría y Práctica)
 ## Licenciatura en Administración
 
-**Clave de la UEA:** *2211088*, **Grupo:** *HA03*, **Trimestre:** *22-P*
+**Clave de la UEA:** *2211088* **Trimestre:** *22-P*
 
-**Horario:** *Lunes y Miércoles de 12:00 a 14:00*.
+**Horario:** *Lunes y Miércoles de 12:00 a 14:00* (**Grupo** *HA03*)
+**Horario:** *Lunes y Miércoles de 16:00 a 18:00* (**Grupo** *HA57*)
 
 **Salón:** *Anexo del Edificio A, Sala K (AA-K)*.
 
-**Asesorías:**  *Martes* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps), previa programación, a petición del alumno.
+**Asesorías:**  *Jueves* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps), previa programación, a petición del alumno.
 
 **Profesor:** *dr. Jesús Zavala Ruiz*
 
@@ -207,7 +208,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Documente en un video su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Tarea 1.3. Historia de la computación: Paete 1*. (Entrega: 25 de julio de 2022).
+- *Tarea 1.3. Historia de la computación: Parte 1*. (Entrega: 25 de julio de 2022).
 
   *Objetivo*: Aprender una historia breve de la computación.
     
@@ -324,7 +325,7 @@ Que al finalizar el curso el alumno sea capaz de:
     
   *Parte 2*. Investigue qué es una imagen ISO y cómo se usa. Utilice Qbittorrent y, mediante su motor de búsqueda, localice la imagen ISO del sistema operativo Windows 7, usando la frase "Windows 7 untouched genuine" o "Windows 7 Ultimate spanish" ([tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)) o busque el torrent [aquí](https://thepiratebay.org/). Identifique la entrada que tiene más semillas (seeds) y descárguela. 
     
-  *Parte 3*. Investigue un poco sobre las distribuciones del sistema operativo GNU/Linux ([guía 1](https://www.youtube.com/watch?v=RLStWVb1fWo&t=313s)) ([guía 2](https://www.youtube.com/watch?v=gbqv0AkqsXw)). Descargue el archivo ISO del sistema operativo Linux [Ubuntu](https://releases.ubuntu.com/), [Ubuntu Mate](https://ubuntu-mate.org/download/) o [Fedora](https://getfedora.org/es/) ([guía](https://www.youtube.com/watch?v=gbqv0AkqsXw)) de 32 o 64 bits, según sea la arquitectura del procesador (CPU) de su laptop.
+  *Parte 3*. Investigue un poco sobre las distribuciones del sistema operativo GNU/Linux ([guía 1](https://www.youtube.com/watch?v=RLStWVb1fWo&t=313s)) ([guía 2](https://www.youtube.com/watch?v=gbqv0AkqsXw)). Descargue el archivo ISO del sistema operativo Linux [Fedora](https://getfedora.org/es/) ([guía](https://www.youtube.com/watch?v=gbqv0AkqsXw)) o [Ubuntu Mate](https://ubuntu-mate.org/download/) de 32 o 64 bits, según sea la arquitectura del procesador (CPU) de su computadora.
     
   *Parte 4*. Esta práctica requiere un dispositivo externo (USB o disco duro externo). Existen varias aplicaciones que se pueden utilizar, entre ellas, destacan **Ventoy**, **Yumi** o **Rufus**. **Advertencia:** Siempre debe tener **cuidado de NO instalar Ventoy, Yumi o Rufus en el disco duro de su computadora**. Por ello, previamente, **siempre debe respaldar los archivos de la USB, antes.** Después de preparar la USB con Ventoy o Yumi, ya puede utilizarla para grabar archivos.
   
@@ -336,8 +337,14 @@ Que al finalizar el curso el alumno sea capaz de:
   
   *Parte 5*. Investigue los conceptos: bootear un equipo ([guía](https://www.youtube.com/watch?v=O2S7YyKb5LI)), BIOS ([guía](https://www.youtube.com/watch?v=HD9qXyvIzOc)) y UEFI ([guía](https://www.youtube.com/watch?v=X3Cx6wm6PtY)). Pruebe que puede arrancar cada uno de los sistemas operativos instalados desde la USB.
   
-  *Aplicación práctica*: Con la USB puede usar la computadora, si falla el sistema operativo Windows, ya que es posible arrancar su sistema operativo Linux desde la USB y trabajar en él con las tareas cotidianas de oficina como abrir o crear un archivo de texto de Word con Libre Office, navegar por Internet y enviarlo por correo.
-      
+  Cualquiera de los *procedimientos de la Parte 4* de esta práctica, habilitan una USB para arrancar un sistema operativo Windows, Linux o cualquier otro, sin tocar el disco duro del equipo, utilizando el procedimiento de la Parte 5. Esto tiene muchas ventajas como preservar el medio de almacenamiento o instalar el sistema operativo que se ejecute desde la USB, en el mismo disco duro, adicional al Windows. Esta condición, tiene muchas *aplicaciones prácticas*, por ejemplo, si falla el sistema operativo Windows, con la USB que ha preparado con Ventoy, puede arrancar su sistema operativo Linux desde la USB y trabajar con él con las tareas cotidianas de oficina como abrir o crear un archivo de texto u hoja de cálculo con Libre Office, navegar por Internet y enviarlo por correo. Sin embargo, no puede hacer cambios al sistema operativo, ni instalar aplicaciones adicionales con cambios permanentes. 
+  
+  *Parte 6*. Afortunadamente, puede utilizarse un [disco duro externo] (https://www.amazon.com.mx/s?k=disco+duro+externo&i=electronics&rh=n%3A10189663011%2Cp_n_feature_eighteen_browse-bin%3A16469079011%2Cp_36%3A9841541011&s=price-asc-rank&dc&ds=v1%3ABnRdZBiwqPw554nh1xkcYrtz6%2FDdQpqIW439KYKN8FY&__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1YYIOK6UJEZ9T&qid=1659121104&rnid=9754432011&sprefix=disco+duro+externo%2Caps%2C163&ref=sr_nr_p_36_1) de baja capacidad (menos de 160 GB) o una memoria USB de por lo menos 32 GB, para experimentar con un sistema operativo distinto, con un muy bajo presupuesto.
+  
+  *Windows* puede instalarse con [WintoUSB](https://www.easyuefi.com/wintousb/index.html), siguiendo este [tutorial](https://www.youtube.com/watch?v=wisy8cmM370), pero tiene el problema del licenciamiento.
+  
+  Afortunadamente, el sistema operativo *Linux*, como [Fedora](https://getfedora.org/es/) o el de su preferencia también puede instalarse y ejecutarse desde en un dispositivo externo, tal como si fuera el disco principal, sin mayor problema, completando el procedimiento de la Parte 4 de esta práctica. Después de cargar Linux desde la USB con Ventoy, agregar el dispositivo externo e instalar Linux en ese dispositivo con un procedimiento similar al siguiente [tutorial](https://www.youtube.com/watch?v=0NK1_JOaZlk).
+  
   Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
@@ -595,24 +602,40 @@ Que al finalizar el curso el alumno sea capaz de:
   Suban su texto al Google Drive de cada uno de los integrantes.
 
 
-- *Práctica 4.4. Arquitectura de un sistemas de información*. (Entrega: ).
+- *Tarea 4.4. Arquitectura de un sistemas de información*. (Entrega: ).
 
   *Objetivo*: Comprender la arquitectura de un sistema de información empresarial.
     
-  *Parte 1*. Investigue la arquitectura de un sistema de información empresarial en la actualidad en el capìtulo 
+  *Parte 1*. Investigue la arquitectura de un sistema de información empresarial en la actualidad en el capítulo Arquitectura del sistema ERP y sus módulos funcionales (Hormigo, 2011).  
     
   Hormigo, I. G. (2011). Arquitectura del sistema ERP y sus módulos funcionales. *In* H. G. Fuster, I. G. Hormigo, J. M. Joana, & J. R. Rodríguez (Eds.). *Fundamentos de sistemas de información* (pp. 31-43). Catalunya: Universitat Oberta de Catalunya. ([url](http://libgen.rs/book/index.php?md5=77DE9AE1D073B9367127448826BA6460).
     
   *Parte 2*. Haga un breve reporte en su cuaderno la investigación sobre qué es un sistema de información, un sistema de información empresarial y la tipología de ellos. Este es su entregable.
     
-  *Parte 3*. Tome como estudio de caso la solución denominada de código libre y abierto Adaxa Suite ([proveedor](http://www.adaxa.com/), [video](https://www.youtube.com/watch?v=SST_AEKg-uw), [revisión](https://www.predictiveanalyticstoday.com/adaxa-suite/)) y describa las ventajas y desventajas que tiene respecto a soluciones comerciales equivalentes en software privativo.
+  *Parte 3*. Tome como estudio de caso la solución denominada de código libre y abierto Adaxa Suite ([proveedor](http://www.adaxa.com/), [video](https://www.youtube.com/watch?v=SST_AEKg-uw), [revisión](https://www.predictiveanalyticstoday.com/adaxa-suite/)) y describa las ventajas y desventajas que tiene respecto a soluciones comerciales equivalentes en software privativo.  
+  
+  
+- *Práctica 4.5. Infraestructura de un sistemas de información empresarial*. (Entrega: ).
+
+  *Objetivo*: Instalar el software de la infraestructura para un sistema de información empresarial.
     
-  *Parte 4*. A continuación se pueden seguir dos caminos para preparar la infraestructura cliente-servidor para alojar aplicaciones empresariales.
-   - El primer camino consiste en instalar la infraestructura (sistema operativo + servidor web + servidor de base de datos + lenguaje(s) de programación) en tres versiones: [LAMP](https://es.wikipedia.org/wiki/LAMP) (**L**inux + **A**pache + **M**ySQL (o **M**ariaDB) + **P**HP) ([guia con Ubuntu](https://www.gestionatuweb.net/instalar-lamp-linux-apache-mysql-y-php-en-gnu-linux-ubuntu-y-derivadas/), [guía con Fedora](https://computingforgeeks-com.translate.goog/how-to-install-lamp-stack-on-fedora/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419)), [WAMP](https://www.wampserver.com/en/) (**W**indows + **A**pache + **M**ySQL + **P**HP) o [XAMPP](https://www.apachefriends.org/es/index.html) (**X** (Linux o Windows) + **A**pache (+ Tomcat) + **M**ariaDB + **P**HP + **P**erl)) y luego debe descargar e instalar la aplicación que se vaya a utilizar.
+  *Parte 1*. Considere que la arquitectura de un sistema de información empresarial tiene esencialmente tres elementos básicos: (1) Sistema Operativo (Windows, Linux,  Mac o cualuier otro), (2) Servidor web (Apache o cualquier otro), (3) Gestor de base de datos (MySQL, MariaDB o cualquier otro), (4) Entorno web (PHP,  Java o cualquier otro)  y (5) Aplicación. En esta práctica aprenderás a instalar cada uno de los elementos por separado y todos al mismo tiempo.
+  
+  *Parte 2*. Caso 1: WAMP (**W**indows + **A**pache + **M**ySQL + **P**HP) de manera manual. En este caso se requerirá instalar o tener un equipo con sistema operativo Windows. Debe seguir el siguiente [tutorial](https://www.youtube.com/watch?v=fFLTdF2CUeE). Finalmente, [descargue](https://es-mx.wordpress.org/download/) e instale una aplicación web como WordPress para probar que funciona. Utilice la siguiente [guía](https://es-mx.wordpress.org/support/article/how-to-install-wordpress/). 
+
+  *Parte 3*. Caso 2: LAMP (**L**inux + **A**pache + **M**ySQL (o **M**ariaDB) + **P**HP). En este caso debes instalar, previamente Linux Fedora en una USB, según la préctica 2.4XXX [guía con Fedora](https://computingforgeeks-com.translate.goog/how-to-install-lamp-stack-on-fedora/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419))
+  
+  *Parte 4*. Caso 3: XAMPP en Windows. [turorial](https://www.youtube.com/watch?v=Ab1iao1b5d0) y el siguiente [tutorial]()
+
+Instale en su Tome como estudio de caso la solución denominada de 
+  [pagila](https://github.com/devrimgunduz/pagila)
+    
+  *Parte 5*. A continuación se pueden seguir dos caminos para preparar la infraestructura cliente-servidor para alojar aplicaciones empresariales.
+   - El primer camino consiste en instalar la infraestructura (sistema operativo + servidor web + servidor de base de datos + lenguaje(s) de programación) en tres versiones: [LAMP](https://es.wikipedia.org/wiki/LAMP)  ([guia con Ubuntu](https://www.gestionatuweb.net/instalar-lamp-linux-apache-mysql-y-php-en-gnu-linux-ubuntu-y-derivadas/), [guía con Fedora](https://computingforgeeks-com.translate.goog/how-to-install-lamp-stack-on-fedora/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419)), [WAMP](https://www.wampserver.com/en/) (**W**indows + **A**pache + **M**ySQL + **P**HP) o [XAMPP](https://www.apachefriends.org/es/index.html) (**X** (Linux o Windows) + **A**pache (+ Tomcat) + **M**ariaDB + **P**HP + **P**erl)) y luego debe descargar e instalar la aplicación que se vaya a utilizar.
     - La manera más práctica de realizar esto en un equipo Windows es [descargar](https://www.apachefriends.org/xampp-files/8.0.10/xampp-windows-x64-8.0.10-0-VS16-installer.exe)), instalar y configurar el [XAMPP](https://www.apachefriends.org/es/index.html) en su computadora según la ([guía](https://www.youtube.com/watch?v=6Yrw2TYCqqg)). Luego, se puede instalar la aplicación que desee estudiar de manera local como una aplicación de tickets como [OSTicket](https://osticket.com/), un sistema gestor de contenido (CMS) como [WordPress](https://wordpress.org/), un sistema empresarial como [Dolibarr](https://www.dolibarr.org/) o cualquier otra; por ejemplo, para el caso de [Dolibarr](https://www.dolibarr.org/), debe descargarlo de [aquí](https://sourceforge.net/projects/dolibarr/files/Dolibarr%20ERP-CRM/14.0.2/)) y cipiarlo al directorio correcto según la ([guía](https://www.youtube.com/watch?v=_6_k0nUyezE)), según haya configurado el servidor web Apache con XAMPP. 
    - El segundo camino es instalar toda la infraestructura ya empaquetada, por ejemplo, al usar [DoliWamp](https://sourceforge.net/projects/dolibarr/files/Dolibarr%20installer%20for%20Windows%20%28DoliWamp%29/), utilizando alguna guía como [esta](https://www.youtube.com/watch?v=ireDfaj0JYo). 
   
-  *Parte 5*. Haga las [primeras configuraciones](https://wiki.dolibarr.org/index.php?title=Primeras_configuraciones) y pruébelo.
+  *Parte 6*. Haga las [primeras configuraciones](https://wiki.dolibarr.org/index.php?title=Primeras_configuraciones) y pruébelo.
     
   Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
 
