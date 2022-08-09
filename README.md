@@ -335,13 +335,13 @@ Que al finalizar el curso el alumno sea capaz de:
   
   Por último, puede usar **[Rufus](https://rufus.ie/es/)** siguiendo este ([tutorial en video](https://www.youtube.com/watch?v=qedjN2AA3gU)) o esta [guía escrita](https://www.xataka.com/basics/que-rufus-como-utilizarlo-para-crear-usb-arranque). Rufus sólo instala una imagen ISO, a la vez.
   
+  *Windows* puede instalarse en un medio extraible con [WintoUSB](https://www.easyuefi.com/wintousb/index.html), siguiendo este [tutorial](https://www.youtube.com/watch?v=wisy8cmM370), pero tiene el problema del licenciamiento.
+  
   *Parte 5*. Investigue los conceptos: bootear un equipo ([guía](https://www.youtube.com/watch?v=O2S7YyKb5LI)), BIOS ([guía](https://www.youtube.com/watch?v=HD9qXyvIzOc)) y UEFI ([guía](https://www.youtube.com/watch?v=X3Cx6wm6PtY)). Pruebe que puede arrancar cada uno de los sistemas operativos instalados desde la USB.
   
   Cualquiera de los *procedimientos de la Parte 4* de esta práctica, habilitan una USB para arrancar un sistema operativo Windows, Linux o cualquier otro, sin tocar el disco duro del equipo, utilizando el procedimiento de la Parte 5. Esto tiene muchas ventajas como preservar el medio de almacenamiento o instalar el sistema operativo que se ejecute desde la USB, en el mismo disco duro, adicional al Windows. Esta condición, tiene muchas *aplicaciones prácticas*, por ejemplo, si falla el sistema operativo Windows, con la USB que ha preparado con Ventoy, puede arrancar su sistema operativo Linux desde la USB y trabajar con él con las tareas cotidianas de oficina como abrir o crear un archivo de texto u hoja de cálculo con Libre Office, navegar por Internet y enviarlo por correo. Sin embargo, no puede hacer cambios al sistema operativo, ni instalar aplicaciones adicionales con cambios permanentes. 
   
   *Parte 6*. Afortunadamente, puede utilizarse un [disco duro externo](https://www.amazon.com.mx/s?k=disco+duro+externo&i=electronics&rh=n%3A10189663011%2Cp_n_feature_eighteen_browse-bin%3A16469079011%2Cp_36%3A9841541011&s=price-asc-rank&dc&ds=v1%3ABnRdZBiwqPw554nh1xkcYrtz6%2FDdQpqIW439KYKN8FY&__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1YYIOK6UJEZ9T&qid=1659121104&rnid=9754432011&sprefix=disco+duro+externo%2Caps%2C163&ref=sr_nr_p_36_1) de baja capacidad (menos de 160 GB) o una memoria USB de por lo menos 32 GB, para experimentar con un sistema operativo distinto, con un muy bajo presupuesto.
-  
-  *Windows* puede instalarse con [WintoUSB](https://www.easyuefi.com/wintousb/index.html), siguiendo este [tutorial](https://www.youtube.com/watch?v=wisy8cmM370), pero tiene el problema del licenciamiento.
   
   Afortunadamente, el sistema operativo *Linux*, como [Fedora](https://getfedora.org/es/) o el de su preferencia también puede instalarse y ejecutarse desde en un dispositivo externo, tal como si fuera el disco principal, sin mayor problema, completando el procedimiento de la Parte 4 de esta práctica. Después de cargar Linux desde la USB con Ventoy, agregar el dispositivo externo e instalar Linux en ese dispositivo con un procedimiento similar al siguiente [tutorial](https://www.youtube.com/watch?v=0NK1_JOaZlk).
   
@@ -371,7 +371,7 @@ Que al finalizar el curso el alumno sea capaz de:
     
   Utilice Qbittorrent y, mediante su motor de búsqueda, localice la imagen ISO del sistema operativo Windows usando la frase "Active Boot Disk 10" ([tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)). Identifique la entrada que tiene más semillas (seeds) (de 640 Kb de tamaño) y descárguela o agregue el torrent a qBittorrent desde [aquí](https://limetor.com/Active-Boot-Disk-Suite-10-1-0-Modified-Edition-Feb-2015-%28ISO%29--%20Core-X%20-%20%20FRG%20-torrent-7452833.html). 
     
-  Borre a propósito y luego rescate un par de archivos utilizando *Active Boot Disk* ([tutorial](https://www.youtube.com/watch?v=sHMGRn_wWlc)) y explore las otras herramientas. 
+  Borre a propósito un par de archivos y luego rescátelos utilizando *Active Boot Disk* ([tutorial](https://www.youtube.com/watch?v=sHMGRn_wWlc)) y explore las otras herramientas. 
   
   De manera análoga, puede utilizar *[TestDisk](https://www.cgsecurity.org/wiki/TestDisk_ES)*, con *[PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec_ES)* para recuperar archivos. Ver este [tutorial](https://www.youtube.com/watch?v=NKzBBk1wWyY).
   
@@ -448,7 +448,7 @@ Que al finalizar el curso el alumno sea capaz de:
     
   Busque la definición (por ejemplo, en [Study Rocket](https://studyrocket-co-uk.translate.goog/revision/gcse-computer-science-aqa?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419)) y simplifíquela con una frase corta y acompañe la definición con un par de ejemplos. (Entregable 1).
     
-  *Parte 2*. Estudie los videos necesarios en el video [Aprende a programar en 11 minutos](https://www.youtube.com/watch?v=TAyyujKoY6k). Saque sus conclusiones. (Entregable 2).
+  *Parte 2*. Estudie el video [Aprende a programar en 11 minutos](https://www.youtube.com/watch?v=TAyyujKoY6k). Saque sus conclusiones. (Entregable 2).
     
   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad (Entregable 3) y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
@@ -461,7 +461,7 @@ Que al finalizar el curso el alumno sea capaz de:
    
   *Parte 2*. Investigue qué es el [pseudocódigo](https://es.wikipedia.org/wiki/Pseudocódigo) y su utilidad para el aprendizaje de la programación de computadoras.
     
-  *Parte 3*. Luego, instale la aplicación *[PseInt](http://pseint.sourceforge.net/)* en su equipo y haga una compilación de los elementos del pseudocódigo en su cuaderno utilizado en *PSeInt*, a parti6. de la documentación en la Ayuda de la aplicación y de la consulta del siguiente [curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw). Cree su cuenta para acceder a PSeInt en Internet en [RollApp](https://www.rollapp.com/app/pseint).
+  *Parte 3*. Luego, instale la aplicación *[PseInt](http://pseint.sourceforge.net/)* en su equipo o utilice [PSeInt Portable](https://sourceforge.net/projects/pseint/files/20210609/pseint-w32-20210609.zip/download?use_mirror=gigenet&download=) y haga una compilación de los elementos del pseudocódigo en su cuaderno utilizado en *PSeInt*, a parti6. de la documentación en la Ayuda de la aplicación y de la consulta del siguiente [curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw). Cree su cuenta para acceder a PSeInt en Internet en [RollApp](https://www.rollapp.com/app/pseint).
    
   Concéntrese en comprender la lógica de los tipos y estructuras de datos, de los comandos, de las estructuras de control y de la entrada, salida, almacenamiento y procesamiento de datos.
    
@@ -551,7 +551,7 @@ Que al finalizar el curso el alumno sea capaz de:
 - RStudio Cloud ([url](https://rstudio.cloud/)) (Sitio web para usar R en línea).
 - Baruffa, O. (2022, Jan 13). [Big book of R](https://www.bigbookofr.com/). (Sitio web) (Compilación de libros y fuentes documentales sobre R).
 - Burns, P. (2002). [Impatient R](https://www.burns-stat.com/documents/tutorials/impatient-r/). Burns statistics. (Tutorial sobre algunos consejos para los principiantes impacientes que quieren aprender el lenguaje de programación R).
-- Burns, P. (2011). [The R inferno](https://www.burns-stat.com/documents/books/the-r-inferno/). Burns statistics. ([pdf](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf)). (Un libro sobre puntos problemáticos, rarezas, trampas, fallas en R).
+- Burns, P. (2011). [The R inferno](https://www.burns-stat.com/documents/books/the-r-inferno/). Burns statistics. ([pdf](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf)). (Un libro sobre puntos problemáticos, rarezas, trampas y fallas en R).
 
 ### Unidad 4. Informática: Aplicación de la computación en las organizaciones
 1. La informática como profesión: Los chicos de la computadora
@@ -641,7 +641,7 @@ Instale en su Tome como estudio de caso la solución denominada de
 
 #### Bibliografía Obligatoria:
 - Hormigo, I. G.  (2011). Sistema de información empresarial. In H. G. Fuster, I. G. Hormigo, J. M. Joana, & J. R. Rodríguez (Eds.). *Fundamentos de sistemas de información* (pp. 5-15). Catalunya: Universitat Oberta de Catalunya. ([url](http://libgen.rs/book/index.php?md5=77DE9AE1D073B9367127448826BA6460)). (*Lectura 4.1.*)
-- Zavala, J. (2011). ¿Qué es la ingenieria de software?: Una visión crítica . In *La ingeniería de software: Una discusión epistemológica (pp. 77-126)*. Tesis de Maestría en Ciencias de la Computación. Universidad Aunoma Metropolitana, Unidad Azcapotzalco, Ciudad de México. (https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing). (*Lectura 4.2.*)
+- Zavala, J. (2011). ¿Qué es la ingenieria de software?: Una visión crítica . In *La ingeniería de software: Una discusión epistemológica (pp. 77-126)*. Tesis de Maestría en Ciencias de la Computación. Universidad Aunoma Metropolitana, Unidad Azcapotzalco, Ciudad de México. [url](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing). (*Lectura 4.2.*)
 
 #### Bibliografía Complementaria:
 - Ensmenger, N. L. (2003). [Letting the “Computer Boys” take over: Technology and the politics of organizational transformation](https://www.researchgate.net/publication/248710837_Letting_the_Computer_Boys_Take_Over_Technology_and_the_Politics_of_Organizational_Transformation). *International Review of Social History (IRSH), 48* (S11) (December 2003), 153–180. DOI: 10.1017/S0020859003001305.
@@ -766,4 +766,4 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
 
 #### Evaluación de Recuperación
-La *evaluación de recuperación* no será aplidada por el profesor, sino por la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente. Por lo que deberá coordinarse con el Coordinador de la Licenciatura.
+La *evaluación de recuperación* no será aplidada por el profesor, sino por la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente, por lo que deberá coordinarse con la Coordinadora de la Licenciatura.
