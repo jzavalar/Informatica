@@ -5,7 +5,7 @@
 
 **Clave de la UEA:** *2211088* **Trimestre:** *22-P*
 
-**Horario:** *Lunes y Miércoles de 12:00 a 14:00* (**Grupo** *HA03*)
+**Horario:** *Lunes y Miércoles de 12:00 a 14:00* (**Grupo** *HA03*)  
 **Horario:** *Lunes y Miércoles de 16:00 a 18:00* (**Grupo** *HA57*)
 
 **Salón:** *Anexo del Edificio A, Sala K (AA-K)*.
