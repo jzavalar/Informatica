@@ -555,7 +555,7 @@ Que al finalizar el curso el alumno sea capaz de:
 - Burns, P. (2002). [Impatient R](https://www.burns-stat.com/documents/tutorials/impatient-r/). Burns statistics. (Tutorial sobre algunos consejos para los principiantes impacientes que quieren aprender el lenguaje de programación R).
 - Burns, P. (2011). [The R inferno](https://www.burns-stat.com/documents/books/the-r-inferno/). Burns statistics. ([pdf](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf)). (Un libro sobre puntos problemáticos, rarezas, trampas y fallas en R).
 - Microsoft. (2022). [Visual Studio Code [IDE]](https://code.visualstudio.com/). ([Tutorial de Python en Visual Studio](https://www.youtube.com/watch?v=-IyA_Yvs8IQ)).
-- The Eclipse Foundation. (2022). [Eclipse IDE](https://www.eclipse.org/). ([Descargar](https://www.eclipse.org/downloads/)). ([Tutorial de Python en Eclipse](https://www.youtube.com/watch?v=z5I0WsmYFMs)).
+- The Eclipse Foundation. (2022). [Eclipse IDE](https://www.eclipse.org/). ([Descargar](https://www.eclipse.org/downloads/)). ([Python en Eclipse 1](https://www.youtube.com/watch?v=z5I0WsmYFMs), [Python en Eclipse 2](https://www.youtube.com/watch?v=HBtc2p-TEpk)).
 
 
 ### Unidad 4. Informática: Aplicación de la computación en las organizaciones
