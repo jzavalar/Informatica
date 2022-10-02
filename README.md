@@ -550,6 +550,8 @@ Que al finalizar el curso el alumno sea capaz de:
 - DW Documental (2019, Sep 26). [¿De qué es capaz la inteligencia artificial?](https://www.youtube.com/watch?v=34Kz-PP_X7c). *YouTube* (video) (42:35 min).
 - Glez, R. (2017, Jul 29). [Mi vida es un algoritmo](https://www.youtube.com/watch?v=MiaLpkV8JyM). *YouTube* (video) (58:15 min).
 - BBC Newsbeat. (2014, Sep 4). [Por qué vale la pena aprender a programar... ¡nunca es tarde!](http://www.bbc.com/mundo/noticias/2014/09/140904_tecnologia_lenguaje_programacion_finde_yv). *BBC Mundo*.
+- Bhargava, A. Y. (2016). Grokking algorithms: An illustrated guide for programmers and other curious people. Manning Publications. ([url](https://amzn.to/29rVyHf)) [link](https://libgen.rs/book/index.php?md5=9F2B390517083CF4485BA524B80815F5) [Código fuente](https://github.com/egonSchiele/grokking_algorithms). 
+- [Python tutor: Learn Python, JavaScript, C, C++, and Java](https://pythontutor.com/). Herramiensta de visualización de ejecución de código. 
 - R project en Bossie Awards ([url](https://www.infoworld.com/article/3228150/analytics/bossie-awards-2017-the-best-databases-and-analytics-tools.html#slide11)).
 - RStudio, PBC. (2022). [RStudio Desktop. Open Source Edition](https://www.rstudio.com/products/rstudio/). (IDE para R). ([descargar](https://www.rstudio.com/products/rstudio/download/)).
 - RStudio Cloud ([url](https://rstudio.cloud/)) (Sitio web para usar RStudio IDE en línea).
