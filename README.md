@@ -3,14 +3,14 @@
 ## Programa Analítico de la UEA Informática (Teoría y Práctica)
 ## Licenciatura en Administración
 
-**Clave de la UEA:** *2211088* **Trimestre:** *22-P*
+**Clave de la UEA:** *2211088* **Trimestre:** *22 Otoño*
 
-**Horario:** *Lunes y Miércoles de 12:00 a 14:00* (**Grupo** *HA03*)  
-**Horario:** *Lunes y Miércoles de 16:00 a 18:00* (**Grupo** *HA57*)
+**Horario:** *Martes y Jueves de 18:00 a 20:00*  
+**Grupo:** *HA05*
 
 **Salón:** *Anexo del Edificio A, Sala K (AA-K)*.
 
-**Asesorías:**  *Jueves* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps), previa programación, a petición del alumno.
+**Asesorías:**  *Miércoles* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps), previa programación, a petición del alumno.
 
 **Profesor:** *dr. Jesús Zavala Ruiz*
 
@@ -29,7 +29,7 @@ Por lo anterior, la computadora se puede considerar como una máquina simbólica
 
 Para entender el alcance de la computación y la informática, simplemente hay que echar una mirada alrededor y percatarse de su ubicuidad: dispositivos electrónicos de todos tamaños y usos invaden nuestra cotidianeidad, tales como teléfonos celulares, tabletas, laptops, juguetes, refrigeradores, cafeteras, etc., todos con inteligencia artificial implantada en software.
 
-Esta UEA tiene un **enfoque teórico-práctico** y pretende proporcionar las bases para que los alumnos pierdan el miedo a las computadoras y le saquen el mejor de los provechos en su vida escolar y profesional y que exploren por su cuenta ese vasto mundo digital. Al mismo tiempo, se propone que se percaten de la importancia que tiene en la administración de las empresas privadas, en la administarción pública, en las organizaciones, en general.
+El enfoque pedagógico de esta UEA es **teórico-práctico**. Por un lado, se proponen *lecturas* de algunos capítulos del libro *Introducción a la ciencia de la computación: De la manlpulaclón de datos a la teoría de la computación* de *Behrouz A. Forouzan*, como un libro de texto base, y se complementará con otros textos, videos y recursos. Por otro lado, de manera paralela, se realizarán algunas prácticas que permitirán aterrizar los conceptos y desarrollar habilidades para resolver problemas informáticos del día a día. El objetivo general de este enfoque es proporcionar los fundamentos para que los alumnos aprendan a manejar cualquier computadora personal, laptop, tableta o teléfono celular, para que le saquen mejor provecho en su vida escolar y profesional. Al mismo tiempo, se pretende que los alumnos se percaten de la importancia que tiene la informática en la vida diaria de cualquier persona, en la carrera la administración y en las empresas privadas, públicas y sociales; en las organizaciones, en general.
 
 [Programa vigente](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf).
 
