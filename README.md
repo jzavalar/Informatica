@@ -3,11 +3,11 @@
 ## Programa Analítico de la UEA Informática (Teoría y Práctica)
 ## Licenciatura en Administración
 
-**Clave de la UEA:** *2211088* **Trimestre:** *22 Otoño*
+**Clave de la UEA:** 2211088
+**Trimestre:** 22 Otoño
 
-**Horario:** *Martes y Jueves de 18:00 a 20:00*  
 **Grupo:** *HA05*
-
+**Horario:** Martes y Jueves de 18:00 a 20:00  
 **Salón:** *Anexo del Edificio A, Sala K (AA-K)*.
 
 **Asesorías:**  *Miércoles* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps), previa programación, a petición del alumno.
@@ -16,7 +16,7 @@
 
 **Contacto**:
 - Correo electrónico: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)
-- Telegram: <img src="https://github.com/jzavalar/2211088-informatica/blob/main/telegram_logo.svg" alt="Telegram" width="3%"/> [@jzavalar](https://telegram.me/jzavalar)
+- Telegram: <img src="https://github.com/jzavalar/2211088-informatica/blob/main/telegram_logo.svg" alt="Telegram" width="3%"/> [@jzavalar](https://jzavalar.t.me)
 
 
 ### Introducción
@@ -46,7 +46,7 @@ Que al final del curso los alumnos sean capaces de conocer los fundamentos actua
 
 Que al finalizar el curso el alumno sea capaz de:
 
-- Utilizar programas de aplicación general para el manejo de datos numéricos y de bases de datos con el propósito de emplearlos como apoyo a las actividades propias de la carrera de administración.
+- Utilizar *programas de aplicación general* para el manejo de datos numéricos y de bases de datos con el propósito de emplearlos como apoyo a las actividades propias de la carrera de administración.
 - Expresar la comprensión de textos y comunicar sus ideas haciendo un uso adecuado de la lengua española.
 
 
@@ -57,8 +57,7 @@ Que al finalizar el curso el alumno sea capaz de:
 1. Presentación del programa
 2. Evaluación Global y de Recuperación
 3. Programa oficial ([pdf](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf))
-4. Acceso a nueva plataforma de [Virtuami](http://virtuami.izt.uam.mx/aulas/apresencial2)
-5. Prácticas:
+4. Prácticas:
  
 - *Práctica 0.1: Bases de trabajo colaborativo con Google Drive* (Demostrativa online).
     
@@ -171,7 +170,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
 #### Unidad 1. Introducción
 
-1. Conceptos: computadora, hardware, software,  cálculo, cómputo, computación, informática y tecnologías de la información (TI).
+1. Conceptos fundamentales: computadora, hardware, software,  cálculo, cómputo, computación, informática y tecnologías de la información (TI).
 2. Computación, informática, tecnologías de la información (TI)
 3. La computadora digital como máquina simbólica de propósito general
 4. Tareas y prácticas:
