@@ -92,7 +92,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   *Parte 4:* En díadas o triadas, reflexione sobre el contexto histórico del surgimiento de la computadora.
   
 
-- *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 27 de noviembre de 2022).
+- *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 27 de octubre de 2022).
      
   *Objetivo:* Reflexionar sobre el contexto histórico de la computadora digital y de las ciencias de la computación.   
   
@@ -141,6 +141,19 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   *Parte 4:* Modifique uno de los archivos de subtítulos, poniendo su nombre y pruebe el despliegue de los subtítulos con [VLC](https://www.videolan.org/vlc/).  
     
   *Parte 5:* En díadas o tríadas documenten, en un video, expongan su experiencia en la realización de la actividad y compartan el video en el grupo de Telegram. Suban los archivos a su cuenta de Google Drive donde corresponda.
+
+
+- *Práctica 1.5. Adquisición de una computadora*. (Entrega: 5 de noviembre 2022).
+
+  *Objetivos*: Aprender a evaluar la compra de una computadora nueva y de segunda mano.
+
+  *Parte 1*. Identifique sus necesidades de recursos de cómputo según los siguientes puntos: (1) hardware (tipo de equipo, almacenamiento (interno y externo (respaldo)), gráficos, impresión, digitalización, sonido y otros), (2) software (sistema operativo y aplicaciones) y (3) movilidad.
+    
+  *Parte 2*. Ponga un límite presupuestal de acuerdo a sus posibilidades y busque dos equipos nuevos y de segunda mano que cumplan con sus necesidades. Haga un presupuesto de cada componente. Cotice sus equipos en Mercado Libre.
+    
+  *Parte 3*. Haga una tabla comparativa con sus criterios de decisión y el resultado de su elección y comparta con su o sus compañeros sus resultados.
+    
+  *Parte 4:* Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
 ##### Bibliografía Obligatoria:
