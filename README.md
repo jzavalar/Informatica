@@ -38,15 +38,15 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 **Referencias:**
    - ADempiere. (2022). [*ERP/CRM Software: A commons-based peer-production of Open Source ERP Applications*](https://wiki.adempiere.net/ADempiere_ERP). [software] [[descarga](http://github.com/adempiere/adempiere)] [[binario](http://bintray.com/adempiere/Official-Repository/Release/view#files)] [[video](https://www.youtube.com/watch?v=pYMUacbz898)].
    - Cedano Olvera, M. A; Cedano Rodríguez, A; Rubio González, J. A.; Vega Gutiérrez, A. C. (2014). [*Fundamentos de computación para ingenieros*](https://libgen.rs/book/index.php?md5=93B1B3A032FA25F502EB136C35C52596). México: Grupo Editorial Patria.
-   - Erickson, L. (2010). [*Top secret rosies: The female computers of WWII*](http://www.topsecretrosies.com/). [[torrent](https://thepiratebay.org/description.php?id=6804294)].
+   - Erickson, L. (2010). [*Top secret rosies: The female computers of WWII*](http://www.topsecretrosies.com/). [video] [[torrent](https://thepiratebay.org/description.php?id=6804294)].
    - Fedora.org (2022). [Fedora Project. Fedora GNU/Linux](https://getfedora.org/es/) [Software].
    - Forouzan, B. A. (2003). [*Introducción a la ciencia de la computación: De la manipulaclón de datos a la teoría de la computación*](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D). México: Thompson.
-   - Greenwald, G.; Snowden, E. J. (2015). *No place to hide: Edward Snowden, the NSA and the surveillance state*. United States: Penguin Books. ([epub](https://libgen.rs/book/index.php?md5=18E90AA8AA171501DBEAB7F5C87E7AAB)).
-   - iDempiere (2022). [*iDempiere: Powerful, open-source ERP/CRM/SCM system*](https://www.idempiere.org/). [software] ([descarga](https://www.idempiere.org/get-idempiere/)) ([sitios de prueba](https://www.idempiere.org/test-sites/)).
-   - Lanier, J. (2010). [*You are not a gadget: A manifesto*](https://libgen.rs/book/index.php?md5=70421B703A5F553F126BA39C828BCC32). New York: Vintage Books. (Traducción: [*Contra el rebaño digital*](https://libgen.rs/book/index.php?md5=CD2B81BCDAC2DF6FDA19FA9139801195) (2019)) (epub).
-   - Lanier, J. (2018). [*Ten arguments for deleting your social media accounts right now*](https://libgen.rs/book/index.php?md5=F59013E7705F778979B3546A8A5453BC). New York: Henry Holt and Company. [epub] (Traducción: [*Diez razones para borrar tus redes de inmediato*](https://libgen.rs/book/index.php?md5=EF2E847FE3A3DFB92CA1751CF26E3E99) (2019). (epub)).
+   - Greenwald, G.; Snowden, E. J. (2015). [*No place to hide: Edward Snowden, the NSA and the surveillance state*](https://libgen.rs/book/index.php?md5=18E90AA8AA171501DBEAB7F5C87E7AAB). United States: Penguin Books. [epub].
+   - iDempiere (2022). [*iDempiere: Powerful, open-source ERP/CRM/SCM system*](https://www.idempiere.org/). [software] [[descarga](https://www.idempiere.org/get-idempiere/)] [[sitios de prueba](https://www.idempiere.org/test-sites/)].
+   - Lanier, J. (2010). [*You are not a gadget: A manifesto*](https://libgen.rs/book/index.php?md5=70421B703A5F553F126BA39C828BCC32). New York: Vintage Books. (Traducción: [*Contra el rebaño digital*](https://libgen.rs/book/index.php?md5=CD2B81BCDAC2DF6FDA19FA9139801195) (2019), [epub]).
+   - Lanier, J. (2018). [*Ten arguments for deleting your social media accounts right now*](https://libgen.rs/book/index.php?md5=F59013E7705F778979B3546A8A5453BC). New York: Henry Holt and Company. [epub] (Traducción: [*Diez razones para borrar tus redes de inmediato*](https://libgen.rs/book/index.php?md5=EF2E847FE3A3DFB92CA1751CF26E3E99) (2019), [epub]).
    - Light, J. S. (1999). [When computers were women](https://www.jstor.org/stable/25147356)) ([pdf](https://sci-hub.se/10.2307/25147356). *Technology and Culture, 40*(3) (Jul.), 455-483.
-   - Melfi, T. (2016). [*Talentos Ocultos* (*Hidden Figures*)](https://www.imdb.com/title/tt4846340/) ([torrent](https://thepiratebay.org/description.php?id=17551668)).
+   - Melfi, T. (2016). [*Talentos Ocultos* (*Hidden Figures*)](https://www.imdb.com/title/tt4846340/) [[torrent](https://thepiratebay.org/description.php?id=17551668)].
    - Snowden, E. (2019). [*Permanent record*](https://libgen.rs/book/index.php?md5=A5BDA164BB2B8419C57E57012A2F7F82). London: Macmillan. [epub]. (traducción: [*Vigilancia permanente*](https://libgen.rs/book/index.php?md5=5B91B59909B7CA93B0CD3F77BBA32864) [epub])
    - UAM. Informática. [Programa vigente](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf).
    - UAM. (2022). [Calendario vigente](http://www.uam.mx/calendario/index.html).
@@ -56,7 +56,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 #### Objetivo General:
 
-- Que al final del curso los alumnos sean capaces de conocer y aplicar los fundamentos de la informática.
+- Que al final del curso los alumnos sean capaces de conocer y aplicar los *fundamentos de la informática*.
 
 #### Objetivos Específicos:
 
@@ -99,16 +99,17 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   *Parte 1:* Consideren las siguientes preguntas guía como base: 
      - ¿Por qué se dice que la *computadora* es una *máquina inteligente*?
      - ¿Cuáles fueron los factores económicos, políticos y sociales que llevaron al invento de la computadora digital?
-     - ¿Quiénes fueron *Alan Turing* y *John Von Newmann* y cuáles fueron sus aportes a la computadora y a la computación?
+     - ¿Quiénes fueron *Alan Turing* y *John Von Newmann* y cuáles fueron sus aportes a la computadora y a las ciencias de la computación?
      - ¿Qué es la máquina de Turing?
      - ¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad?
-     - ¿Qué es la computación como campo de conocimiento y como trans-disciplina?
+     - ¿Qué son las 'ciencias de la computación' o 'computación' como campo de conocimiento y como trans-disciplina?
+     - ¿Cuál es la diferencia entre computación e informática?
    
   *Parte 2:* Revisen colectivamente los siguientes recursos y tomen nota en su cuaderno y luego elaboren sus fichas de trabajos:
      - [Timeline of Computing History (Línea de Tiempo de la Historia de la Computación)](http://ieeehc.pairserver.com/pubs/timeline.pdf) destaque los hechos de interés para este caso. (2 estudiantes).
      - [Turing. La Computación: Pensando en Máquinas que Piensan](https://libgen.rs/book/index.php?md5=0E12A6617118339310C16106A8C8F073) (10 estudiantes) y la lectura [¿Qué son las ciencias de la computación?: Una interpretación ecléctica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing). (2 estudiantes).
-     - **Introducción a la Ciencia de la Computación** [Capítulos 1 y 5](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D) (2 estudiantes).
-     - **Fundamentos de Computación para Ingenieros** [Capítulos 1 y 2](https://libgen.rs/book/index.php?md5=93B1B3A032FA25F502EB136C35C52596) (2 estudiantes).
+     - [Introducción a la Ciencia de la Computación](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D) [Capítulos 1 y 5]. (2 estudiantes).
+     - [Fundamentos de Computación para Ingenieros](https://libgen.rs/book/index.php?md5=93B1B3A032FA25F502EB136C35C52596) [Capítulos 1 y 2]. (2 estudiantes).
      - Revisen los antecedentes históricos de la [Association for Computing Machinery, ACM](https://www.acm.org/acm-history) y el [Institute of Electrical and Electronics Engineers, IEEE, "I triple E"](https://www.ieee.org/about/ieee-history.html) y reflexionen sobre la importancia de estas asociaciones para el fortalecimiento de la computación como disciplina científica. (2 estudiantes).
      - Consulten las bibliotecas digitales de estas asociaciones profesionales: la [ACM Digital Library](https://dl.acm.org/) (2 estudiantes) e [IEEE Xplore](https://ieeexplore.ieee.org/) y explore las principales revistas de ambas asociaciones [CACM](https://cacm.acm.org/) y [IEEE Spectrum](https://spectrum.ieee.org/) (2 estudiantes). Por último, exploren el [The 2012 ACM Computing Classification System (Sistema de Clasificación en Computación de la ACM)](https://dl.acm.org/ccs) [ACM computing classification system: Introduction](https://www.acm.org/) (traducción: [inglés-español](https://dl-acm-org.translate.goog/ccs?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp)), donde pueden encontrar los *grandes campos de la computación*: *General y de referencia*, *Hardware*, *Organización de sistemas de cómputo*, *Redes*, *Software y su ingeniería*, *Teoría de la computación*, *Matemáticas de la computación*, *Sistemas de información*, *Seguridad y privacidad*, *Computación centrada en el ser humano*, *Metodologías de computación*, *Computación aplicada* y *Temas sociales y profesionales*. (2 estudiantes).
    
