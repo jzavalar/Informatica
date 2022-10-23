@@ -152,11 +152,12 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 
 ##### Bibliografía Complementaria:
-- Computer History Archives Project. (2021, Dec 26). Computer History UK LEO III Computer 1966 (Full Version) (J. Lyons Electronic Office Automation). YouTube. ([video](https://www.youtube.com/watch?v=H_0Astp1dEU&list=UUOyJD0RHtF_77_oAf5tT1nQ&index=4))
+- ACM. (2022). [Membership Benefits](https://www.acm.org/membership/membership-benefits).  
+- Computer History Archives Project. (2021, Dec 26). Computer History UK LEO III Computer 1966 (Full Version) (J. Lyons Electronic Office Automation). *YouTube*. ([video](https://www.youtube.com/watch?v=H_0Astp1dEU&list=UUOyJD0RHtF_77_oAf5tT1nQ&index=4))
 - Ensmenger, N. L. (2010). Introduction: Computer revolutionaries. (pp. 1-26). In *[The computer boys take over: Computers, programmers, and the politics of technical expertise](https://www.researchgate.net/publication/266316410_The_Computer_Boys_Take_Over_Computers_Programmers_and_the_Politics_of_Technical_Expertise_History_of_Computing)* (pp. 1-26). USA: The MIT Press.
 - Gómez Ortega, L. F. (2018, Oct 10). [Tutorial CmapTools 2019](https://www.youtube.com/watch?v=FSG-GCU4wQE). *YouTube*. [video] (15:38 min).
 - Grier. D. A. (2001). [Human computers. The first pioneers of the information age](https://www.sciencedirect.com/science/article/pii/S0160932700013387). *Endeavour 25*(1), 28-32. 
-- Haigh, T. & Ceruzzi, P. E. (2021). Inventing the computer. In *A new history of modern computing* (pp. 9-28). USA: The MIT Press. ([url](https://libgen.rs/book/index.php?md5=FEC5EE9FBAB5F3C3E68371EC9025E694)).
+- Haigh, T. & Ceruzzi, P. E. (2021). Inventing the computer. In [*A new history of modern computing*](https://libgen.rs/book/index.php?md5=FEC5EE9FBAB5F3C3E68371EC9025E694) (pp. 9-28). USA: The MIT Press.
 - Haigh, T., Priestley, M., & Rope, C. (2016). *[ENIAC in action. Making and remaking the modern computer](http://eniacinaction.com/)*. MIT Press. 
 - HD Documental Ciencia 2017 (2017, Dic 17). [La curiosa guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg). *YouTube*. [video]. (1:27:54 hr).  
 - Li-khriss Team. (2017, Sep 4). [Descargar videos HD con Youtube DL en Windows](https://www.youtube.com/watch?v=HQig5v-Jz7A). *YouTube*. [video]. (5:53 min).
