@@ -79,13 +79,13 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   *Objetivo:* Reflexionar sobre el contexto histórico de la computadora digital.  
   
-  *Parte 1:* Vea las siguientes películas:  
+  Vea las siguientes películas:  
      - [Top Secret Rosies: The Female Computers of WWII](https://www.youtube.com/watch?v=IXtb4fA65qE) [video] (56:46 min). [url](https://zooqle.com/pbs-top-secret-rosies-2010-x264-aac-hdtv-mvgroup-eztv-209f.html). Descárguela usando el magnet link, si no está dispoible en YouTube.  
      - [Código Enigma / The Imitation Game](https://www.youtube.com/watch?v=0DFqSmdbsUM). *YouTube*. [video] (1:53:53 hr).  
      - [La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg).  
      - Talentos Ocultos (*Hidden Figures*) [[Trailer](https://www.youtube.com/watch?v=xFALsPCeJvE)]  [torrent](https://thepiratebay.org/description.php?id=17551668).  
      
-  En parejas o triadas, reflexione sobre el contexto histórico del surgimiento de la computadora.
+  Aprenda a elaborar [fichas de trabajo o de estudio](https://www.youtube.com/watch?v=pec3M47oR9I) para que estudie. En parejas o triadas, reflexione sobre el contexto histórico del surgimiento de la computadora.
   
 
 - *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 3 de noviembre de 2022).
@@ -100,7 +100,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
      - ¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad?
      - ¿Qué es la computación como campo de conocimiento y como trans-disciplina?
    
-  *Parte 2:* Revisen colectivamente los siguientes recursos y tomen nota en su cuaderno y elaboren [fichas de trabajo o de estudio](https://www.youtube.com/watch?v=pec3M47oR9I):
+  *Parte 2:* Revisen colectivamente los siguientes recursos y tomen nota en su cuaderno:
      - [Timeline of Computing History (Línea de Tiempo de la Historia de la Computación)](http://ieeehc.pairserver.com/pubs/timeline.pdf) destaque los hechos de interés para este caso. (2 estudiantes).
      - [Turing. La Computación: Pensando en Máquinas que Piensan](https://libgen.rs/book/index.php?md5=0E12A6617118339310C16106A8C8F073) (10 estudiantes) y la lectura [¿Qué son las ciencias de la computación?: Una interpretación ecléctica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing). (2 estudiantes).
      - Revisen los antecedentes históricos de la [Association for Computing Machinery, ACM](https://www.acm.org/acm-history) y el [Institute of Electrical and Electronics Engineers, IEEE, "I triple E"](https://www.ieee.org/about/ieee-history.html) y reflexionen sobre la importancia de estas asociaciones para el fortalecimiento de la computación como disciplina científica. (2 estudiante).
