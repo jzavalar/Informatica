@@ -79,13 +79,15 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   *Objetivo:* Reflexionar sobre el contexto histórico de la computadora digital.  
   
-  Vea las siguientes películas:  
+  *Parte 1:* Aprenda a elaborar [fichas de trabajo o de estudio](https://www.youtube.com/watch?v=pec3M47oR9I) para que estudie. 
+  
+  *Parte 2:* Vea las siguientes películas:  
      - [Top Secret Rosies: The Female Computers of WWII](https://www.youtube.com/watch?v=IXtb4fA65qE) [video] (56:46 min). [url](https://zooqle.com/pbs-top-secret-rosies-2010-x264-aac-hdtv-mvgroup-eztv-209f.html). Descárguela usando el magnet link, si no está dispoible en YouTube.  
      - [Código Enigma / The Imitation Game](https://www.youtube.com/watch?v=0DFqSmdbsUM). *YouTube*. [video] (1:53:53 hr).  
      - [La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg).  
      - Talentos Ocultos (*Hidden Figures*) [[Trailer](https://www.youtube.com/watch?v=xFALsPCeJvE)]  [torrent](https://thepiratebay.org/description.php?id=17551668).  
      
-  Aprenda a elaborar [fichas de trabajo o de estudio](https://www.youtube.com/watch?v=pec3M47oR9I) para que estudie. En parejas o triadas, reflexione sobre el contexto histórico del surgimiento de la computadora.
+  *Parte 3:* En parejas o triadas, reflexione sobre el contexto histórico del surgimiento de la computadora.
   
 
 - *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 3 de noviembre de 2022).
@@ -117,7 +119,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   *Parte 2:* Aterrice la práctica documentando las partes de la o de las computadoras que tenga en su casa. Consiga los manuales de usuario del modelo respectivo y el manual de servicio del sitio del fabricante. Busque los videos de cambio de disco duro, memoria u otros componentes que haya en YouTube. Haga una reflexión sobre las partes de su computadora.
   
-  En diadas o tríadas documenten en un video su experiencia en la realización de la actividad y escanéen o tome una foto de sus tareas. Compartan el video en el grupo de Telegram y suban los archivos a su cuenta de Google Drive donde corresponda.
+  *Parte 3:* En diadas o tríadas documenten en un video su experiencia en la realización de la actividad y escanéen o tome una foto de sus tareas. Compartan el video en el grupo de Telegram y suban los archivos a su cuenta de Google Drive donde corresponda.
 
 
 - *Práctica 1.4. Funciones de la computadora*. (Entrega: 3 de noviembre de 2022).  
@@ -132,7 +134,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   *Parte 4:* Modifique uno de los archivos de subtítulos con alguna de las siguientes herramientas y pruebe el despliegue de los subtítulos con [VLC](https://www.videolan.org/vlc/).  
     
-  En diadas o tríadas documenten, en un video, expongan su experiencia en la realización de la actividad y compartan el video en el grupo de Telegram. Suban los archivos a su cuenta de Google Drive donde corresponda.
+  *Parte 5:* En diadas o tríadas documenten, en un video, expongan su experiencia en la realización de la actividad y compartan el video en el grupo de Telegram. Suban los archivos a su cuenta de Google Drive donde corresponda.
 
 
 ##### Bibliografía Obligatoria:
