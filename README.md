@@ -68,5 +68,88 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 ### Contenido Sintético
 
-#### Unidad 0. Presentación
+#### Unidad 1. Introducción
+
+1. Breve historia de la computadora
+2. La computadora digital como máquina simbólica de propósito general
+3. De las ciencias de la computación al cómputo en la nube
+4. Tareas y prácticas:
+ 
+- *Tarea 1.1. La computadora y su contexto histórico*. (Entrega: 25 de octubre de 2022).
+
+  *Objetivo:* Reflexionar sobre el contexto histórico de la computadora digital.  
+  
+  *Parte 1:* Vea las siguientes películas:  
+     - [Top Secret Rosies: The Female Computers of WWII](https://www.youtube.com/watch?v=IXtb4fA65qE) [video] (56:46 min). [url](https://zooqle.com/pbs-top-secret-rosies-2010-x264-aac-hdtv-mvgroup-eztv-209f.html). Descárguela usando el magnet link, si no está dispoible en YouTube.  
+     - [Código Enigma / The Imitation Game](https://www.youtube.com/watch?v=0DFqSmdbsUM). *YouTube*. [video] (1:53:53 hr).  
+     - [La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg).  
+     - Talentos Ocultos (*Hidden Figures*) [[Trailer](https://www.youtube.com/watch?v=xFALsPCeJvE)]  [torrent](https://thepiratebay.org/description.php?id=17551668).  
+     
+  En parejas o triadas, reflexione sobre el contexto histórico del surgimiento de la computadora.
+  
+
+- *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 3 de noviembre de 2022).
+     
+  *Objetivo:* Reflexionar sobre el contexto histórico de la computadora digital y de las ciencias de la computación.   
+  
+  *Parte 1:* Consideren las siguientes preguntas guía como base: 
+     - ¿Por qué se dice que la *computadora* es una *máquina inteligente*?
+     - ¿Cuáles fueron los factores económicos, políticos y sociales que llevaron al invento de la computadora digital?
+     - ¿Quiénes fueron *Alan Turing* y *John Von Newmann* y cuáles fueron sus aportes a la computadora y a la computación?
+     - ¿Qué es la máquina de Turing?
+     - ¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad?
+     - ¿Qué es la computación como campo de conocimiento y como trans-disciplina?
+   
+  *Parte 2:* Revisen colectivamente los siguientes recursos y tomen nota en su cuaderno y elaboren [fichas de trabajo o de estudio](https://www.youtube.com/watch?v=pec3M47oR9I):
+     - [Timeline of Computing History (Línea de Tiempo de la Historia de la Computación)](http://ieeehc.pairserver.com/pubs/timeline.pdf) destaque los hechos de interés para este caso. (2 estudiantes).
+     - [Turing. La Computación: Pensando en Máquinas que Piensan](https://libgen.rs/book/index.php?md5=0E12A6617118339310C16106A8C8F073) (10 estudiantes) y la lectura [¿Qué son las ciencias de la computación?: Una interpretación ecléctica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing). (2 estudiantes).
+     - Revisen los antecedentes históricos de la [Association for Computing Machinery, ACM](https://www.acm.org/acm-history) y el [Institute of Electrical and Electronics Engineers, IEEE, "I triple E"](https://www.ieee.org/about/ieee-history.html) y reflexionen sobre la importancia de estas asociaciones para el fortalecimiento de la computación como disciplina científica. (2 estudiante).
+     - Consulten las bibliotecas digitales de estas asociaciones profesionales: la [ACM Digital Library](https://dl.acm.org/) (2 estudiantes) e [IEEE Xplore](https://ieeexplore.ieee.org/) y explore las principales revistas de ambas asociaciones [CACM](https://cacm.acm.org/) y [IEEE Spectrum](https://spectrum.ieee.org/) (2 estudiantes). Por último, exploren el [The 2012 ACM Computing Classification System (Sistema de Clasificación en Computación de la ACM)](https://dl.acm.org/ccs) [ACM computing classification system: Introduction](https://www.acm.org/) (traducción: [inglés-español](https://dl-acm-org.translate.goog/ccs?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp)), donde pueden encontrar los *grandes campos de la computación*: *General y de referencia*, *Hardware*, *Organización de sistemas de cómputo*, *Redes*, *Software y su ingeniería*, *Teoría de la computación*, *Matemáticas de la computación*, *Sistemas de información*, *Seguridad y privacidad*, *Computación centrada en el ser humano*, *Metodologías de computación*, *Computación aplicada* y *Temas sociales y profesionales*. (2 estudiantes).
+   
+  *Parte 3:* En parejas o triadas, a partir de la revisión colectiva que deberán poner a disposición de todos en un directorio de Google Drive, elaboren un *documento colectivo* respondiendo exhaustívamente las preguntas planteadas en la Parte 1, primero en su cuaderno y finalmente en Google Drive como trabajo colaborativo y luego copiar al directorio de cada integrantes. 
+
+
+- *Práctica 1.3. Partes de la computadora*. (Entrega: 3 de noviembre de 2022).
+
+  *Objetivo:* Identificar las partes de los varios tipos de computadoras modernas.
+    
+  *Parte 1:* Investigue e identifique las partes en una computadora de escritorio, una laptop, una tableta y un teléfono celular y elabore un *collage* a mano en su cuaderno, identificando de manera legible las partes de cada tipo de computadora, en una página para tipo. Tome una foto y envíela al grupo de Telegram.
+  
+  *Parte 2:* Aterrice la práctica documentando las partes de la o de las computadoras que tenga en su casa. Consiga los manuales de usuario del modelo respectivo y el manual de servicio del sitio del fabricante. Busque los videos de cambio de disco duro, memoria u otros componentes que haya en YouTube. Haga una reflexión sobre las partes de su computadora.
+  
+  En diadas o tríadas documenten en un video su experiencia en la realización de la actividad y escanéen o tome una foto de sus tareas. Compartan el video en el grupo de Telegram y suban los archivos a su cuenta de Google Drive donde corresponda.
+
+
+- *Práctica 1.4. Funciones de la computadora*. (Entrega: 3 de noviembre de 2022).  
+
+  *Objetivos*: Identificar las funciones básicas de una computadora, aprender a descargar videos con una herramienta de software y editar los subtítulos.  
+    
+  *Parte 1:* Descargue e instale [YouTube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui/releases/download/0.4/youtube-dl-gui-0.4-win-portable.zip) (versión portable) en una USB.  
+    
+  *Parte 2:* Luego, descargue los 6 videos de la lista [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-), incluyendo los subtítulos en inglés y en español.  
+    
+  *Parte 3:* Utilice en primer video y genere automáticamente los subtítulos con la herramienta [Clideo](https://clideo.com/create-subtitles) según la [guía](https://clideo.com/resources/how-to-generate-subtitles-from-video-automatically) correspondiente. Luego, compare los subtítulos generados y los descargados y saque sus conclusiones.  
+  
+  *Parte 4:* Modifique uno de los archivos de subtítulos con alguna de las siguientes herramientas y pruebe el despliegue de los subtítulos con [VLC](https://www.videolan.org/vlc/).  
+    
+  En diadas o tríadas documenten, en un video, expongan su experiencia en la realización de la actividad y compartan el video en el grupo de Telegram. Suban los archivos a su cuenta de Google Drive donde corresponda.
+
+
+##### Bibliografía Obligatoria:
+- Code.org (2018, Jan 30). [How computers work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). *YouTube*. [6 videos].
+- Derivando (2018, Ene 10). [¿Qué es una máquina de Turing?](https://www.youtube.com/watch?v=iaXLDz_UeYY). *YouTube*. [video] (5:17 min).
+- Lahoz-Beltra, R. (2020). *Turing. La computación: Pensando en máquinas que piensan*. Budapest: epublibre. ([url](https://libgen.rs/book/index.php?md5=0E12A6617118339310C16106A8C8F073)).
+- O’Regan, G. (2021). What Is a Computer? In *A brief history of computing* (pp. 1-10). Switzerland: Springer Nature Switzerland AG. ([url](https://libgen.rs/book/index.php?md5=E7FC38F000E9DC68BB251E6C4D3FF660)).
+- Zavala, J. (2011). [¿Qué son las ciencias de la computación?: Una interpretación ecléctica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing). In *La ingeniería de software: Una discusión epistemológica (pp. 38-76)*. Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México. (*Lectura 1.2.*).
+
+
+##### Bibliografía Complementaria:
+- Computer History Archives Project. (2021, Dec 26). Computer History UK LEO III Computer 1966 (Full Version) (J. Lyons Electronic Office Automation). YouTube. ([video](https://www.youtube.com/watch?v=H_0Astp1dEU&list=UUOyJD0RHtF_77_oAf5tT1nQ&index=4))
+- Ensmenger, N. L. (2010). Introduction: Computer revolutionaries. (pp. 1-26). In *[The computer boys take over: Computers, programmers, and the politics of technical expertise](https://www.researchgate.net/publication/266316410_The_Computer_Boys_Take_Over_Computers_Programmers_and_the_Politics_of_Technical_Expertise_History_of_Computing)* (pp. 1-26). USA: The MIT Press.
+- Gómez Ortega, L. F. (2018, Oct 10). [Tutorial CmapTools 2019](https://www.youtube.com/watch?v=FSG-GCU4wQE). *YouTube*. [video] (15:38 min).
+- Grier. D. A. (2001). [Human computers. The first pioneers of the information age](https://www.sciencedirect.com/science/article/pii/S0160932700013387). *Endeavour 25*(1), 28-32. 
+- Haigh, T. & Ceruzzi, P. E. (2021). Inventing the computer. In *A new history of modern computing* (pp. 9-28). USA: The MIT Press. ([url](https://libgen.rs/book/index.php?md5=FEC5EE9FBAB5F3C3E68371EC9025E694)).
+- Haigh, T., Priestley, M., & Rope, C. (2016). *[ENIAC in action. Making and remaking the modern computer](http://eniacinaction.com/)*. MIT Press. 
+- HD Documental Ciencia 2017 (2017, Dic 17). [La curiosa guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg). *YouTube*. [video]. (1:27:54 hr).  
+- Li-khriss Team. (2017, Sep 4). [Descargar videos HD con Youtube DL en Windows](https://www.youtube.com/watch?v=HQig5v-Jz7A). *YouTube*. [video]. (5:53 min).
 
