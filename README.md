@@ -79,7 +79,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   *Objetivo:* Reflexionar sobre el contexto histórico de la computadora digital.  
   
-  *Parte 1:* Aprenda a elaborar [fichas de trabajo o de estudio](https://www.youtube.com/watch?v=pec3M47oR9I) para que estudie. 
+  *Parte 1:* Aprenda a elaborar [fichas de trabajo o de estudio](https://www.youtube.com/watch?v=pec3M47oR9I) y [tomar apuntes](https://www.youtube.com/watch?v=h7KwapGowuE) para que estudie. 
   
   *Parte 2:* Vea las siguientes películas y elabore sus fichas de trabajo de los temas de la *Tarea 1.2: Parte 1* que se aborden en cada película o video:  
      - [Top Secret Rosies: The Female Computers of WWII](https://www.youtube.com/watch?v=IXtb4fA65qE) [video] (56:46 min). [torrent](https://thepiratebay.org/description.php?id=6804294).  
