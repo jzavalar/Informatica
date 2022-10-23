@@ -84,7 +84,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   *Parte 2:* Vea las siguientes películas y elabore sus fichas de trabajo de los temas de la *Tarea 1.2: Parte 1* que se aborden en cada película o video:  
      - [Top Secret Rosies: The Female Computers of WWII](https://www.youtube.com/watch?v=IXtb4fA65qE) [video] (56:46 min). [torrent](https://thepiratebay.org/description.php?id=6804294).  
      - [Código Enigma / The Imitation Game](https://www.youtube.com/watch?v=0DFqSmdbsUM). *YouTube*. [video] (1:53:53 hr).  
-     - [La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg).  
+     - [La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg). *YouTube*. [video documental] (1:27:54 hr).    
      - Talentos Ocultos (*Hidden Figures*) ([Trailer](https://www.youtube.com/watch?v=xFALsPCeJvE)) [torrent](https://thepiratebay.org/description.php?id=17551668).  
      
   *Parte 3:* Compartan sus fichas de trabajo en el canal privado que les indique el profesor. 
