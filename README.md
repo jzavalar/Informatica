@@ -92,7 +92,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   *Parte 4:* En parejas o triadas, reflexione sobre el contexto histórico del surgimiento de la computadora.
   
 
-- *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 3 de noviembre de 2022).
+- *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 27 de noviembre de 2022).
      
   *Objetivo:* Reflexionar sobre el contexto histórico de la computadora digital y de las ciencias de la computación.   
   
