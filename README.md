@@ -81,15 +81,15 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   *Parte 1:* Aprenda a elaborar [fichas de trabajo o de estudio](https://www.youtube.com/watch?v=pec3M47oR9I) para que estudie. 
   
-  *Parte 2:* Vea las siguientes películas y elaboren sus fichas de trabajo de los temas que se abirden en cada película o video:  
-     - [Top Secret Rosies: The Female Computers of WWII](https://www.youtube.com/watch?v=IXtb4fA65qE) [video] (56:46 min). [url](https://zooqle.com/pbs-top-secret-rosies-2010-x264-aac-hdtv-mvgroup-eztv-209f.html). Descárguela usando el magnet link, si no está dispoible en YouTube.  
+  *Parte 2:* Vea las siguientes películas y elabore sus fichas de trabajo de los temas de la *Tarea 1.2: Parte 1* que se aborden en cada película o video:  
+     - [Top Secret Rosies: The Female Computers of WWII](https://www.youtube.com/watch?v=IXtb4fA65qE) [video] (56:46 min). [torrent](https://thepiratebay.org/description.php?id=6804294).  
      - [Código Enigma / The Imitation Game](https://www.youtube.com/watch?v=0DFqSmdbsUM). *YouTube*. [video] (1:53:53 hr).  
      - [La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg).  
-     - Talentos Ocultos (*Hidden Figures*) [[Trailer](https://www.youtube.com/watch?v=xFALsPCeJvE)]  [torrent](https://thepiratebay.org/description.php?id=17551668).  
+     - Talentos Ocultos (*Hidden Figures*) ([Trailer](https://www.youtube.com/watch?v=xFALsPCeJvE)) [torrent](https://thepiratebay.org/description.php?id=17551668).  
      
   *Parte 3:* Compartan sus fichas de trabajo en el canal privado que les indique el profesor. 
   
-  *Parte 4:* En parejas o triadas, reflexione sobre el contexto histórico del surgimiento de la computadora.
+  *Parte 4:* En díadas o triadas, reflexione sobre el contexto histórico del surgimiento de la computadora.
   
 
 - *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 27 de noviembre de 2022).
@@ -114,7 +114,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
    
   *Parte 3:* A partir de la revisión colectiva, deberán poner a disposición de todos, todas las fichas de trabajo generadas en su revisión, en un canal privado de Telegram que el profesor les indicará.
   
-  *Parte 4:* En parejas o triadas, elaboren un *documento colectivo* respondiendo exhaustívamente las preguntas planteadas en la Parte 1, primero en su cuaderno y finalmente en Google Drive como trabajo colaborativo y luego copiar al directorio de cada integrantes. 
+  *Parte 4:* En díadas o triadas, elaboren un *documento colectivo* respondiendo exhaustívamente las preguntas planteadas en la Parte 1, primero en su cuaderno y finalmente en Google Drive como trabajo colaborativo y luego copiar al directorio de cada integrantes. 
 
 
 - *Práctica 1.3. Partes de la computadora*. (Entrega: 3 de noviembre de 2022).
@@ -125,7 +125,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   *Parte 2:* Aterrice la práctica documentando las partes de la o de las computadoras que tenga en su casa. Consiga los manuales de usuario del modelo respectivo y el manual de servicio del sitio del fabricante. Busque los videos de cambio de disco duro, memoria u otros componentes que haya en YouTube. Haga una reflexión sobre las partes de su computadora en un breve video. 
   
-  *Parte 3:* En diadas o tríadas documenten en un video su experiencia en la realización de la actividad y escanéen y/o tomen fotos de sus tareas. Compartan los videos en el canal de Telegram y suban los archivos a su cuenta de Google Drive donde corresponda.
+  *Parte 3:* En díadas o tríadas documenten en un video su experiencia en la realización de la actividad y escanéen y/o tomen fotos de sus tareas. Compartan los videos en el canal de Telegram y suban los archivos a su cuenta de Google Drive donde corresponda.
 
 
 - *Práctica 1.4. Funciones de la computadora*. (Entrega: 3 de noviembre de 2022).  
@@ -138,27 +138,27 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
     
   *Parte 3:* Utilice en primer video y genere automáticamente los subtítulos con la herramienta [Clideo](https://clideo.com/create-subtitles) según la [guía](https://clideo.com/resources/how-to-generate-subtitles-from-video-automatically) correspondiente. Luego, compare los subtítulos generados y los descargados y saque sus conclusiones.  
   
-  *Parte 4:* Modifique uno de los archivos de subtítulos con alguna de las siguientes herramientas y pruebe el despliegue de los subtítulos con [VLC](https://www.videolan.org/vlc/).  
+  *Parte 4:* Modifique uno de los archivos de subtítulos, poniendo su nombre y pruebe el despliegue de los subtítulos con [VLC](https://www.videolan.org/vlc/).  
     
-  *Parte 5:* En diadas o tríadas documenten, en un video, expongan su experiencia en la realización de la actividad y compartan el video en el grupo de Telegram. Suban los archivos a su cuenta de Google Drive donde corresponda.
+  *Parte 5:* En díadas o tríadas documenten, en un video, expongan su experiencia en la realización de la actividad y compartan el video en el grupo de Telegram. Suban los archivos a su cuenta de Google Drive donde corresponda.
 
 
 ##### Bibliografía Obligatoria:
 - Code.org (2018, Jan 30). [How computers work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). *YouTube*. [6 videos].
 - Derivando (2018, Ene 10). [¿Qué es una máquina de Turing?](https://www.youtube.com/watch?v=iaXLDz_UeYY). *YouTube*. [video] (5:17 min).
-- Lahoz-Beltra, R. (2020). *Turing. La computación: Pensando en máquinas que piensan*. Budapest: epublibre. ([url](https://libgen.rs/book/index.php?md5=0E12A6617118339310C16106A8C8F073)).
-- O’Regan, G. (2021). What Is a Computer? In *A brief history of computing* (pp. 1-10). Switzerland: Springer Nature Switzerland AG. ([url](https://libgen.rs/book/index.php?md5=E7FC38F000E9DC68BB251E6C4D3FF660)).
-- Zavala, J. (2011). [¿Qué son las ciencias de la computación?: Una interpretación ecléctica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing). In *La ingeniería de software: Una discusión epistemológica (pp. 38-76)*. Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México. (*Lectura 1.2.*).
+- Lahoz-Beltra, R. (2020). [*Turing. La computación: Pensando en máquinas que piensan*](https://libgen.rs/book/index.php?md5=0E12A6617118339310C16106A8C8F073). Budapest: epublibre.
+- O’Regan, G. (2021). What Is a Computer? In [*A brief history of computing*](https://libgen.rs/book/index.php?md5=E7FC38F000E9DC68BB251E6C4D3FF660) (pp. 1-10). Switzerland: Springer Nature Switzerland AG.
+- Zavala, J. (2011). [¿Qué son las ciencias de la computación?: Una interpretación ecléctica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing). In *La ingeniería de software: Una discusión epistemológica (pp. 38-76)*. Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México.
 
 
 ##### Bibliografía Complementaria:
 - ACM. (2022). [Membership Benefits](https://www.acm.org/membership/membership-benefits).  
-- Computer History Archives Project. (2021, Dec 26). Computer History UK LEO III Computer 1966 (Full Version) (J. Lyons Electronic Office Automation). *YouTube*. ([video](https://www.youtube.com/watch?v=H_0Astp1dEU&list=UUOyJD0RHtF_77_oAf5tT1nQ&index=4))
-- Ensmenger, N. L. (2010). Introduction: Computer revolutionaries. (pp. 1-26). In *[The computer boys take over: Computers, programmers, and the politics of technical expertise](https://www.researchgate.net/publication/266316410_The_Computer_Boys_Take_Over_Computers_Programmers_and_the_Politics_of_Technical_Expertise_History_of_Computing)* (pp. 1-26). USA: The MIT Press.
+- Computer History Archives Project. (2021, Dec 26). [Computer History UK LEO III Computer 1966](](https://www.youtube.com/watch?v=H_0Astp1dEU&list=UUOyJD0RHtF_77_oAf5tT1nQ&index=4)) (Full Version) (J. Lyons Electronic Office Automation). *YouTube*. (video)
+- Ensmenger, N. L. (2010). Introduction: Computer revolutionaries. (pp. 1-26). In [*The computer boys take over: Computers, programmers, and the politics of technical expertise*](https://www.researchgate.net/publication/266316410_The_Computer_Boys_Take_Over_Computers_Programmers_and_the_Politics_of_Technical_Expertise_History_of_Computing) (pp. 1-26). USA: The MIT Press.
 - Gómez Ortega, L. F. (2018, Oct 10). [Tutorial CmapTools 2019](https://www.youtube.com/watch?v=FSG-GCU4wQE). *YouTube*. [video] (15:38 min).
 - Grier. D. A. (2001). [Human computers. The first pioneers of the information age](https://www.sciencedirect.com/science/article/pii/S0160932700013387). *Endeavour 25*(1), 28-32. 
 - Haigh, T. & Ceruzzi, P. E. (2021). Inventing the computer. In [*A new history of modern computing*](https://libgen.rs/book/index.php?md5=FEC5EE9FBAB5F3C3E68371EC9025E694) (pp. 9-28). USA: The MIT Press.
-- Haigh, T., Priestley, M., & Rope, C. (2016). *[ENIAC in action. Making and remaking the modern computer](http://eniacinaction.com/)*. MIT Press. 
+- Haigh, T., Priestley, M., & Rope, C. (2016). [*ENIAC in action. Making and remaking the modern computer*](http://eniacinaction.com/). MIT Press. 
 - HD Documental Ciencia 2017 (2017, Dic 17). [La curiosa guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg). *YouTube*. [video]. (1:27:54 hr).  
 - Li-khriss Team. (2017, Sep 4). [Descargar videos HD con Youtube DL en Windows](https://www.youtube.com/watch?v=HQig5v-Jz7A). *YouTube*. [video]. (5:53 min).
 
