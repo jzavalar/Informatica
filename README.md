@@ -81,13 +81,15 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   *Parte 1:* Aprenda a elaborar [fichas de trabajo o de estudio](https://www.youtube.com/watch?v=pec3M47oR9I) para que estudie. 
   
-  *Parte 2:* Vea las siguientes películas:  
+  *Parte 2:* Vea las siguientes películas y elaboren sus fichas de trabajo de los temas que se abirden en cada película o video:  
      - [Top Secret Rosies: The Female Computers of WWII](https://www.youtube.com/watch?v=IXtb4fA65qE) [video] (56:46 min). [url](https://zooqle.com/pbs-top-secret-rosies-2010-x264-aac-hdtv-mvgroup-eztv-209f.html). Descárguela usando el magnet link, si no está dispoible en YouTube.  
      - [Código Enigma / The Imitation Game](https://www.youtube.com/watch?v=0DFqSmdbsUM). *YouTube*. [video] (1:53:53 hr).  
      - [La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg).  
      - Talentos Ocultos (*Hidden Figures*) [[Trailer](https://www.youtube.com/watch?v=xFALsPCeJvE)]  [torrent](https://thepiratebay.org/description.php?id=17551668).  
      
-  *Parte 3:* En parejas o triadas, reflexione sobre el contexto histórico del surgimiento de la computadora.
+  *Parte 3:* Compartan sus fichas de trabajo en el canal privado que les indique el profesor. 
+  
+  *Parte 4:* En parejas o triadas, reflexione sobre el contexto histórico del surgimiento de la computadora.
   
 
 - *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 3 de noviembre de 2022).
@@ -102,7 +104,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
      - ¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad?
      - ¿Qué es la computación como campo de conocimiento y como trans-disciplina?
    
-  *Parte 2:* Revisen colectivamente los siguientes recursos y tomen nota en su cuaderno:
+  *Parte 2:* Revisen colectivamente los siguientes recursos y tomen nota en su cuaderno y luego elaboren sus fichas de trabajos:
      - [Timeline of Computing History (Línea de Tiempo de la Historia de la Computación)](http://ieeehc.pairserver.com/pubs/timeline.pdf) destaque los hechos de interés para este caso. (2 estudiantes).
      - [Turing. La Computación: Pensando en Máquinas que Piensan](https://libgen.rs/book/index.php?md5=0E12A6617118339310C16106A8C8F073) (10 estudiantes) y la lectura [¿Qué son las ciencias de la computación?: Una interpretación ecléctica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing). (2 estudiantes).
      - **Introducción a la Ciencia de la Computación** [Capítulos 1 y 5](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D) (2 estudiantes).
@@ -110,18 +112,20 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
      - Revisen los antecedentes históricos de la [Association for Computing Machinery, ACM](https://www.acm.org/acm-history) y el [Institute of Electrical and Electronics Engineers, IEEE, "I triple E"](https://www.ieee.org/about/ieee-history.html) y reflexionen sobre la importancia de estas asociaciones para el fortalecimiento de la computación como disciplina científica. (2 estudiantes).
      - Consulten las bibliotecas digitales de estas asociaciones profesionales: la [ACM Digital Library](https://dl.acm.org/) (2 estudiantes) e [IEEE Xplore](https://ieeexplore.ieee.org/) y explore las principales revistas de ambas asociaciones [CACM](https://cacm.acm.org/) y [IEEE Spectrum](https://spectrum.ieee.org/) (2 estudiantes). Por último, exploren el [The 2012 ACM Computing Classification System (Sistema de Clasificación en Computación de la ACM)](https://dl.acm.org/ccs) [ACM computing classification system: Introduction](https://www.acm.org/) (traducción: [inglés-español](https://dl-acm-org.translate.goog/ccs?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp)), donde pueden encontrar los *grandes campos de la computación*: *General y de referencia*, *Hardware*, *Organización de sistemas de cómputo*, *Redes*, *Software y su ingeniería*, *Teoría de la computación*, *Matemáticas de la computación*, *Sistemas de información*, *Seguridad y privacidad*, *Computación centrada en el ser humano*, *Metodologías de computación*, *Computación aplicada* y *Temas sociales y profesionales*. (2 estudiantes).
    
-  *Parte 3:* En parejas o triadas, a partir de la revisión colectiva que deberán poner a disposición de todos en un directorio de Google Drive, elaboren un *documento colectivo* respondiendo exhaustívamente las preguntas planteadas en la Parte 1, primero en su cuaderno y finalmente en Google Drive como trabajo colaborativo y luego copiar al directorio de cada integrantes. 
+  *Parte 3:* A partir de la revisión colectiva, deberán poner a disposición de todos, todas las fichas de trabajo generadas en su revisión, en un canal privado de Telegram que el profesor les indicará.
+  
+  *Parte 4:* En parejas o triadas, elaboren un *documento colectivo* respondiendo exhaustívamente las preguntas planteadas en la Parte 1, primero en su cuaderno y finalmente en Google Drive como trabajo colaborativo y luego copiar al directorio de cada integrantes. 
 
 
 - *Práctica 1.3. Partes de la computadora*. (Entrega: 3 de noviembre de 2022).
 
   *Objetivo:* Identificar las partes de los varios tipos de computadoras modernas.
     
-  *Parte 1:* Investigue e identifique las partes en una computadora de escritorio, una laptop, una tableta y un teléfono celular y elabore un *collage* a mano en su cuaderno, identificando de manera legible las partes de cada tipo de computadora, en una página para tipo. Tome una foto y envíela al grupo de Telegram.
+  *Parte 1:* Investigue e identifique las partes en una computadora de escritorio, una laptop, una tableta y un teléfono celular y elabore un *collage* a mano en su cuaderno, identificando de manera legible las partes de cada tipo de computadora, en una página para tipo. Tome una foto y envíela al canal de Telegram que le indique el profesor.
   
-  *Parte 2:* Aterrice la práctica documentando las partes de la o de las computadoras que tenga en su casa. Consiga los manuales de usuario del modelo respectivo y el manual de servicio del sitio del fabricante. Busque los videos de cambio de disco duro, memoria u otros componentes que haya en YouTube. Haga una reflexión sobre las partes de su computadora.
+  *Parte 2:* Aterrice la práctica documentando las partes de la o de las computadoras que tenga en su casa. Consiga los manuales de usuario del modelo respectivo y el manual de servicio del sitio del fabricante. Busque los videos de cambio de disco duro, memoria u otros componentes que haya en YouTube. Haga una reflexión sobre las partes de su computadora en un breve video. 
   
-  *Parte 3:* En diadas o tríadas documenten en un video su experiencia en la realización de la actividad y escanéen o tome una foto de sus tareas. Compartan el video en el grupo de Telegram y suban los archivos a su cuenta de Google Drive donde corresponda.
+  *Parte 3:* En diadas o tríadas documenten en un video su experiencia en la realización de la actividad y escanéen y/o tomen fotos de sus tareas. Compartan los videos en el canal de Telegram y suban los archivos a su cuenta de Google Drive donde corresponda.
 
 
 - *Práctica 1.4. Funciones de la computadora*. (Entrega: 3 de noviembre de 2022).  
