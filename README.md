@@ -248,3 +248,27 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
    *Parte 5*: Documente en un video de hasta 10 minutos sus conclusiones y su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
    
    
+## Modalidades de Evaluación
+
+### Evaluación Global
+La asistencia puntual a la clase es obligatoria, según el reglamento de estudios. Es importante la *participación activa clase a clase*. La falta de participación en clase y la no entrega de sus reportes de prácticas a lo largo del trimestre, tendrá repercusiones en la evaluación final que puede llegar a la reprobación del curso. Ver porcentajes de ponderación de calificación.
+
+#### Calificación
+| Factor | Porcentaje | Observaciones |
+| :---: | :---: | ------------- |
+| Asistencia puntual | 10% |  |
+| Tareas|30% |Se entrega en la fecha programada |
+| Prácticas| 30% |Se entregan  en la fecha programada |
+| Exámenes| 30% | Primero (a), Segundo (b)|
+| Total | 100% | |
+
+**Notas:
+  - **a).** Primer examen: *Teórico* (Unidades 1, 2 y 3) y *Práctico* (Programación): Fecha: Por definir.
+  - **b).** Segundo examen: *Teórico - Práctico* (Unidad 4 (Sistemas de Información) y Unidad 5 (Tablas dinámicas)): Fecha: Por definir.
+  - **Evaluación Global:** Todo el curso (Teoría y Práctica) para quienes tengan baja calificación o deseen subir: Fecha: Por definir.
+  - **Entrega de calificaciones:** Fecha: Por definir.
+
+La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
+
+#### Evaluación de Recuperación
+La *evaluación de recuperación* no será aplidada por el profesor, sino por la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente, por lo que deberá coordinarse con la Coordinadora de la Licenciatura.
