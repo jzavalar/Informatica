@@ -176,3 +176,68 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - HD Documental Ciencia 2017 (2017, Dic 17). [La curiosa guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg). *YouTube*. [video]. (1:27:54 hr).  
 - Li-khriss Team. (2017, Sep 4). [Descargar videos HD con Youtube DL en Windows](https://www.youtube.com/watch?v=HQig5v-Jz7A). *YouTube*. [video]. (5:53 min).
 
+
+### Unidad 2. Software: Datos   
+1. Ontología del software:  
+   a. Los elementos básicos: Datos e instrucciones (programa)  
+   b. Los símbolos de la computadora: Bit, byte, unidades derivadas del byte y archivo     
+2. Sistemas numéricos: Decimal, binario y hexadecimal y conversiones    
+3. Tipos de datos:  
+   a. Números: Enteros (*integer*) y reales (*float point*)      
+   b. Texto plano: Sistemas de codificación: ASCII y Unicode (UTF-8, UTF-16, UTF-32)  
+   c. Binario: Audio, imagen, video y otros  
+4. Tareas y prácticas:  
+
+- *Tarea 2.1. Conceptos básicos de software*. (Entrega: 8 de noviembre de 2022).
+
+  *Objetivos*: Aprender a diseñar mapas conceptuales con una herramienta de software.
+    
+  *Parte 1*: En equipo, investigue la definición formal de los conceptos básicos de software que se enlistan en la unidad en tres fuentes: los dos libros de texto del curso y en Wikipedia. Luego, simplifique cada definición en una frase corta pero con la mejor claridad posible que le servirá para crear un mapa conceptual. Para mayor claridad, acompañe la definición, mínimo con un par de ejemplos para cada concepto.
+  
+  La lista de conceptos es la siguiente: *bit*, *byte* y unidades derivadas (*Kilobyte* (*KB*), *Megabyte* (*MB*), *Gibabyte* (*GB*), *Terabyte* (*TB*), etc.), *dato*, *tipos de datos*, dato numérico, dato alfanumérico (*de caracter* o *de texto*), *archivo*, *sistemas numéricos*,  e *información*. 
+  
+  *Parte 2*: Haga un mapa conceptual con el título *Ontología del Software. Parte 1: Los Datos*. Primero recopile en su cuaderno las frases de las definiciones de los conceptos involucrados en el mapa. Identifique los tres elementos de cada definición con la técnica Sujeto - Verbo - Complemento (Sujeto). Ahora haga una jerarquía de cada uno de los conceptos y represéntela en un diagrama. Refine el diagrama hasta lograr la mejor claridad posible.
+  
+  *Parte 3*: Una vez finalizado el mapa conceptual, páselo en limpio con ayuda de la herramienta [CmapTools](https://cmap.ihmc.us/cmaptools/).
+  
+  *Parte 4*: Tome una foto del mapa conceptual de su cuaderno e imprima el mapa conceptual elaborado con CMapTools en formato PDF y como imagen en formato PNG.
+    
+  *Parte 5*: Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+
+- *Práctica 2.1. Sistemas de codificación*. (Entrega: 8 de noviembre de 2022).
+
+  *Objetivos*: Conocer los fundamentos de los sistemas de codificación de texto.
+    
+  *Parte 1*: En equipo, investigue los dos principales sistemas de codificación (ASCII, UTF-8 o Unicode) y haga una tabla comparativa en términos de ventajas y desventajas, métodos de conversión y aplicación de cada uno.
+  
+  *Parte 2*: Identifique el código para cada carácter de su nombre y primer apellido y encuentre una función para generarlos utilizando ese código en *LibreOffice portable*  ([guía 1](https://www.libreofficehelp.com/how-to-type-unicode-characters-in-libreoffice/)) y pruebe el siguiente [convertidor Unicode online](https://r12a.github.io/app-conversion/)).
+  
+  *Parte 3*: Traduzca su nombre a tres tipos de caractares: Cirílico, Chino y Japonés e identyifique el código para cada símbolo y genere su nombre utilizando ese código en LibreOffice.
+  
+  *Parte 4*: Elija 10 emojis de su preferencia e identyifique el código para símbolo y genérelos utilizando ese código en LibreOffice.
+  
+  *Parte 5*: Documente en un video de hasta 10 minutos sus conclusiones y su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+- *Práctica 2.2. Inspección de archivos binarios*. (Entrega: 8 de noviembre de 2022).
+
+  *Objetivos*: Conocer la forma de revisar y editar archivos binarios utilizando  herramientas de software.
+    
+  *Parte 1*: En equipo, haga un recordatorio del sistema de codificación hexadecimal y practique y aprenda la lectura de números hexadecimales de dos dígitos.
+  
+  *Parte 2*: Instale las siguientes dos herramientas de software: 
+     a. [Frhed Portable](https://portableapps.com/apps/development/frhed_portable) (Editor hexadecimal)  
+     b. [HxD](https://mh-nexus.de/en/hxd/) (Editor hexadecimnal y de discos portable) (descargue la [versión portable en español](https://mh-nexus.de/en/downloads.php?product=HxD20))
+     Busque un video que le enseñe el funcionamiento básico de dada una de ellas.
+     
+  *Parte 3*: Copie una imagen (PNG), un video (MP4) y una canción (MP3) de su preferencia y el programa *Edit.com* o *Edit.Exe* de su sistema operativo Windows. Luego, cambie el nombre de cada uno de ellos y elimine la extensión. Enseguida, haga la inspección de cada uno de los archivos como si desconociera el tipo de archivo. Tome nota de sus hallazgos en cada caso.
+    
+  *Parte 4*: Analice un archivo binario en Linux siguiendo las siguientes instrucciones:
+     - Instale alguna de las terminales SSH en PortableApps: [PuTTY](https://portableapps.com/apps/internet/putty_portable) o [KiTTY](https://portableapps.com/apps/internet/kitty-portable) o la App [JuiceSSH](https://play.google.com/store/apps/details?id=com.sonelli.juicessh&hl=en&gl=US) desde su teléfono Android o alguna equivalente [desde su iPhone](https://www.iphonetopics.com/best-ssh-terminal-client-apps-iphone/).  
+     - Luego, revise el tutorial [10 Ways to Analyze Binary Files on Linux](https://opensource.com/article/20/4/linux-binary-analysis) (o su [traducción](https://opensource-com.translate.goog/article/20/4/linux-binary-analysis?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)).  
+     - Conéctese a este servicio gratuito de [Acceso a un Servidor Linux](https://blog.thc.org/disposable-root-servers) mediante una terminal segura SSH en esta dirección: ```segfault.net```, con el usuario ```root```, en el *puerto 22* y la contraseña ```segfault``` o la instrucción ```ssh root@segfault.net``` y la contraseña ```segfault``` desde una terminal Linux.
+     - Finalmente, pruebe el tutorial referido anteriormente y saque sus conclusiones.
+
+   *Parte 5*: Documente en un video de hasta 10 minutos sus conclusiones y su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+   
+   
