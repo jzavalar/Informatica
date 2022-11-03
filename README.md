@@ -205,7 +205,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   *Parte 5*: Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Práctica 2.1. Sistemas de codificación*. (Entrega: 8 de noviembre de 2022).
+- *Práctica 2.2. Sistemas de codificación*. (Entrega: 10 de noviembre de 2022).
 
   *Objetivos*: Conocer los fundamentos de los sistemas de codificación de texto.
     
@@ -219,7 +219,8 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   *Parte 5*: Documente en un video de hasta 10 minutos sus conclusiones y su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
-- *Práctica 2.2. Inspección de archivos binarios*. (Entrega: 8 de noviembre de 2022).
+
+- *Práctica 2.3. Inspección de archivos binarios*. (Entrega: 10 de noviembre de 2022).
 
   *Objetivos*: Conocer la forma de revisar y editar archivos binarios utilizando  herramientas de software.
     
