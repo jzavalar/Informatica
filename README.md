@@ -226,7 +226,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
     
   *Parte 1*: En equipo, haga un recordatorio del sistema de codificación hexadecimal y practique y aprenda la lectura de números hexadecimales de dos dígitos.
   
-  *Parte 2*: Instale las siguientes dos herramientas de software: 
+  *Parte 2*: Instale las siguientes dos herramientas de software:  
      a. [Frhed Portable](https://portableapps.com/apps/development/frhed_portable) (Editor hexadecimal)  
      b. [HxD](https://mh-nexus.de/en/hxd/) (Editor hexadecimnal y de discos portable) (descargue la [versión portable en español](https://mh-nexus.de/en/downloads.php?product=HxD20))
      Busque un video que le enseñe el funcionamiento básico de dada una de ellas.
