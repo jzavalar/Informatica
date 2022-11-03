@@ -234,9 +234,15 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   *Parte 3*: Copie una imagen (PNG), un video (MP4) y una canción (MP3) de su preferencia y el programa *Edit.com* o *Edit.Exe* de su sistema operativo Windows. Luego, cambie el nombre de cada uno de ellos y elimine la extensión. Enseguida, haga la inspección de cada uno de los archivos como si desconociera el tipo de archivo. Tome nota de sus hallazgos en cada caso.
     
   *Parte 4*: Analice un archivo binario en Linux siguiendo las siguientes instrucciones:
-     - Instale alguna de las terminales SSH en PortableApps: [PuTTY](https://portableapps.com/apps/internet/putty_portable) o [KiTTY](https://portableapps.com/apps/internet/kitty-portable) o la App [JuiceSSH](https://play.google.com/store/apps/details?id=com.sonelli.juicessh&hl=en&gl=US) desde su teléfono Android o alguna equivalente [desde su iPhone](https://www.iphonetopics.com/best-ssh-terminal-client-apps-iphone/).  
+     - Instale alguna de las terminales SSH en PortableApps: 
+        - [PuTTY](https://portableapps.com/apps/internet/putty_portable) o 
+        - [KiTTY](https://portableapps.com/apps/internet/kitty-portable) o 
+        - [JuiceSSH](https://play.google.com/store/apps/details?id=com.sonelli.juicessh&hl=en&gl=US) desde su teléfono Android o 
+        - [Alguna aplicación equivalente desde su iPhone](https://www.iphonetopics.com/best-ssh-terminal-client-apps-iphone/).  
      - Luego, revise el tutorial [10 Ways to Analyze Binary Files on Linux](https://opensource.com/article/20/4/linux-binary-analysis) (o su [traducción](https://opensource-com.translate.goog/article/20/4/linux-binary-analysis?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)).  
-     - Conéctese a este servicio gratuito de [Acceso a un Servidor Linux](https://blog.thc.org/disposable-root-servers) mediante una terminal segura SSH en esta dirección: ```segfault.net```, con el usuario ```root```, en el *puerto 22* y la contraseña ```segfault``` o la instrucción ```ssh root@segfault.net``` y la contraseña ```segfault``` desde una terminal Linux.
+     - Conéctese a alguno de estos servicios gratuitos:
+        - [Acceso a un Servidor Linux](https://blog.thc.org/disposable-root-servers) ([guía](https://www.thc.org/segfault/))
+        - [SDF Public Access UNIX System](https://sdf.org/) ([guía](https://sdf.org/?signup))
      - Finalmente, pruebe el tutorial referido anteriormente y saque sus conclusiones.
 
    *Parte 5*: Documente en un video de hasta 10 minutos sus conclusiones y su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
