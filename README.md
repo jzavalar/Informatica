@@ -193,15 +193,15 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   *Objetivos*: Aprender a diseñar mapas conceptuales con una herramienta de software.
     
   *Parte 1*: En equipo, investigue la definición formal de los conceptos básicos de software que se enlistan en la unidad en tres fuentes: 
-     a. Los dos libros de texto del curso: 
-        - [Introducción a la Ciencia de la Computación](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D) (Forouzan, 2003)
-        - [Fundamentos de Computación para Ingenieros](https://libgen.rs/book/index.php?md5=93B1B3A032FA25F502EB136C35C52596) (Cedano, Cedano, Rubio y Vega, 2014).
-     b. [Wikipedia]().  
-     Luego, simplifique cada definición en una frase corta pero con la mejor claridad posible que le servirá para crear un mapa conceptual. Para mayor claridad, acompañe la definición, mínimo con un par de ejemplos para cada concepto.
+     - Los dos libros de texto del curso: 
+       - [Introducción a la Ciencia de la Computación](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D) (Forouzan, 2003)
+       - [Fundamentos de Computación para Ingenieros](https://libgen.rs/book/index.php?md5=93B1B3A032FA25F502EB136C35C52596) (Cedano, Cedano, Rubio y Vega, 2014).
+     - [Wikipedia](https://es.wikipedia.org/wiki/Dato).  
+     Luego, simplifique cada definición en una *frase corta* con la mejor claridad posible que le servirá para crear un mapa conceptual. Para mayor claridad, acompañe la definición, mínimo con un par de ejemplos para cada concepto.
   
   La lista de conceptos es la siguiente: *bit*, *byte* y unidades derivadas (*Kilobyte* (*KB*), *Megabyte* (*MB*), *Gibabyte* (*GB*), *Terabyte* (*TB*), etc.), *dato*, *tipos de datos*, dato numérico, dato alfanumérico (*de caracter* o *de texto*), *archivo*, *sistemas numéricos*,  e *información*. 
   
-  *Parte 2*: Haga un mapa conceptual con el título *Ontología del Software. Parte 1: Los Datos*. Primero recopile en su cuaderno las frases de las definiciones de los conceptos involucrados en el mapa. Identifique los tres elementos de cada definición con la técnica Sujeto - Verbo - Complemento (Sujeto). Ahora haga una jerarquía de cada uno de los conceptos y represéntela en un diagrama. Refine el diagrama hasta lograr la mejor claridad posible.
+  *Parte 2*: Haga un mapa conceptual con el título *Ontología del Software. Parte 1: Los Datos*. Primero recopile en su cuaderno las frases de las definiciones de los conceptos involucrados en el mapa. Identifique los tres elementos de cada definición con la técnica Sujeto - Verbo - Complemento (Sujeto) ([breve guía ilustrativa](https://www.youtube.com/watch?v=KbKxIKt92VU)). Ahora haga una jerarquía de cada uno de los conceptos y represéntela en un diagrama. Refine el diagrama hasta lograr la mejor claridad posible.
   
   *Parte 3*: Una vez finalizado el mapa conceptual, páselo en limpio con ayuda de la herramienta [CmapTools](https://cmap.ihmc.us/cmaptools/).
   
