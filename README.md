@@ -228,8 +228,8 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   *Parte 2*: Instale las siguientes dos herramientas de software:  
      a. [Frhed Portable](https://portableapps.com/apps/development/frhed_portable) (Editor hexadecimal)  
-     b. [HxD](https://mh-nexus.de/en/hxd/) (Editor hexadecimnal y de discos portable) (descargue la [versión portable en español](https://mh-nexus.de/en/downloads.php?product=HxD20))
-     Busque un video que le enseñe el funcionamiento básico de dada una de ellas.
+     b. [HxD](https://mh-nexus.de/en/hxd/) (Editor hexadecimnal y de discos portable) (descargue la [versión portable en español](https://mh-nexus.de/en/downloads.php?product=HxD20))  
+     Busque un video que le enseñe el funcionamiento básico de dada una de ellas.  
      
   *Parte 3*: Copie una imagen (PNG), un video (MP4) y una canción (MP3) de su preferencia y el programa *Edit.com* o *Edit.Exe* de su sistema operativo Windows. Luego, cambie el nombre de cada uno de ellos y elimine la extensión. Enseguida, haga la inspección de cada uno de los archivos como si desconociera el tipo de archivo. Tome nota de sus hallazgos en cada caso.
     
