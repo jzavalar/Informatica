@@ -265,8 +265,8 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - UNAM Sepacomputo. (2016, Jan 26). [Tipos de archivos](https://www.youtube.com/watch?v=LbopJOLgo5g). *YouTube*. (6:51 min).  
 
   **Codificación de Audio:**  
-- Music Radar Clan. (2017, May 29). [El cambio de música analógica a música digital](https://www.youtube.com/watch?v=aMuIwP-mVUo). *YouTube*. (11:39 min).  
-ClaveDigital Training. (2018, Oct 23). [Los formatos de audio digital / WAV - AIFF - MP3 - AAC - FLAC - ALAC](https://www.youtube.com/watch?v=qbc0iGkPM24). *YouTube*. (7:19 min).  
+- Music Radar Clan. (2017, May 29). [El cambio de música analógica a música digital](https://www.youtube.com/watch?v=aMuIwP-mVUo). *YouTube*. (11:39 min).    
+- ClaveDigital Training. (2018, Oct 23). [Los formatos de audio digital / WAV - AIFF - MP3 - AAC - FLAC - ALAC](https://www.youtube.com/watch?v=qbc0iGkPM24). *YouTube*. (7:19 min).  
 
   **Codificación de imagen y video:**  
 - Derivando. (2021, Feb 10). [¿Cómo funciona JPEG? ¡¡Las matemáticas de tus fotos de Instagram!!](https://www.youtube.com/watch?v=_OF3LKJkYC8). *YouTube*. (7:22 min).  
