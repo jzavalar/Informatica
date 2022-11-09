@@ -261,8 +261,8 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - Electrónica FP. (2018, Apr 14). [BCD [Código binario a decimal]](https://www.youtube.com/watch?v=UQeiN-K6rKY). *YouTube* (7:24 min).  
 - Electrónica FP. (2018, Apr 16). [ASCII [American Standard for Code Information Interchange]](https://www.youtube.com/watch?v=uKpgIL-RzVE). *YouTube* (7:24 min).  
 - Manik. (2020, Dec 6). [¿Cómo funciona la codificación de caracteres? - ASCII / Unicode](https://www.youtube.com/watch?v=M_yNoV3c8DY). *YouTube*. (7:50 min).  
-- UNAM Sepacomputo. (2016, Jan 29). [Unidades: bit, byte, kilobyte, megabyte, gigabyte, terabyte, petabyte, exabyte y zettabyte](https://www.youtube.com/watch?v=byFsxEEQE3U). *YouTube*. (10:30 min).  
-- UNAM Sepacomputo. (2016, Jan 26). [Tipos de archivos](https://www.youtube.com/watch?v=LbopJOLgo5g). *YouTube*. (6:51 min).  
+- UNAM Sepacomputo canal. (2016, Jan 29). [Unidades: bit, byte, kilobyte, megabyte, gigabyte, terabyte, petabyte, exabyte y zettabyte](https://www.youtube.com/watch?v=byFsxEEQE3U). *YouTube*. (10:30 min).  
+- UNAM Sepacomputo canal. (2016, Jan 26). [Tipos de archivos](https://www.youtube.com/watch?v=LbopJOLgo5g). *YouTube*. (6:51 min).  
 
   **Codificación de Audio:**  
 - Music Radar Clan. (2017, May 29). [El cambio de música analógica a música digital](https://www.youtube.com/watch?v=aMuIwP-mVUo). *YouTube*. (11:39 min).    
@@ -274,7 +274,9 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - Diplomado AVA UES-FMO. (2020, Oct 6). [Formato de videos](https://www.youtube.com/watch?v=Gz6_kCbIPqQ). *YouTube*. (4:13 min).  
 - Nasir Ahmed. (2022, Jan 1). [El algoritmo que transformó al mundo. La historia de Nasir Ahmed](https://www.youtube.com/watch?v=nNmREQIF4Ik). *YouTube*. (18:33 min).  
    
-   
+
+
+
 ## Modalidades de Evaluación
 
 ### Evaluación Global
