@@ -253,19 +253,18 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
    *Parte 5*: Documente en un video de hasta 10 minutos sus conclusiones y su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 ##### Bibliografía Obligatoria:
-  **General:**
 - TeoCom. (2020, May 20). [Cofificación y decodificación](https://www.youtube.com/watch?v=_zphD-F5b5Y). *YouTube*. (3:34 min).  
 - Electrónica FP. (2018, Apr 18). [Sistemas numéricos: Binario, decimal y hexadecimal](https://www.youtube.com/watch?v=g9-MRBBcvdg). *YouTube* (11:59 min).  
-- Electrónica FP. (2018, Apr 12). [BINARIO. ¿Cómo pasar de decimal a binario y viceversa?](https://www.youtube.com/watch?v=bScw3CNb_fM). *YouTube* (5:36 min).  
-- Electrónica FP. (2018, Apr 12). [HEXADECIMAL [¿Cómo pasar de decimal a hexadecimal y viceversa?]](https://www.youtube.com/watch?v=6Fq4Ah0ORK4). *YouTube* (8:25 min).  
-- Electrónica FP. (2018, Apr 14). [BCD [Código binario a decimal]](https://www.youtube.com/watch?v=UQeiN-K6rKY). *YouTube* (7:24 min).  
+- Electrónica FP. (2018, Apr 12). [Binario. ¿Cómo pasar de decimal a binario y viceversa?](https://www.youtube.com/watch?v=bScw3CNb_fM). *YouTube* (5:36 min).  
+- Electrónica FP. (2018, Apr 12). [Hexadecimal [¿Cómo pasar de decimal a hexadecimal y viceversa?]](https://www.youtube.com/watch?v=6Fq4Ah0ORK4). *YouTube* (8:25 min).  
+- Electrónica FP. (2018, Apr 14). [BCD [Binary Code to Decimal / Código binario a decimal]](https://www.youtube.com/watch?v=UQeiN-K6rKY). *YouTube* (7:24 min).  
 - Electrónica FP. (2018, Apr 16). [ASCII [American Standard for Code Information Interchange]](https://www.youtube.com/watch?v=uKpgIL-RzVE). *YouTube* (7:24 min).  
-- Manik. (2020, Dec 6). [¿Cómo funciona la codificación de caracteres? - ASCII / Unicode](https://www.youtube.com/watch?v=M_yNoV3c8DY). *YouTube*. (7:50 min).  
-- UNAM Sepacomputo canal. (2016, Jan 29). [Unidades: bit, byte, kilobyte, megabyte, gigabyte, terabyte, petabyte, exabyte y zettabyte](https://www.youtube.com/watch?v=byFsxEEQE3U). *YouTube*. (10:30 min).  
+- Manik. (2020, Dec 6). [¿Cómo funciona la codificación de caracteres?: ASCII / Unicode](https://www.youtube.com/watch?v=M_yNoV3c8DY). *YouTube*. (7:50 min).  
+- UNAM Sepacomputo canal. (2016, Jan 29). [Unidades: Bit, byte, kilobyte, megabyte, gigabyte, terabyte, petabyte, exabyte y zettabyte](https://www.youtube.com/watch?v=byFsxEEQE3U). *YouTube*. (10:30 min).  
 - UNAM Sepacomputo canal. (2016, Jan 26). [Tipos de archivos](https://www.youtube.com/watch?v=LbopJOLgo5g). *YouTube*. (6:51 min).  
 
   **Codificación de Audio:**  
-- Music Radar Clan. (2017, May 29). [El cambio de música analógica a música digital](https://www.youtube.com/watch?v=aMuIwP-mVUo). *YouTube*. (11:39 min).    
+- Music Radar Clan. (2017, May 29). [El cambio de música analógica a música digital](https://www.youtube.com/watch?v=aMuIwP-mVUo). *YouTube*. (11:39 min).  
 - ClaveDigital Training. (2018, Oct 23). [Los formatos de audio digital / WAV - AIFF - MP3 - AAC - FLAC - ALAC](https://www.youtube.com/watch?v=qbc0iGkPM24). *YouTube*. (7:19 min).  
 
   **Codificación de imagen y video:**  
@@ -275,6 +274,31 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - Nasir Ahmed. (2022, Jan 1). [El algoritmo que transformó al mundo. La historia de Nasir Ahmed](https://www.youtube.com/watch?v=nNmREQIF4Ik). *YouTube*. (18:33 min).  
    
 
+### Unidad 3. Software: Programación  
+1. Ontología del software: Parte 2  
+   a. Instrucciones (programación)  
+2. Desarrollo de software:  
+   a. [Proceso de desarrollo de software](https://www.ibm.com/es-es/topics/software-development)     
+   b. [Programación](https://es.khanacademy.org/computing/ap-computer-science-principles/programming-101):     
+      - Conceptos clave de programación: Programar, lenguaje de programación, programa almacenado, código: fuente, binario, objeto y executable; editor, parser, ensamblador, intérprete, compilador, eliminación de errores (*debugging*), proceso (*process*), hilo (*thread*), entorno de desarrollo integrado ([IDE](https://www.redhat.com/es/topics/middleware/what-is-ide)).   
+      - Paradigmas de programación: Programación estructurada, programación orientada a objetos (*Object Oriented Programming*) y aprendizaje automatizado (*Machine Learning*)      
+   
+   c. [Lenguajes de programación](https://programas.cuaed.unam.mx/repositorio/moodle/pluginfile.php/1023/mod_resource/content/1/contenido/index.html):  
+      - *Sintaxis* o gramática: Palabras clave o reservadas (*keywords*), símbolos, identificadores y sentencias.  
+      - *Semántica* o significado: Operaciones de asignación, comparación,  
+      - *Conceptos*: Variables, constantes, tipos y estructuras de datos, acumuladores, operadores (aritméticos, de comparación y lógicos), control condicional e iterativo, rutina, subrutina, funciones, pase de variables por valor o referencia.  
+      - Lenguajes de *bajo nivel* (Lenguaje de máquina y ensamblador) y lenguajes de *alto nivel* (compilados: FORTRAN, COBOL, C o interpretados: Java, Python, R).   
+   
+   d. Pseudocódigo (intérprete de pseudocódigo ([PseInt](https://pseint.sourceforge.net/), [guía y ejemplos](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/)))     
+   
+   e. Diagramas de flujo  
+
+3. [Problemas computacionales y algoritmos](https://sites.google.com/site/474introduccionalaprogramacion/resolucion-de-problemas-con-c)  
+   a. Conceptos clave de algoritmos: Algoritmo, problema, entrada, salida, proceso.  
+   b. Técnicas: Recursión y divide y vencerás.  
+   c. Ejemplos: Cálculo, decisión y ordenación.   
+
+4. Tareas y prácticas:  
 
 
 ## Modalidades de Evaluación
