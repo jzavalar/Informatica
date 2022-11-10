@@ -293,12 +293,52 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
    
    e. Diagramas de flujo  
 
-3. [Problemas computacionales y algoritmos](https://sites.google.com/site/474introduccionalaprogramacion/resolucion-de-problemas-con-c)  
+3. [Problemas computacionales y algoritmos](https://studyrocket-co-uk.translate.goog/revision/gcse-computer-science-aqa?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419)  
    a. Conceptos clave de algoritmos: Algoritmo, problema, entrada, salida, proceso.  
    b. Técnicas: Recursión y divide y vencerás.  
    c. Ejemplos: Cálculo, decisión y ordenación.   
 
 4. Tareas y prácticas:  
+
+- *Tarea 3.1. Conceptos básicos*. (Entrega: 15 de noviembre de 2022).
+
+  *Objetivo*: Aprender los conceptos básicos desarrollo de software, programación de computadoras y lenguajes de programación.
+
+  *Parte 1*: En equipo, investigue la definición formal de los conceptos básicos de *Desarrollo de software*, *Programación de Computadoras* y *Lenguajes de Programación* en el vocabulario de la bibliografía propuesta: 
+    - Los dos libros de texto del curso:
+      - Introducción a la Ciencia de la Computación (Forouzan, 2003)
+      - Fundamentos de Computación para Ingenieros (Cedano, Cedano, Rubio y Vega, 2014).
+   - Wikipedia.
+   
+  *Parte 2:* Luego, simplifique cada definición en una frase corta con la mejor claridad posible que le servirá para crear un mapa conceptual y acompañe la definición, mínimo con un par de ejemplos para cada concepto.
+
+  *Parte 3*: Haga un mapa conceptual con el título *Ontología del Software. Parte 2: Las Instrucciones* e integre los tres mapas conceptuales en uno solo.
+  
+  *Parte 4*: Tome una foto del mapa conceptual de su cuaderno e imprima el mapa conceptual elaborado con CMapTools en formato PDF y como imagen en formato PNG.
+
+  *Parte 5*: Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+- *Práctica 3.2. Algoritmo, pseudocódigo y diagrama de flujo*. (Entrega: 17 de noviembre de 2022).
+
+  *Objetivo*: Comprender los conceptos de algoritmo, pseudocódigo y diagrama de flujo.
+    
+  *Parte 1*: Estudie cuidadosamente el video [Aprende a programar en 11 minutos](https://www.youtube.com/watch?v=TAyyujKoY6k) y tome notas en su cuaderno.
+  
+  *Parte 2*: Instale la aplicación [PseInt](http://pseint.sourceforge.net/) en su equipo o utilice [PSeInt Portable](https://sourceforge.net/projects/pseint/files/20210609/pseint-w32-20210609.zip/download?use_mirror=gigenet&download=).
+  
+  *Parte 3:* Revise el [curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw) y la [guía de PSeInt con ejemplos](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/). Pruebe algunos ejemplos centrándose en los conceptos que propuso el video de la *Parte 1*.
+  
+  *Parte 4*: Pruebe la aplicación en línea PSeInt en Internet en [RollApp](https://www.rollapp.com/app/pseint), creeando su cuenta.
+  
+  *Parte 5*. Estudie una aplicación sencilla de un sistema de información para la operación de un estacionamiento en PSeInt, en la siguiente [lista de videos](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). Previamente, para cada video, descargue el archivo con el código fuente del pseudocódigo, disponible en la descripción de cada uno de ellos y observe el crecimiento progresivo de la aplicación.
+   
+  Concéntrese en comprender la lógica de los *tipos y estructuras de datos*, de los comandos, de las estructuras de control y de la entrada, salida, almacenamiento y procesamiento de datos.
+  
+  Distinga entre el proceso principal y los subprocesos. Para cada subproceso identifique los parámetros o datos de entrada, el pase valores (por valor y por referencia) y el valor de regreso.
+  
+  De manera progresiva documente cada archivo con comentarios, según la explicación del autor, hasta que le quede completamente clara la lógica de la programación.
+  
+  Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
 
 
 ## Modalidades de Evaluación
