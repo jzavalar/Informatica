@@ -274,7 +274,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - Nasir Ahmed. (2022, Jan 1). [El algoritmo que transformó al mundo. La historia de Nasir Ahmed](https://www.youtube.com/watch?v=nNmREQIF4Ik). *YouTube*. (18:33 min).  
    
 
-### Unidad 3. Software: Programación  
+### Unidad 3. Software: Instrucciones  
 1. Ontología del software: Parte 2  
    a. Instrucciones (programación)  
 2. Desarrollo de software:  
