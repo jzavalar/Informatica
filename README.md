@@ -306,9 +306,9 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   *Parte 1*: En equipo, investigue la definición formal de los conceptos básicos de *Desarrollo de software*, *Programación de Computadoras* y *Lenguajes de Programación* en el vocabulario de la bibliografía propuesta: 
     - Los dos libros de texto del curso:
-      - Introducción a la Ciencia de la Computación (Forouzan, 2003)
-      - Fundamentos de Computación para Ingenieros (Cedano, Cedano, Rubio y Vega, 2014).
-   - Wikipedia.
+      - [Introducción a la Ciencia de la Computación](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D) (Forouzan, 2003)
+      - [Fundamentos de Computación para Ingenieros](https://libgen.rs/book/index.php?md5=93B1B3A032FA25F502EB136C35C52596) (Cedano, Cedano, Rubio y Vega, 2014).
+    - [Wikipedia](https://es.wikipedia.org/wiki/Programaci%C3%B3n).  
    
   *Parte 2:* Luego, simplifique cada definición en una frase corta con la mejor claridad posible que le servirá para crear un mapa conceptual y acompañe la definición, mínimo con un par de ejemplos para cada concepto.
 
@@ -339,6 +339,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   De manera progresiva documente cada archivo con comentarios, según la explicación del autor, hasta que le quede completamente clara la lógica de la programación.
   
   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+
 
 
 ## Modalidades de Evaluación
