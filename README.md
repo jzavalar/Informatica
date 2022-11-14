@@ -300,7 +300,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 4. Tareas y prácticas:  
 
-- *Tarea 3.1. Conceptos básicos*. (Entrega: 15 de noviembre de 2022).
+- *Tarea 3.1. Conceptos básicos de programación de computadoras*. (Entrega: 15 de noviembre de 2022).
 
   *Objetivo*: Aprender los conceptos básicos desarrollo de software, programación de computadoras y lenguajes de programación.
 
