@@ -347,7 +347,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   *Parte 1*: En equipo, active su [Google Colab](https://www.youtube.com/watch?v=jznP9nqdxss) y familiarícese con la plataforma para escribir documentos en [Markdown](https://www.youtube.com/watch?v=ec8X7PSgLBs), incluyendo el uso de [Latex](https://www.hostmath.com/). Reflexione sobre el potencial que tiene esta tecnología.  
   
-  *Parte 2*: Aprenda lo básico de la ejecución de **código en Python en Google Colab** con este [tutorial]](https://www.youtube.com/watch?v=6yyAs1IPpxw) ([archivo fuente](https://github.com/jcorrean/WebMining-OFD/blob/master/raw-data-of-a-web-mining-approach-to-collaborative-consumption-of-food-delivery-services.zip)).  
+  *Parte 2*: Aprenda lo básico de la ejecución de **código en Python en Google Colab** con este [tutorial]](https://www.youtube.com/watch?v=6yyAs1IPpxw) ([archivo de datos](https://github.com/jcorrean/WebMining-OFD/blob/master/newdata.csv)).  
   
   *Parte 3*: Aprenda la ejecución de **código en R en [RStudio.cloud](https://rstudio.cloud/)** con esta [guía](https://www.youtube.com/watch?v=whBz89WoxPY).  
   
@@ -357,7 +357,8 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   *Parte 6*: Ahora familiarícese con la ejecución de **código Python en R**, en **[RStudio.cloud](https://rstudio.cloud/)** ([tutorial](https://www.youtube.com/watch?v=qATvD6kQ47s), [archivo fuente](https://github.com/dataprofessor/code/blob/master/python-in-r/using-reticulate.R)).  
   
-  Elabore un video donde muestre evidencias suficientes de la realización de la práctica y haga una reflexión sobre su experiencia. Suba el video o los videos y los archivos fuente correspondientes que trabajó en los tutoriales.  
+  Elabore un video colectivo donde muestre evidencias suficientes de la realización completa de la práctica y haga una reflexión sobre su experiencia. Suba el video o los videos y los archivos fuente correspondientes que trabajó en los tutoriales.  
+  
 
 
 ## Modalidades de Evaluación
