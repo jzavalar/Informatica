@@ -341,6 +341,24 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
 
 
+- *Práctica 3.3. Programación de computadoras - Parte 2: Los ambientes de programación en Python y R*. (Entrega: 22 de noviembre de 2022). 
+
+  *Objetivo*: Familiarizarse con los ambientes de programación de Python y R.
+  
+  *Parte 1*: En equipo, active su [Google Colab](https://www.youtube.com/watch?v=jznP9nqdxss) y familiarícese con la plataforma para escribir documentos en [Markdown](https://www.youtube.com/watch?v=ec8X7PSgLBs), incluyendo el uso de [Latex](https://www.hostmath.com/). Reflexione sobre el potencial que tiene esta tecnología.  
+  
+  *Parte 2*: Aprenda lo básico de la ejecución de **código en Python en Google Colab** con este [tutorial]](https://www.youtube.com/watch?v=6yyAs1IPpxw) ([archivo fuente](https://github.com/jcorrean/WebMining-OFD/blob/master/raw-data-of-a-web-mining-approach-to-collaborative-consumption-of-food-delivery-services.zip)).  
+  
+  *Parte 3*: Aprenda la ejecución de **código en R en [RStudio.cloud](https://rstudio.cloud/)** con esta [guía](https://www.youtube.com/watch?v=whBz89WoxPY).  
+  
+  *Parte 4*: Ahora aprenda la ejecución de **código en R en Google Colab** con este [tutorial](https://www.youtube.com/watch?v=eY_JU5srGk0).  
+  
+  *Parte 5*: Aprenda sobre la ejecución de **código R en Python en Google Colab** ([tutorial](https://www.youtube.com/watch?v=Ri1MfaSlSW0), [archivo fuente](https://github.com/dataprofessor/code/blob/master/python/r_magic_command.ipynb)).  
+  
+  *Parte 6*: Ahora familiarícese con la ejecución de **código Python en R**, en **[RStudio.cloud](https://rstudio.cloud/)** ([tutorial](https://www.youtube.com/watch?v=qATvD6kQ47s), [archivo fuente](https://github.com/dataprofessor/code/blob/master/python-in-r/using-reticulate.R)).  
+  
+  Elabore un video donde muestre evidencias suficientes de la realización de la práctica y haga una reflexión sobre su experiencia. Suba el video o los videos y los archivos fuente correspondientes que trabajó en los tutoriales.  
+
 
 ## Modalidades de Evaluación
 
