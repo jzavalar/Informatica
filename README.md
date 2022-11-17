@@ -287,7 +287,15 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
       - *Sintaxis* o gramática: Palabras clave o reservadas (*keywords*), símbolos, identificadores y sentencias.  
       - *Semántica* o significado: Operaciones de asignación, comparación,  
       - *Conceptos*: Variables, constantes, tipos y estructuras de datos, acumuladores, operadores (aritméticos, de comparación y lógicos), control condicional e iterativo, rutina, subrutina, funciones, pase de variables por valor o referencia.  
-      - Lenguajes de *bajo nivel* (Lenguaje de máquina y ensamblador) y lenguajes de *alto nivel* (compilados: FORTRAN, COBOL, C o interpretados: Java, Python, R).   
+      - Lenguajes de *bajo nivel* (Lenguaje de máquina y ensamblador) y lenguajes de *alto nivel* (compilados: 
+         - [ForTran](https://fortran-lang.org/es/learn/) ([Compilador ForTran en línea](https://play.fortran-lang.org/), [Compilador GNU ForTran](https://gcc.gnu.org/fortran/))
+         - [COBOL](https://www.ibm.com/docs/es/i/7.5?topic=cobol-ile-language-reference) ([Emulator Hercules (System/370, ESA/390 y z/Architecture)](http://www.hercules-390.eu/), [IDE y compilador COBOL en línea](https://www.jdoodle.com/execute-cobol-online/), [Compilador GnuCOBOL](https://gnucobol.sourceforge.io/))
+         - [Lenguaje C]() ([Compilador gdb en línea](https://www.onlinegdb.com/), [Compilador GNU gcc](https://gcc.gnu.org/))
+      - Lenguajes interpretados:
+         - [Java](https://www.java.com/es/) ([IDE y compilador Java en línea](https://www.jdoodle.com/online-java-compiler/), [La plataforma abierta Open JDK](https://openjdk.org/))
+         - [Python]()
+         - [Lenguaje R]   
+      - [IDE y compiladores en línea](https://www.jdoodle.com/) (Practique con más de 76 lenguajes de programación en línea)  
    
    d. Pseudocódigo (intérprete de pseudocódigo ([PseInt](https://pseint.sourceforge.net/), [guía y ejemplos](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/)))     
    
