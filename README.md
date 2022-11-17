@@ -287,11 +287,14 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
       - *Sintaxis* o gramática: Palabras clave o reservadas (*keywords*), símbolos, identificadores y sentencias.  
       - *Semántica* o significado: Operaciones de asignación, comparación,  
       - *Conceptos*: Variables, constantes, tipos y estructuras de datos, acumuladores, operadores (aritméticos, de comparación y lógicos), control condicional e iterativo, rutina, subrutina, funciones, pase de variables por valor o referencia.  
-      - Lenguajes de *bajo nivel* (Lenguaje de máquina y ensamblador) y lenguajes de *alto nivel* (compilados: 
+      - Lenguajes de *bajo nivel*:
+         - Lenguaje de máquina
+         - Lenguaje ensamblador
+      - Lenguajes de *alto nivel compilados*: 
          - [ForTran](https://fortran-lang.org/es/learn/) ([Compilador ForTran en línea](https://play.fortran-lang.org/), [Compilador GNU ForTran](https://gcc.gnu.org/fortran/))
          - [COBOL](https://www.ibm.com/docs/es/i/7.5?topic=cobol-ile-language-reference) ([Emulator Hercules (System/370, ESA/390 y z/Architecture)](http://www.hercules-390.eu/), [IDE y compilador COBOL en línea](https://www.jdoodle.com/execute-cobol-online/), [Compilador GnuCOBOL](https://gnucobol.sourceforge.io/))
-         - [Lenguaje C]() ([Compilador gdb en línea](https://www.onlinegdb.com/), [Compilador GNU gcc](https://gcc.gnu.org/))
-      - Lenguajes interpretados:
+         - [Lenguaje C](https://web.archive.org/web/20181230041359if_/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf)  ([Compilador gdb en línea](https://www.onlinegdb.com/), [Compilador GNU gcc](https://gcc.gnu.org/))
+      - Lenguajes *alto nivel interpretados*:
          - [Java](https://www.java.com/es/) ([IDE y compilador Java en línea](https://www.jdoodle.com/online-java-compiler/), [La plataforma abierta Open JDK](https://openjdk.org/))
          - [Python]()
          - [Lenguaje R]   
