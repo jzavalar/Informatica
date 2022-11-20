@@ -288,16 +288,16 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
       - *Semántica* o significado: Operaciones de asignación, comparación,  
       - *Conceptos*: Variables, constantes, tipos y estructuras de datos, acumuladores, operadores (aritméticos, de comparación y lógicos), control condicional e iterativo, rutina, subrutina, funciones, pase de variables por valor o referencia.  
       - Lenguajes de *bajo nivel*:
-         - Lenguaje de máquina
-         - Lenguaje ensamblador
+         - [Lenguaje de máquina](https://es.wikipedia.org/wiki/Lenguaje_de_m%C3%A1quina) ([video](https://www.youtube.com/watch?v=P-bErJnq9o8))
+         - [Lenguaje ensamblador](https://es.wikipedia.org/wiki/Lenguaje_ensamblador) ([ejemplo](https://www.rdebug.com/2010/07/hola-mundo-en-ensamblador-gnu-assembler.html))
       - Lenguajes de *alto nivel compilados*: 
          - [ForTran](https://fortran-lang.org/es/learn/) ([Compilador ForTran en línea](https://play.fortran-lang.org/), [Compilador GNU ForTran](https://gcc.gnu.org/fortran/))
          - [COBOL](https://www.ibm.com/docs/es/i/7.5?topic=cobol-ile-language-reference) ([Emulator Hercules (System/370, ESA/390 y z/Architecture)](http://www.hercules-390.eu/), [IDE y compilador COBOL en línea](https://www.jdoodle.com/execute-cobol-online/), [Compilador GnuCOBOL](https://gnucobol.sourceforge.io/))
          - [Lenguaje C](https://web.archive.org/web/20181230041359if_/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf)  ([Compilador gdb en línea](https://www.onlinegdb.com/), [Compilador GNU gcc](https://gcc.gnu.org/))
       - Lenguajes *alto nivel interpretados*:
          - [Java](https://www.java.com/es/) ([IDE y compilador Java en línea](https://www.jdoodle.com/online-java-compiler/), [La plataforma abierta Open JDK](https://openjdk.org/))
-         - [Python]()
-         - [Lenguaje R]   
+         - [Python](https://www.python.org/) ([Spyder IDE para ciencia](https://www.spyder-ide.org/), [Compilador en ĺínea](https://www.spyder-ide.org/))
+         - [Lenguaje R](https://www.r-project.org/) ([Ejecutar código R en Google Colab](https://github.com/Eduarmma19/Colab_R), [RStudio IDE](https://posit.co/products/open-source/rstudio/) [Posit.cloud](https://posit.cloud/) antes RStudio.cloud, una IDE en línea,  )  
       - [IDE y compiladores en línea](https://www.jdoodle.com/) (Practique con más de 76 lenguajes de programación en línea)  
    
    d. Pseudocódigo (intérprete de pseudocódigo ([PseInt](https://pseint.sourceforge.net/), [guía y ejemplos](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/)))     
