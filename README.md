@@ -288,25 +288,25 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
       - *Semántica* o significado: Operaciones de asignación, comparación,  
       - *Conceptos*: Variables, constantes, tipos y estructuras de datos, acumuladores, operadores (aritméticos, de comparación y lógicos), control condicional e iterativo, rutina, subrutina, funciones, pase de variables por valor o referencia.  
       - Lenguajes de *bajo nivel*:
-         - [Lenguaje de máquina](https://es.wikipedia.org/wiki/Lenguaje_de_m%C3%A1quina) ([video](https://www.youtube.com/watch?v=P-bErJnq9o8))
-         - [Lenguaje ensamblador](https://es.wikipedia.org/wiki/Lenguaje_ensamblador) ([ejemplo](https://www.rdebug.com/2010/07/hola-mundo-en-ensamblador-gnu-assembler.html))
+         - [Lenguaje de máquina](https://es.wikipedia.org/wiki/Lenguaje_de_m%C3%A1quina) ([Breve teoría](https://www.youtube.com/watch?v=5AaDqy1UiFU), [video](https://www.youtube.com/watch?v=5AaDqy1UiFU))
+         - [Lenguaje ensamblador](https://es.wikipedia.org/wiki/Lenguaje_ensamblador) ([Video](https://www.youtube.com/watch?v=bD6EwRC0T3U), [Ejemplo](https://www.rdebug.com/2010/07/hola-mundo-en-ensamblador-gnu-assembler.html), [Simulador de Ensamblador](https://schweigi.github.io/assembler-simulator/))
       - Lenguajes de *alto nivel compilados*: 
-         - [ForTran](https://fortran-lang.org/es/learn/) ([Compilador ForTran en línea](https://play.fortran-lang.org/), [Compilador GNU ForTran](https://gcc.gnu.org/fortran/))
-         - [COBOL](https://www.ibm.com/docs/es/i/7.5?topic=cobol-ile-language-reference) ([Emulator Hercules (System/370, ESA/390 y z/Architecture)](http://www.hercules-390.eu/), [IDE y compilador COBOL en línea](https://www.jdoodle.com/execute-cobol-online/), [Compilador GnuCOBOL](https://gnucobol.sourceforge.io/))
+         - [Fortran](https://fortran-lang.org/es/learn/) ([Compilador Fortran en línea](https://play.fortran-lang.org/), [Compilador GNU Fortran](https://gcc.gnu.org/fortran/))
+         - [COBOL](https://www.ibm.com/docs/es/i/7.5?topic=cobol-ile-language-reference) ([Emulator Hercules (System/370, ESA/390 y z/Architecture)](http://www.hercules-390.eu/), [IDE y compilador COBOL en línea](https://www.jdoodle.com/execute-cobol-online/), [Compilador GnuCOBOL](https://gnucobol.sourceforge.io/), [¿Por qué estudiar COBOL en 2022?](https://www.youtube.com/watch?v=hPlK0IA0Lew))
          - [Lenguaje C](https://web.archive.org/web/20181230041359if_/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf)  ([Compilador gdb en línea](https://www.onlinegdb.com/), [Compilador GNU gcc](https://gcc.gnu.org/))
       - Lenguajes *alto nivel interpretados*:
          - [Java](https://www.java.com/es/) ([IDE y compilador Java en línea](https://www.jdoodle.com/online-java-compiler/), [La plataforma abierta Open JDK](https://openjdk.org/))
-         - [Python](https://www.python.org/) ([Spyder IDE para ciencia](https://www.spyder-ide.org/), [Compilador en ĺínea](https://www.spyder-ide.org/))
-         - [Lenguaje R](https://www.r-project.org/) ([Ejecutar código R en Google Colab](https://github.com/Eduarmma19/Colab_R), [RStudio IDE](https://posit.co/products/open-source/rstudio/) [Posit.cloud](https://posit.cloud/) antes RStudio.cloud, una IDE en línea,  )  
+         - [Python](https://www.python.org/) ([Compilador en línea](https://www.online-python.com/), [Spyder Python cienfífico](https://www.spyder-ide.org/))
+         - [Lenguaje R](https://www.r-project.org/) ([RStudio, IDE para R](https://posit.co/products/open-source/rstudio/), [RStudio en línea](https://posit.cloud/), [Ejecutar R en Google Colab](https://www.youtube.com/watch?v=eY_JU5srGk0), [RMarkdown](https://www.youtube.com/watch?v=tE8cgL1P-U0), [Combina R y Python para crear documentación](https://www.youtube.com/watch?v=6H5RGmem8d0))   
       - [IDE y compiladores en línea](https://www.jdoodle.com/) (Practique con más de 76 lenguajes de programación en línea)  
    
-   d. Pseudocódigo (intérprete de pseudocódigo ([PseInt](https://pseint.sourceforge.net/), [guía y ejemplos](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/)))     
+   d. Pseudocódigo (intérprete de pseudocódigo ([PseInt](https://pseint.sourceforge.net/), [guía y ejemplos](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/), [Diagrama de flujo](https://www.youtube.com/watch?v=RTWzhECFNyc))     
    
-   e. Diagramas de flujo  
+   e. [Diagramas de flujo](https://www.youtube.com/watch?v=Lub5qOmY4JQ)  
 
 3. [Problemas computacionales y algoritmos](https://studyrocket-co-uk.translate.goog/revision/gcse-computer-science-aqa?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419)  
-   a. Conceptos clave de algoritmos: Algoritmo, problema, entrada, salida, proceso.  
-   b. Técnicas: Recursión y divide y vencerás.  
+   a. Conceptos clave de algoritmos: [Algoritmo](https://www.youtube.com/watch?v=SDv2vOIFIj8), problema, entrada, salida, proceso.  
+   b. Técnicas: [Recursión](https://www.youtube.com/watch?v=lilBGvaOSy8) y [divide y vencerás](https://www.youtube.com/watch?v=N6U9E7fiIkw) ().  
    c. Ejemplos: Cálculo, decisión y ordenación.   
 
 4. Tareas y prácticas:  
@@ -350,8 +350,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   De manera progresiva documente cada archivo con comentarios, según la explicación del autor, hasta que le quede completamente clara la lógica de la programación.
   
   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
-
-
+  
 - *Práctica 3.3. Programación de computadoras - Parte 2: Los ambientes de programación en Python y R*. (Entrega: 22 de noviembre de 2022). 
 
   *Objetivo*: Familiarizarse con los ambientes de programación de Python y R.
@@ -366,10 +365,40 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   *Parte 5*: Aprenda sobre la ejecución de **código R en Python en Google Colab** ([tutorial](https://www.youtube.com/watch?v=Ri1MfaSlSW0), [archivo fuente](https://github.com/dataprofessor/code/blob/master/python/r_magic_command.ipynb)).  
   
-  *Parte 6*: Ahora familiarícese con la ejecución de **código Python en R**, en **[RStudio.cloud](https://rstudio.cloud/)** ([tutorial](https://www.youtube.com/watch?v=qATvD6kQ47s), [archivo fuente](https://github.com/dataprofessor/code/blob/master/python-in-r/using-reticulate.R)).  
-  
+  *Parte 6*: Ahora familiarícese con la ejecución de **código Python en R**, en **[RStudio IDE en la nube](https://posit.cloud/))** ([tutorial](https://www.youtube.com/watch?v=qATvD6kQ47s), [archivo fuente](https://github.com/dataprofessor/code/blob/master/python-in-r/using-reticulate.R)).  
   Elabore un video colectivo donde muestre evidencias suficientes de la realización completa de la práctica y haga una reflexión sobre su experiencia. Suba el video o los videos y los archivos fuente correspondientes que trabajó en los tutoriales.  
+
+- *Práctica 3.4. Práctica de algoritmos en Python*. (Entrega: 24 de noviembre de 2022).
+
+  *Objetivo*: Poner a prueba sus conocimientos.
+    
+  *Parte 1*: Primero, modifique y corrija el pseudocódigo propuesto por [el autor](https://drive.google.com/drive/folders/1lyLaYpfCnXhpXcUT55n7IsQgtstMr-XS?usp=sharing), de acuerdo a las reglas de PseInt configuradas en el perfil "UNAM FCA" y de acuerdo a la estructura del algoritmo aprendida en la clase, en la lista de ejercicios, según su número de lista de grupo.
   
+  (*Número de Lista*) **1** (Ejercicios): 45, 26; *Número de Lista* **2**: 39, 9; **3**: 36, 33; **4** : 24, 11; **5**: 17, 39; **6**: 28, 15; **7**: 38, 41; **8**: 36, 8; **9**: 17, 37; **10**: 23, 35; **11**: 43, 43; **12**: 36, 8; **13**: 17, 10; **14**: 33, 43; **15**: 25, 25; **16**: 45, 44; **17** : 42, 11; **18**: 38, 32; **19**: 18, 44; **20**: 9, 25 ([ver ejemplos](https://drive.google.com/drive/folders/1lyLaYpfCnXhpXcUT55n7IsQgtstMr-XS?usp=sharing)); **1 y 2**: 25, 47; **3 y 4**: 25, 37; **5 y 6**: 36, 32; **7 y 8**: 26, 39; **9 y 10**: 9, 36; **11 y 12**: 33, 24; **13 y 14**: 11, 17; **15 y 16** : 39, 28; **17 y 18**: 15, 38; **19 y 20**: 41, 36.
+     
+  Cada ejercicio debe crearse en un archivo con el nombre del número de algoritmo y el título del algorimo. Por ejemplo, para el primer algoritmo llamado "Promedio", le correpondería el nombre de *01. Promedio.psc*. 
+     
+   Cuando sea necesario, corrija el algoritmo para que los cálculos se realizcen de manera correcta y genere la salida respectiva. Incluya las modificaciones para que el algoritmo se ejecute de manera iterativa y termine de manera elegante. Incluya los comentarios respectivos en cada parte y los datos para identificarlo a usted como autor de las modificaciones y al autor, con la referencia bibliográfica original. Por último, pruebe que los algoritmos son correctos.
+     
+  Guarde el pseudocódigo del algoritmo (en formato *psc*) y el diagrama de flujo (como imagen) y suba sus archivos a su cuenta de Google Drive en el diretorio respectivo de la tarea y comparta el link con el profesor.
+
+  *Parte 2*: Abra un documento en Google Colab y convierta los problemas que le tocaron, según la lista de grupo, a código Python en un archivo de Google Colab. Ponga su cuaderno Jupyter en el directorio correspondiente. 
+  
+  Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+  
+#### Bibliografía Obligatoria:
+- Alva Majo. (2018, Jul 11). [Aprende a programar en 11 minutos](https://www.youtube.com/watch?v=TAyyujKoY6k). *YouTube* [video] (12:32 min).  
+- JhonvaCode. (2018, Jan 14). [Curso de PSeint de cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw). *YouTube*. (7 videos).  
+- JhonvaCode. (2020, Mar 14). [Sistema para un parqueadero en #PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). *YouTube*. (7 videos).  
+- Pasos por ingeniería. (2016, Jul 14). [¿Qué es un algoritmo? (Definición, características, tipos y variables)](https://www.youtube.com/watch?v=Tu9OQSff-gw). *YouTube* (video) (3:26 min).  
+- Rodríguez Hernández, M. et al (s.f.). Recopilación de algoritmos. [mimeo]. ([url](https://es.slideshare.net/andresrivero73345/algoritmos-50-ejemplos-1)). ([url](https://drive.google.com/file/d/1TE1LSUDEm4Ue7d-0GGvfrEQG4NWoa29p/view?usp=sharing)).  
+
+#### Bibliografía Complementaria:
+- Anonymous (2020). [GCSE Computer Science AQA - Revision Content. Computational thinking and problem solving](https://studyrocket.co.uk/revision/gcse-computer-science-aqa). *Study Rocket*. [traducción al español](https://studyrocket-co-uk.translate.goog/revision/gcse-computer-science-aqa?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419&_x_tr_pto=op). London, England.
+- Baruffa, O. (2022, Jan 13). [Big book of R](https://www.bigbookofr.com/). (Sitio web) (Compilación de libros y fuentes documentales sobre R).  
+- Novara, P. (2019). [PSeInt](http://pseint.sourceforge.net/index.php?page=portada.php) [software]. ([guía rápida](http://pseint.sourceforge.net/slide/pseint.html)). ([descargar](http://pseint.sourceforge.net/index.php?page=actualizacion.php)). [PSeInt en línea](https://www.rollapp.com/app/pseint).
+- Posit Software, PBC. (2022). [RStudio Desktop. Open Source Edition](https://posit.co/products/open-source/rstudio/). (IDE para R). ([descargar](https://posit.co/downloads/)).  
+- Posit Software, PBC. (2022). [RStudio (IDE en la nube)](https://posit.cloud/)) (Sitio web para usar RStudio IDE en línea).  
 
 
 ## Modalidades de Evaluación
