@@ -399,7 +399,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - Novara, P. (2019). [PSeInt](http://pseint.sourceforge.net/index.php?page=portada.php) [software]. ([guía rápida](http://pseint.sourceforge.net/slide/pseint.html)). ([descargar](http://pseint.sourceforge.net/index.php?page=actualizacion.php)). [PSeInt en línea](https://www.rollapp.com/app/pseint).
 - Posit Software, PBC. (2022). [RStudio Desktop. Open Source Edition](https://posit.co/products/open-source/rstudio/). (IDE para R). ([descargar](https://posit.co/downloads/)).  
 - Posit Software, PBC. (2022). [RStudio (IDE en la nube)](https://posit.cloud/)) (Sitio web para usar RStudio IDE en línea).  
-
+- tecnoDavid. (2022, Sep 28). [Curso de PseInt 2022 con 100 ejercicios resueltos: Aprende pseudocódigo con PSeInt](https://www.youtube.com/playlist?list=PLBVjn2eumSzrQGAlSy0DzPCyvnGcN3bYd). *YouTube*. (121 videos). (Curso de iniciación a la programación con PseInt en español para aprender a programar desde cero con 100 ejercicios resueltos, incluyendo proyectos finales. Pseudocódigo y diagramas de flujo con PseInt. Variables y tipos de datos, condicionales, bucles, arreglos, cadenas de caracteres, subprocesos, recursividad).
 
 ## Modalidades de Evaluación
 
