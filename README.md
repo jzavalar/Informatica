@@ -357,7 +357,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   *Parte 1*: En equipo, active su [Google Colab](https://www.youtube.com/watch?v=jznP9nqdxss) y familiarícese con la plataforma para escribir documentos en [Markdown](https://www.youtube.com/watch?v=ec8X7PSgLBs), incluyendo el uso de [Latex](https://www.hostmath.com/). Reflexione sobre el potencial que tiene esta tecnología.  
   
-  *Parte 2*: Aprenda lo básico de la ejecución de **código en Python en Google Colab** con este [tutorial]](https://www.youtube.com/watch?v=6yyAs1IPpxw) ([archivo de datos](https://github.com/jcorrean/WebMining-OFD/blob/master/newdata.csv)).  
+  *Parte 2*: Aprenda lo básico de la ejecución de **código en Python en Google Colab** con este [tutorial](https://www.youtube.com/watch?v=6yyAs1IPpxw) ([archivo de datos](https://github.com/jcorrean/WebMining-OFD/blob/master/newdata.csv)).  
   
   *Parte 3*: Aprenda la ejecución de **código en R en [RStudio.cloud](https://rstudio.cloud/)** con esta [guía](https://www.youtube.com/watch?v=whBz89WoxPY).  
   
