@@ -471,7 +471,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Práctica 4.4: Recuperación de archivos*. (Entrega opcional: 15 de diciembre de 2022).
+- *Práctica 4.4: Recuperación de archivos*. (Entrega: 15 de diciembre de 2022) (Opcional).
 
   *Objetivo*: Aprender el uso de una herramienta de software para el mantenimiento de una computadora.
     
@@ -518,7 +518,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Práctica 4.7. Instalación de driver o controlador de hardware*. (Entrega opcional: 22 de diciembre de 2022).
+- *Práctica 4.7. Instalación de driver o controlador de hardware*. (Entrega: 22 de diciembre de 2022) (Opcional).
 
   *Objetivo*: Aprender a instalar drivers en el sistema operativo Windows.
      
