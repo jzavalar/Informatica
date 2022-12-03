@@ -375,6 +375,8 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   *Parte 1*: Primero, modifique y corrija el pseudocódigo propuesto por [el autor](https://drive.google.com/drive/folders/1lyLaYpfCnXhpXcUT55n7IsQgtstMr-XS?usp=sharing), de acuerdo a las reglas de PseInt configuradas en el perfil "UNAM FCA" y de acuerdo a la estructura del algoritmo aprendida en la clase, en la lista de ejercicios, según su número de lista de grupo.
   
   (*Número de Lista*) **1** (Ejercicios): 45, 26; *Número de Lista* **2**: 39, 9; **3**: 36, 33; **4** : 24, 11; **5**: 17, 39; **6**: 28, 15; **7**: 38, 41; **8**: 36, 8; **9**: 17, 37; **10**: 23, 35; **11**: 43, 43; **12**: 36, 8; **13**: 17, 10; **14**: 33, 43; **15**: 25, 25; **16**: 45, 44; **17** : 42, 11; **18**: 38, 32; **19**: 18, 44; **20**: 9, 25 ([ver ejemplos](https://drive.google.com/drive/folders/1lyLaYpfCnXhpXcUT55n7IsQgtstMr-XS?usp=sharing)); **1 y 2**: 25, 47; **3 y 4**: 25, 37; **5 y 6**: 36, 32; **7 y 8**: 26, 39; **9 y 10**: 9, 36; **11 y 12**: 33, 24; **13 y 14**: 11, 17; **15 y 16** : 39, 28; **17 y 18**: 15, 38; **19 y 20**: 41, 36.
+  
+  **Próximo curso:** *Número de Lista*:(Ejercicios) **1**:(4, 8), **2**:(15, 34), **3**:(8, 23), **4**:(25, 17), **5**:(13, 38), **6**:(33, 2), **7**:(42, 15), **8**:(6, 35), **9**:(29, 2), **10**:(24, 26), **11**:(16, 30), **12**:(13, 37), **13**:(8, 42), **14**:(10, 42), **15**:(22, 24), **16**:(7, 28); **17**:(19, 11), **18**:(6, 34), **19**:(44, 1), **20**:(29 24), **21**:(8, 38), **22**:(27, 14), **23**:(34, 24), **24**:(21, 42).
      
   Cada ejercicio debe crearse en un archivo con el nombre del número de algoritmo y el título del algorimo. Por ejemplo, para el primer algoritmo llamado "Promedio", le correpondería el nombre de *01. Promedio.psc*. 
      
@@ -400,6 +402,143 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - Posit Software, PBC. (2022). [RStudio Desktop. Open Source Edition](https://posit.co/products/open-source/rstudio/). (IDE para R). ([descargar](https://posit.co/downloads/)).  
 - Posit Software, PBC. (2022). [RStudio (IDE en la nube)](https://posit.cloud/)) (Sitio web para usar RStudio IDE en línea).  
 - tecnoDavid. (2022, Sep 28). [Curso de PseInt 2022 con 100 ejercicios resueltos: Aprende pseudocódigo con PSeInt](https://www.youtube.com/playlist?list=PLBVjn2eumSzrQGAlSy0DzPCyvnGcN3bYd). *YouTube*. (121 videos). (Curso de iniciación a la programación con PseInt en español para aprender a programar desde cero con 100 ejercicios resueltos, incluyendo proyectos finales. Pseudocódigo y diagramas de flujo con PseInt. Variables y tipos de datos, condicionales, bucles, arreglos, cadenas de caracteres, subprocesos, recursividad).
+
+
+### Unidad 4. Sistemas operativos
+1. Definición e historia
+2. Sistemas operativos libres y privativos
+3. Funciones principales
+4. Tareas y prácticas:
+
+- *Tarea 4.1. Licenciamiento de software*. (Entrega: 13 de diciembre de 2022).
+
+  *Objetivo*: Comprender los conceptos básicos de licenciamiento de software.
+    
+  Investigue los conceptos básicos de *licenciamiento de software*: (1) propiedad intelectual en el caso del software, (2) patente de software, (3) dominio público (public domain), (4) distribución de software, (5) shareware, (6) freeware, (7) copyright vs copyleft, (8) licenciamiento de software ([guía](https://www.youtube.com/watch?v=F6yjAu92mPY&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=16)) y (9) software privativo ([guía](https://www.youtube.com/watch?v=tkiG7cWZ2uc)), (10) software abierto o de código abierto (*open source*) y revise la (11) *Open Source Initiative* ([url](https://opensource.org/licenses)) ([guía](https://www.youtube.com/watch?v=KD7N6tyBKno)), (12) software libre (free software), (13) la licencia GPL ([url](https://www.gnu.org/licenses/license-recommendations.html)) y la *Free Software Foundation* ([url](https://www.fsf.org/)) ([guía](https://www.youtube.com/watch?v=szSU1A2RhuQ)).
+    
+  Simplifique la definición con una frase corta y acompañe la definición con un par de ejemplos.
+    
+  Vea el video *Revolución de los Sistemas Operativos* ([url](https://www.youtube.com/watch?v=jfYBeWHc3GE)) y tome sus notas. Finalmente, compare los tres tipos de software (privativo, abierto y libre) ([guía](https://www.youtube.com/watch?v=SiCDIaTWKvg)), en términos de ventajas y desventajas y saque sus conclusiones filosóficas, técnicas, económicas, a partir de tres licencias representativas y de las biografías de tres personales: Bill Gates (Microsoft), Eric S. Raymond (OSI) y Richard Stallman (GNU - GLP) ([guía](https://www.youtube.com/watch?v=szSU1A2RhuQ)). Reflexione sobre el software libre y abierto como negocio.
+    
+  Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+
+- *Práctica 4.2. Instalación de sistemas operativos en un medio extraible*. (Entrega: 15 de diciembre de 2022).
+
+  *Objetivo*: Aprender a usar varios sistemas operativos desde un medio extraíble.
+    
+  *Parte 1*. Investigue qué es un sistema operativo ([guía](https://www.youtube.com/watch?v=JJM3riqBKec&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=14)), tipos de sistemas operativos ([guía](https://www.youtube.com/watch?v=8bv30xKRqfE&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=10)) y compárelos en términos de ventajas, desventajas, seguridad, usabilidad y robustez ([url](https://www.youtube.com/playlist?list=PLH9AYXxUslqocwqqiCz0oQY_oZJH-bF_p)).
+    
+  *Parte 2*. Investigue qué es una imagen ISO y cómo se usa. Utilice Qbittorrent y, mediante su motor de búsqueda, localice la imagen ISO del sistema operativo Windows 7, usando la frase "Windows 7 untouched genuine" o "Windows 7 Ultimate spanish" ([tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)) o busque el torrent [aquí](https://thepiratebay.org/). Identifique la entrada que tiene más semillas (seeds) y descárguela. 
+    
+  *Parte 3*. Investigue un poco sobre las distribuciones del sistema operativo GNU/Linux ([guía 1](https://www.youtube.com/watch?v=RLStWVb1fWo&t=313s)) ([guía 2](https://www.youtube.com/watch?v=gbqv0AkqsXw)). Descargue el archivo ISO del sistema operativo Linux [Fedora](https://getfedora.org/es/) ([guía](https://www.youtube.com/watch?v=gbqv0AkqsXw)) o [Ubuntu Mate](https://ubuntu-mate.org/download/) de 32 o 64 bits, según sea la arquitectura del procesador (CPU) de su computadora.
+    
+  *Parte 4*. Esta práctica requiere un dispositivo externo (USB o disco duro externo).
+  
+  Existen varias aplicaciones que se pueden utilizar, entre ellas, destacan [**Ventoy**](https://www.ventoy.net/en/index.html), [**Yumi**](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) o [**Rufus**](https://rufus.ie/es/). **Advertencia:** Siempre debe tener **cuidado de NO instalar Ventoy, Yumi o Rufus en el disco duro de su computadora**. Por ello, **previamente, siempre debe respaldar los archivos de la USB.** Después de preparar la USB, ya puede utilizarla para grabar otros archivos en ella.
+  
+  Utilice la aplicación [**Ventoy**](https://www.ventoy.net/en/index.html) siguiendo el siguiente tutorial en [video](https://www.youtube.com/watch?v=_3p-f_Cwa4g) o este [tutorial escrito](https://websetnet.net/es/crear-un-instalador-usb-de-arranque-para-linux-a-trav%C3%A9s-de-la-nueva-soluci%C3%B3n-ventoy/amp/), en una USB vacía, de 16 Gib, por lo menos. Una vez preparado el dispositivo externo, copie los archivos ISO a la raíz y listo! Para arrancar la ISO de Windows, descargue el [archivo](https://github.com/ventoy/vhdiso/releases/download/v3.0/ventoy_vhdboot.zip) que debe ponerlo en la raíz de la USB.
+    
+  Si en su computadora no funciona Ventoy, use [**Yumi**](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) según esta [guía en video](https://www.youtube.com/watch?v=dR8ewnlfzVc) o este [tutorial escrito](https://hacerusbbooteable.com/usb-multibooteable-con-yumi/). Cada vez que ejecute Yumi, puede instalar o desinstalar las imágenes ISO de los sistemas operativos que desee.
+  
+  Por último, puede usar [**Rufus**](https://rufus.ie/es/) siguiendo este ([tutorial en video](https://www.youtube.com/watch?v=qedjN2AA3gU)) o esta [guía escrita](https://www.xataka.com/basics/que-rufus-como-utilizarlo-para-crear-usb-arranque). Considere que Rufus sólo instala una imagen ISO, a la vez.
+  
+  Considere de manera alternativa que el sistema operativo *Windows* puede instalarse en un medio extraible con [WintoUSB](https://www.easyuefi.com/wintousb/index.html) siguiendo este [tutorial](https://www.youtube.com/watch?v=wisy8cmM370), pero requiere una licencia activa.
+  
+  *Parte 5*. Investigue los conceptos involucrados: bootear un equipo ([guía](https://www.youtube.com/watch?v=O2S7YyKb5LI)), BIOS ([guía](https://www.youtube.com/watch?v=HD9qXyvIzOc)), UEFI ([guía](https://www.youtube.com/watch?v=X3Cx6wm6PtY)), partición (física y lógica, de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), GPT y MBR ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)).
+  
+  Pruebe que puede *arrancar* (o *bootear*) cada uno de los sistemas operativos instalados desde la USB, por ejemplo, [Active Boot Disk](https://thepiratebay.org/description.php?id=13686101), [Windows 7](https://thepiratebay.org/search.php?q=windows+7+untouched&apps=on&search=Pirate+Search&page=0&orderby=) y [Fedora Workstation](https://getfedora.org/es/workstation/).
+  
+  Cualquiera de los procedimientos de la *Parte 4* de esta práctica, habilitan una USB para arrancar un sistema operativo Windows, Linux o cualquier otro, sin tocar el disco duro del equipo. Esto tiene muchas ventajas, como preservar el medio de almacenamiento o instalar el sistema operativo que se ejecute desde la USB, en el mismo disco duro, adicional al Windows (*dual booting*). Esto tiene muchas *aplicaciones prácticas*, por ejemplo, si falla el sistema operativo Windows, con la USB que ha preparado puede arrancar su sistema operativo Linux desde la USB y trabajar con él en tareas cotidianas de oficina como abrir o crear un archivo de texto u hoja de cálculo con [*Libre Office*](https://www.libreoffice.org/), navegar en Internet y acceder a su correo electrónico. Sin embargo, no puede hacer cambios al sistema operativo, ni instalar aplicaciones adicionales con cambios permanentes. 
+  
+  *Parte 6*. Afortunadamente, puede utilizarse un disco duro externo portátil de baja capacidad o una memoria USB de por lo menos 32 GB, para instalar un sistema operativo en su USB, con un sistema encriptado, con un presupuesto muy bajo. Afortunadamente, el sistema operativo *Linux*, como [Fedora](https://getfedora.org/es/) o el de su preferencia también puede instalarse y ejecutarse desde en un dispositivo externo, tal como si fuera el disco principal, sin mayor problema, completando el procedimiento de la Parte 4 de esta práctica.
+  
+   Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+
+- *Práctica 4.3. Instalación de sistemas operativos como máquinas virtuales*. (Entrega: 13 de diciembre de 2022).
+
+  *Objetivo*: Aprender a instalar varios sistemas operativos como un máquinas virtuales.
+    
+  *Parte 1*. Investigue qué es la virtualización, una máquina virtual y cómo se instala un sistema operativo en una máquina virtual. 
+    
+  *Parte 2*. Instale [VirtualBox](https://www.virtualbox.org/) en su sistema operativo Windows o el que tenga. Luego, instale el sistema operativo [Fedora Workstation](https://getfedora.org/es/workstation/) como una máquina virtual ([Video 1](https://www.youtube.com/watch?v=9-ZGT6T65VA)). Finalmente, instale el VirtualBox Extension Pack.x
+    
+  *Parte 3*. Utilice los archivos ISO de [Windows 7](https://thepiratebay.org/search.php?q=windows+7+untouched&apps=on&search=Pirate+Search&page=0&orderby=) y [Fedora Workstation](https://getfedora.org/es/workstation/) e instálelos mediante VirtualBox ([Video](https://www.youtube.com/watch?v=GEx046EHphI)).
+    
+  *Parte 4*. Pruebe que puede arrancar cada uno de los tres sistemas operativos como máquinas virtuales.
+    
+  Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+
+- *Práctica 4.4: Recuperación de archivos*. (Entrega opcional: 15 de diciembre de 2022).
+
+  *Objetivo*: Aprender el uso de una herramienta de software para el mantenimiento de una computadora.
+    
+  Como prerrequisito, debe completar la Práctica 4.3.
+    
+  Utilice Qbittorrent y, mediante su motor de búsqueda, localice la imagen ISO del sistema operativo Windows usando la frase "Active Boot Disk 10" ([tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)). Identifique la entrada que tiene más semillas (seeds) (de 640 Kb de tamaño) y descárguela o agregue el torrent a [qBittorrent](https://www.qbittorrent.org/). 
+    
+  Respalde un par de archivos de una USB y luego, bórrelos a propósito. Después, recupérelos utilizando *Active Boot Disk* ([tutorial](https://www.youtube.com/watch?v=sHMGRn_wWlc)). Explore las otras herramientas de Active Boot Disk.
+  
+  De manera análoga, puede utilizar *[TestDisk](https://www.cgsecurity.org/wiki/TestDisk_ES)*, con *[PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec_ES)* para recuperar archivos. Utilice la misma estrategia. Ver este [tutorial](https://www.youtube.com/watch?v=NKzBBk1wWyY).
+  
+  *Muy importante*: Inmediatamente después de darse cuenta de que ha borrado un archivo por accidente o que ha descubierto alguna falta, *no guarde mas fotos o archivos en esa memoria o disco* para prevenir la sobreescritura de los datos perdidos. Esto significa, requiere otro medio de almacenamiento para guardar los archivos recuperados.
+    
+  *Aplicación práctica*: Si, por alguna razón desconocida, su sistema operativo Windows ya no arranca y no respaldó su información, entonces requiere rescatar sus archivos. Localice la cuenta del usuario y haga una copia de sus archivos a una unidad externa conectada con un cable USB ([video](https://www.youtube.com/watch?v=U3LaBt0Rcls)).
+    
+  Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+
+- *Práctica 4.5. Comandos básicos de un sistema operativo y de manejo de archivos*. (Entrega: 20 de diciembre de 2022).
+
+  *Objetivo*: Practicar los comandos básicos del manejo de archivos en la línea de comandos, en los sistemas operativos Windows y Linux.
+     
+  *Parte 1*. En una terminal de PowerShell de Windows 10, pruebe los comandos del [video](https://www.youtube.com/watch?v=UIxpx2Aohxs) y practique la recuperación de archivos ocultos por un virus usando la terminal de MS-DOS ([video 1](https://www.youtube.com/watch?v=K59r0Bb86Aw), [video 2](https://www.youtube.com/watch?v=-uC2LVTvQRE)).
+     
+  *Parte 2*. Cargue el sistema operativo Linux de la práctica 4.4., abra una terminal y pruebe los comandos del [video](https://www.youtube.com/watch?v=EHSbmmqhOl0). Alternativamente, conéctese a un [Servidor Linux](https://blog.thc.org/disposable-root-servers) ([guía](https://www.thc.org/segfault/)) con su aplicación SSH preferida. 
+     
+  Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+
+- *Práctica 4.6. Particiones y sistemas de archivos*. (Entrega: 22 de diciembre de 2022).
+
+  *Objetivo*: Comprender y practicar la preparación de dispositivos de almacenamiento en una computadora.
+     
+  *Parte 1*. Investigue los conceptos involucrados: partición (física y lógica, primaria, partición de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), GPT y MBR ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)), formatear un dispositivo de almacenamiento ([guía](https://www.youtube.com/watch?v=YshcHw9aIno)), sistema de archivos ([guía](https://www.youtube.com/watch?v=ukzkZA73fkg)), archivo ([guía](https://www.youtube.com/watch?v=Ub7guhuy7_A)), tipos de archivo (binario, texto, programa) ([guía](https://www.youtube.com/watch?v=LbopJOLgo5g)), cómo se guarda un archivo ([guía](https://www.youtube.com/watch?v=ProWo1W-4C0)) y las operaciones de manejo de archivos ([guía](https://www.youtube.com/watch?v=f2dmh_VkNgw)).
+     
+  *Parte 2*. Use una USB sin datos o nueva y practique los procesos de manejo de particiones (crear, cambiar de tamaño, fusionar y eliminar particiones en Windows con Disk Management ([guía](https://www.youtube.com/watch?v=gXvyWWi7lh8)), de los siguientes tipos: FAT, exFAT, FAT32, NTFS y EXT4. Saque sus conclusiones.
+  
+  *Parte 3*. Repita las mismas operaciones de la *Parte 3* de esta práctica usando la aplicación [GParted Live CD/USB/HD/PXE Bootable Image](https://gparted.org/download.php) copiando el archivo ISO en la USB con Ventoy y arrancando el ISO. Utilice este [tutorial](https://www.youtube.com/watch?v=-kYe3BYPurA). Compare Disk Management y gParted y saque sus conclusiones.
+  
+  *Parte 4*. Practique la *recuperación de particiones eliminadas* con *[TestDisk](https://www.cgsecurity.org/wiki/TestDisk_ES)* ([tutorial en video](https://www.youtube.com/watch?v=w_JqR-9qcX8), [tutorial escrito](https://geekland.eu/recuperar-particiones-borradas-o-eliminadas-con-testdisk/)) en discos o dispositivos de almacenamiento formateados. También, practique la *recuperación de dispositivos* que no son reconocidos o que piden ser formateados, como una USB ([tutorial](https://www.youtube.com/watch?v=SV9-PdEg3nA)). 
+  
+  *Aplicación*: Con alguna de estas dos herramientas se puede preparar el disco duro de la computadora para instalar Linux como segundo sistema operativo o en *dual boot, sin perder información*, después de dejar un espacio libre de unos 20 a 50 GB, dependiendo del tamaño del disco disponible. Ver este [tutorial](https://www.youtube.com/watch?v=ycTh_x-hzro).  
+     
+  Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+
+- *Práctica 4.7. Instalación de driver o controlador de hardware*. (Entrega opcional: 22 de diciembre de 2022).
+
+  *Objetivo*: Aprender a instalar drivers en el sistema operativo Windows.
+     
+  Instalar la impresora, escanner o cualquier dispositivo externo usando los controladores o drivers descargados desde el sitio del fabricante, no desde el disco de instalación.
+     
+  Entregue el reporte de experiencia en un video usando la aplicación Vokoscreen-NG. Suba su video a su Google Drive.
+
+
+##### Bibliografía Complementaria:
+
+- Stallings, W. (2005). *Sistemas operativos: Aspectos internos y principios de diseño* (pp. 53-104). México: Pearson-Prentice-Hall. ([url](http://cotana.informatica.edu.bo/downloads/Sistemas%20Operativos.pdf)).
+- Nate Gentile. (2017, Feb 19). Entiende Linux y el software libre de una vez. *YouTube* [video]. (17:41 min). ([url](https://www.youtube.com/watch?v=UUJ0dFpj1-M)).
+- Nate Gentile. (2018, Dic 16). ¿Por qué Linux no es popular?. *YouTube* [video]. (13:26 min). ([url](https://www.youtube.com/watch?v=NDhJfHhe3e4)).
+- Wolf, G., Ruiz, E., Bergero, F. & Meza, E. (2015). *Fundamentos de sistemas operativos*. México: Universidad Nacional Autónoma de México. ([url](https://www.researchgate.net/publication/305994090_Fundamentos_de_sistemas_operativos)). ([Introducción](http://gwolf.sistop.org/laminas/02-introduccion.pdf), [Archivos y Directorios](http://gwolf.sistop.org/laminas/14-archivos-y-directorios.pdf)).
+- Tanembaum, A. S (2009). *Sistemas operativos modernos*. México: Pearson Educación. ([url](https://norbertomn.files.wordpress.com/2013/09/sistemas-operativos-modernos.pdf)).
+- Sintes, B. (2017). [Catálogo de Software Libre](http://www.cdlibre.org/index.html). 
+- Universidad de la Laguna (s.f.). [Catálogo de Software Libre](http://selibre.osl.ull.es/).
+- Wheeler, D. A. (2015). *[Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!](https://www.dwheeler.com/oss_fs_why.html)*. ([Traducción automática al español](https://translate.google.com/translate?sl=auto&tl=es&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fwww.dwheeler.com%2Foss_fs_why.html&edit-text=)) ([Versión al español](http://hispalinux.es/informes/wheeler/index.html) de 2001).
+- [ibiblio](https://www.ibiblio.org/). El mayor repositorio de colecciones de trabajos bajo el dominio público que incluye fotos, libros, clipart, revistas y música!
+
 
 ## Modalidades de Evaluación
 
