@@ -456,7 +456,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
    Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Práctica 4.3. Instalación de sistemas operativos como máquinas virtuales*. (Entrega: 13 de diciembre de 2022).
+- *Práctica 4.3. Instalación de sistemas operativos como máquinas virtuales*. (Entrega: 20 de diciembre de 2022).
 
   *Objetivo*: Aprender a instalar varios sistemas operativos como un máquinas virtuales.
     
@@ -471,7 +471,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
-- *Práctica 4.4: Recuperación de archivos*. (Entrega: 15 de diciembre de 2022) (Opcional).
+- *Práctica 4.4: Recuperación de archivos*. (Entrega: 20 de diciembre de 2022) (Opcional).
 
   *Objetivo*: Aprender el uso de una herramienta de software para el mantenimiento de una computadora.
     
