@@ -399,7 +399,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - Anonymous (2020). [GCSE Computer Science AQA - Revision Content. Computational thinking and problem solving](https://studyrocket.co.uk/revision/gcse-computer-science-aqa). *Study Rocket*. [traducción al español](https://studyrocket-co-uk.translate.goog/revision/gcse-computer-science-aqa?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419&_x_tr_pto=op). London, England.
 - Baruffa, O. (2022, Jan 13). [Big book of R](https://www.bigbookofr.com/). (Sitio web) (Compilación de libros y fuentes documentales sobre R).  
 - Novara, P. (2019). [PSeInt](http://pseint.sourceforge.net/index.php?page=portada.php) [software]. ([guía rápida](http://pseint.sourceforge.net/slide/pseint.html)). ([descargar](http://pseint.sourceforge.net/index.php?page=actualizacion.php)). [PSeInt en línea](https://www.rollapp.com/app/pseint).
-- Posit Software, PBC. (2022). [RStudio Desktop. Open Source Edition](https://posit.co/products/open-source/rstudio/). (IDE para R). ([descargar](https://posit.co/downloads/)).  
+- Posit Software, PBC. (2022). [RStudio Desktop Open Source Edition](https://posit.co/products/open-source/rstudio/). (IDE para R). ([descargar](https://posit.co/downloads/)).  
 - Posit Software, PBC. (2022). [RStudio (IDE en la nube)](https://posit.cloud/)) (Sitio web para usar RStudio IDE en línea).  
 - tecnoDavid. (2022, Sep 28). [Curso de PseInt 2022 con 100 ejercicios resueltos: Aprende pseudocódigo con PSeInt](https://www.youtube.com/playlist?list=PLBVjn2eumSzrQGAlSy0DzPCyvnGcN3bYd). *YouTube*. (121 videos). (Curso de iniciación a la programación con PseInt en español para aprender a programar desde cero con 100 ejercicios resueltos, incluyendo proyectos finales. Pseudocódigo y diagramas de flujo con PseInt. Variables y tipos de datos, condicionales, bucles, arreglos, cadenas de caracteres, subprocesos, recursividad).
 
@@ -410,15 +410,15 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 3. Funciones principales
 4. Tareas y prácticas:
 
-- *Tarea 4.1. Licenciamiento de software*. (Entrega: 13 de diciembre de 2022).
+- *Tarea 4.1. Licenciamiento de software*. (Entrega: 15 de diciembre de 2022).
 
   *Objetivo*: Comprender los conceptos básicos de licenciamiento de software.
     
-  Investigue los conceptos básicos de *licenciamiento de software*: (1) propiedad intelectual en el caso del software, (2) patente de software, (3) dominio público (public domain), (4) distribución de software, (5) shareware, (6) freeware, (7) copyright vs copyleft, (8) licenciamiento de software ([guía](https://www.youtube.com/watch?v=F6yjAu92mPY&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=16)) y (9) software privativo ([guía](https://www.youtube.com/watch?v=tkiG7cWZ2uc)), (10) software abierto o de código abierto (*open source*) y revise la (11) *Open Source Initiative* ([url](https://opensource.org/licenses)) ([guía](https://www.youtube.com/watch?v=KD7N6tyBKno)), (12) software libre (free software), (13) la licencia GPL ([url](https://www.gnu.org/licenses/license-recommendations.html)) y la *Free Software Foundation* ([url](https://www.fsf.org/)) ([guía](https://www.youtube.com/watch?v=szSU1A2RhuQ)).
+  En equipo, investigue los conceptos básicos de *licenciamiento de software*: (1) propiedad intelectual en el caso del software, (2) patente de software, (3) dominio público (public domain), (4) distribución de software, (5) shareware, (6) freeware, (7) copyright vs copyleft, (8) licenciamiento de software ([guía](https://www.youtube.com/watch?v=F6yjAu92mPY&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=16)) y (9) software privativo ([guía](https://www.youtube.com/watch?v=tkiG7cWZ2uc)), (10) software abierto o de código abierto (*open source*) y revise la (11) *Open Source Initiative* ([url](https://opensource.org/licenses)) ([guía](https://www.youtube.com/watch?v=KD7N6tyBKno)), (12) software libre (free software), (13) la licencia GPL ([url](https://www.gnu.org/licenses/license-recommendations.html)) y la *Free Software Foundation* ([url](https://www.fsf.org/)) ([guía](https://www.youtube.com/watch?v=szSU1A2RhuQ)).
     
   Simplifique la definición con una frase corta y acompañe la definición con un par de ejemplos.
     
-  Vea el video *Revolución de los Sistemas Operativos* ([url](https://www.youtube.com/watch?v=jfYBeWHc3GE)) y tome sus notas. Finalmente, compare los tres tipos de software (privativo, abierto y libre) ([guía](https://www.youtube.com/watch?v=SiCDIaTWKvg)), en términos de ventajas y desventajas y saque sus conclusiones filosóficas, técnicas, económicas, a partir de tres licencias representativas y de las biografías de tres personales: Bill Gates (Microsoft), Eric S. Raymond (OSI) y Richard Stallman (GNU - GLP) ([guía](https://www.youtube.com/watch?v=szSU1A2RhuQ)). Reflexione sobre el software libre y abierto como negocio.
+  Vea el video [Revolución de los Sistemas Operativos](https://www.youtube.com/watch?v=jfYBeWHc3GE) o [The Code](https://www.youtube.com/watch?v=O1rCOSnuBEs) y tome sus notas. Finalmente, compare los tres tipos de software (privativo, abierto y libre) ([guía](https://www.youtube.com/watch?v=SiCDIaTWKvg)), en términos de ventajas y desventajas y saque sus conclusiones filosóficas, técnicas, económicas, a partir de tres licencias representativas y de las biografías de tres personales: Bill Gates (Microsoft), Eric S. Raymond (OSI) y Richard Stallman (GNU - GLP) ([guía](https://www.youtube.com/watch?v=szSU1A2RhuQ)). Reflexione sobre el software libre y abierto (FLOSS) como ideología y como negocio.
     
   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
@@ -535,7 +535,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - Wolf, G., Ruiz, E., Bergero, F. & Meza, E. (2015). *Fundamentos de sistemas operativos*. México: Universidad Nacional Autónoma de México. ([url](https://www.researchgate.net/publication/305994090_Fundamentos_de_sistemas_operativos)). ([Introducción](http://gwolf.sistop.org/laminas/02-introduccion.pdf), [Archivos y Directorios](http://gwolf.sistop.org/laminas/14-archivos-y-directorios.pdf)).
 - Tanembaum, A. S (2009). *Sistemas operativos modernos*. México: Pearson Educación. ([url](https://norbertomn.files.wordpress.com/2013/09/sistemas-operativos-modernos.pdf)).
 - Sintes, B. (2017). [Catálogo de Software Libre](http://www.cdlibre.org/index.html). 
-- Universidad de la Laguna (s.f.). [Catálogo de Software Libre](http://selibre.osl.ull.es/).
+- SourceForge (2022). [SourceForge](https://sourceforge.net/) [Catálogo de Software Libre y Abierto].
 - Wheeler, D. A. (2015). *[Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!](https://www.dwheeler.com/oss_fs_why.html)*. ([Traducción automática al español](https://translate.google.com/translate?sl=auto&tl=es&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fwww.dwheeler.com%2Foss_fs_why.html&edit-text=)) ([Versión al español](http://hispalinux.es/informes/wheeler/index.html) de 2001).
 - [ibiblio](https://www.ibiblio.org/). El mayor repositorio de colecciones de trabajos bajo el dominio público que incluye fotos, libros, clipart, revistas y música!
 
