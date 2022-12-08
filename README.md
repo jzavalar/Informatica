@@ -529,16 +529,16 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 ##### Bibliografía Complementaria:
 
-- Stallings, W. (2005). *Sistemas operativos: Aspectos internos y principios de diseño* (pp. 53-104). México: Pearson-Prentice-Hall. ([url](http://cotana.informatica.edu.bo/downloads/Sistemas%20Operativos.pdf)).
+- Dr. Beco. (2022, Jun 7). [The Code | Story of(Linux).documentary](https://www.youtube.com/watch?v=O1rCOSnuBEs). *YouTube*. (video) (58:53 min).
+- [ibiblio](https://www.ibiblio.org/). El mayor repositorio de colecciones de trabajos bajo el dominio público que incluye fotos, libros, clipart, revistas y música!
 - Nate Gentile. (2017, Feb 19). Entiende Linux y el software libre de una vez. *YouTube* [video]. (17:41 min). ([url](https://www.youtube.com/watch?v=UUJ0dFpj1-M)).
 - Nate Gentile. (2018, Dic 16). ¿Por qué Linux no es popular?. *YouTube* [video]. (13:26 min). ([url](https://www.youtube.com/watch?v=NDhJfHhe3e4)).
-- Wolf, G., Ruiz, E., Bergero, F. & Meza, E. (2015). *Fundamentos de sistemas operativos*. México: Universidad Nacional Autónoma de México. ([url](https://www.researchgate.net/publication/305994090_Fundamentos_de_sistemas_operativos)). ([Introducción](http://gwolf.sistop.org/laminas/02-introduccion.pdf), [Archivos y Directorios](http://gwolf.sistop.org/laminas/14-archivos-y-directorios.pdf)).
-- Tanembaum, A. S (2009). *Sistemas operativos modernos*. México: Pearson Educación. ([url](https://norbertomn.files.wordpress.com/2013/09/sistemas-operativos-modernos.pdf)).
-- Sintes, B. (2017). [Catálogo de Software Libre](http://www.cdlibre.org/index.html). 
 - SourceForge (2022). [SourceForge](https://sourceforge.net/) [Catálogo de Software Libre y Abierto].
+- Stallings, W. (2005). *Sistemas operativos: Aspectos internos y principios de diseño* (pp. 53-104). México: Pearson-Prentice-Hall. ([url](http://cotana.informatica.edu.bo/downloads/Sistemas%20Operativos.pdf)).
+- Tanembaum, A. S (2009). *Sistemas operativos modernos*. México: Pearson Educación. ([url](https://norbertomn.files.wordpress.com/2013/09/sistemas-operativos-modernos.pdf)).
+- Wolf, G., Ruiz, E., Bergero, F. & Meza, E. (2015). *Fundamentos de sistemas operativos*. México: Universidad Nacional Autónoma de México. ([url](https://www.researchgate.net/publication/305994090_Fundamentos_de_sistemas_operativos)). ([Introducción](http://gwolf.sistop.org/laminas/02-introduccion.pdf), [Archivos y Directorios](http://gwolf.sistop.org/laminas/14-archivos-y-directorios.pdf)).
+- Sintes, B. (2017). [Catálogo de Software Libre](http://www.cdlibre.org/index.html). 
 - Wheeler, D. A. (2015). *[Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!](https://www.dwheeler.com/oss_fs_why.html)*. ([Traducción automática al español](https://translate.google.com/translate?sl=auto&tl=es&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fwww.dwheeler.com%2Foss_fs_why.html&edit-text=)) ([Versión al español](http://hispalinux.es/informes/wheeler/index.html) de 2001).
-- [ibiblio](https://www.ibiblio.org/). El mayor repositorio de colecciones de trabajos bajo el dominio público que incluye fotos, libros, clipart, revistas y música!
-
 
 ## Modalidades de Evaluación
 
