@@ -556,10 +556,10 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 | Total | 100% | |
 
 **Notas:
-  - **a).** Primer examen: *Teórico* (Unidades 1, 2 y 3) y *Práctico* (Programación): Fecha: Por definir.
-  - **b).** Segundo examen: *Teórico - Práctico* (Unidad 4 (Sistemas de Información) y Unidad 5 (Tablas dinámicas)): Fecha: Por definir.
-  - **Evaluación Global:** Todo el curso (Teoría y Práctica) para quienes tengan baja calificación o deseen subir: Fecha: Por definir.
-  - **Entrega de calificaciones:** Fecha: Por definir.
+  - **a).** Primer examen: *Teórico* (Unidades 1, 2 y 3) y *Práctico* (Programación): Fecha: 13 de diciembre de 2022.
+  - **b).** Segundo examen: *Teórico* (Unidad 4: Sistemas Operativos y Unidad 5: Sistemas de Información): Fecha: 12 de enero 2022.
+  - **Evaluación Global:** Todo el curso (Teoría y Práctica) para quienes tengan baja calificación o deseen subir: Fecha: 12 de enero 2022.
+  - **Entrega de calificaciones:** Fecha: 19 de enero 2022.
 
 La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
 
