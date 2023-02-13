@@ -108,7 +108,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   *Parte 2:* Elabore un documento respondiendo las preguntas planteadas en la Parte 1, primero en su cuaderno y finalmente hágalo en Google Drive. Agregue las fotos de lo realizado en su cuaderno, en el Google Drive.   
 
 
-- *Práctica 1.3. Partes y fucniones de la computadora*. (Entrega: 20 de febrero de 2023).   
+- *Práctica 1.3. Partes y funciones de la computadora*. (Entrega: 20 de febrero de 2023).   
 
   *Objetivo:* Identificar las partes y funciones de los varios tipos de computadoras modernas.   
     
