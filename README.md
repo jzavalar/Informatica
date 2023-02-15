@@ -75,7 +75,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 3. De las ciencias de la computación al cómputo en la nube
 4. Tareas y prácticas:
  
-- *Tarea 1.1. La computadora y su contexto histórico*. (Entrega: 20 de febrero de 2023).
+- *Tarea 1.1. La computadora y su contexto histórico*. (Entrega: 27 de febrero de 2023).
 
   *Objetivo:* Reflexionar sobre el contexto histórico de la computadora digital.  
   
@@ -89,7 +89,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   **Muy importante**: Evite la tentación de copiar y pegar texto que encuentre en páginas web. Aprenda y comprométase consigo mismo a ser original y a escribir sus propias creaciones.
   
 
-- *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 20 de febrero de 2023).
+- *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 27 de febrero de 2023).
      
   *Objetivo:* Reflexionar sobre el contexto histórico de la computadora digital y de las ciencias de la computación.   
   
@@ -108,7 +108,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   *Parte 2:* Elabore un documento respondiendo las preguntas planteadas en la Parte 1, primero en su cuaderno y finalmente hágalo en Google Drive. Agregue las fotos de lo realizado en su cuaderno, en el Google Drive.   
 
 
-- *Práctica 1.3. Partes y funciones de la computadora*. (Entrega: 20 de febrero de 2023).   
+- *Práctica 1.3. Partes y funciones de la computadora*. (Entrega: 27 de febrero de 2023).   
 
   *Objetivo:* Identificar las partes y funciones de los varios tipos de computadoras modernas.   
     
@@ -120,7 +120,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   *Parte 4:* En díadas o tríadas documenten en un video su experiencia en la realización de la actividad y escanéen y/o tomen fotos de sus tareas. Compartan los videos en el canal de Telegram y suban los archivos a su cuenta de Google Drive donde corresponda.
 
-- *Práctica 1.4. Adquisición de una computadora*. (Entrega: 20 de febrero de 2023).  
+- *Práctica 1.4. Adquisición de una computadora*. (Entrega: 27 de febrero de 2023).  
 
   *Objetivos*: Aprender a evaluar la compra de una computadora nueva y de segunda mano.  
 
