@@ -164,9 +164,9 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 | Factor | Porcentaje | Observaciones |
 | :---: | :---: | ------------- |
 | Asistencia puntual | 0% |  |
-| Tareas|15% |Se entrega en la fecha programada |
-| Prácticas| 15% |Se entregan  en la fecha programada |
-| Exámenes| 70% | Primero (a), Segundo (b)|
+| Tareas|30% |Se entrega en la fecha programada |
+| Prácticas| 30% |Se entregan  en la fecha programada |
+| Exámenes| 40% | Primero (a), Segundo (b)|
 | Total | 100% | |
 * Para tener derecho a presentar sus exámenes, deberá asistir por lo menos el 80% de la asistencia.
 
