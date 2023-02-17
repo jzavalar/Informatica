@@ -153,7 +153,66 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - Li-khriss Team. (2017, Sep 4). [Descargar videos HD con Youtube DL en Windows](https://www.youtube.com/watch?v=HQig5v-Jz7A). *YouTube*. [video]. (5:53 min).
 
 
+### Unidad 2. Software: Datos   
+1. Ontología del software:  
+   a. Los elementos básicos: Datos e instrucciones (programa)  
+   b. Los símbolos de la computadora: Bit, byte, unidades derivadas del byte y archivo     
+2. Sistemas numéricos: Decimal, binario y hexadecimal y conversiones    
+3. Tipos de datos:  
+   a. Números: Enteros (*integer*) y reales (*float point*)      
+   b. Texto plano: Sistemas de codificación: ASCII y Unicode (UTF-8, UTF-16, UTF-32)  
+   c. Binario: Audio, imagen, video y otros 
+   
 
+### Unidad 3. Software: Instrucciones  
+1. Ontología del software: Parte 2  
+   a. Instrucciones (programación)  
+2. Desarrollo de software:  
+   a. Proceso de desarrollo de software     
+   b. Programación:     
+      - Conceptos clave de programación: Programar, lenguaje de programación, programa almacenado, código: fuente, binario, objeto y executable; editor, parser, ensamblador, intérprete, compilador, eliminación de errores (*debugging*), proceso (*process*), hilo (*thread*), entorno de desarrollo integrado (IDE).   
+      - Paradigmas de programación: Programación estructurada, programación orientada a objetos (*Object Oriented Programming*) y aprendizaje automatizado (*Machine Learning*)     
+   c. Lenguajes de programación:  
+      - *Sintaxis* o gramática: Palabras clave o reservadas (*keywords*), símbolos, identificadores y sentencias.  
+      - *Semántica* o significado: Operaciones de asignación, comparación,  
+      - *Conceptos*: Variables, constantes, tipos y estructuras de datos, acumuladores, operadores (aritméticos, de comparación y lógicos), control condicional e iterativo, rutina, subrutina, funciones, pase de variables por valor o referencia.  
+      - Lenguajes de *bajo nivel*:
+         - Lenguaje de máquina
+         - Lenguaje ensamblador
+      - Lenguajes de *alto nivel compilados*: 
+         - Fortran
+         - COBOL
+         - Lenguaje C
+      - Lenguajes *alto nivel interpretados*:
+         - Java
+         - Python
+         - Lenguaje R
+      - IDE y compiladores en línea   
+   d. Pseudocódigo (intérprete de pseudocódigo ([PseInt](https://pseint.sourceforge.net/),Diagrama de flujo   
+   e. Diagramas de flujo  
+3. Problemas computacionales y algoritmos  
+   a. Conceptos clave de algoritmos: Algoritmo, problema, entrada, salida, proceso.  
+   b. Técnicas: Recursión y divide y vencerás
+   c. Ejemplos: Cálculo, decisión y ordenación.   
+
+### Unidad 4. Sistemas operativos
+1. Definición e historia
+2. Sistemas operativos libres y privativos
+3. Funciones principales
+4. Tareas y prácticas:
+
+### Bibliografía Complementaria:
+- Dr. Beco. (2022, Jun 7). [The Code | Story of(Linux).documentary](https://www.youtube.com/watch?v=O1rCOSnuBEs). *YouTube*. (video) (58:53 min).
+- [ibiblio](https://www.ibiblio.org/). El mayor repositorio de colecciones de trabajos bajo el dominio público que incluye fotos, libros, clipart, revistas y música!
+- Edge Seguridad Informática y SysAdmin. (2022, Apr 3). [RHCSA 8](https://www.youtube.com/watch?v=Dt4agP6iBuQ&list=PLzjjPeOioSgdoQEWFIRZKQivjvilS8WBU). *YouTube*. (58 videos). [Curso de capacitación para aprobar la certificación Red Hat Certified System Administrator (RHCSA) (EX200)] (muy recomendable).  
+- - Nate Gentile. (2017, Feb 19). Entiende Linux y el software libre de una vez. *YouTube* [video]. (17:41 min). ([url](https://www.youtube.com/watch?v=UUJ0dFpj1-M)).
+- Nate Gentile. (2018, Dic 16). ¿Por qué Linux no es popular?. *YouTube* [video]. (13:26 min). ([url](https://www.youtube.com/watch?v=NDhJfHhe3e4)).
+- SourceForge (2022). [SourceForge](https://sourceforge.net/) [Catálogo de Software Libre y Abierto].
+- Stallings, W. (2005). *Sistemas operativos: Aspectos internos y principios de diseño* (pp. 53-104). México: Pearson-Prentice-Hall. ([url](http://cotana.informatica.edu.bo/downloads/Sistemas%20Operativos.pdf)).
+- Tanembaum, A. S (2009). *Sistemas operativos modernos*. México: Pearson Educación. ([url](https://norbertomn.files.wordpress.com/2013/09/sistemas-operativos-modernos.pdf)).
+- Wolf, G., Ruiz, E., Bergero, F. & Meza, E. (2015). *Fundamentos de sistemas operativos*. México: Universidad Nacional Autónoma de México. ([url](https://www.researchgate.net/publication/305994090_Fundamentos_de_sistemas_operativos)). ([Introducción](http://gwolf.sistop.org/laminas/02-introduccion.pdf), [Archivos y Directorios](http://gwolf.sistop.org/laminas/14-archivos-y-directorios.pdf)).
+- Sintes, B. (2017). [Catálogo de Software Libre](http://www.cdlibre.org/index.html). 
+- Wheeler, D. A. (2015). *[Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!](https://www.dwheeler.com/oss_fs_why.html)*. ([Traducción automática al español](https://translate.google.com/translate?sl=auto&tl=es&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fwww.dwheeler.com%2Foss_fs_why.html&edit-text=)) ([Versión al español](http://hispalinux.es/informes/wheeler/index.html) de 2001).
 
 ## Modalidades de Evaluación
 
