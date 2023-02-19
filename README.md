@@ -82,53 +82,50 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
      *Parte 2:* Vea la siguiente película y elabore sus fichas de trabajo de los temas de la *Tarea 1.2: Parte 1* que se aborden en la película [La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg) (1:27:54 hr).    
      
-  *Parte 3:* Reflexione sobre el contexto histórico del surgimiento de la computadora. Redáctelo en su cuaderno. Agregue las fotos de lo realizado en su cuaderno, en el Google Drive.   
+     *Parte 3:* Reflexione sobre el contexto histórico del surgimiento de la computadora. Redáctelo en su cuaderno. Agregue las fotos de lo realizado en su cuaderno, en el Google Drive.   
   
-  **Muy importante**: Evite la tentación de copiar y pegar texto que encuentre en páginas web. Aprenda y comprométase consigo mismo a ser original y a escribir sus propias creaciones.
+     **Muy importante**: Evite la tentación de copiar y pegar texto que encuentre en páginas web. Aprenda y comprométase consigo mismo a ser original y a escribir sus propias creaciones.
   
-
-- *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 27 de febrero de 2023).
+   - *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 27 de febrero de 2023).
      
-  *Objetivo:* Reflexionar sobre el contexto histórico de la computadora digital y de las ciencias de la computación.   
-  
-  *Parte 1:* Consideren las siguientes preguntas guía como base y respóndalas con suficiencia: 
-     - ¿Por qué se dice que la *computadora* es una *máquina inteligente*?
-     - ¿Cuáles fueron los factores económicos, políticos y sociales que llevaron al invento de la computadora digital?
-     - ¿Quiénes fueron *Alan Turing* y *John Von Newmann* y cuáles fueron sus aportes a la computadora y a las ciencias de la computación?
-     - ¿Qué es la máquina de Turing?
-     - ¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad?
-     - ¿Qué son las 'ciencias de la computación' o 'computación' como campo de conocimiento y como trans-disciplina?
-     - ¿Cuál es la diferencia entre computación e informática?
+     *Objetivo*: Reflexionar sobre el contexto histórico de la computadora digital y de las ciencias de la computación.   
+     *Parte 1*: Consideren las siguientes preguntas guía como base y respóndalas con suficiencia: 
+         - ¿Por qué se dice que la *computadora* es una *máquina inteligente*?
+         - ¿Cuáles fueron los factores económicos, políticos y sociales que llevaron al invento de la computadora digital?
+         - ¿Quiénes fueron *Alan Turing* y *John Von Newmann* y cuáles fueron sus aportes a la computadora y a las ciencias de la computación?
+         - ¿Qué es la máquina de Turing?
+         - ¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad?
+         - ¿Qué son las 'ciencias de la computación' o 'computación' como campo de conocimiento y como trans-disciplina?
+         - ¿Cuál es la diferencia entre computación e informática?
    
-     - Revisen los antecedentes históricos de la [Association for Computing Machinery, ACM](https://www.acm.org/acm-history) y consulte la biblioteca digital de esta asociación profesional: la [ACM Digital Library](https://dl.acm.org/) y explore la principal revista: [Communications of the ACM](https://cacm.acm.org/). 
-     - Reflexione sobre algunos de los *grandes campos de la computación*: *Hardware*, *Sistemas de cómputo*, *Redes*, *Software*, *Matemáticas en la computación*, *Sistemas de información*, *Seguridad informática*, por ejemplo.
+    *Parte 2*: Revisen los antecedentes históricos de la [Association for Computing Machinery, ACM](https://www.acm.org/acm-history) y consulte la biblioteca digital de esta asociación profesional: la [ACM Digital Library](https://dl.acm.org/) y explore la principal revista: [Communications of the ACM](https://cacm.acm.org/). 
+         - Reflexione sobre algunos de los *grandes campos de la computación*: *Hardware*, *Sistemas de cómputo*, *Redes*, *Software*, *Matemáticas en la computación*, *Sistemas de información*, *Seguridad informática*, por ejemplo.
    
-  *Parte 2:* Elabore un documento respondiendo las preguntas planteadas en la Parte 1, primero en su cuaderno y finalmente hágalo en Google Drive. Agregue las fotos de lo realizado en su cuaderno, en el Google Drive.   
+    *Parte 3*. Elabore un documento respondiendo las preguntas planteadas en la Parte 1, primero en su cuaderno y finalmente hágalo en Google Drive. Agregue las fotos de lo realizado en su cuaderno, en el Google Drive.   
 
+   - *Práctica 1.3. Partes y funciones de la computadora*. (Entrega: 27 de febrero de 2023).   
 
-- *Práctica 1.3. Partes y funciones de la computadora*. (Entrega: 27 de febrero de 2023).   
-
-  *Objetivo:* Identificar las partes y funciones de los varios tipos de computadoras modernas.   
+    *Objetivo*: Identificar las partes y funciones de los varios tipos de computadoras modernas.   
     
-  *Parte 1:* Investigue e identifique las partes en una computadora de escritorio, una laptop, una tableta y un teléfono celular y elabore un *collage* a mano en su cuaderno, identificando de manera legible las partes de cada tipo de computadora, en una página para tipo. Tome una foto y envíela al canal de Telegram que le indique el profesor.   
+     *Parte 1*. Investigue e identifique las partes en una computadora de escritorio, una laptop, una tableta y un teléfono celular y elabore un *collage* a mano en su cuaderno, identificando de manera legible las partes de cada tipo de computadora, en una página para tipo. Tome una foto y envíela al canal de Telegram que le indique el profesor.   
   
-  *Parte 2:* Aterrice la práctica documentando las partes de la o de las computadoras que tenga en su casa. Consiga los manuales de usuario del modelo respectivo y el manual de servicio del sitio del fabricante. Busque los videos de cambio de disco duro, memoria u otros componentes que haya en YouTube. Haga una reflexión sobre las partes de su computadora en un breve video.  
+     *Parte 2*. Aterrice la práctica documentando las partes de la o de las computadoras que tenga en su casa. Consiga los manuales de usuario del modelo respectivo y el manual de servicio del sitio del fabricante. Busque los videos de cambio de disco duro, memoria u otros componentes que haya en YouTube. Haga una reflexión sobre las partes de su computadora en un breve video.  
   
-  *Parte 3:* Descargue e instale [YouTube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui/releases/download/0.4/youtube-dl-gui-0.4-win-portable.zip) (versión portable) en una USB. Luego, descargue los 6 videos de la lista [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-), incluyendo los subtítulos en inglés y en español.  
+     *Parte 3*. Descargue e instale [YouTube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui/releases/download/0.4/youtube-dl-gui-0.4-win-portable.zip) (versión portable) en una USB. Luego, descargue los 6 videos de la lista [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-), incluyendo los subtítulos en inglés y en español.  
   
-  *Parte 4:* En díadas o tríadas documenten en un video su experiencia en la realización de la actividad y escanéen y/o tomen fotos de sus tareas. Compartan los videos en el canal de Telegram y suban los archivos a su cuenta de Google Drive donde corresponda.
+     *Parte 4*. Escanée o tome fotos de las actividades de su tarea y los archivos generados a su cuenta de Google Drive donde corresponda.
 
-- *Práctica 1.4. Adquisición de una computadora*. (Entrega: 27 de febrero de 2023).  
+   - *Práctica 1.4. Adquisición de una computadora*. (Entrega: 27 de febrero de 2023).  
 
-  *Objetivos*: Aprender a evaluar la compra de una computadora nueva y de segunda mano.  
+     *Objetivos*: Aprender a evaluar la compra de una computadora nueva y de segunda mano.  
 
-  *Parte 1*. Identifique sus necesidades de recursos de cómputo según los siguientes puntos: (1) hardware (tipo de equipo, almacenamiento (interno y externo (respaldo)), gráficos, impresión, digitalización, sonido y otros), (2) software (sistema operativo y aplicaciones) y (3) movilidad.  
+     *Parte 1*. Identifique sus necesidades de recursos de cómputo según los siguientes puntos: (1) hardware (tipo de equipo, almacenamiento (interno y externo (respaldo)), gráficos, impresión, digitalización, sonido y otros), (2) software (sistema operativo y aplicaciones) y (3) movilidad.  
     
-  *Parte 2*. Ponga un límite presupuestal de acuerdo a sus posibilidades y busque dos equipos nuevos y de segunda mano que cumplan con sus necesidades. Haga un presupuesto de cada componente. Cotice sus equipos en Mercado Libre.
+     *Parte 2*. Ponga un límite presupuestal de acuerdo a sus posibilidades y busque dos equipos nuevos y de segunda mano que cumplan con sus necesidades. Haga un presupuesto de cada componente. Cotice sus equipos en Mercado Libre.
     
-  *Parte 3*. Haga una tabla comparativa con sus criterios de decisión y el resultado de su elección y comparta con su o sus compañeros sus resultados.
+     *Parte 3*. Haga una tabla comparativa con sus criterios de decisión y el resultado de su elección y comparta con su o sus compañeros sus resultados.
     
-  *Parte 4:* Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+     *Parte 4*. Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 
 ##### Bibliografía Obligatoria:
