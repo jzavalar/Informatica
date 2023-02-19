@@ -74,19 +74,19 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 2. La computadora digital como máquina simbólica de propósito general
 3. De las ciencias de la computación al cómputo en la nube
 4. Tareas y prácticas:
-   - *Tarea 1.1. La computadora y su contexto histórico*. (Entrega: 27 de febrero de 2023).
+- *Tarea 1.1. La computadora y su contexto histórico*. (Entrega: 27 de febrero de 2023).
 
-     *Objetivo:* Reflexionar sobre el contexto histórico de la computadora digital.  
+  *Objetivo:* Reflexionar sobre el contexto histórico de la computadora digital.  
   
-     *Parte 1:* Aprenda a elaborar [fichas de trabajo o de estudio](https://www.youtube.com/watch?v=pec3M47oR9I) y [tomar apuntes](https://www.youtube.com/watch?v=h7KwapGowuE) para que estudie. 
+  *Parte 1:* Aprenda a elaborar [fichas de trabajo o de estudio](https://www.youtube.com/watch?v=pec3M47oR9I) y [tomar apuntes](https://www.youtube.com/watch?v=h7KwapGowuE) para que estudie. 
   
-     *Parte 2:* Vea la siguiente película y elabore sus fichas de trabajo de los temas de la *Tarea 1.2: Parte 1* que se aborden en la película [La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg) (1:27:54 hr).    
+  *Parte 2:* Vea la siguiente película y elabore sus fichas de trabajo de los temas de la *Tarea 1.2: Parte 1* que se aborden en la película [La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg) (1:27:54 hr).    
      
-     *Parte 3:* Reflexione sobre el contexto histórico del surgimiento de la computadora. Redáctelo en su cuaderno. Agregue las fotos de lo realizado en su cuaderno, en el Google Drive.   
+  *Parte 3:* Reflexione sobre el contexto histórico del surgimiento de la computadora. Redáctelo en su cuaderno. Agregue las fotos de lo realizado en su cuaderno, en el Google Drive.   
   
-     **Muy importante**: Evite la tentación de copiar y pegar texto que encuentre en páginas web. Aprenda y comprométase consigo mismo a ser original y a escribir sus propias creaciones.
+  **Muy importante**: Evite la tentación de copiar y pegar texto que encuentre en páginas web. Aprenda y comprométase consigo mismo a ser original y a escribir sus propias creaciones.
   
-   - *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 27 de febrero de 2023).
+- *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 27 de febrero de 2023).
      
      *Objetivo*: Reflexionar sobre el contexto histórico de la computadora digital y de las ciencias de la computación.   
      *Parte 1*: Consideren las siguientes preguntas guía como base y respóndalas con suficiencia: 
