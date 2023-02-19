@@ -74,15 +74,13 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 2. La computadora digital como máquina simbólica de propósito general
 3. De las ciencias de la computación al cómputo en la nube
 4. Tareas y prácticas:
- 
-- *Tarea 1.1. La computadora y su contexto histórico*. (Entrega: 27 de febrero de 2023).
+   - *Tarea 1.1. La computadora y su contexto histórico*. (Entrega: 27 de febrero de 2023).
 
-  *Objetivo:* Reflexionar sobre el contexto histórico de la computadora digital.  
+     *Objetivo:* Reflexionar sobre el contexto histórico de la computadora digital.  
   
-  *Parte 1:* Aprenda a elaborar [fichas de trabajo o de estudio](https://www.youtube.com/watch?v=pec3M47oR9I) y [tomar apuntes](https://www.youtube.com/watch?v=h7KwapGowuE) para que estudie. 
+     *Parte 1:* Aprenda a elaborar [fichas de trabajo o de estudio](https://www.youtube.com/watch?v=pec3M47oR9I) y [tomar apuntes](https://www.youtube.com/watch?v=h7KwapGowuE) para que estudie. 
   
-  *Parte 2:* Vea la siguiente película y elabore sus fichas de trabajo de los temas de la *Tarea 1.2: Parte 1* que se aborden en la película:  
-     - [La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg). *YouTube*. [video documental] (1:27:54 hr).    
+     *Parte 2:* Vea la siguiente película y elabore sus fichas de trabajo de los temas de la *Tarea 1.2: Parte 1* que se aborden en la película [La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg) (1:27:54 hr).    
      
   *Parte 3:* Reflexione sobre el contexto histórico del surgimiento de la computadora. Redáctelo en su cuaderno. Agregue las fotos de lo realizado en su cuaderno, en el Google Drive.   
   
@@ -154,46 +152,46 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 
 ### Unidad 2. Software: Datos   
-1. Ontología del software:  
-   a. Los elementos básicos: Datos e instrucciones (programa)  
-   b. Los símbolos de la computadora: Bit, byte, unidades derivadas del byte y archivo     
-2. Sistemas numéricos: Decimal, binario y hexadecimal y conversiones    
-3. Tipos de datos:  
-   a. Números: Enteros (*integer*) y reales (*float point*)      
-   b. Texto plano: Sistemas de codificación: ASCII y Unicode (UTF-8, UTF-16, UTF-32)  
-   c. Binario: Audio, imagen, video y otros 
-   
-
-### Unidad 3. Software: Instrucciones  
-1. Ontología del software: Parte 2  
-   a. Instrucciones (programación)  
-2. Desarrollo de software:  
-   a. Proceso de desarrollo de software     
-   b. Programación:     
-      - Conceptos clave de programación: Programar, lenguaje de programación, programa almacenado, código: fuente, binario, objeto y executable; editor, parser, ensamblador, intérprete, compilador, eliminación de errores (*debugging*), proceso (*process*), hilo (*thread*), entorno de desarrollo integrado (IDE).   
-      - Paradigmas de programación: Programación estructurada, programación orientada a objetos (*Object Oriented Programming*) y aprendizaje automatizado (*Machine Learning*)     
-   c. Lenguajes de programación:  
-      - *Sintaxis* o gramática: Palabras clave o reservadas (*keywords*), símbolos, identificadores y sentencias.  
-      - *Semántica* o significado: Operaciones de asignación, comparación,  
+1. Ontología del software  
+   a. Elementos básicos:  
+      - Datos  
+      - Instrucciones (programas)        
+   b. Los símbolos de la computadora:
+      - Bit
+      - Byte (y unidades derivadas)         
+2. Datos
+   a. Sistemas numéricos: 
+      - Decimal
+      - Binario
+      - Hexadecimal
+      - Conversiones entre sistemas    
+   b. Tipos de datos:  
+      - Númericos: Enteros (*integer*) y reales (*float point*)
+      - Alfanuméricos
+      - Lógicos
+      - Estructuras de datos: arreglos, matrices, listas, tablas.
+   c. Archivo y tipos de archivos:
+      - Codificación de texto: ASCII y Unicode (UTF-8, UTF-16 y UTF-32)  
+      - Codificación binaria: Audio, imagen, video y otros 
+3. Instrucciones  
+   a. Conceptos clave de programación: Programar, programa almacenado, código (fuente, binario, objeto y executable)
+   b. Lenguajes de programación:  
+      - *Sintaxis* o *gramática*: Palabras clave o reservadas (*keywords*), símbolos, identificadores y sentencias.  
+      - *Semántica* o *significado*:
+         - *Entrada*: Operaciones de lectura 
+         - *Salida*: Operaciones de impresión en pantalla y archivos
+         - *Almacenamiento* en memoria y archivos: Operaciones de asignación
+         - *Procesamiento*: Operaciones de comparación y decisión, ciclos.   
+   c. Programación:
       - *Conceptos*: Variables, constantes, tipos y estructuras de datos, acumuladores, operadores (aritméticos, de comparación y lógicos), control condicional e iterativo, rutina, subrutina, funciones, pase de variables por valor o referencia.  
-      - Lenguajes de *bajo nivel*:
-         - Lenguaje de máquina
-         - Lenguaje ensamblador
-      - Lenguajes de *alto nivel compilados*: 
-         - Fortran
-         - COBOL
-         - Lenguaje C
-      - Lenguajes *alto nivel interpretados*:
-         - Java
-         - Python
-         - Lenguaje R
-      - IDE y compiladores en línea   
-   d. Pseudocódigo (intérprete de pseudocódigo ([PseInt](https://pseint.sourceforge.net/),Diagrama de flujo   
-   e. Diagramas de flujo  
-3. Problemas computacionales y algoritmos  
-   a. Conceptos clave de algoritmos: Algoritmo, problema, entrada, salida, proceso.  
-   b. Técnicas: Recursión y divide y vencerás
-   c. Ejemplos: Cálculo, decisión y ordenación.   
+      - Pseudocódigo   
+      - Diagramas de flujo
+      - Herramientas de programación: Editor, parser, ensamblador, intérprete, compilador, debugger (eliminador de errores), entorno de desarrollo integrado (IDE).
+   d. Algoritmos:  
+      - Conceptos clave: Algoritmo, problema, entrada, salida, proceso.  
+      - Técnicas: Recursión y divide y vencerás
+      - Ejemplos: Cálculo, decisión y ordenación.   
+4. Tareas y Prácticas
 
 ### Unidad 4. Sistemas operativos
 1. Definición e historia
