@@ -88,107 +88,109 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
 - *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 27 de febrero de 2023).
      
-     *Objetivo*: Reflexionar sobre el contexto histórico de la computadora digital y de las ciencias de la computación.   
-     *Parte 1*: Consideren las siguientes preguntas guía como base y respóndalas con suficiencia: 
-         - ¿Por qué se dice que la *computadora* es una *máquina inteligente*?
-         - ¿Cuáles fueron los factores económicos, políticos y sociales que llevaron al invento de la computadora digital?
-         - ¿Quiénes fueron *Alan Turing* y *John Von Newmann* y cuáles fueron sus aportes a la computadora y a las ciencias de la computación?
-         - ¿Qué es la máquina de Turing?
-         - ¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad?
-         - ¿Qué son las 'ciencias de la computación' o 'computación' como campo de conocimiento y como trans-disciplina?
-         - ¿Cuál es la diferencia entre computación e informática?
+  *Objetivo*: Reflexionar sobre el contexto histórico de la computadora digital y de las ciencias de la computación.   
+  
+  *Parte 1*: Consideren las siguientes preguntas guía como base y respóndalas con suficiencia: 
+     - ¿Por qué se dice que la *computadora* es una *máquina inteligente*?
+     - ¿Cuáles fueron los factores económicos, políticos y sociales que llevaron al invento de la computadora digital?
+     - ¿Quiénes fueron *Alan Turing* y *John Von Newmann* y cuáles fueron sus aportes a la computadora y a las ciencias de la computación?
+     - ¿Qué es la máquina de Turing?
+     - ¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad?
+     - ¿Qué son las 'ciencias de la computación' o 'computación' como campo de conocimiento y como trans-disciplina?
+     - ¿Cuál es la diferencia entre computación e informática?
    
-    *Parte 2*: Revisen los antecedentes históricos de la [Association for Computing Machinery, ACM](https://www.acm.org/acm-history) y consulte la biblioteca digital de esta asociación profesional: la [ACM Digital Library](https://dl.acm.org/) y explore la principal revista: [Communications of the ACM](https://cacm.acm.org/). 
-         - Reflexione sobre algunos de los *grandes campos de la computación*: *Hardware*, *Sistemas de cómputo*, *Redes*, *Software*, *Matemáticas en la computación*, *Sistemas de información*, *Seguridad informática*, por ejemplo.
+  *Parte 2*: Revisen los antecedentes históricos de la [Association for Computing Machinery, ACM](https://www.acm.org/acm-history) y consulte la biblioteca digital de esta asociación profesional: la [ACM Digital Library](https://dl.acm.org/) y explore la principal revista: [Communications of the ACM](https://cacm.acm.org/). 
+  
+  Reflexione sobre algunos de los *grandes campos de la computación*: *Hardware*, *Sistemas de cómputo*, *Redes*, *Software*, *Matemáticas en la computación*, *Sistemas de información*, *Seguridad informática*, por ejemplo.
    
-    *Parte 3*. Elabore un documento respondiendo las preguntas planteadas en la Parte 1, primero en su cuaderno y finalmente hágalo en Google Drive. Agregue las fotos de lo realizado en su cuaderno, en el Google Drive.   
+  *Parte 3*. Elabore un documento respondiendo las preguntas planteadas en la Parte 1, primero en su cuaderno y finalmente hágalo en Google Drive. Agregue las fotos de lo realizado en su cuaderno, en el Google Drive.   
 
-   - *Práctica 1.3. Partes y funciones de la computadora*. (Entrega: 27 de febrero de 2023).   
+- *Práctica 1.3. Partes y funciones de la computadora*. (Entrega: 27 de febrero de 2023).   
 
-    *Objetivo*: Identificar las partes y funciones de los varios tipos de computadoras modernas.   
+  *Objetivo*: Identificar las partes y funciones de los varios tipos de computadoras modernas.   
     
-     *Parte 1*. Investigue e identifique las partes en una computadora de escritorio, una laptop, una tableta y un teléfono celular y elabore un *collage* a mano en su cuaderno, identificando de manera legible las partes de cada tipo de computadora, en una página para tipo. Tome una foto y envíela al canal de Telegram que le indique el profesor.   
+  *Parte 1*. Investigue e identifique las partes en una computadora de escritorio, una laptop, una tableta y un teléfono celular y elabore un *collage* a mano en su cuaderno, identificando de manera legible las partes de cada tipo de computadora, en una página para tipo. Tome una foto y envíela al canal de Telegram que le indique el profesor.   
   
-     *Parte 2*. Aterrice la práctica documentando las partes de la o de las computadoras que tenga en su casa. Consiga los manuales de usuario del modelo respectivo y el manual de servicio del sitio del fabricante. Busque los videos de cambio de disco duro, memoria u otros componentes que haya en YouTube. Haga una reflexión sobre las partes de su computadora en un breve video.  
+  *Parte 2*. Aterrice la práctica documentando las partes de la o de las computadoras que tenga en su casa. Consiga los manuales de usuario del modelo respectivo y el manual de servicio del sitio del fabricante. Busque los videos de cambio de disco duro, memoria u otros componentes que haya en YouTube. Haga una reflexión sobre las partes de su computadora en un breve video.  
   
-     *Parte 3*. Descargue e instale [YouTube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui/releases/download/0.4/youtube-dl-gui-0.4-win-portable.zip) (versión portable) en una USB. Luego, descargue los 6 videos de la lista [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-), incluyendo los subtítulos en inglés y en español.  
+  *Parte 3*. Descargue e instale [YouTube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui/releases/download/0.4/youtube-dl-gui-0.4-win-portable.zip) (versión portable) en una USB. Luego, descargue los 6 videos de la lista [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-), incluyendo los subtítulos en inglés y en español.  
   
-     *Parte 4*. Escanée o tome fotos de las actividades de su tarea y los archivos generados a su cuenta de Google Drive donde corresponda.
+  *Parte 4*. Escanée o tome fotos de las actividades de su tarea y los archivos generados a su cuenta de Google Drive donde corresponda.
 
-   - *Práctica 1.4. Adquisición de una computadora*. (Entrega: 27 de febrero de 2023).  
+- *Práctica 1.4. Adquisición de una computadora*. (Entrega: 27 de febrero de 2023).  
 
-     *Objetivos*: Aprender a evaluar la compra de una computadora nueva y de segunda mano.  
+  *Objetivos*: Aprender a evaluar la compra de una computadora nueva y de segunda mano.  
 
-     *Parte 1*. Identifique sus necesidades de recursos de cómputo según los siguientes puntos: (1) hardware (tipo de equipo, almacenamiento (interno y externo (respaldo)), gráficos, impresión, digitalización, sonido y otros), (2) software (sistema operativo y aplicaciones) y (3) movilidad.  
+  *Parte 1*. Identifique sus necesidades de recursos de cómputo según los siguientes puntos: (1) hardware (tipo de equipo, almacenamiento (interno y externo (respaldo)), gráficos, impresión, digitalización, sonido y otros), (2) software (sistema operativo y aplicaciones) y (3) movilidad.  
     
-     *Parte 2*. Ponga un límite presupuestal de acuerdo a sus posibilidades y busque dos equipos nuevos y de segunda mano que cumplan con sus necesidades. Haga un presupuesto de cada componente. Cotice sus equipos en Mercado Libre.
+  *Parte 2*. Ponga un límite presupuestal de acuerdo a sus posibilidades y busque dos equipos nuevos y de segunda mano que cumplan con sus necesidades. Haga un presupuesto de cada componente. Cotice sus equipos en Mercado Libre.
     
-     *Parte 3*. Haga una tabla comparativa con sus criterios de decisión y el resultado de su elección y comparta con su o sus compañeros sus resultados.
+  *Parte 3*. Haga una tabla comparativa con sus criterios de decisión y el resultado de su elección y comparta con su o sus compañeros sus resultados.
     
-     *Parte 4*. Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
-
+  *Parte 4*. Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 ##### Bibliografía Obligatoria:
 - Code.org (2018, Jan 30). [How computers work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). *YouTube*. [6 videos].
 - Derivando (2018, Ene 10). [¿Qué es una máquina de Turing?](https://www.youtube.com/watch?v=iaXLDz_UeYY). *YouTube*. [video] (5:17 min).
-- Lahoz-Beltra, R. (2020). [*Turing. La computación: Pensando en máquinas que piensan*](https://libgen.rs/book/index.php?md5=0E12A6617118339310C16106A8C8F073). Budapest: epublibre.
 - O’Regan, G. (2021). What Is a Computer? In [*A brief history of computing*](https://libgen.rs/book/index.php?md5=E7FC38F000E9DC68BB251E6C4D3FF660) (pp. 1-10). Switzerland: Springer Nature Switzerland AG.
 - Zavala, J. (2011). [¿Qué son las ciencias de la computación?: Una interpretación ecléctica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing). In *La ingeniería de software: Una discusión epistemológica (pp. 38-76)*. Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México.
 
-
 ##### Bibliografía Complementaria:
 - ACM. (2022). [Membership Benefits](https://www.acm.org/membership/membership-benefits).  
-- Computer History Archives Project. (2021, Dec 26). [Computer History UK LEO III Computer 1966](](https://www.youtube.com/watch?v=H_0Astp1dEU&list=UUOyJD0RHtF_77_oAf5tT1nQ&index=4)) (Full Version) (J. Lyons Electronic Office Automation). *YouTube*. (video)
-- Ensmenger, N. L. (2010). Introduction: Computer revolutionaries. (pp. 1-26). In [*The computer boys take over: Computers, programmers, and the politics of technical expertise*](https://www.researchgate.net/publication/266316410_The_Computer_Boys_Take_Over_Computers_Programmers_and_the_Politics_of_Technical_Expertise_History_of_Computing) (pp. 1-26). USA: The MIT Press.
-- Gómez Ortega, L. F. (2018, Oct 10). [Tutorial CmapTools 2019](https://www.youtube.com/watch?v=FSG-GCU4wQE). *YouTube*. [video] (15:38 min).
+- Gómez Ortega, L. F. (2018, Oct 10). [Tutorial CmapTools 2019](https://www.youtube.com/watch?v=FSG-GCU4wQE). *YouTube*. [video] (15:38 min).  
 - Grier. D. A. (2001). [Human computers. The first pioneers of the information age](https://www.sciencedirect.com/science/article/pii/S0160932700013387). *Endeavour 25*(1), 28-32. 
-- Haigh, T. & Ceruzzi, P. E. (2021). Inventing the computer. In [*A new history of modern computing*](https://libgen.rs/book/index.php?md5=FEC5EE9FBAB5F3C3E68371EC9025E694) (pp. 9-28). USA: The MIT Press.
-- Haigh, T., Priestley, M., & Rope, C. (2016). [*ENIAC in action. Making and remaking the modern computer*](http://eniacinaction.com/). MIT Press. 
+- Haigh, T. & Ceruzzi, P. E. (2021). Inventing the computer. In [*A new history of modern computing*](https://libgen.rs/book/index.php?md5=FEC5EE9FBAB5F3C3E68371EC9025E694) (pp. 9-28). USA: The MIT Press.  
+- Haigh, T., Priestley, M., & Rope, C. (2016). [*ENIAC in action. Making and remaking the modern computer*](http://eniacinaction.com/). MIT Press. ([pdf](https://libgen.rs/book/index.php?md5=F1ECADE396A9CB8BA191218B9BE22420)).  
 - HD Documental Ciencia 2017 (2017, Dic 17). [La curiosa guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg). *YouTube*. [video]. (1:27:54 hr).  
-- Li-khriss Team. (2017, Sep 4). [Descargar videos HD con Youtube DL en Windows](https://www.youtube.com/watch?v=HQig5v-Jz7A). *YouTube*. [video]. (5:53 min).
+- Lahoz-Beltra, R. (2020). [*Turing. La computación: Pensando en máquinas que piensan*](https://libgen.rs/book/index.php?md5=0E12A6617118339310C16106A8C8F073). Budapest: epublibre.  
 
 
-### Unidad 2. Software: Datos   
+#### Unidad 2. Software   
 1. Ontología del software  
-   a. Elementos básicos:  
-      - Datos  
-      - Instrucciones (programas)        
-   b. Los símbolos de la computadora:
-      - Bit
-      - Byte (y unidades derivadas)         
-2. Datos
-   a. Sistemas numéricos: 
-      - Decimal
-      - Binario
-      - Hexadecimal
-      - Conversiones entre sistemas    
+   a. Elementos básicos: Datos e instrucciones (programas)  
+   b. Los símbolos de la computadora: Bit y byte (y unidades derivadas)
+   c. Información = datos + contexto
+   d. Del procesamientos de datos al procesamiento de información 
+2. Datos  
+   a. Sistemas numéricos:  
+      - Decimal  
+      - Binario  
+      - Hexadecimal  
+      - Conversiones entre sistemas  
+   
    b. Tipos de datos:  
-      - Númericos: Enteros (*integer*) y reales (*float point*)
-      - Alfanuméricos
-      - Lógicos
-      - Estructuras de datos: arreglos, matrices, listas, tablas.
-   c. Archivo y tipos de archivos:
+      - Númericos: Enteros (*integer*) y reales (*float point*)  
+      - Alfanuméricos  
+      - Lógicos  
+      - Estructuras de datos: arreglos, matrices, listas, tablas.  
+   
+   c. Archivo y tipos de archivos:  
       - Codificación de texto: ASCII y Unicode (UTF-8, UTF-16 y UTF-32)  
-      - Codificación binaria: Audio, imagen, video y otros 
-3. Instrucciones  
-   a. Conceptos clave de programación: Programar, programa almacenado, código (fuente, binario, objeto y executable)
+      - Codificación binaria: Audio, imagen, video y otros  
+3. Instrucciones   
+   a. Conceptos clave de programación: Programar, programa almacenado, código (fuente, binario, objeto y executable)  
+   
    b. Lenguajes de programación:  
       - *Sintaxis* o *gramática*: Palabras clave o reservadas (*keywords*), símbolos, identificadores y sentencias.  
-      - *Semántica* o *significado*:
-         - *Entrada*: Operaciones de lectura 
-         - *Salida*: Operaciones de impresión en pantalla y archivos
-         - *Almacenamiento* en memoria y archivos: Operaciones de asignación
-         - *Procesamiento*: Operaciones de comparación y decisión, ciclos.   
-   c. Programación:
+      - *Semántica* o *significado*:  
+         - *Entrada*: Operaciones de lectura  
+         - *Salida*: Operaciones de impresión en pantalla y archivos  
+         - *Almacenamiento* en memoria y archivos: Operaciones de asignación  
+         - *Procesamiento*: Operaciones de comparación y decisión, ciclos.  
+   
+   c. Programación:  
       - *Conceptos*: Variables, constantes, tipos y estructuras de datos, acumuladores, operadores (aritméticos, de comparación y lógicos), control condicional e iterativo, rutina, subrutina, funciones, pase de variables por valor o referencia.  
-      - Pseudocódigo   
-      - Diagramas de flujo
-      - Herramientas de programación: Editor, parser, ensamblador, intérprete, compilador, debugger (eliminador de errores), entorno de desarrollo integrado (IDE).
+      - Pseudocódigo  
+      - Diagramas de flujo  
+      - Herramientas de programación: Editor, parser, ensamblador, intérprete, compilador, debugger (eliminador de errores), entorno de desarrollo integrado (IDE).  
+   
    d. Algoritmos:  
       - Conceptos clave: Algoritmo, problema, entrada, salida, proceso.  
-      - Técnicas: Recursión y divide y vencerás
-      - Ejemplos: Cálculo, decisión y ordenación.   
-4. Tareas y Prácticas
+      - Técnicas: Recursión y divide y vencerás  
+      - Ejemplos: Cálculo, decisión y ordenación.     
+4. Tareas y Prácticas  
+
+
 
 ### Unidad 4. Sistemas operativos
 1. Definición e historia
