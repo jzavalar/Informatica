@@ -164,7 +164,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
       - Lógicos  
       - Estructuras de datos: arreglos, matrices, listas, tablas.  
    
-   c. Archivo y tipos de archivos:  
+   c. Archivos y tipos de archivos:  
       - Codificación de texto: ASCII y Unicode (UTF-8, UTF-16 y UTF-32)  
       - Codificación binaria: Audio, imagen, video y otros  
 3. Instrucciones   
@@ -189,16 +189,113 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
       - Técnicas: Recursión y divide y vencerás  
       - Ejemplos: Cálculo, decisión y ordenación.     
 4. Tareas y Prácticas  
+- *Tarea 2.1. Conceptos básicos de software*. (Entrega: 8 de noviembre de 2022).
 
+  *Objetivos*: Aprender a diseñar mapas conceptuales con una herramienta de software.
+    
+  *Parte 1*: En equipo, investigue la definición formal de los conceptos básicos de software que se enlistan en la unidad en tres fuentes: 
+   - Los dos libros de texto del curso: 
+     - [Introducción a la Ciencia de la Computación](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D)  
+     - [Fundamentos de Computación para Ingenieros](https://libgen.rs/book/index.php?md5=93B1B3A032FA25F502EB136C35C52596)  
+   - Alguno de los siguientes diccionarios especializados:  
+     - [Dictionary of computer science, engineering and technology](https://libgen.rs/book/index.php?md5=C2FEF4DC36C84134ABA1E5698E913F73)  
+     - [Dictionary of information science and technology](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177)  
+     - [A dictionary of computer science (Oxford Quick Reference)](https://libgen.rs/book/index.php?md5=2FD856C4E6BC92CFA8DEB03F1B621A73)  
+     - [Dictionary English informatics standard glossary of computer applications terminology](https://libgen.rs/book/index.php?md5=4F816603DBBF6AEB60B92FCCC59762A1)   
 
+   Luego, simplifique cada definición en una *frase corta* con la mejor claridad posible que le servirá para crear un mapa conceptual. Para mayor claridad, acompañe la definición, mínimo con un par de ejemplos para cada concepto.
+  
+  La lista de conceptos es la siguiente: *bit*, *byte* y unidades derivadas (*Kilobyte* (*KB*), *Megabyte* (*MB*), *Gibabyte* (*GB*), *Terabyte* (*TB*), etc.), *dato*, *tipos de datos*, dato numérico, dato alfanumérico (*de caracter* o *de texto*), *archivo*, *sistemas numéricos*,  e *información*. 
+  
+  *Parte 2*: Haga un mapa conceptual para organizar los conceptos en una jerarquía, hasta lograr la mejor claridad posible y páselo en limpio con ayuda de la herramienta [CmapTools](https://cmap.ihmc.us/cmaptools/).
+  
+  *Parte 3*: Tome una foto del mapa conceptual de su cuaderno e imprima el mapa conceptual elaborado con CMapTools en formato PDF y como imagen en formato PNG.
+    
+  Suba los archivos a su cuenta de Google Drive donde corresponda.
 
-### Unidad 4. Sistemas operativos
+- *Práctica 2.2. Sistemas de codificación*. (Entrega: 27 de febrero de 2023).
+
+  *Objetivos*: Aprender los fundamentos de los sistemas de codificación de texto.
+    
+  *Parte 1*: Investigue los dos principales sistemas de codificación (ASCII, UTF-8 o Unicode) y haga una tabla comparativa en términos de ventajas y desventajas, métodos de conversión y aplicación de cada uno.
+  
+  *Parte 2*: Identifique el código para cada carácter de su nombre y primer apellido y encuentre una función para generarlos utilizando ese código en *LibreOffice portable*  ([guía 1](https://www.libreofficehelp.com/how-to-type-unicode-characters-in-libreoffice/)) y pruebe el siguiente [convertidor Unicode online](https://r12a.github.io/app-conversion/)).
+  
+  *Parte 3*: Traduzca su nombre a tres tipos de caractares: Cirílico, Chino y Japonés e identyifique el código para cada símbolo y genere su nombre utilizando ese código en LibreOffice.
+  
+  *Parte 4*: Elija 10 emojis de su preferencia e identyifique el código para símbolo y genérelos utilizando ese código en LibreOffice.
+  
+  *Parte 5*: Documente en un video de hasta 10 minutos sus conclusiones y su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+- *Práctica 2.3. Pseudocódigo*. (Entrega: ).
+
+  *Objetivo*: Comprender y poner en práctica los conceptos de algoritmo, pseudocódigo y diagrama de flujo.
+    
+  *Parte 1*: Instale la aplicación [PseInt](http://pseint.sourceforge.net/) en su equipo o utilice [PSeInt Portable](https://sourceforge.net/projects/pseint/files/20210609/pseint-w32-20210609.zip/download?use_mirror=gigenet&download=).
+  
+  *Parte 2:* Estudie, a discreción, el [curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw) y la [guía de PSeInt con ejemplos](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/) y pruebe algunos ejemplos. Si lo prefiere, estudie el [sistema de información para la operación de un estacionamiento](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f) en PSeInt. Descargue el archivo con el código fuente del pseudocódigo, disponible en la descripción de cada uno de ellos y observe el crecimiento progresivo de la aplicación.
+   
+  Distinga entre el proceso principal y los subprocesos. Para cada subproceso identifique los parámetros o datos de entrada, el pase valores (por valor y por referencia) y el valor de regreso.
+  
+  Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+  
+- *Práctica 2.4. Algoritmos*. (Entrega:).
+
+  *Objetivo*: Poner a prueba sus conocimientos sobre algoritmos y pseudocódigo.
+    
+  *Parte 1*: Primero, modifique y corrija el pseudocódigo propuesto por [Rodríguez (s.f.)](https://docs.google.com/document/d/1Uc9Cfld53Guia5ErtmGCnByUttV_3Jc-/edit?usp=sharing&ouid=108201401516590627031&rtpof=true&sd=true), de acuerdo a las reglas de PseInt configuradas en el perfil "UNAM FCA" y de acuerdo a la estructura del algoritmo aprendida en la clase, en la lista de ejercicios, según su número de lista de grupo.
+  
+  *Número de Lista*:(Ejercicios): **1**:(4, 8), **2**:(15, 34), **3**:(8, 23), **4**:(25, 17), **5**:(13, 38), **6**:(33, 2), **7**:(42, 15), **8**:(6, 35), **9**:(29, 2), **10**:(24, 26), **11**:(16, 30), **12**:(13, 37), **13**:(8, 42), **14**:(10, 42), **15**:(22, 24), **16**:(7, 28); **17**:(19, 11), **18**:(6, 34), **19**:(44, 1), **20**:(29 24), **21**:(8, 38), **22**:(27, 14), **23**:(34, 24), **24**:(21, 42).
+     
+  Cada ejercicio debe crearse en un archivo con el nombre del número de algoritmo y el título del algorimo. Por ejemplo, para el primer algoritmo llamado "Promedio", le correpondería el nombre de *01. Promedio.psc*. 
+     
+  Cuando sea necesario, corrija el algoritmo para que los cálculos se realizcen de manera correcta y genere la salida respectiva. Incluya las modificaciones para que el algoritmo se ejecute de manera iterativa y termine de manera elegante. Incluya los comentarios respectivos en cada parte y los datos para identificarlo a usted como autor de las modificaciones y al autor, con la referencia bibliográfica original. Por último, pruebe que los algoritmos son correctos.
+     
+  Guarde el pseudocódigo del algoritmo (en formato *psc*) y el diagrama de flujo (como imagen) y suba sus archivos a su cuenta de Google Drive en el diretorio respectivo de la tarea y comparta el link con el profesor.
+
+- *Práctica 2.5. Entorno de programación para R*. (Entrega: opcional). 
+
+  *Objetivo*: Aprender a utilizar el ambiente básico de programación RStudio para R.
+  
+  *Parte 1*: En equipo, active su cuenta para usar [RStudio en la nube](https://posit.cloud). Instale el módulo rio y ejecute un script para la importación, exportación y conversión de archivos. Instale por lo menos dos entornos gráficos para R, adicionales a RStudio, de esta [lista](https://aplicacionestop.com/10-mejores-interfaces-graficas-usuario-programacion-gratuita-r/).  
+  
+  *Parte 2*: Aprenda lo básico de la ejecución de código R en un *script* y en un documento [RMarkdown](https://www.youtube.com/watch?v=ec8X7PSgLBs), incluyendo el uso de [LaTeX](https://www.hostmath.com/). 
+  
+  Reflexione sobre el potencial que tiene esta tecnología en un video, a modo de tutorial, y súbalo a su Google Drive.  
+
+##### Bibliografía Obligatoriaria:
+- Khosrow-Pour, M. (2007). [Dictionary of information science and technology](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey PA, USA: Idea Group.
+- Martín, C., Rubio, M. A., Urquía, A. (2011). [Lenguajes de programación](https://libgen.rs/book/index.php?md5=006E57DF6867BBF1B3BAE332475E72AD). Madrid: Universidad Nacional de Educación a Distancia (UNED).
+
+##### Bibliografía Complementaria:
+- Butterfield, A., Ngondi, G. E. (2016). [A dictionary of computer science (Oxford Quick Reference)](https://libgen.rs/book/index.php?md5=2FD856C4E6BC92CFA8DEB03F1B621A73). Oxford University Press.	
+- IEEE (1987). [IEEE standard glossary of computer applications terminology](https://libgen.rs/book/index.php?md5=4F816603DBBF6AEB60B92FCCC59762A1). New York: Institute of 
+Electrical & Electronics Engineers (IEEE). 
+- Laplante, P. A. (2017). [Dictionary of computer science, engineering and technology](https://libgen.rs/book/index.php?md5=C2FEF4DC36C84134ABA1E5698E913F73).	Boca Raton, FL, USA: CRC Press.  
+- Baruffa, O. (2022, Jan 13). [Big book of R](https://www.bigbookofr.com/). (Sitio web) (La compilación más grande de libros y fuentes documentales sobre R).
+
+Videos:
+- [Aprende a programar en 11 minutos](https://www.youtube.com/watch?v=TAyyujKoY6k).  
+- Manik. (2020, Dec 6). [¿Cómo funciona la codificación de caracteres?: ASCII / Unicode](https://www.youtube.com/watch?v=M_yNoV3c8DY). *YouTube*. (7:50 min).  
+- UNAM Sepacomputo canal. (2016, Jan 29). [Unidades: Bit, byte, kilobyte, megabyte, gigabyte, terabyte, petabyte, exabyte y zettabyte](https://www.youtube.com/watch?v=byFsxEEQE3U). *YouTube*. (10:30 min).  
+- UNAM Sepacomputo canal. (2016, Jan 26). [Tipos de archivos](https://www.youtube.com/watch?v=LbopJOLgo5g). *YouTube*. (6:51 min).  
+- [RMarkdown](https://www.youtube.com/watch?v=tE8cgL1P-U0).  
+- [curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw).  
+- Nasir Ahmed. (2022, Jan 1). [El algoritmo que transformó al mundo. La historia de Nasir Ahmed](https://www.youtube.com/watch?v=nNmREQIF4Ik). *YouTube*. (18:33 min).  
+
+Software:
+- [Lenguaje R](https://www.r-project.org/)
+- [RStudio, IDE para R](https://posit.co/products/open-source/rstudio/), [RStudio en línea](https://posit.cloud/)
+- [PseInt](https://pseint.sourceforge.net/) [guía de PSeInt con ejemplos](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/), [PSeInt Portable](https://sourceforge.net/projects/pseint/files/20210609/pseint-w32-20210609.zip/download?use_mirror=gigenet&download=).
+
+#### Unidad 3. Sistemas operativos
 1. Definición e historia
 2. Sistemas operativos libres y privativos
 3. Funciones principales
 4. Tareas y prácticas:
 
-### Bibliografía Complementaria:
+
+##### Bibliografía Complementaria:
 - Dr. Beco. (2022, Jun 7). [The Code | Story of(Linux).documentary](https://www.youtube.com/watch?v=O1rCOSnuBEs). *YouTube*. (video) (58:53 min).
 - [ibiblio](https://www.ibiblio.org/). El mayor repositorio de colecciones de trabajos bajo el dominio público que incluye fotos, libros, clipart, revistas y música!
 - Edge Seguridad Informática y SysAdmin. (2022, Apr 3). [RHCSA 8](https://www.youtube.com/watch?v=Dt4agP6iBuQ&list=PLzjjPeOioSgdoQEWFIRZKQivjvilS8WBU). *YouTube*. (58 videos). [Curso de capacitación para aprobar la certificación Red Hat Certified System Administrator (RHCSA) (EX200)] (muy recomendable).  
@@ -211,12 +308,19 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - Sintes, B. (2017). [Catálogo de Software Libre](http://www.cdlibre.org/index.html). 
 - Wheeler, D. A. (2015). *[Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!](https://www.dwheeler.com/oss_fs_why.html)*. ([Traducción automática al español](https://translate.google.com/translate?sl=auto&tl=es&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fwww.dwheeler.com%2Foss_fs_why.html&edit-text=)) ([Versión al español](http://hispalinux.es/informes/wheeler/index.html) de 2001).
 
-## Modalidades de Evaluación
+#### Unidad 4. Bases de datos
+1. Introducción
+2. Bases de datos relacionales
+3. Sistemas de información
+4. Tareas y prácticas:
 
-### Evaluación Global
+
+### Modalidades de Evaluación
+
+#### Evaluación Global
 La asistencia puntual a la clase es obligatoria, según el reglamento de estudios. Es importante la *participación activa clase a clase*. La falta de participación en clase y la no entrega de sus reportes de prácticas a lo largo del trimestre, tendrá repercusiones en la evaluación final que puede llegar a la reprobación del curso. Ver porcentajes de ponderación de calificación.
 
-#### Calificación
+##### Calificación
 | Factor | Porcentaje | Observaciones |
 | :---: | :---: | ------------- |
 | Asistencia puntual | 0% |  |
@@ -234,5 +338,5 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 
 La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
 
-#### Evaluación de Recuperación
+##### Evaluación de Recuperación
 La *evaluación de recuperación* no será aplidada por el profesor, sino por la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente, por lo que deberá coordinarse con la Coordinadora de la Licenciatura.
