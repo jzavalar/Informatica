@@ -189,7 +189,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
       - Técnicas: Recursión y divide y vencerás  
       - Ejemplos: Cálculo, decisión y ordenación.     
 4. Tareas y Prácticas  
-- *Tarea 2.1. Conceptos básicos de software*. (Entrega: 8 de noviembre de 2022).
+- *Tarea 2.1. Conceptos básicos de software*. (Entrega: 6 de marzo de 2023).
 
   *Objetivos*: Aprender a diseñar mapas conceptuales con una herramienta de software.
     
@@ -213,7 +213,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
     
   Suba los archivos a su cuenta de Google Drive donde corresponda.
 
-- *Práctica 2.2. Sistemas de codificación*. (Entrega: 27 de febrero de 2023).
+- *Práctica 2.2. Sistemas de codificación*. (Entrega: 8 de marzo de 2023).
 
   *Objetivos*: Aprender los fundamentos de los sistemas de codificación de texto.
     
@@ -227,7 +227,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   *Parte 5*: Documente en un video de hasta 10 minutos sus conclusiones y su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
-- *Práctica 2.3. Pseudocódigo*. (Entrega: ).
+- *Práctica 2.3. Pseudocódigo*. (Entrega: 13 de marzo de 2023).
 
   *Objetivo*: Comprender y poner en práctica los conceptos de algoritmo, pseudocódigo y diagrama de flujo.
     
@@ -239,7 +239,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
   
-- *Práctica 2.4. Algoritmos*. (Entrega:).
+- *Práctica 2.4. Algoritmos*. (Entrega: 15 de marzo de 2023).
 
   *Objetivo*: Poner a prueba sus conocimientos sobre algoritmos y pseudocódigo.
     
@@ -253,7 +253,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
      
   Guarde el pseudocódigo del algoritmo (en formato *psc*) y el diagrama de flujo (como imagen) y suba sus archivos a su cuenta de Google Drive en el diretorio respectivo de la tarea y comparta el link con el profesor.
 
-- *Práctica 2.5. Entorno de programación para R*. (Entrega: opcional). 
+- *Práctica 2.5. Entorno de programación para R*. (Entrega: opcional: 15 de marzo de 2023). 
 
   *Objetivo*: Aprender a utilizar el ambiente básico de programación RStudio para R.
   
@@ -298,9 +298,9 @@ Software:
 ##### Bibliografía Complementaria:
 - Dr. Beco. (2022, Jun 7). [The Code | Story of(Linux).documentary](https://www.youtube.com/watch?v=O1rCOSnuBEs). *YouTube*. (video) (58:53 min).
 - [ibiblio](https://www.ibiblio.org/). El mayor repositorio de colecciones de trabajos bajo el dominio público que incluye fotos, libros, clipart, revistas y música!
-- Edge Seguridad Informática y SysAdmin. (2022, Apr 3). [RHCSA 8](https://www.youtube.com/watch?v=Dt4agP6iBuQ&list=PLzjjPeOioSgdoQEWFIRZKQivjvilS8WBU). *YouTube*. (58 videos). [Curso de capacitación para aprobar la certificación Red Hat Certified System Administrator (RHCSA) (EX200)] (muy recomendable).  
-- - Nate Gentile. (2017, Feb 19). Entiende Linux y el software libre de una vez. *YouTube* [video]. (17:41 min). ([url](https://www.youtube.com/watch?v=UUJ0dFpj1-M)).
-- Nate Gentile. (2018, Dic 16). ¿Por qué Linux no es popular?. *YouTube* [video]. (13:26 min). ([url](https://www.youtube.com/watch?v=NDhJfHhe3e4)).
+- Edge Seguridad Informática y SysAdmin. (2022, Apr 3). [RHCSA 8](https://www.youtube.com/watch?v=Dt4agP6iBuQ&list=PLzjjPeOioSgdoQEWFIRZKQivjvilS8WBU). *YouTube*. (58 videos). Curso de capacitación para aprobar la certificación Red Hat Certified System Administrator (RHCSA) (EX200) (muy recomendable).  
+- Nate Gentile. (2017, Feb 19). [Entiende Linux y el software libre de una vez](https://www.youtube.com/watch?v=UUJ0dFpj1-M). *YouTube* (video). (17:41 min).
+- Nate Gentile. (2018, Dic 16). [¿Por qué Linux no es popular?](https://www.youtube.com/watch?v=NDhJfHhe3e4). *YouTube* (video). (13:26 min).
 - SourceForge (2022). [SourceForge](https://sourceforge.net/) [Catálogo de Software Libre y Abierto].
 - Stallings, W. (2005). *Sistemas operativos: Aspectos internos y principios de diseño* (pp. 53-104). México: Pearson-Prentice-Hall. ([url](http://cotana.informatica.edu.bo/downloads/Sistemas%20Operativos.pdf)).
 - Tanembaum, A. S (2009). *Sistemas operativos modernos*. México: Pearson Educación. ([url](https://norbertomn.files.wordpress.com/2013/09/sistemas-operativos-modernos.pdf)).
