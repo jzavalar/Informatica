@@ -264,14 +264,14 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   Reflexione sobre el potencial que tiene esta tecnología en un video, a modo de tutorial, y súbalo a su Google Drive.  
 
 ##### Bibliografía Obligatoriaria:
-- Khosrow-Pour, M. (2007). [Dictionary of information science and technology](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey PA, USA: Idea Group.
-- Martín, C., Rubio, M. A., Urquía, A. (2011). [Lenguajes de programación](https://libgen.rs/book/index.php?md5=006E57DF6867BBF1B3BAE332475E72AD). Madrid: Universidad Nacional de Educación a Distancia (UNED).
+- Khosrow-Pour, M. (2007). [*Dictionary of information science and technology*](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey PA, USA: Idea Group.
+- Martín, C., Rubio, M. A., Urquía, A. (2011). [*Lenguajes de programación*](https://libgen.rs/book/index.php?md5=006E57DF6867BBF1B3BAE332475E72AD). Madrid: Universidad Nacional de Educación a Distancia (UNED).
 
 ##### Bibliografía Complementaria:
-- Butterfield, A., Ngondi, G. E. (2016). [A dictionary of computer science (Oxford Quick Reference)](https://libgen.rs/book/index.php?md5=2FD856C4E6BC92CFA8DEB03F1B621A73). Oxford University Press.	
-- IEEE (1987). [IEEE standard glossary of computer applications terminology](https://libgen.rs/book/index.php?md5=4F816603DBBF6AEB60B92FCCC59762A1). New York: Institute of 
+- Butterfield, A., Ngondi, G. E. (2016). [*A dictionary of computer science (Oxford Quick Reference)*](https://libgen.rs/book/index.php?md5=2FD856C4E6BC92CFA8DEB03F1B621A73). Oxford University Press.	
+- IEEE (1987). [*IEEE standard glossary of computer applications terminology*](https://libgen.rs/book/index.php?md5=4F816603DBBF6AEB60B92FCCC59762A1). New York: Institute of 
 Electrical & Electronics Engineers (IEEE). 
-- Laplante, P. A. (2017). [Dictionary of computer science, engineering and technology](https://libgen.rs/book/index.php?md5=C2FEF4DC36C84134ABA1E5698E913F73).	Boca Raton, FL, USA: CRC Press.  
+- Laplante, P. A. (2017). [*Dictionary of computer science, engineering and technology*](https://libgen.rs/book/index.php?md5=C2FEF4DC36C84134ABA1E5698E913F73).	Boca Raton, FL, USA: CRC Press.  
 - Baruffa, O. (2022, Jan 13). [Big book of R](https://www.bigbookofr.com/). (Sitio web) (La compilación más grande de libros y fuentes documentales sobre R).
 
 Videos:
@@ -280,7 +280,7 @@ Videos:
 - UNAM Sepacomputo canal. (2016, Jan 29). [Unidades: Bit, byte, kilobyte, megabyte, gigabyte, terabyte, petabyte, exabyte y zettabyte](https://www.youtube.com/watch?v=byFsxEEQE3U). *YouTube*. (10:30 min).  
 - UNAM Sepacomputo canal. (2016, Jan 26). [Tipos de archivos](https://www.youtube.com/watch?v=LbopJOLgo5g). *YouTube*. (6:51 min).  
 - [RMarkdown](https://www.youtube.com/watch?v=tE8cgL1P-U0).  
-- [curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw).  
+- [Curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw).  
 - Nasir Ahmed. (2022, Jan 1). [El algoritmo que transformó al mundo. La historia de Nasir Ahmed](https://www.youtube.com/watch?v=nNmREQIF4Ik). *YouTube*. (18:33 min).  
 
 Software:
@@ -294,19 +294,17 @@ Software:
 3. Funciones principales
 4. Tareas y prácticas:
 
-
 ##### Bibliografía Complementaria:
 - Dr. Beco. (2022, Jun 7). [The Code | Story of(Linux).documentary](https://www.youtube.com/watch?v=O1rCOSnuBEs). *YouTube*. (video) (58:53 min).
 - [ibiblio](https://www.ibiblio.org/). El mayor repositorio de colecciones de trabajos bajo el dominio público que incluye fotos, libros, clipart, revistas y música!
 - Edge Seguridad Informática y SysAdmin. (2022, Apr 3). [RHCSA 8](https://www.youtube.com/watch?v=Dt4agP6iBuQ&list=PLzjjPeOioSgdoQEWFIRZKQivjvilS8WBU). *YouTube*. (58 videos). Curso de capacitación para aprobar la certificación Red Hat Certified System Administrator (RHCSA) (EX200) (muy recomendable).  
 - Nate Gentile. (2017, Feb 19). [Entiende Linux y el software libre de una vez](https://www.youtube.com/watch?v=UUJ0dFpj1-M). *YouTube* (video). (17:41 min).
 - Nate Gentile. (2018, Dic 16). [¿Por qué Linux no es popular?](https://www.youtube.com/watch?v=NDhJfHhe3e4). *YouTube* (video). (13:26 min).
-- SourceForge (2022). [SourceForge](https://sourceforge.net/) [Catálogo de Software Libre y Abierto].
-- Stallings, W. (2005). *Sistemas operativos: Aspectos internos y principios de diseño* (pp. 53-104). México: Pearson-Prentice-Hall. ([url](http://cotana.informatica.edu.bo/downloads/Sistemas%20Operativos.pdf)).
-- Tanembaum, A. S (2009). *Sistemas operativos modernos*. México: Pearson Educación. ([url](https://norbertomn.files.wordpress.com/2013/09/sistemas-operativos-modernos.pdf)).
-- Wolf, G., Ruiz, E., Bergero, F. & Meza, E. (2015). *Fundamentos de sistemas operativos*. México: Universidad Nacional Autónoma de México. ([url](https://www.researchgate.net/publication/305994090_Fundamentos_de_sistemas_operativos)). ([Introducción](http://gwolf.sistop.org/laminas/02-introduccion.pdf), [Archivos y Directorios](http://gwolf.sistop.org/laminas/14-archivos-y-directorios.pdf)).
+- SourceForge (2022). [SourceForge](https://sourceforge.net/) (Catálogo de Software Libre y Abierto).
+- Stallings, W. (2005). *Sistemas operativos: Aspectos internos y principios de diseño* (pp. 53-104). México: Pearson-Prentice-Hall. ([pdf](http://cotana.informatica.edu.bo/downloads/Sistemas%20Operativos.pdf)).
+- Tanembaum, A. S (2009). *Sistemas operativos modernos*. México: Pearson Educación. ([pdf](https://norbertomn.files.wordpress.com/2013/09/sistemas-operativos-modernos.pdf)).
 - Sintes, B. (2017). [Catálogo de Software Libre](http://www.cdlibre.org/index.html). 
-- Wheeler, D. A. (2015). *[Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!](https://www.dwheeler.com/oss_fs_why.html)*. ([Traducción automática al español](https://translate.google.com/translate?sl=auto&tl=es&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fwww.dwheeler.com%2Foss_fs_why.html&edit-text=)) ([Versión al español](http://hispalinux.es/informes/wheeler/index.html) de 2001).
+- Wheeler, D. A. (2015). *[Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!](https://www.dwheeler.com/oss_fs_why.html)*. ([Versión al español](http://hispalinux.es/informes/wheeler/index.html) de 2001).
 
 #### Unidad 4. Bases de datos
 1. Introducción
