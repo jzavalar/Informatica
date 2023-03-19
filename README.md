@@ -253,15 +253,17 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
      
   Guarde el pseudocódigo del algoritmo (en formato *psc*) y el diagrama de flujo (como imagen) y suba sus archivos a su cuenta de Google Drive en el diretorio respectivo de la tarea y comparta el link con el profesor.
 
-- *Práctica 2.5. Entorno de programación para R*. (Entrega: opcional: 15 de marzo de 2023). 
+- *Práctica 2.5. Entorno de programación para R*. (Entrega: opcional: por definir). 
 
   *Objetivo*: Aprender a utilizar el ambiente básico de programación RStudio para R.
   
-  *Parte 1*: En equipo, active su cuenta para usar [RStudio en la nube](https://posit.cloud). Instale el módulo rio y ejecute un script para la importación, exportación y conversión de archivos. Instale por lo menos dos entornos gráficos para R, adicionales a RStudio, de esta [lista](https://aplicacionestop.com/10-mejores-interfaces-graficas-usuario-programacion-gratuita-r/).  
+  *Parte 1*: En equipo, active su cuenta para usar [RStudio en la nube](https://posit.cloud). Cree un proyecto llamado *Informatica*. Aprenda lo básico de la ejecución de código R en un [*script*](https://www.youtube.com/watch?v=ejQ0BS2gVJI). Luego, instale por lo menos dos entornos gráficos para R, adicionales a RStudio, de esta [lista](https://aplicacionestop.com/10-mejores-interfaces-graficas-usuario-programacion-gratuita-r/).  
   
-  *Parte 2*: Aprenda lo básico de la ejecución de código R en un *script* y en un documento [RMarkdown](https://www.youtube.com/watch?v=ec8X7PSgLBs), incluyendo el uso de [LaTeX](https://www.hostmath.com/). 
+  *Parte 2*: Abra el proyecto creado en la *Parte 1*. Instale el módulo rio. Suba el [script para la importación, exportación y conversión de archivos](https://drive.google.com/file/d/15W7CjN2TmjFo5OSXbbftaWCwm8DagNWo/view?usp=sharing). Adapte y ejecute el script para que funcione correctamente.  
+
+  *Parte 3*: Luego, repase este [tutorial](https://www.youtube.com/watch?v=6Qj8yBFgT9Q). Suba el archivo [Programacion.Rmd]() al directorio respectivo del proyecto. Abra el archivo y compílelo con knitr para generar el archivo HTML. Ahora estúdielo como repaso de PSeInt.  
   
-  Reflexione sobre el potencial que tiene esta tecnología en un video, a modo de tutorial, y súbalo a su Google Drive.  
+  Repita la práctica y haga un video de la práctica como su entregable. Repita la práctica y haga un video de la práctica como su entregable. Reflexione sobre el potencial que tiene esta tecnología en un video, a modo de tutorial, y súbalo a su Google Drive.  
 
 ##### Bibliografía Obligatoriaria:
 - Khosrow-Pour, M. (2007). [*Dictionary of information science and technology*](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey PA, USA: Idea Group.
