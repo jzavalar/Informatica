@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Programación de computadoras
+# Programación de computadoras en pseudocódigo
 
 Estas notas de clase pretenden servir para estudiar programación y la conversion de pseudocódigo a un lenguaje de programación real como R.
 
