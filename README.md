@@ -261,7 +261,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   *Parte 2*: Abra el proyecto creado en la *Parte 1*. Instale el módulo rio. Suba el [script para la importación, exportación y conversión de archivos](https://drive.google.com/file/d/15W7CjN2TmjFo5OSXbbftaWCwm8DagNWo/view?usp=sharing). Adapte y ejecute el script para que funcione correctamente.  
 
-  *Parte 3*: Luego, repase este [tutorial](https://www.youtube.com/watch?v=6Qj8yBFgT9Q). Suba el archivo [Programacion.Rmd](https://github.com/jzavalar/2211088-informatica/blob/main/Programacion-en-Pseudocodigo.Rmd) al directorio respectivo del proyecto. Abra el archivo y compílelo con knitr para generar el archivo HTML. Ahora estúdielo como repaso de PSeInt.  
+  *Parte 3*: Luego, repase este [tutorial](https://www.youtube.com/watch?v=6Qj8yBFgT9Q). Suba el archivo [Programacion-en-Pseudocodigo.Rmd](https://github.com/jzavalar/2211088-informatica/blob/main/Programacion-en-Pseudocodigo.Rmd) al directorio respectivo del proyecto. Abra el archivo y compílelo con knitr para generar el archivo HTML. Ahora estúdielo como repaso de PSeInt.  
   
   Repita la práctica y haga un video de la práctica como su entregable. Repita la práctica y haga un video de la práctica como su entregable. Reflexione sobre el potencial que tiene esta tecnología en un video, a modo de tutorial, y súbalo a su Google Drive.  
 
