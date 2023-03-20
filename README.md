@@ -253,7 +253,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
      
   Guarde el pseudocódigo del algoritmo (en formato *psc*) y el diagrama de flujo (como imagen) y suba sus archivos a su cuenta de Google Drive en el diretorio respectivo de la tarea y comparta el link con el profesor.
 
-- *Práctica 2.5. Entorno de programación para R*. (Entrega: opcional: por definir). 
+- *Práctica 2.5. De pseudocódigo a R*. (Entrega: por definir; medio punto adicional). 
 
   *Objetivo*: Aprender a utilizar el ambiente básico de programación RStudio para R.
   
@@ -261,9 +261,9 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   *Parte 2*: Abra el proyecto creado en la *Parte 1*. Instale el módulo rio. Suba el [script para la importación, exportación y conversión de archivos](https://drive.google.com/file/d/15W7CjN2TmjFo5OSXbbftaWCwm8DagNWo/view?usp=sharing). Adapte y ejecute el script para que funcione correctamente.  
 
-  *Parte 3*: Luego, repase este [tutorial](https://www.youtube.com/watch?v=6Qj8yBFgT9Q). Suba el archivo [Programacion-en-Pseudocodigo.Rmd](https://github.com/jzavalar/2211088-informatica/blob/main/Programacion-en-Pseudocodigo.Rmd) al directorio respectivo del proyecto. Abra el archivo y compílelo con knitr para generar el archivo HTML. Ahora estúdielo como repaso de PSeInt.  
+  *Parte 3*: Luego, repase este [tutorial de RMarkdown](https://www.youtube.com/watch?v=6Qj8yBFgT9Q). Suba el archivo [Programacion-en-Pseudocodigo.Rmd](https://github.com/jzavalar/2211088-informatica/blob/main/Programacion-en-Pseudocodigo.Rmd) al directorio respectivo del proyecto. Abra el archivo y compílelo con knitr para generar el archivo HTML. **Ahora estúdielo como repaso de PSeInt**.  
   
-  Repita la práctica y haga un video de la práctica como su entregable. Repita la práctica y haga un video de la práctica como su entregable. Reflexione sobre el potencial que tiene esta tecnología en un video, a modo de tutorial, y súbalo a su Google Drive.  
+  Haga un video de la práctica como su entregable. Reflexione sobre el potencial que tiene esta tecnología en un video, a modo de tutorial, y súbalo a su Google Drive.  
 
 ##### Bibliografía Obligatoriaria:
 - Khosrow-Pour, M. (2007). [*Dictionary of information science and technology*](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey PA, USA: Idea Group.
