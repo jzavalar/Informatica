@@ -263,7 +263,9 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   *Parte 3*: Luego, repase este [tutorial de RMarkdown](https://www.youtube.com/watch?v=6Qj8yBFgT9Q). Suba el archivo [Programacion-en-Pseudocodigo.Rmd](https://github.com/jzavalar/2211088-informatica/blob/main/Programacion-en-Pseudocodigo.Rmd) al directorio respectivo del proyecto. Abra el archivo y compílelo con knitr para generar el archivo HTML. **Ahora estúdielo como repaso de PSeInt**.  
   
-  Haga un video de la práctica como su entregable. Reflexione sobre el potencial que tiene esta tecnología en un video, a modo de tutorial, y súbalo a su Google Drive.  
+  *Parte 4*: Tome como base el tutorial [Programacion-en-Pseudocodigo.Rmd](https://github.com/jzavalar/2211088-informatica/blob/main/Programacion-en-Pseudocodigo.Rmd) e identifique las instrucciones equivalentes en R que encuentre en el [tutorial de R](https://sparkbyexamples.com/r-tutorial-with-examples/). En el directorio respectivo del proyecto, cree un archivo RMarkdown que sea la síntesis 1 a 1 del tutorial *Programacion en Pseudocodigo*. Compílelo con knitr para generar el archivo HTML. El archivo RMarkdown es su entregable.  
+
+Haga un video de la práctica de las partes 1 a 3 y reflexione sobre el potencial que tiene esta tecnología a modo de tutorial y súbalo a su Google Drive.  
 
 ##### Bibliografía Obligatoriaria:
 - Khosrow-Pour, M. (2007). [*Dictionary of information science and technology*](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey PA, USA: Idea Group.
