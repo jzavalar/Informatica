@@ -243,7 +243,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   *Objetivo*: Poner a prueba sus conocimientos sobre algoritmos y pseudocódigo.
     
-  *Parte 1*: Primero, modifique y corrija el pseudocódigo propuesto por [Rodríguez (s.f.)](https://docs.google.com/document/d/1Uc9Cfld53Guia5ErtmGCnByUttV_3Jc-/edit?usp=sharing&ouid=108201401516590627031&rtpof=true&sd=true), de acuerdo a las reglas de PseInt configuradas en el perfil "UNAM FCA" y de acuerdo a la estructura del algoritmo aprendida en la clase, en la lista de ejercicios, según su número de lista de grupo.
+  Primero, modifique y corrija el pseudocódigo propuesto por [Rodríguez (s.f.)](https://docs.google.com/document/d/1Uc9Cfld53Guia5ErtmGCnByUttV_3Jc-/edit?usp=sharing&ouid=108201401516590627031&rtpof=true&sd=true), de acuerdo a las reglas de PseInt configuradas en el perfil "UNAM FCA" y de acuerdo a la estructura del algoritmo aprendida en la clase, en la lista de ejercicios, según su número de lista de grupo.
   
   *Número de Lista*:(Ejercicios): **1**:(4, 8), **2**:(15, 34), **3**:(8, 23), **4**:(25, 17), **5**:(13, 38), **6**:(33, 2), **7**:(42, 15), **8**:(6, 35), **9**:(29, 2), **10**:(24, 26), **11**:(16, 30), **12**:(13, 37), **13**:(8, 42), **14**:(10, 42), **15**:(22, 24), **16**:(7, 28); **17**:(19, 11), **18**:(6, 34), **19**:(44, 1), **20**:(29 24), **21**:(8, 38), **22**:(27, 14), **23**:(34, 24), **24**:(21, 42).
      
@@ -265,7 +265,9 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   *Parte 4*: Tome como base el tutorial [Programacion-en-Pseudocodigo.Rmd](https://github.com/jzavalar/2211088-informatica/blob/main/Programacion-en-Pseudocodigo.Rmd) e identifique las instrucciones equivalentes en R que encuentre en el [tutorial de R](https://sparkbyexamples.com/r-tutorial-with-examples/). En el directorio respectivo del proyecto, cree un archivo RMarkdown que sea la síntesis 1 a 1 del tutorial *Programacion en Pseudocodigo*. Compílelo con knitr para generar el archivo HTML. El archivo RMarkdown es su entregable.  
 
-Haga un video de la práctica de las partes 1 a 3 y reflexione sobre el potencial que tiene esta tecnología a modo de tutorial y súbalo a su Google Drive.  
+  *Parte 5*: Pruebe sus conocimientos implantando en un par de funciones en R, los algoritmos que implantó en PseInt en la *Práctica 2.4.* en un archivo RMarkdown, exponiendo en primer lugar el pseudocódigo y luego el código en R.  
+
+Haga un video de la práctica de las partes 1 a 3 y R y reflexione sobre el potencial que tiene esta tecnología a modo de tutorial y súbalo a su Google Drive.  
 
 ##### Bibliografía Obligatoriaria:
 - Khosrow-Pour, M. (2007). [*Dictionary of information science and technology*](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey PA, USA: Idea Group.
