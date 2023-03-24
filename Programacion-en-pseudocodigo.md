@@ -763,7 +763,7 @@ En pseudocódigo PSeInt, una instrucción repetitiva `Para` se puede escribir co
     FinProceso
 ```
 
-**Notas:** 
+## Referencias 
 [^1]: PseInt. <https://pseint.sourceforge.net/>
 [^2]: Online historical encyclopaedia of programming languages. <https://hopl.info/>
 [^3]: PseInt. <https://pseint.sourceforge.net/>
