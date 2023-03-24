@@ -19,11 +19,8 @@ La *programación de computadoras* es la creación, escritura o o *codificación
 
 El *pseudocódigo* (*pseudocode*) es un lenguaje artificial que permite dar instrucciones a la computadora en lenguaje natural que tiene una sintaxis relativamente laxa y no estandarizada es fácil de leer y permite enfocarse en la abstracción lógica de un algoritmo. El pseudocódigo se utiliza para aprender programación y para diseñar los algoritmos, una tarea que precede a su implantación en un verdadero lenguaje de programación. Existen distintas herramientas automatizadas que implantan pseudódigo, pero en su mayoría en el idioma inglés, por lo que la existencia del Intérprete de Pseudocódigo [*PseInt*](https://pseint.sourceforge.net/)[^1] en español, es una gran ventaja para los estudiantes hispanohablantes. La obra clásica de algoritmos (en pseudocódigo) es la obra *The art of computer programming*, en 5 volúmenes, de Donald E. Knuth.
 
-[^1]: PseInt. <https://pseint.sourceforge.net/>
-
 Los *verdaderos lenguajes de programación* o simplemente lenguajes de programación son lenguajes artificiales que se utilizan para programar computadoras y, por lo tanto, están basados en una sintaxis estricta. El primer lenguaje de programación fue ForTran (*For*mula *Tran*slating system) en 1957 para el cálculo científico y el segundo fue CoBol en 1959, que siguen vigentes y relativamente actualizados. Desde entonces se han desarrollado lenguajes de programación con gramáticas formales, conocidas como Backus-Naar Form o BNF. En la actualidad, se reportan entre 600 y 2500 u 8945 lenguajes de programación creados[^2], dependiendo de la fuente, la mayoría desconocidos; sin embargo, con conocer uno es suficiente. Existen también, muchas herramientas de programación: editores, compiladores, intérpretes, debuggers e IDEs para el desarrollo de software profesional.
 
-[^2]: Online historical encyclopaedia of programming languages. <https://hopl.info/>
 
 ## 2. Algoritmo en pseudocódigo
 
@@ -31,11 +28,7 @@ El código fuente se escribe con las instrucciones del *algoritmo* según las re
 
 El *pseudocódigo* es un lenguaje intermedio entre el lenguaje natural y un verdadero lenguaje de programación como R o Python, que es utilizado para dar instrucciones a una computadora con fines didácticos. Cuando el pseudocódigo se implanta en un intérprete como [*PseInt*](https://pseint.sourceforge.net/)[^3], puede verse en acción la ejecución de cada instrucción, como si fuera un verdadero *lenguaje de programación*.
 
-[^3]: PseInt. <https://pseint.sourceforge.net/>
-
 PSeInt es la contracción de "*PSe*udocode *Int*erpreter" (Intérprete de Pseudocódigo). Inicialmente, PSeInt fue el resultado de un proyecto final para la materia Programación I, de la carrera de Ingeniería en Informática, de la Facultad de Ingeniería y Ciencias Hídricas de la Universidad Nacional del Litoral (FICH-UNL), Argentina, por el Ing. Pablo Novara, entonces estudiante, en diciembre de 2003[^4]. El PSeInt tomó como base el pseudocódigo usado por sus profesores, el Ing. Horacio Loyarte y el Dr. Diego Milone (idem). Las premisas del pseudocódigo PSeInt son:
-
-[^4]: Ibañez Reyes, K. D., Lemus Véliz, G. M., Mcknight Cuyuche, K. P., & Villareal Santos, D. J. (s.f.). Historia de Pseint. Blog. Consultado en <https://sites.google.com/site/portafolio4bd8/historia-de-pseint>.
 
 -   Programación estructurada con:
     -   Un programa principal o *Algoritmo o Proceso*,
@@ -51,15 +44,11 @@ PSeInt es la contracción de "*PSe*udocode *Int*erpreter" (Intérprete de Pseudo
 -   Las principales estructuras básicas de control del flujo de control son:
     -   *Condicionales:*
         -   *Simple: Si ... Entonces ... FinSi*
-
         -   Doble: *Si ... Entonces ... SiNo ... FinSi*
-
         -   Múltiple: *Segun*
     -   *Repetitivas:*
         -   *Mientras*
-
         -   *Repetir*
-
         -   *Para*
 
 Las *instrucciones* se construyen con los siguientes elementos básicos: *palabras reservadas*, *variables*, *operadores* y signos de puntación como punto y coma ( `;` ) para identificar el final de una instrucción.
@@ -67,7 +56,7 @@ Las *instrucciones* se construyen con los siguientes elementos básicos: *palabr
 Las *palabras reservadas*, *palabras clave* o *keywords* en pseudocódigo PSeInt son identificadores predefinidos que tienen un significado especial, por lo que esencialmente son la gramática del lenguaje y sirven para crear las instrucciones.
 
 Un *programa* en pseudocódigo consta de ninguna, una o varias funciones o subprocesos y/o un procedimiento principal llamado Algoritmo o Proceso, con la siguiente estructura general:
-
+```
     // La estructura de un algoritmo puede organizarse
     // en Funciones o Subprocesos y un bloque de código
     // principal llamado Proceso o Algoritmo
@@ -110,43 +99,46 @@ Un *programa* en pseudocódigo consta de ninguna, una o varias funciones o subpr
        // Cuerpo
        <bloque_de_instrucciones>
     FinAlgoritmo
+```
 
 En pseudocódigo, cuando no se definen funciones ni suprocesos, el programa en pseudocódigo sólo incluye la palabra reservada *Algoritmo* o *Proceso*, seguida del *nombre del algoritmo* que es utilizada para definir el inicio de un algoritmo. Luego, le sigue una *secuencia de instrucciones* y finaliza con la palabra reservada *FinAlgoritmo* o *FinProceso*.
 
 El ejemplo más simple de esta construcción es el programa *Suma.psc* de la Ayuda de PSeInt, un pequeño algoritmo que *pide al usuario dos números* para *sumarlos* y, después, *muestra el resultado* de la operación, al cual se le han hecho alguna adecuaciones para señalar las partes del algoritmo y el nombre de las variables en minúsculas:
 
-    // suma.psc
+```
+// suma.psc
 
-    // El ejemplo más simple de la Ayuda de PSeInt (2003)
-    // Solicita dos numeros, los suma y muestra el resultado
+// El ejemplo más simple de la Ayuda de PSeInt (2003)
+// Solicita dos numeros, los suma y muestra el resultado
 
-    Proceso Suma
-        // Parte 1: Declarar las variables y su tipo de dato 
-        Definir a, b, c como Reales;
+Proceso Suma
+    // Parte 1: Declarar las variables y su tipo de dato 
+    Definir a, b, c como Reales;
 
-        // Parte 2: Cargar los datos de entrada 
-        // Se le muestra un mensaje al usuario con la instrucción Escribir, y 
-        // luego se lee y almacena cada dato, al mismo tiempo, con la instrucción Leer, 
-        // el primero en la variable a y el segundo en la variable b. 
+    // Parte 2: Cargar los datos de entrada 
+    // Se le muestra un mensaje al usuario con la instrucción Escribir, y 
+    // luego se lee y almacena cada dato, al mismo tiempo, con la instrucción Leer, 
+    // el primero en la variable a y el segundo en la variable b. 
 
-        Escribir "Ingrese el primer número:";
-        Leer a;
+    Escribir "Ingrese el primer número:";
+    Leer a;
 
-        Escribir "Ingrese el segundo número:";
-        Leer b;
+    Escribir "Ingrese el segundo número:";
+    Leer b;
 
-        // Parte 3: Calcular o procesar los datos
-        // Se calcula la suma y se guarda el resultado en la
-        // variable c mediante la operación de asignación ( <- )
+    // Parte 3: Calcular o procesar los datos
+    // Se calcula la suma y se guarda el resultado en la
+    // variable c mediante la operación de asignación ( <- )
         
-        c <- a + b;
+    c <- a + b;
 
-        // Parte 4: Salida de resultados
-        // Finalmente, se muestra el resultado para avisar al usuario,
-        // precedido de un mensaje
-        Escribir "El resultado de sumar ", a , " + " , b , " es: ", c;
+    // Parte 4: Salida de resultados
+    // Finalmente, se muestra el resultado para avisar al usuario,
+    // precedido de un mensaje
+    Escribir "El resultado de sumar ", a , " + " , b , " es: ", c;
 
-    FinProceso
+FinProceso
+```
 
 Este ejemplo sirve para mostrar la estructura básica de un algoritmo o programa que contiene, esencialmente, las tres partes que coinciden con las cuatro funciones de la computadora:\
 1. Carga de datos (*Entrada*)\
@@ -165,6 +157,7 @@ Uno de estos elementos son los *comentarios*, que son instrucciones que no se ej
 
 En pseudocódigo PSeInt un comentario se define con dos diagonales, seguidas del comentario, como sigue:
 
+```
     // Comentario
 
     c <- a + b; // Cálculo
@@ -181,17 +174,15 @@ En pseudocódigo PSeInt un comentario se define con dos diagonales, seguidas del
     // Fecha: 2003
     // Modificado por: prof. J Zavala
     // e-mail: jzr\@xanum.uam.mx
+```
 
 ### 3.2. Variables
 
 Una *variable* en un algoritmo es una posición o almacenamiento de memoria donde se puede guardar un dato, representada por un nombre o *identificador.*
 
 En otras palabras, en pseudocódigo PSeInt, una variable se nombra con las siguientes reglas básicas:
-
 -   Consta de uno o más *caracteres*, con *letras* del alfabeto inglés, el carácter *guión bajo* ( `_` ) o *dígitos* del 0 al 9, por lo que no está permitido el uso de las letras `ñ` y `Ñ`, ni puede contener *acentos*, ni *diéresis*.
-
 -   El primer carácter debe ser una *letra* o el carácter *guión bajo* ( `_` ).
-
 -   El nombre de una variable es *único* dentro de un algoritmo, es decir, debe ser distinto de los nombres de los subprocesos o funciones y distinto de las palabras reservadas y operadores.
 
 Aunque, en PSeInt se pueden usar de manera indistinta las letras mayúsculas y minúsculas como identificadores equivalentes, es una muy buena práctica usar letras o palabras minúsculas, separadas por el carácter *guión bajo* ( `_` ), para identificar a las variables. Ejemplos de identificadores válidos son: `a`, `b`, `c`, `lado_1`, `_total`, `nombre_y_apellido`, `direccion_de_correo`.
@@ -203,26 +194,18 @@ Como su nombre lo indica, el *valor almacenado* en una *variable* puede ir varia
 ### 3.4. Tipos de datos
 
 En PSeInt, las variables (y las constantes) tienen un *tipo de dato* asociado que también se definen con palabras reservadas, tal como se indica a continuación:
-
 -   `Numerico` o `Numericos` para declarar el tipo de dato numérico, indistintamente, de entero o real, tales como `5` y `3.14`.
-
 -   `Entero` o `Enteros` para declarar específicamente el tipo de dato entero, usado para *contar*, tales como `12`, `23`, incluyendo el cero ( `0` ) y valores negativos como `-3`.
-
 -   `Real` o `Reales` para declarar el tipo de dato real, es decir, valores decimales o fraccionarios de unidades que *se miden*, positivos, el cero y negativos, tales como `1.0`, `-2.3`, `0.0` y `3.141592`.
-
 -   Los tipos alfanuméricos pueden ser de dos tipos:
-
     -   `Caracter` o `Caracteres` para representar caracteres y se acostumbra usar un caracter entre apóstrofes ( `'` ), para distinguirlo de las cadenas, tales como `'H'`, `'\'` y `'a'`.
-
     -   `Cadena` o `Cadenas` para declarar *cadenas de caracteres* que se usa para almacenar valores alfanuméricos, tales como nombres, etiquetas y descripciones, por lo que se acostumbra encerrar los valores entre comillas ( `"` ), tales como `"Hola!"`, `"Hola Mundo!"`, `"123"` y `"Juan Pérez"`.
-
 -   `Logico` o `Logicos` para declarar el tipo de dato lógico, que puede tomar uno de los dos valores posibles:
-
     -   `Falso`, `F` o `0` para indicar el valor *FALSO* o *No*.
-
     -   `Verdadero`, `V` o `1` para indicar el valor *VERDADERO* o *Si*.
 
 Cada tipo de dato tiene asociada una serie de operaciones válidas. Por ejemplo, los datos *Numericos* se pueden usar para realizar operaciones matemáticas, los datos alfanuméricos (*Cadenas* o *Caracteres*) pueden concatenarse u obtenerse una subcadena y con los datos *Logicos* se pueden realizar operaciones lógicas de conjunción, disyunción y negación.
+
 
 ### 3.4. Declaración de variables y constantes
 
@@ -232,6 +215,7 @@ En pseudocódigo PSeInt no se pueden declarar variables fuera de un bloque de c�
 
 En PseInt, las variables y las constantes se declaran explícitamente antes de usarse en un bloque de código, con el nombre de la variable y el tipo de dato, según la siguiente sintaxis general:
 
+```
     // Declaración de las variables
     Definir <nombre_de_la_variable_1>, <nombre_de_la_variable_2>, ... Como <tipo_de_dato>;
 
@@ -242,9 +226,11 @@ En PseInt, las variables y las constantes se declaran explícitamente antes de u
     Definir letra Como Caracter;
     Definir nombre Como Cadena;
     Definir es_estudiante Como Logico;
+```
 
 Las *constantes* también se declaran según las mismas reglas que se aplican a las variables, sólo que con identificadores en letras MAYUSCULAS, según la siguiente sintaxis general:
 
+```
     // Declaración de las constantes
     Definir <NOMBRE_DE_LA_CONSTANTE_1>, <NOMBRE_DE_LA_CONSTANTE_2>, ... Como <tipo_de_dato>;
 
@@ -254,6 +240,7 @@ Las *constantes* también se declaran según las mismas reglas que se aplican a 
     Definir LETRA, NUM, SIGNO, ESPACIO_EN_BLANCO Como Caracteres;
     Definir CADENA_VACIA, TITULO, AUTOR Como Cadenas;
     Definir ESTADO, INTERRUPTOR Como Logico;
+```
 
 Si se utiliza el *perfil de lenguaje* por defecto (*Flexible*), la definición explícita es opcional, pero se puede configurar el lenguaje para que sea obligatoria.
 
@@ -263,6 +250,7 @@ La *estructura de datos* es una forma de organización de datos para un manejo y
 
 El pseudocódigo PSeInt sólo permite la declaración de una *estructura de datos*: el *arreglo* (o *array*) que es una lista de valores de tamaño fijo, del *mismo tipo de dato*; por lo que puede haber arreglos de tipo *Numerico*, *Entero*, *Real*, *Caracter* o *Logico*. Además, los arreglos pueden tener *una o más dimensiones*; es decir, arreglos unidimensionales, bidimensionales (matrices) o n-dimensionales. Después de declarar una variable con el tipo de dato, se debe declarar que esa variable es un arreglo de un tamaño y dimensiones específicas, con la siguiente sintaxis general:
 
+```
     // Arreglo unidimensional (vector):
     Dimension <nombre_del_arreglo>[ <tamaño> ];
     Dimension <nombre_del_arreglo_1>[ <tamaño> ], <nombre_del_arreglo_2>[ <tamaño> ];
@@ -288,6 +276,7 @@ El pseudocódigo PSeInt sólo permite la declaración de una *estructura de dato
 
     // Declaracion de de un arreglo tridimensional de 10 x 20 x 30 elementos:
     Dimension tridimensional[10,20,30];
+```
 
 ### 3.6. Inicialización de variables
 
@@ -296,7 +285,6 @@ Después de declarar las variables, éstas deben *inicializarse*, es decir, debe
 En PSeInt, por ejemplo, si una variable se declaró como tipo `Numerico`, ésta se utiliza para guardar *números* y no puede utilizarse para guardar valores de otro tipo, como *Cadena* o *Logico*. Las variables pueden *inicializarse* de dos formas:
 
 1.  Mediante la *lectura* de un dato, que implica capturar el valor desde el teclado y asignarlo a una variable, con la instrucción `Leer` seguida de la lista de variables.
-
 2.  Con una operación de *asignación* `<-` que permite guardar un valor, por ejemplo: `a <- 1; o` si la variable es producto de una operación, almacena el resultado, como `c <- a + b;`.
 
 Por estas características se dice que la *lectura* y la *asignación* son *acciones constructivas*, es decir, de creación de datos, sin embargo, dado que con la asignación el valor de una variable es reemplazado por otro, se dice que es una *operación destructiva*.
@@ -309,6 +297,7 @@ Las constantes se declaran igualmente que las variables, sin embargo, éstas só
 
 A continuación se muestran algunos ejemplos de inicialización de constantes en pseudocódigo PSeInt, con la siguiente sintaxis general:
 
+```
     // Inicializacion de una constante
     <NOMBRE_DE_LA_CONSTANTE> <- <expresión>;
 
@@ -336,6 +325,7 @@ A continuación se muestran algunos ejemplos de inicialización de constantes en
     // Inicializacion de constantes logicas
     ESTADO <- Verdadero;
     INTERRUPTOR <- Falso;
+```
 
 ## 4. Entrada de datos
 
@@ -343,6 +333,7 @@ La entrada de datos es una función principal de la computadora y, en un program
 
 En pseudocódigo PSeInt sólamente se pueden capturar bytes desde el teclado con la palabra reservada `Leer` con la siguiente sintaxis general:
 
+```
     // Lectura de datos e inicializacion de variables
     Leer <variable_1>, ..., <variable_n>;
 
@@ -354,19 +345,23 @@ En pseudocódigo PSeInt sólamente se pueden capturar bytes desde el teclado con
 
     // Otra posibilidad es:
     Leer nombre, apellidos, edad;
+```
 
 Además, en PseInt se puede capturar un teclazo con la palabra reservada `Esperar Tecla` para esperar hasta que el usuario ***presione cualquier tecla***. Se usa la siguiente sintaxis general:
-
+```
     Esperar Tecla; 
+```
 
 En PseInt, existe una funcionalidad similar a la anterior, que con la palabra reservada `Esperar` puede utilizarse para ***suspender temporalmente el algoritmo***, durante un tiempo definido en segundos o milisegundos, con la siguiente sintaxis general:
 
+```
     // Esperar
     Esperar <tiempo> [Segundos | Milisegundos];
 
     // Ejemplos
     Esperar 3 Segundos;
     Esperar 250 Milisegundos;
+```
 
 ## 5. Salida de datos
 
@@ -376,16 +371,19 @@ La *salida de datos* es otra función principal de la computadora que consiste e
 
 En PSeInt, hay varias acciones de salida de datos que se pueden realizar, dependiendo de las necesidades del usuario. En primer lugar, se pueden ***escribir mensajes*** en la pantalla, con la palabra reservada `Escribir`, bajo la siguiente sintaxis general:
 
+```
     // Imprimir mensajes
     Escribir <expresion_l> , <expresion_2> , ... , <expresion_N>;
 
     // Ejemplo
     Escribir nombre, " ", apellidos, " tiene ", edad, "años.";  
+```
 
 ### 5.2. Impresión sin salto de línea
 
 En PSeInt pueden usarse las palabras reservadas `Sin Saltar` para imprimir un mensaje y evitar el salto de línea con la siguiente sintaxis general:
 
+```
     // Opción 1:
     Escribir Sin Saltar <exprl> , ... , <exprN>;
 
@@ -394,17 +392,20 @@ En PSeInt pueden usarse las palabras reservadas `Sin Saltar` para imprimir un me
 
     // Ejemplo
     Escribir Sin Saltar "Nombre? ";
+```
 
 ### 5.3. Borrar pantalla
 
 En pseudocódigo PSeInt se puede usar la palabra reservada `Borrar Pantalla` o `Limpiar Pantalla` para limpiar la pantalla o terminal de salida y colocar el cursor en la esquina superior izquierda, con la siguiente sintaxis general:
-
+```
     Borrar Pantalla;
+```
 
 ### 5.4. Salida y entrada de datos
 
 Es frecuente utilizar las instrucciones de salida y de entrada de datos de manera simultánea para la captura de datos eficaz, como en el siguiente ejemplo:
 
+```
     // Declaración de variables
     Definir nombre, apellidos Como Cadenas;
     Definir edad Como Entero;
@@ -432,6 +433,7 @@ Es frecuente utilizar las instrucciones de salida y de entrada de datos de maner
 
     // Salida
     Escribir nombre, " ", apellidos, " tiene ", edad, "años.";  
+```
 
 ## 6. Procesamiento de datos
 
@@ -508,51 +510,51 @@ Todos los lenguajes de programación tienen implantadas algunas funciones básic
 
 Las funciones en pseudocódigo PSeInt se utilizan en cualquier expresión. A continuación se listan las funciones disponibles para datos *Numericos* y alfanuméricos o tipo *Cadena*:
 
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Función             | Significado                                                                                                                                                                                                          |
-+=====================+======================================================================================================================================================================================================================+
-| ABS(X)              | Devuelve el valor absoluto de X                                                                                                                                                                                      |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| TRUNC(X)            | Devuelve la parte entera de X                                                                                                                                                                                        |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| REDON(X)            | Devuelve el entero más cercano a X                                                                                                                                                                                   |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| RC(X) RAIZ(X)       | Devuelve la raíz cuadrada de X                                                                                                                                                                                       |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| SEN(X)              | Devuelve el seno de X                                                                                                                                                                                                |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| COS(X)              | Devuelve el coseno de X                                                                                                                                                                                              |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| TAN(X)              | Devuelve la tangente de X                                                                                                                                                                                            |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ASEN(X)             | Devuelve el arcoseno de X                                                                                                                                                                                            |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ACOS(X)             | Devuelve el arcocoseno de X                                                                                                                                                                                          |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ATAN(X)             | Devuelve el arcotangente de X                                                                                                                                                                                        |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| LN(X)               | Devuelve el logaritmo natural de X                                                                                                                                                                                   |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| EXP(X)              | Devuelve la función exponencial de X                                                                                                                                                                                 |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| AZAR(X)             | Devuelve el entero aleatorio en el rango [0,X-1]                                                                                                                                                                     |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ALEATORIO(A,B)      | Devuelve el entero aleatorio en el rango [A,B]                                                                                                                                                                       |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| LONGITUD(S)         | Devuelve la cantidad de caracteres de la cadena S                                                                                                                                                                    |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++---------------------+--------------------------------------------------------+
+| Función             | Significado                                            |
++=====================+========================================================+
+| ABS(X)              | Devuelve el valor absoluto de X                        |
++---------------------+--------------------------------------------------------+
+| TRUNC(X)            | Devuelve la parte entera de X                          |
++---------------------+--------------------------------------------------------+
+| REDON(X)            | Devuelve el entero más cercano a X                     |
++---------------------+--------------------------------------------------------+
+| RC(X) RAIZ(X)       | Devuelve la raíz cuadrada de X                         |
++---------------------+--------------------------------------------------------+
+| SEN(X)              | Devuelve el seno de X                                  |
++---------------------+--------------------------------------------------------+
+| COS(X)              | Devuelve el coseno de X                                |
++---------------------+--------------------------------------------------------+
+| TAN(X)              | Devuelve la tangente de X                              |
++---------------------+--------------------------------------------------------+
+| ASEN(X)             | Devuelve el arcoseno de X                              |
++---------------------+--------------------------------------------------------+
+| ACOS(X)             | Devuelve el arcocoseno de X                            |
++---------------------+--------------------------------------------------------+
+| ATAN(X)             | Devuelve el arcotangente de X                          |
++---------------------+--------------------------------------------------------+
+| LN(X)               | Devuelve el logaritmo natural de X                     |
++---------------------+--------------------------------------------------------+
+| EXP(X)              | Devuelve la función exponencial de X                   |
++---------------------+--------------------------------------------------------+
+| AZAR(X)             | Devuelve el entero aleatorio en el rango [0,X-1]       |
++---------------------+--------------------------------------------------------+
+| ALEATORIO(A,B)      | Devuelve el entero aleatorio en el rango [A,B]         |
++---------------------+--------------------------------------------------------+
+| LONGITUD(S)         | Devuelve la cantidad de caracteres de la cadena S      |
++---------------------+--------------------------------------------------------+
 | SUBCADENA(S,X,Y)    | Devuelve una cadena que consiste en la parte de la cadena S que va desde la posición X hasta la posición Y, incluyendo ambos extremos. La primer letra será la 0 o la 1 de acuerdo al perfil del lenguaje utilizado. |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| CONCATENAR(S1,S2)   | Devuelve una cadena que resulta de unir las cadenas S1 y S2                                                                                                                                                          |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| CONVERTIRANUMERO(X) | Devuelve el valor numérico de la cadena de caracteres que contiene un número                                                                                                                                         |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| CONVERTIRATEXTO(S)  | Devuelve la cadena de una variable numérica con la representación como cadena de caracteres de dicho real                                                                                                            |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| MAYUSCULAS(S)       | Devuelve una copia de la cadena S con todos sus caracteres en mayúsculas                                                                                                                                             |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| MINUSCULAS(S)       | Devuelve la cadena S con todos sus caracteres en minúsculas                                                                                                                                                          |
-+---------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++---------------------+--------------------------------------------------------+
+| CONCATENAR(S1,S2)   | Devuelve una cadena que resulta de unir las cadenas S1 y S2|
++---------------------+--------------------------------------------------------+
+| CONVERTIRANUMERO(X) | Devuelve el valor numérico de la cadena de caracteres que contiene un número|
++---------------------+--------------------------------------------------------+
+| CONVERTIRATEXTO(S)  | Devuelve la cadena de una variable numérica con la representación como cadena de caracteres de dicho real                                                       |
++---------------------+--------------------------------------------------------+
+| MAYUSCULAS(S)       | Devuelve una copia de la cadena S con todos sus caracteres en mayúsculas                                                                                              |
++---------------------+--------------------------------------------------------+
+| MINUSCULAS(S)       | Devuelve la cadena S con todos sus caracteres en minúsculas                                                                                                          |
++---------------------+--------------------------------------------------------+
 
 ### 6.3. Control del flujo de control
 
@@ -566,6 +568,7 @@ En primer lugar, en pseudocódigo PSeInt se tiene la instrucción de ***control 
 
 La instrucción de *control alternativo simple* `Si ... Entonces ... FinSi` en PSeInt tiene la siguiente sintaxis general:
 
+```
     // Control alternativo simple
     Si \<expresión_lógica\> Entonces
 
@@ -581,11 +584,13 @@ La instrucción de *control alternativo simple* `Si ... Entonces ... FinSi` en P
       Escribir "APROBADO";
     FinSi
     // Siguiente instrucción
+```
 
 En segundo lugar, la instrucción de ***control alternativo doble*** permite evaluar una condición mediante una `<expresión_lógica>` para elegir alternativamente un bloque de instrucciones a ejecutar, entre dos opciones. Si la condición evaluada en la `<expresión_lógica>` es VERDADERA, se ejecuta el `<bloque_de_instrucciones_1>` y si la `<expresión_lógica>` es FALSA, se ejecuta el `<bloque_de_instrucciones_2>`.
 
 En pseudocódigo PSeInt, la instrucción de control alternativo doble `Si ... Entonces ... SiNo ... FinSi` tiene la siguiente sintaxis general:
 
+```
     // Control alternativo doble
     Si <expresión_lógica> Entonces
         // Se ejecuta si <expresión_lógica> es VERDADERA
@@ -602,11 +607,13 @@ En pseudocódigo PSeInt, la instrucción de control alternativo doble `Si ... En
     SiNo
       Escribir "NO APROBADO";
     FinSi
+```
 
 En tercero y último lugar, la instrucción de ***control alternativo múltiple*** permite evaluar una condición mediante una `<expresión>` para elegir alternativamente un bloque de instrucciones a ejecutar, entre múltiples opciones. El resultado de evaluar la `<expresión>` debe ser un valor finito y ordenado, es decir, *Entero*, *Logico*, *Caracter*, enumerado o rango.
 
 En pseudocódigo PSeInt, se puede escribir una instrucción de *control alternativo múltiple* `Segun ... FinSegun`. Si la <expresión> evaluada en la `<expresión_lógica>` es VERDADERO, se ejecuta el `<bloque_de_instrucciones_1>`, pero si la `<expresión_lógica>` es FALSO, se ejecuta el `<bloque_de_instrucciones_2>`, mediante la siguiente sintaxis:
 
+```
     // Control alternativo múltiple
     Segun <expresión> Hacer
 
@@ -655,6 +662,7 @@ En pseudocódigo PSeInt, se puede escribir una instrucción de *control alternat
         De otro modo:
           Escribir "Opción no válida";
     FinSegun
+```
 
 #### 6.3.2. Control repetitivo
 
@@ -664,6 +672,7 @@ En primer lugar, el *ciclo **Mientras*** evalúa la `<expresión_lógica>` y, si
 
 En pseudocódigo PSeInt, una instrucción repetitiva `Mientras ... FinMientras` se escribe bajo la siguiente sintaxis general:
 
+```
     // Ciclo Mientras
 
     // Las variables involucradas en la <expresión_lógica> 
@@ -704,21 +713,25 @@ En pseudocódigo PSeInt, una instrucción repetitiva `Mientras ... FinMientras` 
         // Actualiza el valor de num_ingresado
         Leer num_ingresado;
     FinMientras
+```
 
 En segundo lugar, el ***ciclo Repetir*** se ejecuta por lo menos una vez y varias veces, mientras la `<expresión_lógica>` sea FALSA. Por lo tanto, si al final del ciclo `Repetir`, la `<expresión_lógica>` se evalúa como VERDADERA, el ciclo termina y el control del flujo continúa con la siguiente instrucción fuera del ciclo `Repetir`.
 
 En pseudocódigo PSeInt, una instrucción repetitiva `Repetir` se escribe bajo la siguiente sintaxis general:
 
+```
     // Ciclo Repetir
     Repetir
        <bloque_de_instrucciones>
     Hasta Que <expresión_lógica>
     <siguiente_instruccion_fuera_del_ciclo>
+```
 
 En tercer y último lugar, el ***ciclo Para*** es una instrucción repetitiva con un número conocido de repeticiones, que controla mediante una variable acumuladora o `<contador>` de ciclos o iteraciones, desde un `<valor_inicial>`, hasta un `<valor final>`. Al final del ciclo, el `<contador>` se incrementa, por defecto, con un `<incremento>` de uno en uno o distinto. Cuando finaliza una iteración, el valor del `<contador>` se actualiza sumándole el `<incremento>`. El ciclo `Para` termina cuando el `<contador>` supera el <valor_final>. El ciclo `Para` es pertinente para operaciones secuenciales con un número de repeticiones conocido, como recorrer una estructura de datos de manera secuencial para leer, inicializar o actualizar los valores de un arreglo, para ordenamientos, etc.
 
 En pseudocódigo PSeInt, una instrucción repetitiva `Para` se puede escribir con la siguiente sintaxis general:
 
+```
     // Ciclo Para
     Para <contador> <- <valor_inicial> Hasta <valor_final> [ Con Paso <incremento> ] Hacer
        <bloque_de_instrucciones>
@@ -779,6 +792,10 @@ En pseudocódigo PSeInt, una instrucción repetitiva `Para` se puede escribir co
         FinPara
         
     FinProceso
+```
 
-**Notas:** [\^1]: [PSeInt](https://pseint.sourceforge.net/).\
-[\^2]: Ibañez Reyes, K. D., Lemus Véliz, G. M., Mcknight Cuyuche, K. P., & Villareal Santos, D. J. (s.f.). Historia de Pseint. ([url](https://sites.google.com/site/portafolio4bd8/historia-de-pseint)).
+**Notas:** 
+[^1]: PseInt. <https://pseint.sourceforge.net/>
+[^2]: Online historical encyclopaedia of programming languages. <https://hopl.info/>
+[^3]: PseInt. <https://pseint.sourceforge.net/>
+[^4]: Ibañez Reyes, K. D., Lemus Véliz, G. M., Mcknight Cuyuche, K. P., & Villareal Santos, D. J. (s.f.). Historia de Pseint. Blog. Consultado en <https://sites.google.com/site/portafolio4bd8/historia-de-pseint>.
