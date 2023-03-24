@@ -467,31 +467,23 @@ Tabla 1. Operadores en pseudocódigo
 |   \>=    | Mayor o igual que |    4 \>= 5      |   FALSO              |
 |   \<\>   |   Distinto que    |  'a' \<\> 'b'   | VERDADERO            |
 
-Los ***operadores lógicos*** permiten hacer operaciones lógicas, es decir, relacionar variables lógicas son los siguientes y se puede usar el símbolo o la palabra y el resultado es evaluado según las tablas de verdad para cada operación:
+Los *`operadores lógicos`* permiten hacer operaciones lógicas, es decir, relacionar variables lógicas son los siguientes y se puede usar el símbolo o la palabra y el resultado es evaluado según las tablas de verdad para cada operación:
 
-+---------------+---------------+---------------+-----------------------+
+Tabla 2. Operadores lógicos
 | Operador      | Significado   | Ejemplo       | Resultado             |
-+:=============:+:=============:+:=============:+:=====================:+
+|:--------:|:-----------------:|:---------------:|:--------------------:|
 | &             | Conjunción    | A & B         | V & V -\> V ERDADERO  |
-|               |               |               |                       |
 | Y             |               | A Y B         | V & F -\> FALSO       |
-|               |               |               |                       |
 |               |               |               | F & V -\> FALSO       |
-|               |               |               |                       |
 |               |               |               | F & F -\> FALSO       |
 +---------------+---------------+---------------+-----------------------+
 | \|            | Disyunción    | A \| B        | V \| V -\> V ERDADERO |
-|               |               |               |                       |
 | O             |               | A O B         | V \| F -\> V ERDADERO |
-|               |               |               |                       |
 |               |               |               | F \| V -\> V ERDADERO |
-|               |               |               |                       |
 |               |               |               | F \| F -\> FALSO      |
 +---------------+---------------+---------------+-----------------------+
 | \~ NO         | Negación      | \~A NO A      | \~F -\> V ERDADERO    |
-|               |               |               |                       |
 |               |               |               | \~V -\> FALSO         |
-+---------------+---------------+---------------+-----------------------+
 
 Los operadores algebraicos permiten realizar las operaciones algebraicas básicas:
 
