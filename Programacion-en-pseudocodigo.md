@@ -12,9 +12,9 @@
 
 09 de marzo de 2023   
 
-Estas notas de clase pretenden servir para estudiar programación y la conversion de pseudocódigo a un lenguaje de programación real como R.
-
 ### 1. Introducción
+
+Estas notas de clase pretenden servir para estudiar programación y la conversion de pseudocódigo a un lenguaje de programación real como R.  
 
 La *programación de computadoras* es la creación, escritura o o *codificación* de programas de computadora que permiten darle instrucciones precisas, que permiten realizar las cuatro funciones básicas de la computadora : (1) lectura, (2) escritura, (3) almacenamiento y (4) procesamiento de datos. De manera general, existen dos tipos de lenguajes de programación: el pseudocódigo y los lenguajes de programación.
 
