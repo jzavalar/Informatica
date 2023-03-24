@@ -36,26 +36,27 @@ PSeInt es la contracción de "*PSe*udocode *Int*erpreter" (Intérprete de Pseudo
 -   Con una sintaxis sencilla y, relativamente flexible, en español.
 -   Entrada y salida de datos en una consola.
 -   Solo tres *tipos de datos* básicos o simples:
-    -   *Numéricos*, *Enteros* y *Reales*.
-    -   Alfanuméricos: *Caracteres* o *Cadenas* de caracteres y
-    -   *Logicos*.
+    -   `Numéricos`, `Enteros` y `Reales`.
+    -   Alfanuméricos: `Caracteres` o `Cadenas` de caracteres y
+    -   `Logicos`.
 -   Una sola estructura de datos:
-    -   *Arreglo*.
+    -   `Arreglo`.
 -   Las principales estructuras básicas de control del flujo de control son:
     -   *Condicionales:*
-        -   *Simple: Si ... Entonces ... FinSi*
-        -   Doble: *Si ... Entonces ... SiNo ... FinSi*
-        -   Múltiple: *Segun*
+        -   Simple: `Si ... Entonces ... FinSi`
+        -   Doble: `Si ... Entonces ... SiNo ... FinSi`
+        -   Múltiple: `Segun`
     -   *Repetitivas:*
-        -   *Mientras*
-        -   *Repetir*
-        -   *Para*
+        -   `Mientras`
+        -   `Repetir`
+        -   `Para`
 
 Las *instrucciones* se construyen con los siguientes elementos básicos: *palabras reservadas*, *variables*, *operadores* y signos de puntación como punto y coma ( `;` ) para identificar el final de una instrucción.
 
 Las *palabras reservadas*, *palabras clave* o *keywords* en pseudocódigo PSeInt son identificadores predefinidos que tienen un significado especial, por lo que esencialmente son la gramática del lenguaje y sirven para crear las instrucciones.
 
 Un *programa* en pseudocódigo consta de ninguna, una o varias funciones o subprocesos y/o un procedimiento principal llamado Algoritmo o Proceso, con la siguiente estructura general:
+
 ```
     // La estructura de un algoritmo puede organizarse
     // en Funciones o Subprocesos y un bloque de código
@@ -101,48 +102,48 @@ Un *programa* en pseudocódigo consta de ninguna, una o varias funciones o subpr
     FinAlgoritmo
 ```
 
-En pseudocódigo, cuando no se definen funciones ni suprocesos, el programa en pseudocódigo sólo incluye la palabra reservada *Algoritmo* o *Proceso*, seguida del *nombre del algoritmo* que es utilizada para definir el inicio de un algoritmo. Luego, le sigue una *secuencia de instrucciones* y finaliza con la palabra reservada *FinAlgoritmo* o *FinProceso*.
+En pseudocódigo, cuando no se definen funciones ni suprocesos, el programa en pseudocódigo sólo incluye la palabra reservada `Algoritmo` o `Proceso`, seguida del *nombre del algoritmo* que es utilizada para definir el inicio de un algoritmo. Luego, le sigue una *secuencia de instrucciones* y finaliza con la palabra reservada `FinAlgoritmo` o `FinProceso`.
 
 El ejemplo más simple de esta construcción es el programa *Suma.psc* de la Ayuda de PSeInt, un pequeño algoritmo que *pide al usuario dos números* para *sumarlos* y, después, *muestra el resultado* de la operación, al cual se le han hecho alguna adecuaciones para señalar las partes del algoritmo y el nombre de las variables en minúsculas:
 
 ```
-// suma.psc
+    // suma.psc
 
-// El ejemplo más simple de la Ayuda de PSeInt (2003)
-// Solicita dos numeros, los suma y muestra el resultado
+    // El ejemplo más simple de la Ayuda de PSeInt (2003)
+    // Solicita dos numeros, los suma y muestra el resultado
 
-Proceso Suma
-    // Parte 1: Declarar las variables y su tipo de dato 
-    Definir a, b, c como Reales;
+    Proceso Suma
+        // Parte 1: Declarar las variables y su tipo de dato 
+        Definir a, b, c como Reales;
 
-    // Parte 2: Cargar los datos de entrada 
-    // Se le muestra un mensaje al usuario con la instrucción Escribir, y 
-    // luego se lee y almacena cada dato, al mismo tiempo, con la instrucción Leer, 
-    // el primero en la variable a y el segundo en la variable b. 
+        // Parte 2: Cargar los datos de entrada 
+        // Se le muestra un mensaje al usuario con la instrucción Escribir, y 
+        // luego se lee y almacena cada dato, al mismo tiempo, con la instrucción Leer, 
+        // el primero en la variable a y el segundo en la variable b. 
 
-    Escribir "Ingrese el primer número:";
-    Leer a;
+        Escribir "Ingrese el primer número:";
+        Leer a;
 
-    Escribir "Ingrese el segundo número:";
-    Leer b;
+        Escribir "Ingrese el segundo número:";
+        Leer b;
 
-    // Parte 3: Calcular o procesar los datos
-    // Se calcula la suma y se guarda el resultado en la
-    // variable c mediante la operación de asignación ( <- )
+        // Parte 3: Calcular o procesar los datos
+        // Se calcula la suma y se guarda el resultado en la
+        // variable c mediante la operación de asignación ( <- )
         
-    c <- a + b;
+        c <- a + b;
 
-    // Parte 4: Salida de resultados
-    // Finalmente, se muestra el resultado para avisar al usuario,
-    // precedido de un mensaje
-    Escribir "El resultado de sumar ", a , " + " , b , " es: ", c;
+        // Parte 4: Salida de resultados
+        // Finalmente, se muestra el resultado para avisar al usuario,
+        // precedido de un mensaje
+        Escribir "El resultado de sumar ", a , " + " , b , " es: ", c;
 
-FinProceso
+    FinProceso
 ```
 
-Este ejemplo sirve para mostrar la estructura básica de un algoritmo o programa que contiene, esencialmente, las tres partes que coinciden con las cuatro funciones de la computadora:\
-1. Carga de datos (*Entrada*)\
-2. Cálculo (*Almacenamiento* y *Procesamiento*)\
+Este ejemplo sirve para mostrar la estructura básica de un algoritmo o programa que contiene, esencialmente, las tres partes que coinciden con las cuatro funciones de la computadora:
+1. Carga de datos (*Entrada*)
+2. Cálculo (*Almacenamiento* y *Procesamiento*)
 3. Presentación de resultados (*Salida*)
 
 A continuación se describe la sintáxis del Pseudocódigo PSeInt que permite la implantación de esas cuatro funciones de la computadora.
@@ -201,8 +202,8 @@ En PSeInt, las variables (y las constantes) tienen un *tipo de dato* asociado qu
     -   `Caracter` o `Caracteres` para representar caracteres y se acostumbra usar un caracter entre apóstrofes ( `'` ), para distinguirlo de las cadenas, tales como `'H'`, `'\'` y `'a'`.
     -   `Cadena` o `Cadenas` para declarar *cadenas de caracteres* que se usa para almacenar valores alfanuméricos, tales como nombres, etiquetas y descripciones, por lo que se acostumbra encerrar los valores entre comillas ( `"` ), tales como `"Hola!"`, `"Hola Mundo!"`, `"123"` y `"Juan Pérez"`.
 -   `Logico` o `Logicos` para declarar el tipo de dato lógico, que puede tomar uno de los dos valores posibles:
-    -   `Falso`, `F` o `0` para indicar el valor *FALSO* o *No*.
-    -   `Verdadero`, `V` o `1` para indicar el valor *VERDADERO* o *Si*.
+    -   `Falso`, `F` o `0` para indicar el valor `FALSO` o *No*.
+    -   `Verdadero`, `V` o `1` para indicar el valor `VERDADERO` o *Si*.
 
 Cada tipo de dato tiene asociada una serie de operaciones válidas. Por ejemplo, los datos *Numericos* se pueden usar para realizar operaciones matemáticas, los datos alfanuméricos (*Cadenas* o *Caracteres*) pueden concatenarse u obtenerse una subcadena y con los datos *Logicos* se pueden realizar operaciones lógicas de conjunción, disyunción y negación.
 
@@ -211,7 +212,13 @@ Cada tipo de dato tiene asociada una serie de operaciones válidas. Por ejemplo,
 
 Las variables tienen un *alcance* (*scope*) o validez global o local, dependiendo del lugar donde son declaradas; es decir, si las variables están declaradas dentro de un bloque de código son *variables locales*.
 
-En pseudocódigo PSeInt no se pueden declarar variables fuera de un bloque de código, por lo que sólo permite variables locales. Por lo tanto, las variables que están dentro del bloque principal `Algoritmo ... FinAlgoritmo` se comportan como *variables globales*.
+En pseudocódigo PSeInt no se pueden declarar variables fuera de un bloque de código, por lo que sólo permite variables locales. Por lo tanto, las variables que están dentro del bloque principal 
+```
+    Algoritmo 
+    ... 
+    FinAlgoritmo`
+```
+se comportan como *variables globales*.
 
 En PseInt, las variables y las constantes se declaran explícitamente antes de usarse en un bloque de código, con el nombre de la variable y el tipo de dato, según la siguiente sintaxis general:
 
@@ -282,7 +289,7 @@ El pseudocódigo PSeInt sólo permite la declaración de una *estructura de dato
 
 Después de declarar las variables, éstas deben *inicializarse*, es decir, deben almacenar un primer valor, con la restricción de que *siempre debe guardar datos* del *tipo de dato*, declarado previamente.
 
-En PSeInt, por ejemplo, si una variable se declaró como tipo `Numerico`, ésta se utiliza para guardar *números* y no puede utilizarse para guardar valores de otro tipo, como *Cadena* o *Logico*. Las variables pueden *inicializarse* de dos formas:
+En PSeInt, por ejemplo, si una variable se declaró como tipo `Numerico`, ésta se utiliza para guardar *números* y no puede utilizarse para guardar valores de otro tipo, como `Cadena` o `Logico`. Las variables pueden *inicializarse* de dos formas:
 
 1.  Mediante la *lectura* de un dato, que implica capturar el valor desde el teclado y asignarlo a una variable, con la instrucción `Leer` seguida de la lista de variables.
 2.  Con una operación de *asignación* `<-` que permite guardar un valor, por ejemplo: `a <- 1; o` si la variable es producto de una operación, almacena el resultado, como `c <- a + b;`.
@@ -347,12 +354,12 @@ En pseudocódigo PSeInt sólamente se pueden capturar bytes desde el teclado con
     Leer nombre, apellidos, edad;
 ```
 
-Además, en PseInt se puede capturar un teclazo con la palabra reservada `Esperar Tecla` para esperar hasta que el usuario ***presione cualquier tecla***. Se usa la siguiente sintaxis general:
+Además, en PseInt se puede capturar un teclazo con la palabra reservada `Esperar Tecla` para esperar hasta que el usuario *presione cualquier tecla*. Se usa la siguiente sintaxis general:
 ```
     Esperar Tecla; 
 ```
 
-En PseInt, existe una funcionalidad similar a la anterior, que con la palabra reservada `Esperar` puede utilizarse para ***suspender temporalmente el algoritmo***, durante un tiempo definido en segundos o milisegundos, con la siguiente sintaxis general:
+En PseInt, existe una funcionalidad similar a la anterior, que con la palabra reservada `Esperar` puede utilizarse para *suspender temporalmente el algoritmo*, durante un tiempo definido en segundos o milisegundos, con la siguiente sintaxis general:
 
 ```
     // Esperar
@@ -369,7 +376,7 @@ La *salida de datos* es otra función principal de la computadora que consiste e
 
 ### 5.1. Impresión de mensajes
 
-En PSeInt, hay varias acciones de salida de datos que se pueden realizar, dependiendo de las necesidades del usuario. En primer lugar, se pueden ***escribir mensajes*** en la pantalla, con la palabra reservada `Escribir`, bajo la siguiente sintaxis general:
+En PSeInt, hay varias acciones de salida de datos que se pueden realizar, dependiendo de las necesidades del usuario. En primer lugar, se pueden *escribir mensajes* en la pantalla, con la palabra reservada `Escribir`, bajo la siguiente sintaxis general:
 
 ```
     // Imprimir mensajes
@@ -397,6 +404,7 @@ En PSeInt pueden usarse las palabras reservadas `Sin Saltar` para imprimir un me
 ### 5.3. Borrar pantalla
 
 En pseudocódigo PSeInt se puede usar la palabra reservada `Borrar Pantalla` o `Limpiar Pantalla` para limpiar la pantalla o terminal de salida y colocar el cursor en la esquina superior izquierda, con la siguiente sintaxis general:
+
 ```
     Borrar Pantalla;
 ```
@@ -449,21 +457,28 @@ El pseudolenguaje PSeInt tiene operadores de varios tipos: relacionales, lógico
 
 Los ***operadores relacionales*** permiten comparar dos valores o variables numéricas o alfanuméricas y el resultado es un valor lógico, según la siguiente tabla:
 
-| Operador |    Significado    |    Ejemplo     | Resultado |
-|:--------:|:-----------------:|:--------------:|:---------:|
-|    \>    |     Mayor que     |     3 \> 2     | VERDADERO |
-|    \<    |     Menor que     | 'ABC' \< 'abc' | VERDADERO |
-|    =     |     Igual que     |     4 = 3      |   FALSO   |
-|   \<=    | Menor o igual que |  'a' \<= 'b'   | VERDADERO |
-|   \>=    | Mayor o igual que |    4 \>= 5     |   FALSO   |
-|   \<\>   |   Distinto que    |  'a' \<\> 'b'  | VERDADERO |
++----------+-------------------+-----------------+----------------------+
+| Operador |    Significado    |    Ejemplo      | Resultado            |
++:========:+:=================:+:===============:+:====================:+
+|    \>    |     Mayor que     |     3 \> 2      | VERDADERO            |
++----------+-------------------+-----------------+----------------------+
+|    \<    |     Menor que     | 'ABC' \< 'abc'  | VERDADERO            |
++----------+-------------------+-----------------+----------------------+
+|    =     |     Igual que     |     4 = 3       |   FALSO              |
++----------+-------------------+-----------------+----------------------+
+|   \<=    | Menor o igual que |  'a' \<= 'b'    | VERDADERO            |
++----------+-------------------+-----------------+----------------------+
+|   \>=    | Mayor o igual que |    4 \>= 5      |   FALSO              |
++----------+-------------------+-----------------+----------------------+
+|   \<\>   |   Distinto que    |  'a' \<\> 'b'   | VERDADERO            |
++----------+-------------------+-----------------+----------------------+
 
 Los ***operadores lógicos*** permiten hacer operaciones lógicas, es decir, relacionar variables lógicas son los siguientes y se puede usar el símbolo o la palabra y el resultado es evaluado según las tablas de verdad para cada operación:
 
 +---------------+---------------+---------------+-----------------------+
 | Operador      | Significado   | Ejemplo       | Resultado             |
 +:=============:+:=============:+:=============:+:=====================:+
-| &             | C o njunción  | A & B         | V & V -\> V ERDADERO  |
+| &             | Conjunción    | A & B         | V & V -\> V ERDADERO  |
 |               |               |               |                       |
 | Y             |               | A Y B         | V & F -\> FALSO       |
 |               |               |               |                       |
@@ -471,7 +486,7 @@ Los ***operadores lógicos*** permiten hacer operaciones lógicas, es decir, rel
 |               |               |               |                       |
 |               |               |               | F & F -\> FALSO       |
 +---------------+---------------+---------------+-----------------------+
-| \|            | D i syunción  | A \| B        | V \| V -\> V ERDADERO |
+| \|            | Disyunción    | A \| B        | V \| V -\> V ERDADERO |
 |               |               |               |                       |
 | O             |               | A O B         | V \| F -\> V ERDADERO |
 |               |               |               |                       |
@@ -500,7 +515,6 @@ Los operadores algebraicos permiten realizar las operaciones algebraicas básica
 | \^            | Potenciación                  | sup \<- 3.41 \* radio \^ 2    |
 +---------------+-------------------------------+-------------------------------+
 | \%            | Módulo                        | resto \<- num % div           |
-|               |                               |                               |
 | MOD           | (resto de la división entera) | resto \<- num MOD div         |
 +---------------+-------------------------------+-------------------------------+
 
@@ -566,15 +580,19 @@ Una instrucción de *control alternativo* permite modificar el flujo de control 
 
 En primer lugar, en pseudocódigo PSeInt se tiene la instrucción de ***control alternativo simple*** que permite la ejecución de *un bloque de instrucciones* siempre y cuando la `<expresión_lógica>` resulte evaluada como VERDADERA. Si la `<expresión_lógica>` es FALSA, continúa con la siguiente instrucción, fuera de la estructura.
 
-La instrucción de *control alternativo simple* `Si ... Entonces ... FinSi` en PSeInt tiene la siguiente sintaxis general:
+La instrucción de *control alternativo simple* 
+```
+    Si ... Entonces 
+        ... 
+    FinSi
+``` 
+en PSeInt tiene la siguiente sintaxis general:
 
 ```
     // Control alternativo simple
     Si \<expresión_lógica\> Entonces
-
         // Se ejecuta si \<expresión_lógica\> es VERDADERA
         \<bloque_de_instrucciones_1\>
-
     FinSi
     \<siguiente_instruccion\>
 
@@ -609,9 +627,16 @@ En pseudocódigo PSeInt, la instrucción de control alternativo doble `Si ... En
     FinSi
 ```
 
-En tercero y último lugar, la instrucción de ***control alternativo múltiple*** permite evaluar una condición mediante una `<expresión>` para elegir alternativamente un bloque de instrucciones a ejecutar, entre múltiples opciones. El resultado de evaluar la `<expresión>` debe ser un valor finito y ordenado, es decir, *Entero*, *Logico*, *Caracter*, enumerado o rango.
+En tercero y último lugar, la instrucción de ***control alternativo múltiple*** permite evaluar una condición mediante una `<expresión>` para elegir alternativamente un bloque de instrucciones a ejecutar, entre múltiples opciones. El resultado de evaluar la `<expresión>` debe ser un valor finito y ordenado, es decir, `Entero`, `Logico`, `Caracter`, enumerado o rango.
 
-En pseudocódigo PSeInt, se puede escribir una instrucción de *control alternativo múltiple* `Segun ... FinSegun`. Si la <expresión> evaluada en la `<expresión_lógica>` es VERDADERO, se ejecuta el `<bloque_de_instrucciones_1>`, pero si la `<expresión_lógica>` es FALSO, se ejecuta el `<bloque_de_instrucciones_2>`, mediante la siguiente sintaxis:
+En pseudocódigo PSeInt, se puede escribir una instrucción de *control alternativo múltiple* 
+```
+    Segun ... 
+    ...
+    FinSegun
+```
+
+Si la <expresión> evaluada en la `<expresión_lógica>` es VERDADERO, se ejecuta el `<bloque_de_instrucciones_1>`, pero si la `<expresión_lógica>` es FALSO, se ejecuta el `<bloque_de_instrucciones_2>`, mediante la siguiente sintaxis:
 
 ```
     // Control alternativo múltiple
@@ -668,7 +693,7 @@ En pseudocódigo PSeInt, se puede escribir una instrucción de *control alternat
 
 Una instrucción de ***control repetitivo***, también conocida como bucle, ciclo o lazo, permite ejecutar un bloque de instrucciones, ninguna, una o varias veces, dependiendo de la evaluación de las condición. Existen tres tipos de instrucciones repetitivas: `Mientras`, `Repetir` (Hacer) y `Para`.
 
-En primer lugar, el *ciclo **Mientras*** evalúa la `<expresión_lógica>` y, si resulta VERDADERA, entonces ejecuta el ciclo y si la `<expresión_lógica>` es FALSA, el ciclo `Mientras` no se ejecuta y el control del flujo continúa con la siguiente instrucción fuera del ciclo `Mientras`. Por lo tanto, las variables involucradas en la `<expresión_lógica>` deben haber sido inicializadas o actualizadas previamente su evaluación.
+En primer lugar, el *ciclo `Mientras` evalúa la `<expresión_lógica>` y, si resulta `VERDADERO`, entonces ejecuta el ciclo y si la `<expresión_lógica>` es FALSA, el ciclo `Mientras` no se ejecuta y el control del flujo continúa con la siguiente instrucción fuera del ciclo `Mientras`. Por lo tanto, las variables involucradas en la `<expresión_lógica>` deben haber sido inicializadas o actualizadas previamente su evaluación.
 
 En pseudocódigo PSeInt, una instrucción repetitiva `Mientras ... FinMientras` se escribe bajo la siguiente sintaxis general:
 
@@ -679,13 +704,10 @@ En pseudocódigo PSeInt, una instrucción repetitiva `Mientras ... FinMientras` 
     // deben haber sido inicializadas antes de ser evaluada  
 
     Mientras <expresión_lógica> Hacer
-
         // Ejecuta el ciclo si la <expresión_lógica> es VERDADERA
         <bloque_de_instrucciones>
-
     FinMientras
     <siguiente_instruccion_fuera_del_ciclo>
-
 
     // Ejemplo
     // Inicialización de las variables involucradas en el ciclo Mientras
@@ -715,7 +737,7 @@ En pseudocódigo PSeInt, una instrucción repetitiva `Mientras ... FinMientras` 
     FinMientras
 ```
 
-En segundo lugar, el ***ciclo Repetir*** se ejecuta por lo menos una vez y varias veces, mientras la `<expresión_lógica>` sea FALSA. Por lo tanto, si al final del ciclo `Repetir`, la `<expresión_lógica>` se evalúa como VERDADERA, el ciclo termina y el control del flujo continúa con la siguiente instrucción fuera del ciclo `Repetir`.
+En segundo lugar, el *ciclo `Repetir`* se ejecuta por lo menos una vez y varias veces, mientras la `<expresión_lógica>` sea FALSA. Por lo tanto, si al final del ciclo `Repetir`, la `<expresión_lógica>` se evalúa como VERDADERA, el ciclo termina y el control del flujo continúa con la siguiente instrucción fuera del ciclo `Repetir`.
 
 En pseudocódigo PSeInt, una instrucción repetitiva `Repetir` se escribe bajo la siguiente sintaxis general:
 
@@ -727,7 +749,7 @@ En pseudocódigo PSeInt, una instrucción repetitiva `Repetir` se escribe bajo l
     <siguiente_instruccion_fuera_del_ciclo>
 ```
 
-En tercer y último lugar, el ***ciclo Para*** es una instrucción repetitiva con un número conocido de repeticiones, que controla mediante una variable acumuladora o `<contador>` de ciclos o iteraciones, desde un `<valor_inicial>`, hasta un `<valor final>`. Al final del ciclo, el `<contador>` se incrementa, por defecto, con un `<incremento>` de uno en uno o distinto. Cuando finaliza una iteración, el valor del `<contador>` se actualiza sumándole el `<incremento>`. El ciclo `Para` termina cuando el `<contador>` supera el <valor_final>. El ciclo `Para` es pertinente para operaciones secuenciales con un número de repeticiones conocido, como recorrer una estructura de datos de manera secuencial para leer, inicializar o actualizar los valores de un arreglo, para ordenamientos, etc.
+En tercer y último lugar, el *ciclo `Para`* es una instrucción repetitiva con un número conocido de repeticiones, que controla mediante una variable acumuladora o `<contador>` de ciclos o iteraciones, desde un `<valor_inicial>`, hasta un `<valor final>`. Al final del ciclo, el `<contador>` se incrementa, por defecto, con un `<incremento>` de uno en uno o distinto. Cuando finaliza una iteración, el valor del `<contador>` se actualiza sumándole el `<incremento>`. El ciclo `Para` termina cuando el `<contador>` supera el <valor_final>. El ciclo `Para` es pertinente para operaciones secuenciales con un número de repeticiones conocido, como recorrer una estructura de datos de manera secuencial para leer, inicializar o actualizar los valores de un arreglo, para ordenamientos, etc.
 
 En pseudocódigo PSeInt, una instrucción repetitiva `Para` se puede escribir con la siguiente sintaxis general:
 
