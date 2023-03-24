@@ -476,12 +476,10 @@ Tabla 2. Operadores lógicos en pseudocódigo PSeInt
 | Y             |               | A Y B         | V & F -\> FALSO       |
 |               |               |               | F & V -\> FALSO       |
 |               |               |               | F & F -\> FALSO       |
-+---------------+---------------+---------------+-----------------------+
 | \|            | Disyunción    | A \| B        | V \| V -\> V ERDADERO |
 | O             |               | A O B         | V \| F -\> V ERDADERO |
 |               |               |               | F \| V -\> V ERDADERO |
 |               |               |               | F \| F -\> FALSO      |
-+---------------+---------------+---------------+-----------------------+
 | \~ NO         | Negación      | \~A NO A      | \~F -\> V ERDADERO    |
 |               |               |               | \~V -\> FALSO         |
 
