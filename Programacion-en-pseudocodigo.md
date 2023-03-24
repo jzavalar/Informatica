@@ -1,10 +1,20 @@
-# Programación de computadoras en pseudocódigo
-prof. Jesús Zavala Ruiz   
+<img src="https://github.com/jzavalar/2211088-informatica/blob/main/conjunto-baseIzt.png" alt="UAM Iztapalapa" width="60%"/>
+
+## Programación de computadoras en pseudocódigo
+### Apuntes para la UEA Informática (Teoría y Práctica)
+### Licenciatura en Administración
+
+**Profesor:** dr. Jesús Zavala Ruiz
+
+**Contacto**:
+- **Correo electrónico:** [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)
+- **Telegram:** <img src="https://github.com/jzavalar/2211088-informatica/blob/main/telegram_logo.svg" alt="Telegram" width="3%"/> [jzavalar.t.me](https://jzavalar.t.me)
+
 09 de marzo de 2023   
 
 Estas notas de clase pretenden servir para estudiar programación y la conversion de pseudocódigo a un lenguaje de programación real como R.
 
-## 1. Introducción
+### 1. Introducción
 
 La *programación de computadoras* es la creación, escritura o o *codificación* de programas de computadora que permiten darle instrucciones precisas, que permiten realizar las cuatro funciones básicas de la computadora : (1) lectura, (2) escritura, (3) almacenamiento y (4) procesamiento de datos. De manera general, existen dos tipos de lenguajes de programación: el pseudocódigo y los lenguajes de programación.
 
@@ -13,7 +23,7 @@ El *pseudocódigo* (*pseudocode*) es un lenguaje artificial que permite dar inst
 Los *verdaderos lenguajes de programación* o simplemente lenguajes de programación son lenguajes artificiales que se utilizan para programar computadoras y, por lo tanto, están basados en una sintaxis estricta. El primer lenguaje de programación fue ForTran (*For*mula *Tran*slating system) en 1957 para el cálculo científico y el segundo fue CoBol en 1959, que siguen vigentes y relativamente actualizados. Desde entonces se han desarrollado lenguajes de programación con gramáticas formales, conocidas como Backus-Naar Form o BNF. En la actualidad, se reportan entre 600 y 2500 u 8945 lenguajes de programación creados[^2], dependiendo de la fuente, la mayoría desconocidos; sin embargo, con conocer uno es suficiente. Existen también, muchas herramientas de programación: editores, compiladores, intérpretes, debuggers e IDEs para el desarrollo de software profesional.
 
 
-## 2. Algoritmo en pseudocódigo
+### 2. Algoritmo en pseudocódigo
 
 El código fuente se escribe con las instrucciones del *algoritmo* según las reglas estrictas de la *sintaxis* del lenguaje, en cualquier editor de texto o en un entorno de desarrollo integrado (EDI), creando un *programa* y un archivo fuente.
 
@@ -139,9 +149,9 @@ Este ejemplo sirve para mostrar la estructura básica de un algoritmo o programa
 
 A continuación se describe la sintáxis del Pseudocódigo PSeInt que permite la implantación de esas cuatro funciones de la computadora.
 
-## 3. Almacenamiento de datos
+### 3. Almacenamiento de datos
 
-### 3.1. Comentarios
+#### 3.1. Comentarios
 
 En los *lenguajes de programación verdaderos* existen varios elementos básicos que son necesarios para que funcione la programación.
 
@@ -168,7 +178,7 @@ En pseudocódigo PSeInt un comentario se define con dos diagonales, seguidas del
     // e-mail: jzr\@xanum.uam.mx
 ```
 
-### 3.2. Variables
+#### 3.2. Variables
 
 Una *variable* en un algoritmo es una posición o almacenamiento de memoria donde se puede guardar un dato, representada por un nombre o *identificador.*
 
@@ -179,11 +189,11 @@ En otras palabras, en pseudocódigo PSeInt, una variable se nombra con las sigui
 
 Aunque, en PSeInt se pueden usar de manera indistinta las letras mayúsculas y minúsculas como identificadores equivalentes, es una muy buena práctica usar letras o palabras minúsculas, separadas por el carácter *guión bajo* ( `_` ), para identificar a las variables. Ejemplos de identificadores válidos son: `a`, `b`, `c`, `lado_1`, `_total`, `nombre_y_apellido`, `direccion_de_correo`.
 
-### 3.3. Constantes
+#### 3.3. Constantes
 
 Como su nombre lo indica, el *valor almacenado* en una *variable* puede ir variando a medida que el algoritmo se ejecuta o *corre*; sin embargo, también hay *constantes* que son variables que no cambian durante la ejecución del programa. Los identificadores de las *constantes* están sujetos a las mismas reglas de nombramiento que las variables, con la particularidad de que es una buena práctica utilizar letras o palabras MAYÚSCULAS para los nombres de las constantes, por ejemplo: `TOPE`, `MES`, `NUMERO_PI` y `NUMERO_E`.
 
-### 3.4. Tipos de datos
+#### 3.4. Tipos de datos
 
 En PSeInt, las variables (y las constantes) tienen un *tipo de dato* asociado que también se definen con palabras reservadas, tal como se indica a continuación:
 -   `Numerico` o `Numericos` para declarar el tipo de dato numérico, indistintamente, de entero o real, tales como `5` y `3.14`.
@@ -199,7 +209,7 @@ En PSeInt, las variables (y las constantes) tienen un *tipo de dato* asociado qu
 Cada tipo de dato tiene asociada una serie de operaciones válidas. Por ejemplo, los datos *Numericos* se pueden usar para realizar operaciones matemáticas, los datos alfanuméricos (*Cadenas* o *Caracteres*) pueden concatenarse u obtenerse una subcadena y con los datos *Logicos* se pueden realizar operaciones lógicas de conjunción, disyunción y negación.
 
 
-### 3.4. Declaración de variables y constantes
+#### 3.4. Declaración de variables y constantes
 
 Las variables tienen un *alcance* (*scope*) o validez global o local, dependiendo del lugar donde son declaradas; es decir, si las variables están declaradas dentro de un bloque de código son *variables locales*.
 
@@ -242,7 +252,7 @@ Las *constantes* también se declaran según las mismas reglas que se aplican a 
 
 Si se utiliza el *perfil de lenguaje* por defecto (*Flexible*), la definición explícita es opcional, pero se puede configurar el lenguaje para que sea obligatoria.
 
-### 3.5. Declaración de estructuras de datos
+#### 3.5. Declaración de estructuras de datos
 
 La *estructura de datos* es una forma de organización de datos para un manejo y procesamiento eficaz, como arreglos (*arrays*), listas (*lists*), pilas (*heaps*), colas (*queues*), árboles binarios (*binary* *trees*) y tablas (*tables* o *dataframes*), entre otras.
 
@@ -276,7 +286,7 @@ El pseudocódigo PSeInt sólo permite la declaración de una *estructura de dato
     Dimension tridimensional[10,20,30];
 ```
 
-### 3.6. Inicialización de variables
+#### 3.6. Inicialización de variables
 
 Después de declarar las variables, éstas deben *inicializarse*, es decir, deben almacenar un primer valor, con la restricción de que *siempre debe guardar datos* del *tipo de dato*, declarado previamente.
 
@@ -325,7 +335,7 @@ A continuación se muestran algunos ejemplos de inicialización de constantes en
     INTERRUPTOR <- Falso;
 ```
 
-## 4. Entrada de datos
+### 4. Entrada de datos
 
 La entrada de datos es una función principal de la computadora y, en un programa, es una instrucción primitiva que permite la lectura de un flujo de datos o (*stream*), mediante la captura de datos desde el teclado, un archivo, un sensor o cualquier dispositivo de entrada de datos.
 
@@ -361,11 +371,11 @@ En PseInt, existe una funcionalidad similar a la anterior, que con la palabra re
     Esperar 250 Milisegundos;
 ```
 
-## 5. Salida de datos
+### 5. Salida de datos
 
 La *salida de datos* es otra función principal de la computadora que consiste en exponer la respuesta, presentación de algún dato, poner a funcionar un dispositivo de salida como una señal, un motor o un actuador.
 
-### 5.1. Impresión de mensajes
+#### 5.1. Impresión de mensajes
 
 En PSeInt, hay varias acciones de salida de datos que se pueden realizar, dependiendo de las necesidades del usuario. En primer lugar, se pueden *escribir mensajes* en la pantalla, con la palabra reservada `Escribir`, bajo la siguiente sintaxis general:
 
@@ -377,7 +387,7 @@ En PSeInt, hay varias acciones de salida de datos que se pueden realizar, depend
     Escribir nombre, " ", apellidos, " tiene ", edad, "años.";  
 ```
 
-### 5.2. Impresión sin salto de línea
+#### 5.2. Impresión sin salto de línea
 
 En PSeInt pueden usarse las palabras reservadas `Sin Saltar` para imprimir un mensaje y evitar el salto de línea con la siguiente sintaxis general:
 
@@ -392,7 +402,7 @@ En PSeInt pueden usarse las palabras reservadas `Sin Saltar` para imprimir un me
     Escribir Sin Saltar "Nombre? ";
 ```
 
-### 5.3. Borrar pantalla
+#### 5.3. Borrar pantalla
 
 En pseudocódigo PSeInt se puede usar la palabra reservada `Borrar Pantalla` o `Limpiar Pantalla` para limpiar la pantalla o terminal de salida y colocar el cursor en la esquina superior izquierda, con la siguiente sintaxis general:
 
@@ -400,7 +410,7 @@ En pseudocódigo PSeInt se puede usar la palabra reservada `Borrar Pantalla` o `
     Borrar Pantalla;
 ```
 
-### 5.4. Salida y entrada de datos
+#### 5.4. Salida y entrada de datos
 
 Es frecuente utilizar las instrucciones de salida y de entrada de datos de manera simultánea para la captura de datos eficaz, como en el siguiente ejemplo:
 
@@ -434,13 +444,13 @@ Es frecuente utilizar las instrucciones de salida y de entrada de datos de maner
     Escribir nombre, " ", apellidos, " tiene ", edad, "años.";  
 ```
 
-## 6. Procesamiento de datos
+### 6. Procesamiento de datos
 
 El *almacenamiento de datos* es otra función importante de la computadora, que ocurre cuando se almacenan los datos en las variables y las constantes, sin embargo, en la estructura de un algoritmo el almacenamiento es una función primaria que posibilita el *procesamiento de datos*, que es la implantación de los algoritmos y, por lo mismo, es la función de la computadora que tiene más variedad y versatilidad.
 
 A continuación se exponen las operaciones que están implantadas en pseudocódigo PSeInt.
 
-### 6.1. Expresiones
+#### 6.1. Expresiones
 
 Las expresiones se elaboran combinando las variables y los operadores con una sintaxis estricta.
 
@@ -487,7 +497,7 @@ Tabla 3. Operadores algebraicos en pseudocódigo PSeInt
 | \%            | Módulo                        | resto \<- num % div           |
 | MOD           | (resto de la división entera) | resto \<- num MOD div         |
 
-### 6.2. Funciones interconstruidas
+#### 6.2. Funciones interconstruidas
 
 Todos los lenguajes de programación tienen implantadas algunas funciones básicas con distintos mecanismos como librerías, módulos, paquetes o cualquier otro nombre.
 
@@ -517,11 +527,11 @@ Tabla 4. Funciones en pseudocódigo PSeInt
 | CONVERTIRATEXTO(S)  | Devuelve la cadena de una variable numérica con la representación como cadena de caracteres de dicho real |
 | MAYUSCULAS(S)       | Devuelve una copia de la cadena S con todos sus caracteres en mayúsculas               | MINUSCULAS(S)       | Devuelve la cadena S con todos sus caracteres en minúsculas |
 
-### 6.3. Control del flujo de control
+#### 6.3. Control del flujo de control
 
 El *flujo de control* es el orden en el que se ejecutan las instrucciones de un programa, donde las propias instrucciones son las que lo controlan. En el flujo natural de un programa, las instrucciones siempre se ejecutan secuencialmente, una detrás de otra, en orden de aparición, de izquierda a derecha y de arriba a abajo, a menor que el flujo de control se modificado por *instrucciones de control*.
 
-#### 6.3.1. Control alternativo
+##### 6.3.1. Control alternativo
 
 Una instrucción de *control alternativo* permite modificar el flujo de control de un programa eligiendo las instrucciones a ejecutar de entre varias posibilidades: doble, simple y múltiple.
 
@@ -636,7 +646,7 @@ Si la <expresión> evaluada en la `<expresión_lógica>` es VERDADERO, se ejecut
     FinSegun
 ```
 
-#### 6.3.2. Control repetitivo
+##### 6.3.2. Control repetitivo
 
 Una instrucción de ***control repetitivo***, también conocida como bucle, ciclo o lazo, permite ejecutar un bloque de instrucciones, ninguna, una o varias veces, dependiendo de la evaluación de las condición. Existen tres tipos de instrucciones repetitivas: `Mientras`, `Repetir` (Hacer) y `Para`.
 
