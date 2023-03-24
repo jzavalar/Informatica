@@ -455,9 +455,9 @@ Las expresiones se elaboran combinando las variables y los operadores con una si
 
 El pseudolenguaje PSeInt tiene operadores de varios tipos: relacionales, lógicos y algebráicos.
 
-Los ***operadores relacionales*** permiten comparar dos valores o variables numéricas o alfanuméricas y el resultado es un valor lógico, según la siguiente tabla:
+Los *operadores relacionales* permiten comparar dos valores o variables numéricas o alfanuméricas y el resultado es un valor lógico, según la siguiente tabla:
 
-Tabla 1. Operadores en pseudocódigo
+Tabla 1. Operadores relacionales en pseudocódigo PSeInt
 | Operador |    Significado    |    Ejemplo      | Resultado            |
 |:--------:|:-----------------:|:---------------:|:--------------------:|
 |    \>    |     Mayor que     |     3 \> 2      | VERDADERO            |
@@ -469,9 +469,9 @@ Tabla 1. Operadores en pseudocódigo
 
 Los *`operadores lógicos`* permiten hacer operaciones lógicas, es decir, relacionar variables lógicas son los siguientes y se puede usar el símbolo o la palabra y el resultado es evaluado según las tablas de verdad para cada operación:
 
-Tabla 2. Operadores lógicos
+Tabla 2. Operadores lógicos en pseudocódigo PSeInt
 | Operador      | Significado   | Ejemplo       | Resultado             |
-|:--------:|:-----------------:|:---------------:|:--------------------:|
+|:-------------:|:-------------:|:-------------:|:---------------------:|
 | &             | Conjunción    | A & B         | V & V -\> V ERDADERO  |
 | Y             |               | A Y B         | V & F -\> FALSO       |
 |               |               |               | F & V -\> FALSO       |
@@ -487,22 +487,16 @@ Tabla 2. Operadores lógicos
 
 Los operadores algebraicos permiten realizar las operaciones algebraicas básicas:
 
-+---------------+-------------------------------+-------------------------------+
+Tabla 3. Operadores algebraicos en pseudocódigo PSeInt
 | Operador      | Significado                   | Ejemplo                       |
-+:=============:+:=============================:+:=============================:+
+|:-------------:|:-----------------------------:|:-----------------------------:|
 | \+            | Suma                          | total \<- cant1 + cant2       |
-+---------------+-------------------------------+-------------------------------+
 | \-            | Resta                         | total \<- cant1 - cant2       |
-+---------------+-------------------------------+-------------------------------+
 | \*            | Multiplicación                | area \<- base \* altura       |
-+---------------+-------------------------------+-------------------------------+
 | /             | División                      | porc \<- 100 \* parte / total |
-+---------------+-------------------------------+-------------------------------+
 | \^            | Potenciación                  | sup \<- 3.41 \* radio \^ 2    |
-+---------------+-------------------------------+-------------------------------+
 | \%            | Módulo                        | resto \<- num % div           |
 | MOD           | (resto de la división entera) | resto \<- num MOD div         |
-+---------------+-------------------------------+-------------------------------+
 
 ### 6.2. Funciones interconstruidas
 
@@ -510,51 +504,29 @@ Todos los lenguajes de programación tienen implantadas algunas funciones básic
 
 Las funciones en pseudocódigo PSeInt se utilizan en cualquier expresión. A continuación se listan las funciones disponibles para datos *Numericos* y alfanuméricos o tipo *Cadena*:
 
-+---------------------+--------------------------------------------------------+
+Tabla 4. Funciones en pseudocódigo PSeInt
 | Función             | Significado                                            |
-+=====================+========================================================+
+|:-------------------:|:------------------------------------------------------:|
 | ABS(X)              | Devuelve el valor absoluto de X                        |
-+---------------------+--------------------------------------------------------+
 | TRUNC(X)            | Devuelve la parte entera de X                          |
-+---------------------+--------------------------------------------------------+
 | REDON(X)            | Devuelve el entero más cercano a X                     |
-+---------------------+--------------------------------------------------------+
 | RC(X) RAIZ(X)       | Devuelve la raíz cuadrada de X                         |
-+---------------------+--------------------------------------------------------+
 | SEN(X)              | Devuelve el seno de X                                  |
-+---------------------+--------------------------------------------------------+
 | COS(X)              | Devuelve el coseno de X                                |
-+---------------------+--------------------------------------------------------+
 | TAN(X)              | Devuelve la tangente de X                              |
-+---------------------+--------------------------------------------------------+
 | ASEN(X)             | Devuelve el arcoseno de X                              |
-+---------------------+--------------------------------------------------------+
 | ACOS(X)             | Devuelve el arcocoseno de X                            |
-+---------------------+--------------------------------------------------------+
 | ATAN(X)             | Devuelve el arcotangente de X                          |
-+---------------------+--------------------------------------------------------+
 | LN(X)               | Devuelve el logaritmo natural de X                     |
-+---------------------+--------------------------------------------------------+
 | EXP(X)              | Devuelve la función exponencial de X                   |
-+---------------------+--------------------------------------------------------+
 | AZAR(X)             | Devuelve el entero aleatorio en el rango [0,X-1]       |
-+---------------------+--------------------------------------------------------+
 | ALEATORIO(A,B)      | Devuelve el entero aleatorio en el rango [A,B]         |
-+---------------------+--------------------------------------------------------+
 | LONGITUD(S)         | Devuelve la cantidad de caracteres de la cadena S      |
-+---------------------+--------------------------------------------------------+
 | SUBCADENA(S,X,Y)    | Devuelve una cadena que consiste en la parte de la cadena S que va desde la posición X hasta la posición Y, incluyendo ambos extremos. La primer letra será la 0 o la 1 de acuerdo al perfil del lenguaje utilizado. |
-+---------------------+--------------------------------------------------------+
 | CONCATENAR(S1,S2)   | Devuelve una cadena que resulta de unir las cadenas S1 y S2|
-+---------------------+--------------------------------------------------------+
 | CONVERTIRANUMERO(X) | Devuelve el valor numérico de la cadena de caracteres que contiene un número|
-+---------------------+--------------------------------------------------------+
-| CONVERTIRATEXTO(S)  | Devuelve la cadena de una variable numérica con la representación como cadena de caracteres de dicho real                                                       |
-+---------------------+--------------------------------------------------------+
-| MAYUSCULAS(S)       | Devuelve una copia de la cadena S con todos sus caracteres en mayúsculas                                                                                              |
-+---------------------+--------------------------------------------------------+
-| MINUSCULAS(S)       | Devuelve la cadena S con todos sus caracteres en minúsculas                                                                                                          |
-+---------------------+--------------------------------------------------------+
+| CONVERTIRATEXTO(S)  | Devuelve la cadena de una variable numérica con la representación como cadena de caracteres de dicho real |
+| MAYUSCULAS(S)       | Devuelve una copia de la cadena S con todos sus caracteres en mayúsculas               | MINUSCULAS(S)       | Devuelve la cadena S con todos sus caracteres en minúsculas |
 
 ### 6.3. Control del flujo de control
 
