@@ -457,21 +457,15 @@ El pseudolenguaje PSeInt tiene operadores de varios tipos: relacionales, lógico
 
 Los ***operadores relacionales*** permiten comparar dos valores o variables numéricas o alfanuméricas y el resultado es un valor lógico, según la siguiente tabla:
 
-+----------+-------------------+-----------------+----------------------+
+Tabla 1. Operadores en pseudocódigo
 | Operador |    Significado    |    Ejemplo      | Resultado            |
-+:========:+:=================:+:===============:+:====================:+
+|:--------:|:-----------------:|:---------------:|:--------------------:|
 |    \>    |     Mayor que     |     3 \> 2      | VERDADERO            |
-+----------+-------------------+-----------------+----------------------+
 |    \<    |     Menor que     | 'ABC' \< 'abc'  | VERDADERO            |
-+----------+-------------------+-----------------+----------------------+
 |    =     |     Igual que     |     4 = 3       |   FALSO              |
-+----------+-------------------+-----------------+----------------------+
 |   \<=    | Menor o igual que |  'a' \<= 'b'    | VERDADERO            |
-+----------+-------------------+-----------------+----------------------+
 |   \>=    | Mayor o igual que |    4 \>= 5      |   FALSO              |
-+----------+-------------------+-----------------+----------------------+
 |   \<\>   |   Distinto que    |  'a' \<\> 'b'   | VERDADERO            |
-+----------+-------------------+-----------------+----------------------+
 
 Los ***operadores lógicos*** permiten hacer operaciones lógicas, es decir, relacionar variables lógicas son los siguientes y se puede usar el símbolo o la palabra y el resultado es evaluado según las tablas de verdad para cada operación:
 
