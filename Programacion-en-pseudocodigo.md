@@ -1,15 +1,6 @@
----
-title: "Programación en Pseusocódigo"
-author: "Jesús Zavala Ruiz"
-date: '2023-03-09'
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Programación de computadoras en pseudocódigo
+por prof. Jesús Zavala Ruiz
+09 de marzo de 2023
 
 Estas notas de clase pretenden servir para estudiar programación y la conversion de pseudocódigo a un lenguaje de programación real como R.
 
