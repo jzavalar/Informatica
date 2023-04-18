@@ -1,5 +1,5 @@
 ---
-title: "Programación en Pseusocódigo"
+title: "Programación en Pseudocódigo"
 author: "Jesús Zavala Ruiz"
 date: '2023-03-09'
 output: html_document
