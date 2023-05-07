@@ -304,6 +304,7 @@ Software:
 - Dr. Beco. (2022, Jun 7). [The Code | Story of(Linux).documentary](https://www.youtube.com/watch?v=O1rCOSnuBEs). *YouTube*. (video) (58:53 min).
 - [ibiblio](https://www.ibiblio.org/). El mayor repositorio de colecciones de trabajos bajo el dominio público que incluye fotos, libros, clipart, revistas y música!
 - Edge Seguridad Informática y SysAdmin. (2022, Apr 3). [RHCSA 8](https://www.youtube.com/watch?v=Dt4agP6iBuQ&list=PLzjjPeOioSgdoQEWFIRZKQivjvilS8WBU). *YouTube*. (58 videos). Curso de capacitación para aprobar la certificación Red Hat Certified System Administrator (RHCSA) (EX200) (muy recomendable).  
+- The Fedora Project (2023). Fedora [Sistema Operativo] ver. 38. [url](https://fedoraproject.org/es/). [Ayuda](https://docs.fedoraproject.org/en-US/quick-docs/). [Descargar](https://fedoraproject.org/es/workstation/download/). [Dual boot](https://www.youtube.com/watch?v=FNKnbBPGW_A) 
 - Nate Gentile. (2017, Feb 19). [Entiende Linux y el software libre de una vez](https://www.youtube.com/watch?v=UUJ0dFpj1-M). *YouTube* (video). (17:41 min).
 - Nate Gentile. (2018, Dic 16). [¿Por qué Linux no es popular?](https://www.youtube.com/watch?v=NDhJfHhe3e4). *YouTube* (video). (13:26 min).
 - SourceForge (2022). [SourceForge](https://sourceforge.net/) (Catálogo de Software Libre y Abierto).
@@ -311,6 +312,7 @@ Software:
 - Tanembaum, A. S (2009). *Sistemas operativos modernos*. México: Pearson Educación. ([pdf](https://norbertomn.files.wordpress.com/2013/09/sistemas-operativos-modernos.pdf)).
 - Sintes, B. (2017). [Catálogo de Software Libre](http://www.cdlibre.org/index.html). 
 - Wheeler, D. A. (2015). *[Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!](https://www.dwheeler.com/oss_fs_why.html)*. ([Versión al español](http://hispalinux.es/informes/wheeler/index.html) de 2001).
+- Zorin Group (2023). Zorin OS [Sistema operativo]. Ver 16.2. [url](https://zorin.com/os/). [Ayuda](https://help.zorin.com/). [Comprar Zorin OS Pro](https://zorin.com/os/pro/). [URL torrent](https://solidtorrents.to/torrents/zorin-os-16-2-all-8cc85/63992643ab7e15fd945f6641/) 
 
 #### Unidad 4. Bases de datos
 1. Introducción
