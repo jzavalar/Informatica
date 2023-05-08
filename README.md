@@ -144,7 +144,6 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - HD Documental Ciencia 2017 (2017, Dic 17). [La curiosa guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg). *YouTube*. [video]. (1:27:54 hr).  
 - Lahoz-Beltra, R. (2020). [*Turing. La computación: Pensando en máquinas que piensan*](https://libgen.rs/book/index.php?md5=0E12A6617118339310C16106A8C8F073). Budapest: epublibre.  
 
-
 #### Unidad 2. Software   
 1. Ontología del software  
    a. Elementos básicos: Datos e instrucciones (programas)  
@@ -157,19 +156,16 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
       - Binario  
       - Hexadecimal  
       - Conversiones entre sistemas  
-   
-   b. Tipos de datos:  
+    b. Tipos de datos:  
       - Númericos: Enteros (*integer*) y reales (*float point*)  
       - Alfanuméricos  
       - Lógicos  
       - Estructuras de datos: arreglos, matrices, listas, tablas.  
-   
-   c. Archivos y tipos de archivos:  
+    c. Archivos y tipos de archivos:  
       - Codificación de texto: ASCII y Unicode (UTF-8, UTF-16 y UTF-32)  
       - Codificación binaria: Audio, imagen, video y otros  
 3. Instrucciones   
    a. Conceptos clave de programación: Programar, programa almacenado, código (fuente, binario, objeto y executable)  
-   
    b. Lenguajes de programación:  
       - *Sintaxis* o *gramática*: Palabras clave o reservadas (*keywords*), símbolos, identificadores y sentencias.  
       - *Semántica* o *significado*:  
@@ -177,13 +173,11 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
          - *Salida*: Operaciones de impresión en pantalla y archivos  
          - *Almacenamiento* en memoria y archivos: Operaciones de asignación  
          - *Procesamiento*: Operaciones de comparación y decisión, ciclos.  
-   
    c. Programación:  
       - *Conceptos*: Variables, constantes, tipos y estructuras de datos, acumuladores, operadores (aritméticos, de comparación y lógicos), control condicional e iterativo, rutina, subrutina, funciones, pase de variables por valor o referencia.  
       - Pseudocódigo  
       - Diagramas de flujo  
       - Herramientas de programación: Editor, parser, ensamblador, intérprete, compilador, debugger (eliminador de errores), entorno de desarrollo integrado (IDE).  
-   
    d. Algoritmos:  
       - Conceptos clave: Algoritmo, problema, entrada, salida, proceso.  
       - Técnicas: Recursión y divide y vencerás  
@@ -300,6 +294,21 @@ Software:
 3. Funciones principales
 4. Tareas y prácticas:
 
+- *Práctica 3.1. Algoritmos*. (Entrega: 15 de marzo de 2023).
+
+  *Objetivo*: Poner a prueba sus conocimientos sobre algoritmos y pseudocódigo.
+    
+  Primero, modifique y corrija el pseudocódigo propuesto por [Rodríguez (s.f.)](https://docs.google.com/document/d/1Uc9Cfld53Guia5ErtmGCnByUttV_3Jc-/edit?usp=sharing&ouid=108201401516590627031&rtpof=true&sd=true), de acuerdo a las reglas de PseInt configuradas en el perfil "UNAM FCA" y de acuerdo a la estructura del algoritmo aprendida en la clase, en la lista de ejercicios, según su número de lista de grupo.
+  
+  *Número de Lista*:(Ejercicios): **1**:(4, 8), **2**:(15, 34), **3**:(8, 23), **4**:(25, 17), **5**:(13, 38), **6**:(33, 2), **7**:(42, 15), **8**:(6, 35), **9**:(29, 2), **10**:(24, 26), **11**:(16, 30), **12**:(13, 37), **13**:(8, 42), **14**:(10, 42), **15**:(22, 24), **16**:(7, 28); **17**:(19, 11), **18**:(6, 34), **19**:(44, 1), **20**:(29 24), **21**:(8, 38), **22**:(27, 14), **23**:(34, 24), **24**:(21, 42).
+     
+  Cada ejercicio debe crearse en un archivo con el nombre del número de algoritmo y el título del algorimo. Por ejemplo, para el primer algoritmo llamado "Promedio", le correpondería el nombre de *01. Promedio.psc*. 
+     
+  Cuando sea necesario, corrija el algoritmo para que los cálculos se realizcen de manera correcta y genere la salida respectiva. Incluya las modificaciones para que el algoritmo se ejecute de manera iterativa y termine de manera elegante. Incluya los comentarios respectivos en cada parte y los datos para identificarlo a usted como autor de las modificaciones y al autor, con la referencia bibliográfica original. Por último, pruebe que los algoritmos son correctos.
+     
+  Guarde el pseudocódigo del algoritmo (en formato *psc*) y el diagrama de flujo (como imagen) y suba sus archivos a su cuenta de Google Drive en el diretorio respectivo de la tarea y comparta el link con el profesor.
+
+
 ##### Bibliografía Complementaria:
 - Dr. Beco. (2022, Jun 7). [The Code | Story of(Linux).documentary](https://www.youtube.com/watch?v=O1rCOSnuBEs). *YouTube*. (video) (58:53 min).
 - [ibiblio](https://www.ibiblio.org/). El mayor repositorio de colecciones de trabajos bajo el dominio público que incluye fotos, libros, clipart, revistas y música!
@@ -319,7 +328,6 @@ Software:
 2. Bases de datos relacionales
 3. Sistemas de información
 4. Tareas y prácticas:
-
 
 ### Modalidades de Evaluación
 
