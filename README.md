@@ -268,11 +268,12 @@ Haga un video de la práctica de las partes 1 a 3 y R y reflexione sobre el pote
 - Martín, C., Rubio, M. A., Urquía, A. (2011). [*Lenguajes de programación*](https://libgen.rs/book/index.php?md5=006E57DF6867BBF1B3BAE332475E72AD). Madrid: Universidad Nacional de Educación a Distancia (UNED).
 
 ##### Bibliografía Complementaria:
+- Baruffa, O. (2022, Jan 13). [Big book of R](https://www.bigbookofr.com/). (Sitio web) (La compilación más grande de libros y fuentes documentales sobre R).
 - Butterfield, A., Ngondi, G. E. (2016). [*A dictionary of computer science (Oxford Quick Reference)*](https://libgen.rs/book/index.php?md5=2FD856C4E6BC92CFA8DEB03F1B621A73). Oxford University Press.	
 - IEEE (1987). [*IEEE standard glossary of computer applications terminology*](https://libgen.rs/book/index.php?md5=4F816603DBBF6AEB60B92FCCC59762A1). New York: Institute of 
 Electrical & Electronics Engineers (IEEE). 
 - Laplante, P. A. (2017). [*Dictionary of computer science, engineering and technology*](https://libgen.rs/book/index.php?md5=C2FEF4DC36C84134ABA1E5698E913F73).	Boca Raton, FL, USA: CRC Press.  
-- Baruffa, O. (2022, Jan 13). [Big book of R](https://www.bigbookofr.com/). (Sitio web) (La compilación más grande de libros y fuentes documentales sobre R).
+- Walum, H., & De Leon, D. (2022). Teacups, giraffes, & statistics (Tazas de té, jirafas y estadística). GitHub. [Módulos](https://tinystats.github.io/teacups-giraffes-and-statistics/) [Proyecto en RMarkdown](https://github.com/tinystats/teacups-giraffes-and-statistics) [Una deliciosa serie de módulos para aprender estadística y codificación en R para estudiantes, científicos y entusiastas de la estadística.]
 
 Videos:
 - [Aprende a programar en 11 minutos](https://www.youtube.com/watch?v=TAyyujKoY6k).  
@@ -353,4 +354,4 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
 
 ##### Evaluación de Recuperación
-La *evaluación de recuperación* no será aplidada por el profesor, sino por la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente, por lo que deberá coordinarse con la Coordinadora de la Licenciatura.
+La *evaluación de recuperación* no será aplidada por el profesor, sino por la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente, por lo que deberá coordinarse con el Coordinador.
