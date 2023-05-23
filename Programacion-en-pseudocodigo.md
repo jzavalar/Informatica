@@ -226,8 +226,11 @@ En PseInt, las variables y las constantes se declaran explícitamente antes de u
 ```
     // Declaración de las variables
     Definir <nombre_de_la_variable_1>, <nombre_de_la_variable_2>, ... Como <tipo_de_dato>;
+```
 
-    // Ejemplos de declaración de variables
+Ejemplos de declaración de variables:
+
+```
     Definir a Como Numerico;
     Definir cajas, zapatos, lonas Como Enteros;
     Definir peso Como Real;
@@ -241,8 +244,10 @@ Las *constantes* también se declaran según las mismas reglas que se aplican a 
 ```
     // Declaración de las constantes
     Definir <NOMBRE_DE_LA_CONSTANTE_1>, <NOMBRE_DE_LA_CONSTANTE_2>, ... Como <tipo_de_dato>;
+```
+Ejemplos de constantes:
 
-    // Ejemplos de constantes
+```
     Definir TOPE, MES Como Enteros;
     Definir NUMERO_PI, NUMERO_E Como Reales;
     Definir LETRA, NUM, SIGNO, ESPACIO_EN_BLANCO Como Caracteres;
@@ -268,8 +273,11 @@ El pseudocódigo PSeInt sólo permite la declaración de una *estructura de dato
 
     // Arreglo multi-dimensional:
     Dimension <arreglo_1>[ <tamaño_1> ], <arreglo_2>[ <tamaño_1>, <tamaño_2> ], ..., <arreglo_n>[ <tamaño_1>, <tamaño_2>, ..., <tamaño_n> ] ];
+```
 
-    // Ejemplos
+Ejemplos:
+
+```
     // Declaración de las variables
     Definir id, matriz, tridimensional como Entero;
     Definir descripcion como Caracter;
@@ -308,8 +316,11 @@ A continuación se muestran algunos ejemplos de inicialización de constantes en
 ```
     // Inicializacion de una constante
     <NOMBRE_DE_LA_CONSTANTE> <- <expresión>;
+```
 
-    // Ejemplos:
+Ejemplos:
+
+```
     // Inicializacion de constantes enteras
     TOPE <- -5;
     MES <- 10;
@@ -344,8 +355,11 @@ En pseudocódigo PSeInt sólamente se pueden capturar bytes desde el teclado con
 ```
     // Lectura de datos e inicializacion de variables
     Leer <variable_1>, ..., <variable_n>;
+```
 
-    // Ejemplos
+Ejemplos:
+
+```
     // Leer e inicializar las variables
     Leer nombre;
     Leer apellidos;
@@ -365,8 +379,11 @@ En PseInt, existe una funcionalidad similar a la anterior, que con la palabra re
 ```
     // Esperar
     Esperar <tiempo> [Segundos | Milisegundos];
+```
 
-    // Ejemplos
+Ejemplos:
+
+```
     Esperar 3 Segundos;
     Esperar 250 Milisegundos;
 ```
@@ -382,8 +399,11 @@ En PSeInt, hay varias acciones de salida de datos que se pueden realizar, depend
 ```
     // Imprimir mensajes
     Escribir <expresion_l> , <expresion_2> , ... , <expresion_N>;
+```
 
-    // Ejemplo
+Ejemplo:
+
+```
     Escribir nombre, " ", apellidos, " tiene ", edad, "años.";  
 ```
 
@@ -397,8 +417,11 @@ En PSeInt pueden usarse las palabras reservadas `Sin Saltar` para imprimir un me
 
     // OPción 2:
     Escribir <exprl> , ... , <exprN> Sin Saltar;
+```
 
-    // Ejemplo
+Ejemplo:
+
+```
     Escribir Sin Saltar "Nombre? ";
 ```
 
@@ -419,14 +442,14 @@ Es frecuente utilizar las instrucciones de salida y de entrada de datos de maner
     Definir nombre, apellidos Como Cadenas;
     Definir edad Como Entero;
 
-    // Leer o inicializar las variables
+    // Leer o inicializar las variables, una por una
     Escribir "Introduce el nombre";
     Leer nombre;
 
     Escribir "Introduce los apellidos";
     Leer apellidos;
 
-    // Otra posibilidad de entrada es:
+    // Otra posibilidad de entrada de datos, varios a la vez, es la siguiente:
     Escribir "Introduce el nombre y apellidos";
     Leer nombre, apellidos;
 
@@ -543,7 +566,8 @@ La instrucción de *control alternativo simple*
         ... 
     FinSi
 ``` 
-en PSeInt tiene la siguiente sintaxis general:
+
+En PSeInt tiene la siguiente sintaxis general:
 
 ```
     // Control alternativo simple
@@ -552,9 +576,11 @@ en PSeInt tiene la siguiente sintaxis general:
         \<bloque_de_instrucciones_1\>
     FinSi
     \<siguiente_instruccion\>
+```
 
+Ejemplo:
 
-    // Ejemplo
+```
     Si (nota >= 6) Entonces
       Escribir "APROBADO";
     FinSi
@@ -574,9 +600,11 @@ En pseudocódigo PSeInt, la instrucción de control alternativo doble `Si ... En
         // Se ejecuta si <expresión_lógica> es FALSA
         <bloque_de_instrucciones_2>
     FinSi
+```
 
+Ejemplo:
 
-    // Ejemplo
+```
     Si (nota >= 6) Entonces
       Escribir "APROBADO";
     SiNo
@@ -587,6 +615,7 @@ En pseudocódigo PSeInt, la instrucción de control alternativo doble `Si ... En
 En tercero y último lugar, la instrucción de ***control alternativo múltiple*** permite evaluar una condición mediante una `<expresión>` para elegir alternativamente un bloque de instrucciones a ejecutar, entre múltiples opciones. El resultado de evaluar la `<expresión>` debe ser un valor finito y ordenado, es decir, `Entero`, `Logico`, `Caracter`, enumerado o rango.
 
 En pseudocódigo PSeInt, se puede escribir una instrucción de *control alternativo múltiple* 
+
 ```
     Segun ... 
     ...
@@ -617,9 +646,11 @@ Si la <expresión> evaluada en la `<expresión_lógica>` es VERDADERO, se ejecut
           // en alguna de las <listas_de_valores_previas> 
           <bloque_de_instrucciones_n+1> ]
     FinSegun
+```
 
-
-    // Ejemplo: Menú
+Ejemplo:
+```
+    // Menú
             
     // mostrar menu
     Escribir "Menú de recomendaciones";
@@ -665,8 +696,11 @@ En pseudocódigo PSeInt, una instrucción repetitiva `Mientras ... FinMientras` 
         <bloque_de_instrucciones>
     FinMientras
     <siguiente_instruccion_fuera_del_ciclo>
+```
 
-    // Ejemplo
+Ejemplo:
+
+```
     // Inicialización de las variables involucradas en el ciclo Mientras
     Escribir "Adivine el numero (de 1 a 100):";
     Leer num_ingresado;
@@ -771,6 +805,64 @@ En pseudocódigo PSeInt, una instrucción repetitiva `Para` se puede escribir co
         FinPara
         
     FinProceso
+```
+
+Ejemplo integral, `OrdenaLista.psc` de la Ayuda de PseInt:
+
+```
+OrdenaLista.psc
+//   Se ingresa una lista de nombres (la lista termina
+// cuando se ingresa un nombre en blanco) no permitiendo
+// ingresar repetidos y luego se ordena y muestra
+
+Proceso OrdenaLista
+	
+	Definir nombre,lista,aux Como Cadenas;
+	Definir se_repite Como Logico;
+	Definir cant,i,j,pos_menor Como Enteros;
+	Dimension lista[200];
+	
+	Escribir "Ingrese los nombres (enter en blanco para terminar):";
+	
+	// leer la lista
+	cant <- 0;
+	Leer nombre;
+	Mientras nombre <> "" Hacer
+		lista[cant] <- nombre;
+		cant <- cant + 1;
+		Repetir // leer un nombre y ver que no este ya en la lista
+			Leer nombre;
+			se_repite <- Falso;
+			Para i <- 0 Hasta cant - 1 Hacer
+				Si nombre = lista[i] Entonces
+					se_repite <- Verdadero;
+				FinSi
+			FinPara
+		Hasta Que ~ se_repite
+	FinMientras
+	
+	// ordenar
+	Para i <- 0 Hasta cant - 2 Hacer
+		// busca el menor entre i y cant
+		pos_menor <- i;
+		Para j <- i + 1 Hasta cant - 1 Hacer
+			Si lista[j]<lista[pos_menor] Entonces
+				pos_menor <- j;
+			FinSi
+		FinPara
+		// intercambia el que estaba en i con el menor que encontro
+		aux <- lista[i];
+		lista[i] <- lista[pos_menor];
+		lista[pos_menor] <- aux;
+	FinPara	
+	
+	// mostrar como queda la lista
+	Escribir "La lista ordenada es:";
+	Para i <- 0 Hasta cant - 1 Hacer
+		Escribir "   ", lista[i];
+	FinPara
+	
+FinProceso
 ```
 
 ## Referencias 
