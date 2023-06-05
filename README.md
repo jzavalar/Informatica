@@ -367,9 +367,9 @@ Software:
 
   Aplicación: Con alguna de estas dos herramientas se puede preparar el disco duro de la computadora para instalar Linux como segundo sistema operativo o en dual boot, sin perder información, después de dejar un espacio libre de unos 20 a 50 GB, dependiendo del tamaño del disco disponible. Ver este tutorial.
 
+  Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.   
+  
   Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
-
-Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 - *Práctica 3.5. Particiones y sistemas de archivos*. (Entrega: ).
 
