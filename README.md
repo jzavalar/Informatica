@@ -260,8 +260,8 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   *Parte 4*: Tome como base el tutorial [Programacion-en-Pseudocodigo.Rmd](https://github.com/jzavalar/2211088-informatica/blob/main/Programacion-en-Pseudocodigo.Rmd) e identifique las instrucciones equivalentes en R que encuentre en el [tutorial de R](https://sparkbyexamples.com/r-tutorial-with-examples/). En el directorio respectivo del proyecto, cree un archivo RMarkdown que sea la síntesis 1 a 1 del tutorial *Programacion en Pseudocodigo*. Compílelo con knitr para generar el archivo HTML. El archivo RMarkdown es su entregable.  
 
   *Parte 5*: Pruebe sus conocimientos implantando en un par de funciones en R, los algoritmos que implantó en PseInt en la *Práctica 2.4.* en un archivo RMarkdown, exponiendo en primer lugar el pseudocódigo y luego el código en R.  
-
-Haga un video de la práctica de las partes 1 a 3 y R y reflexione sobre el potencial que tiene esta tecnología a modo de tutorial y súbalo a su Google Drive.  
+  
+  Haga un video de la práctica de las partes 1 a 3 y R y reflexione sobre el potencial que tiene esta tecnología a modo de tutorial y súbalo a su Google Drive.  
 
 ##### Bibliografía Obligatoriaria:
 - Khosrow-Pour, M. (2007). [*Dictionary of information science and technology*](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey PA, USA: Idea Group.
@@ -479,9 +479,13 @@ Instale en su Tome como estudio de caso la solución denominada de
   [pagila](https://github.com/devrimgunduz/pagila)
     
   *Parte 5*. A continuación se pueden seguir dos caminos para preparar la infraestructura cliente-servidor para alojar aplicaciones empresariales.
-   - El primer camino consiste en instalar la infraestructura (sistema operativo + servidor web + servidor de base de datos + lenguaje(s) de programación) en tres versiones: [LAMP](https://es.wikipedia.org/wiki/LAMP)  ([guia con Ubuntu](https://www.gestionatuweb.net/instalar-lamp-linux-apache-mysql-y-php-en-gnu-linux-ubuntu-y-derivadas/), [guía con Fedora](https://computingforgeeks-com.translate.goog/how-to-install-lamp-stack-on-fedora/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419)), [WAMP](https://www.wampserver.com/en/) (**W**indows + **A**pache + **M**ySQL + **P**HP) o [XAMPP](https://www.apachefriends.org/es/index.html) (**X** (Linux o Windows) + **A**pache (+ Tomcat) + **M**ariaDB + **P**HP + **P**erl)) y luego debe descargar e instalar la aplicación que se vaya a utilizar.
-   La manera más práctica de realizar esto en un equipo Windows es [descargar](https://www.apachefriends.org/download.html), instalar y configurar el XAMPP en su computadora según la [guía](https://www.youtube.com/watch?v=6Yrw2TYCqqg). Luego, se puede instalar la aplicación que desee estudiar de manera local como una aplicación de tickets como [OSTicket](https://osticket.com/), un sistema gestor de contenido (CMS) como [WordPress](https://wordpress.org/), un sistema empresarial como [Dolibarr](https://www.dolibarr.org/) o cualquier otra. 
+  
+   - El primer camino consiste en instalar la infraestructura (sistema operativo + servidor web + servidor de base de datos + lenguaje(s) de programación) en tres versiones: [LAMP](https://es.wikipedia.org/wiki/LAMP)  ([guia con Ubuntu](https://www.gestionatuweb.net/instalar-lamp-linux-apache-mysql-y-php-en-gnu-linux-ubuntu-y-derivadas/), [guía con Fedora](https://computingforgeeks-com.translate.goog/how-to-install-lamp-stack-on-fedora/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419)), [WAMP](https://www.wampserver.com/en/) (**W**indows + **A**pache + **M**ySQL + **P**HP) o [XAMPP](https://www.apachefriends.org/es/index.html) (**X** (Linux o Windows) + **A**pache (+ Tomcat) + **M**ariaDB + **P**HP + **P**erl)) y luego debe descargar e instalar la aplicación que se vaya a utilizar.  
+   
+   La manera más práctica de realizar esto en un equipo Windows es [descargar](https://www.apachefriends.org/download.html), instalar y configurar el XAMPP en su computadora según la [guía](https://www.youtube.com/watch?v=6Yrw2TYCqqg). Luego, se puede instalar la aplicación que desee estudiar de manera local como una aplicación de tickets como [OSTicket](https://osticket.com/), un sistema gestor de contenido (CMS) como [WordPress](https://wordpress.org/), un sistema empresarial como [Dolibarr](https://www.dolibarr.org/) o cualquier otra.  
+   
    Por ejemplo, para el caso de [Dolibarr](https://www.dolibarr.org/), debe descargarlo de [aquí](https://sourceforge.net/projects/dolibarr/files/Dolibarr%20ERP-CRM/14.0.2/)) y copiarlo al directorio correcto según la ([guía](https://www.youtube.com/watch?v=_6_k0nUyezE)), según haya configurado el servidor web Apache con XAMPP.   
+   
    - El segundo camino es instalar toda la infraestructura ya empaquetada, por ejemplo, al usar [DoliWamp](https://sourceforge.net/projects/dolibarr/files/Dolibarr%20installer%20for%20Windows%20%28DoliWamp%29/), utilizando alguna guía como [esta](https://www.youtube.com/watch?v=ireDfaj0JYo). 
   
   *Parte 6*. Haga las [primeras configuraciones](https://wiki.dolibarr.org/index.php?title=Primeras_configuraciones) y pruébelo.
