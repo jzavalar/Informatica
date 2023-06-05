@@ -295,20 +295,97 @@ Software:
 3. Funciones principales
 4. Tareas y prácticas:
 
-- *Práctica 3.1. Algoritmos*. (Entrega: 15 de marzo de 2023).
+- *Tarea 3.1. Licenciamiento de software*. (Entrega: ).
 
-  *Objetivo*: Poner a prueba sus conocimientos sobre algoritmos y pseudocódigo.
+  *Objetivo*: Comprender los conceptos básicos de licenciamiento de software.
+
+  En equipo, investigue los conceptos básicos de *licenciamiento de software*: (1) propiedad intelectual en el caso del software, (2) patente de software, (3) dominio público (public domain), (4) distribución de software, (5) shareware, (6) freeware, (7) copyright vs copyleft, (8) licenciamiento de software ([guía](https://www.youtube.com/watch?v=F6yjAu92mPY&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=16)) y (9) software privativo ([guía](https://www.youtube.com/watch?v=tkiG7cWZ2uc)), (10) software abierto o de código abierto (*open source*) y revise la (11) *Open Source Initiative* ([url](https://opensource.org/licenses)) ([guía](https://www.youtube.com/watch?v=KD7N6tyBKno)), (12) software libre (free software), (13) la licencia GPL ([url](https://www.gnu.org/licenses/license-recommendations.html)) y la *Free Software Foundation* ([url](https://www.fsf.org/)) ([guía](https://www.youtube.com/watch?v=szSU1A2RhuQ)).
     
-  Primero, modifique y corrija el pseudocódigo propuesto por [Rodríguez (s.f.)](https://docs.google.com/document/d/1Uc9Cfld53Guia5ErtmGCnByUttV_3Jc-/edit?usp=sharing&ouid=108201401516590627031&rtpof=true&sd=true), de acuerdo a las reglas de PseInt configuradas en el perfil "UNAM FCA" y de acuerdo a la estructura del algoritmo aprendida en la clase, en la lista de ejercicios, según su número de lista de grupo.
-  
-  *Número de Lista*:(Ejercicios): **1**:(4, 8), **2**:(15, 34), **3**:(8, 23), **4**:(25, 17), **5**:(13, 38), **6**:(33, 2), **7**:(42, 15), **8**:(6, 35), **9**:(29, 2), **10**:(24, 26), **11**:(16, 30), **12**:(13, 37), **13**:(8, 42), **14**:(10, 42), **15**:(22, 24), **16**:(7, 28); **17**:(19, 11), **18**:(6, 34), **19**:(44, 1), **20**:(29 24), **21**:(8, 38), **22**:(27, 14), **23**:(34, 24), **24**:(21, 42).
-     
-  Cada ejercicio debe crearse en un archivo con el nombre del número de algoritmo y el título del algorimo. Por ejemplo, para el primer algoritmo llamado "Promedio", le correpondería el nombre de *01. Promedio.psc*. 
-     
-  Cuando sea necesario, corrija el algoritmo para que los cálculos se realizcen de manera correcta y genere la salida respectiva. Incluya las modificaciones para que el algoritmo se ejecute de manera iterativa y termine de manera elegante. Incluya los comentarios respectivos en cada parte y los datos para identificarlo a usted como autor de las modificaciones y al autor, con la referencia bibliográfica original. Por último, pruebe que los algoritmos son correctos.
-     
-  Guarde el pseudocódigo del algoritmo (en formato *psc*) y el diagrama de flujo (como imagen) y suba sus archivos a su cuenta de Google Drive en el diretorio respectivo de la tarea y comparta el link con el profesor.
+  Simplifique la definición con una frase corta y acompañe la definición con un par de ejemplos.
+    
+  Vea el video [Revolución de los Sistemas Operativos](https://www.youtube.com/watch?v=jfYBeWHc3GE) o [The Code](https://www.youtube.com/watch?v=O1rCOSnuBEs) y tome sus notas. Finalmente, compare los tres tipos de software (privativo, abierto y libre) ([guía](https://www.youtube.com/watch?v=SiCDIaTWKvg)), en términos de ventajas y desventajas y saque sus conclusiones filosóficas, técnicas, económicas, a partir de tres licencias representativas y de las biografías de tres personales: Bill Gates (Microsoft), Eric S. Raymond (OSI) y Richard Stallman (GNU - GLP) ([guía](https://www.youtube.com/watch?v=szSU1A2RhuQ)). Reflexione sobre el software libre y abierto (FLOSS) como ideología y como negocio.
+    
+  Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
+- *Práctica 3.2. Instalación de sistemas operativos en un medio extraible*. (Entrega: ).
+
+  *Objetivo*: Aprender a usar varios sistemas operativos desde un medio extraíble.
+
+  *Parte 1*. Investigue qué es un sistema operativo ([guía](https://www.youtube.com/watch?v=JJM3riqBKec&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=14)), tipos de sistemas operativos ([guía](https://www.youtube.com/watch?v=8bv30xKRqfE&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=10)) y compárelos en términos de ventajas, desventajas, seguridad, usabilidad y robustez ([url](https://www.youtube.com/playlist?list=PLH9AYXxUslqocwqqiCz0oQY_oZJH-bF_p)).
+    
+  *Parte 2*. Investigue qué es una imagen ISO y cómo se usa. Utilice Qbittorrent y, mediante su motor de búsqueda, localice la imagen ISO del sistema operativo Windows 7, usando la frase "Windows 7 untouched genuine" o "Windows 7 Ultimate spanish" ([tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)) o busque el torrent [aquí](https://thepiratebay.org/). Identifique la entrada que tiene más semillas (seeds) y descárguela. 
+    
+  *Parte 3*. Investigue un poco sobre las distribuciones del sistema operativo GNU/Linux ([guía 1](https://www.youtube.com/watch?v=RLStWVb1fWo&t=313s)) ([guía 2](https://www.youtube.com/watch?v=gbqv0AkqsXw)). Descargue el archivo ISO del sistema operativo Linux [Fedora](https://getfedora.org/es/) ([guía](https://www.youtube.com/watch?v=gbqv0AkqsXw)) o [Ubuntu Mate](https://ubuntu-mate.org/download/) de 32 o 64 bits, según sea la arquitectura del procesador (CPU) de su computadora.
+    
+  *Parte 4*. Esta práctica requiere un dispositivo externo (USB o disco duro externo).
+  
+  Existen varias aplicaciones que se pueden utilizar, entre ellas, destacan [**Ventoy**](https://www.ventoy.net/en/index.html), [**Yumi**](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) o [**Rufus**](https://rufus.ie/es/). **Advertencia:** Siempre debe tener **cuidado de NO instalar Ventoy, Yumi o Rufus en el disco duro de su computadora**. Por ello, **previamente, siempre debe respaldar los archivos de la USB.** Después de preparar la USB, ya puede utilizarla para grabar otros archivos en ella.
+  
+  Utilice la aplicación [**Ventoy**](https://www.ventoy.net/en/index.html) siguiendo el siguiente tutorial en [video](https://www.youtube.com/watch?v=_3p-f_Cwa4g) o este [tutorial escrito](https://websetnet.net/es/crear-un-instalador-usb-de-arranque-para-linux-a-trav%C3%A9s-de-la-nueva-soluci%C3%B3n-ventoy/amp/), en una USB vacía, de 16 Gib, por lo menos. Una vez preparado el dispositivo externo, copie los archivos ISO a la raíz y listo! Para arrancar la ISO de Windows, descargue el [archivo](https://github.com/ventoy/vhdiso/releases/download/v3.0/ventoy_vhdboot.zip) que debe ponerlo en la raíz de la USB.
+    
+  Si en su computadora no funciona Ventoy, use [**Yumi**](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) según esta [guía en video](https://www.youtube.com/watch?v=dR8ewnlfzVc) o este [tutorial escrito](https://hacerusbbooteable.com/usb-multibooteable-con-yumi/). Cada vez que ejecute Yumi, puede instalar o desinstalar las imágenes ISO de los sistemas operativos que desee.
+  
+  Por último, puede usar [**Rufus**](https://rufus.ie/es/) siguiendo este ([tutorial en video](https://www.youtube.com/watch?v=qedjN2AA3gU)) o esta [guía escrita](https://www.xataka.com/basics/que-rufus-como-utilizarlo-para-crear-usb-arranque). Considere que Rufus sólo instala una imagen ISO, a la vez.
+  
+  Considere de manera alternativa que el sistema operativo *Windows* puede instalarse en un medio extraible con [WintoUSB](https://www.easyuefi.com/wintousb/index.html) siguiendo este [tutorial](https://www.youtube.com/watch?v=wisy8cmM370), pero requiere una licencia activa.
+  
+  *Parte 5*. Investigue los conceptos involucrados: bootear un equipo ([guía](https://www.youtube.com/watch?v=O2S7YyKb5LI)), BIOS ([guía](https://www.youtube.com/watch?v=HD9qXyvIzOc)), UEFI ([guía](https://www.youtube.com/watch?v=X3Cx6wm6PtY)), partición (física y lógica, de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), GPT y MBR ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)).
+  
+  Pruebe que puede *arrancar* (o *bootear*) cada uno de los sistemas operativos instalados desde la USB, por ejemplo, [Active Boot Disk](https://thepiratebay.org/description.php?id=13686101), [Windows 7](https://thepiratebay.org/search.php?q=windows+7+untouched&apps=on&search=Pirate+Search&page=0&orderby=) y [Fedora Workstation](https://getfedora.org/es/workstation/).
+  
+  Cualquiera de los procedimientos de la *Parte 4* de esta práctica, habilitan una USB para arrancar un sistema operativo Windows, Linux o cualquier otro, sin tocar el disco duro del equipo. Esto tiene muchas ventajas, como preservar el medio de almacenamiento o instalar el sistema operativo que se ejecute desde la USB, en el mismo disco duro, adicional al Windows (*dual booting*). Esto tiene muchas *aplicaciones prácticas*, por ejemplo, si falla el sistema operativo Windows, con la USB que ha preparado puede arrancar su sistema operativo Linux desde la USB y trabajar con él en tareas cotidianas de oficina como abrir o crear un archivo de texto u hoja de cálculo con [*Libre Office*](https://www.libreoffice.org/), navegar en Internet y acceder a su correo electrónico. Sin embargo, no puede hacer cambios al sistema operativo, ni instalar aplicaciones adicionales con cambios permanentes. 
+  
+  *Parte 6*. Afortunadamente, puede utilizarse un disco duro externo portátil de baja capacidad o una memoria USB de por lo menos 32 GB, para instalar un sistema operativo en su USB, con un sistema encriptado, con un presupuesto muy bajo. Afortunadamente, el sistema operativo *Linux*, como [Fedora](https://getfedora.org/es/) o el de su preferencia también puede instalarse y ejecutarse desde en un dispositivo externo, tal como si fuera el disco principal, sin mayor problema, completando el procedimiento de la Parte 4 de esta práctica.
+  
+   Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+- *Práctica 3.3. Instalación de sistemas operativos como máquinas virtuales*. (Entrega: ).
+
+  *Objetivo*: Aprender a instalar varios sistemas operativos como un máquinas virtuales.
+
+  *Parte 1*. Investigue qué es la virtualización, una máquina virtual y cómo se instala un sistema operativo en una máquina virtual.   
+
+  *Parte 2*. Instale [VirtualBox](https://www.virtualbox.org/) en su sistema operativo Windows o el que tenga. Luego, instale el sistema operativo [Fedora Workstation](https://getfedora.org/es/workstation/) como una máquina virtual ([Video 1](https://www.youtube.com/watch?v=9-ZGT6T65VA)). Finalmente, instale el *VirtualBox Extension Pack.x*  
+    
+  *Parte 3*. Utilice los archivos ISO de [Windows 7](https://thepiratebay.org/search.php?q=windows+7+untouched&apps=on&search=Pirate+Search&page=0&orderby=) y [Fedora Workstation](https://getfedora.org/es/workstation/) e instálelos mediante VirtualBox ([Video](https://www.youtube.com/watch?v=GEx046EHphI)).  
+    
+  *Parte 4*. Pruebe que puede arrancar cada uno de los tres sistemas operativos como máquinas virtuales.  
+
+  Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+- *Práctica 3.4. Particiones y sistemas de archivos*. (Entrega: ).
+
+  *Objetivo*: Comprender y practicar la preparación de dispositivos de almacenamiento en una computadora.
+
+  *Parte 1*. Investigue los conceptos involucrados: partición (física y lógica, primaria, partición de arranque) (guía), GPT y MBR (guía), formatear un dispositivo de almacenamiento (guía), sistema de archivos (guía), archivo (guía), tipos de archivo (binario, texto, programa) (guía), cómo se guarda un archivo (guía) y las operaciones de manejo de archivos (guía).
+
+  *Parte 2*. Use una USB sin datos o nueva y practique los procesos de manejo de particiones (crear, cambiar de tamaño, fusionar y eliminar particiones en Windows con Disk Management (guía), de los siguientes tipos: FAT, exFAT, FAT32, NTFS y EXT4. Saque sus conclusiones.
+
+  *Parte 3*. Repita las mismas operaciones de la Parte 3 de esta práctica usando la aplicación GParted Live CD/USB/HD/PXE Bootable Image copiando el archivo ISO en la USB con Ventoy y arrancando el ISO. Utilice este tutorial. Compare Disk Management y gParted y saque sus conclusiones.
+
+  *Parte 4*. Practique la recuperación de particiones eliminadas con TestDisk (tutorial en video, tutorial escrito) en discos o dispositivos de almacenamiento formateados. También, practique la recuperación de dispositivos que no son reconocidos o que piden ser formateados, como una USB (tutorial).
+
+  Aplicación: Con alguna de estas dos herramientas se puede preparar el disco duro de la computadora para instalar Linux como segundo sistema operativo o en dual boot, sin perder información, después de dejar un espacio libre de unos 20 a 50 GB, dependiendo del tamaño del disco disponible. Ver este tutorial.
+
+  Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+- *Práctica 3.5. Particiones y sistemas de archivos*. (Entrega: ).
+
+  *Objetivo*: Comprender y practicar la preparación de dispositivos de almacenamiento en una computadora.    
+
+  *Parte 1*. Investigue los conceptos involucrados: partición (física y lógica, primaria, partición de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), GPT y MBR ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)), formatear un dispositivo de almacenamiento ([guía](https://www.youtube.com/watch?v=YshcHw9aIno)), sistema de archivos ([guía](https://www.youtube.com/watch?v=ukzkZA73fkg)), archivo ([guía](https://www.youtube.com/watch?v=Ub7guhuy7_A)), tipos de archivo (binario, texto, programa) ([guía](https://www.youtube.com/watch?v=LbopJOLgo5g)), cómo se guarda un archivo ([guía](https://www.youtube.com/watch?v=ProWo1W-4C0)) y las operaciones de manejo de archivos ([guía](https://www.youtube.com/watch?v=f2dmh_VkNgw)).
+     
+  *Parte 2*. Use una USB sin datos o nueva y practique los procesos de manejo de particiones (crear, cambiar de tamaño, fusionar y eliminar particiones en Windows con Disk Management ([guía](https://www.youtube.com/watch?v=gXvyWWi7lh8)), de los siguientes tipos: FAT, exFAT, FAT32, NTFS y EXT4. Saque sus conclusiones.
+  
+  *Parte 3*. Repita las mismas operaciones de la *Parte 3* de esta práctica usando la aplicación [GParted Live CD/USB/HD/PXE Bootable Image](https://gparted.org/download.php) copiando el archivo ISO en la USB con Ventoy y arrancando el ISO. Utilice este [tutorial](https://www.youtube.com/watch?v=-kYe3BYPurA). Compare Disk Management y gParted y saque sus conclusiones.
+  
+  *Parte 4*. Practique la *recuperación de particiones eliminadas* con *[TestDisk](https://www.cgsecurity.org/wiki/TestDisk_ES)* ([tutorial en video](https://www.youtube.com/watch?v=w_JqR-9qcX8), [tutorial escrito](https://geekland.eu/recuperar-particiones-borradas-o-eliminadas-con-testdisk/)) en discos o dispositivos de almacenamiento formateados. También, practique la *recuperación de dispositivos* que no son reconocidos o que piden ser formateados, como una USB ([tutorial](https://www.youtube.com/watch?v=SV9-PdEg3nA)). 
+  
+  *Aplicación*: Con alguna de estas dos herramientas se puede preparar el disco duro de la computadora para instalar Linux como segundo sistema operativo o en *dual boot, sin perder información*, después de dejar un espacio libre de unos 20 a 50 GB, dependiendo del tamaño del disco disponible. Ver este [tutorial](https://www.youtube.com/watch?v=ycTh_x-hzro).  
+     
+  Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 ##### Bibliografía Complementaria:
 - Dr. Beco. (2022, Jun 7). [The Code | Story of(Linux).documentary](https://www.youtube.com/watch?v=O1rCOSnuBEs). *YouTube*. (video) (58:53 min).
@@ -329,6 +406,88 @@ Software:
 2. Bases de datos relacionales
 3. Sistemas de información
 4. Tareas y prácticas:
+
+- *Tarea 4.1. LEO: El primer sistema empresarial en el mundo*. (Entrega: ).
+
+  *Objetivo*: Comprender el surgimiento de los sistemas de información automatizados en las organizaciones.
+    
+  *Parte 1*. De manera individual, investigue la historia del proyecto LEO a partir de la bibliografía que encuentre en [Google Académico](https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=enterprise+OR+system+OR+Lyons+%22leo+project%22&btnG=) o la bibliografía anexa:
+   - Zavala, J. (2011). La industria del software y su importancia. In *[La ingeniería de software: Una discusión epistemológica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing)* (pp. 77-87). Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México.
+   - Land, F. (2000). [The first business computer: A case study in user-driven innovation](http://eprints.lse.ac.uk/19150/1/The%20first%20business%20computer(lsero).pdf). *IEEE Annals of the History of Computing, 22*(3), 16-26.
+   - Information Age: The computer that changed our world ([video](https://www.youtube.com/watch?v=X0yYDxjBnTM)), LEO: The automatic office (1957) ([Video](https://www.youtube.com/watch?v=-8K-xbx7jBM)), Ernest Kaye: LEO 1952 ([Video](https://www.youtube.com/watch?v=GE6TX70A3Rc)), LEO: Celebrating The Pioneers ([Video](https://www.youtube.com/watch?v=Lrn24SdW64I)).
+   - The Centre for Computing History. (2021, Nov 30). LEO: The story of the world’s first business computer - Computing History UK. YouTube ([video](https://www.youtube.com/watch?v=Rzu68nRVwtE))
+
+  *Parte 2*. Haga un breve reporte en su cuaderno sobre la importancia del Proyecto LEO.
+    
+  *Parte 3*. El grupo debe organizarse en equipos de 3 miembros y planificar una sesión colectiva y contribuyendo con sus notas individuales reescriban colectivamente sus conclusiones sobre el *Proyecto LEO*. Suban el reporte de la investigación con la siguiente estructura: *Introducción*, *Contexto*, *Desarrollo*, *Conclusiones* y *Bibliografía*.
+    
+  Suban su texto al Google Drive de cada uno de los integrantes.
+
+
+- *Tarea 4.2. Los informáticos y el poder gerencial*. (Entrega: ).
+
+  *Objetivo*: Comprender el surgimiento de los informáticos como una nueva clase laboral y sus desafíos gerenciales. 
+    
+  *Parte 1*. Los equipos de la práctica anterior, hagan una lectura colectiva del artículo 
+    
+  Ensmenger, N. L. (2003). [Letting the “Computer Boys” take over: Technology and the politics of organizational transformation](https://www.researchgate.net/publication/248710837_Letting_the_Computer_Boys_Take_Over_Technology_and_the_Politics_of_Organizational_Transformation). *International Review of Social History (IRSH), 48* (S11) (December 2003), 153–180. DOI: 10.1017/S0020859003001305.
+    
+  *Parte 2*. Por equipo, deben planificar una sesión colectiva y sacar sus conclusiones sobre el tema. Suban el reporte de la investigación con la siguiente estructura: *Introducción*, *Contexto*, *Desarrollo*, *Conclusiones* y *Bibliografía*.
+    
+  Suban su texto al Google Drive de cada uno de los integrantes.
+
+
+- *Tarea 4.3. Los sistemas de información empresarial y su evolución histórica*. (Entrega: ).
+
+  *Objetivo*: Comprender el concepto y evolución histórica de los sistemas de información empresariales. 
+    
+  *Parte 1*. Los equipos de la práctica anterior, hagan una lectura colectiva de los primeros dos capítulos Hormigo, I. G.  (2011). [Sistema de información empresarial](http://libgen.rs/book/index.php?md5=77DE9AE1D073B9367127448826BA6460)* (pp. 1-30). Catalunya: Universitat Oberta de Catalunya.
+    
+  Consultar también la siguiente bibliografía complementaria: (1). Sánchez, A. (2016). Sistema de información: Concepto, elementos, etapas, funciones y ejemplo. ([Video](https://www.youtube.com/watch?v=Ibh62H7M1Jo)), (2). Extensión del ITTG sede Bochil Pagina Oficial (2015). [Elementos de un sistema de información] (https://www.youtube.com/watch?v=kAzxXgKiwTE) (Video) y (3). Molar, A. (2015). [Tipos de sistemas de Información](https://www.youtube.com/watch?v=vh4Wg-MiLhw) (Video).
+    
+  *Parte 2*. Por equipo, deben planificar una sesión colectiva y sacar sus conclusiones sobre el tema. Suban el reporte de la investigación con la siguiente estructura: *Introducción*, *Contexto*, *Desarrollo*, *Conclusiones* y *Bibliografía*.
+    
+  Suban su texto al Google Drive de cada uno de los integrantes.
+
+
+- *Tarea 4.4. Arquitectura de un sistemas de información*. (Entrega: ).
+
+  *Objetivo*: Comprender la arquitectura de un sistema de información empresarial.
+    
+  *Parte 1*. Investigue la arquitectura de un sistema de información empresarial en la actualidad en el capítulo Arquitectura del sistema ERP y sus módulos funcionales (Hormigo, 2011).  
+    
+  Hormigo, I. G. (2011). Arquitectura del sistema ERP y sus módulos funcionales. *In* H. G. Fuster, I. G. Hormigo, J. M. Joana, & J. R. Rodríguez (Eds.). *Fundamentos de sistemas de información* (pp. 31-43). Catalunya: Universitat Oberta de Catalunya. ([url](http://libgen.rs/book/index.php?md5=77DE9AE1D073B9367127448826BA6460).
+    
+  *Parte 2*. Haga un breve reporte en su cuaderno la investigación sobre qué es un sistema de información, un sistema de información empresarial y la tipología de ellos. Este es su entregable.
+    
+  *Parte 3*. Tome como estudio de caso la solución denominada de código libre y abierto Adaxa Suite ([proveedor](http://www.adaxa.com/), [video](https://www.youtube.com/watch?v=SST_AEKg-uw), [revisión](https://www.predictiveanalyticstoday.com/adaxa-suite/)) y describa las ventajas y desventajas que tiene respecto a soluciones comerciales equivalentes en software privativo.  
+  
+  
+- *Práctica 4.5. Infraestructura de un sistemas de información empresarial*. (Entrega: ).
+
+  *Objetivo*: Instalar el software de la infraestructura para un sistema de información empresarial.
+    
+  *Parte 1*. Considere que la arquitectura de un sistema de información empresarial tiene esencialmente tres elementos básicos: (1) Sistema Operativo (Windows, Linux,  Mac o cualuier otro), (2) Servidor web (Apache o cualquier otro), (3) Gestor de base de datos (MySQL, MariaDB o cualquier otro), (4) Entorno web (PHP,  Java o cualquier otro)  y (5) Aplicación. En esta práctica aprenderás a instalar cada uno de los elementos por separado y todos al mismo tiempo.
+  
+  *Parte 2*. Caso 1: WAMP (**W**indows + **A**pache + **M**ySQL + **P**HP) de manera manual. En este caso se requerirá instalar o tener un equipo con sistema operativo Windows. Debe seguir el siguiente [tutorial](https://www.youtube.com/watch?v=fFLTdF2CUeE). Finalmente, [descargue](https://es-mx.wordpress.org/download/) e instale una aplicación web como WordPress para probar que funciona. Utilice la siguiente [guía](https://es-mx.wordpress.org/support/article/how-to-install-wordpress/). 
+
+  *Parte 3*. Caso 2: LAMP (**L**inux + **A**pache + **M**ySQL (o **M**ariaDB) + **P**HP). En este caso debes instalar, previamente Linux Fedora en una USB, según la préctica 2.4XXX [guía con Fedora](https://computingforgeeks-com.translate.goog/how-to-install-lamp-stack-on-fedora/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419))
+  
+  *Parte 4*. Caso 3: XAMPP en Windows. [turorial](https://www.youtube.com/watch?v=Ab1iao1b5d0) y el siguiente [tutorial](https://www.youtube.com/watch?v=6cRolPAXA2c).
+
+Instale en su Tome como estudio de caso la solución denominada de 
+  [pagila](https://github.com/devrimgunduz/pagila)
+    
+  *Parte 5*. A continuación se pueden seguir dos caminos para preparar la infraestructura cliente-servidor para alojar aplicaciones empresariales.
+   - El primer camino consiste en instalar la infraestructura (sistema operativo + servidor web + servidor de base de datos + lenguaje(s) de programación) en tres versiones: [LAMP](https://es.wikipedia.org/wiki/LAMP)  ([guia con Ubuntu](https://www.gestionatuweb.net/instalar-lamp-linux-apache-mysql-y-php-en-gnu-linux-ubuntu-y-derivadas/), [guía con Fedora](https://computingforgeeks-com.translate.goog/how-to-install-lamp-stack-on-fedora/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419)), [WAMP](https://www.wampserver.com/en/) (**W**indows + **A**pache + **M**ySQL + **P**HP) o [XAMPP](https://www.apachefriends.org/es/index.html) (**X** (Linux o Windows) + **A**pache (+ Tomcat) + **M**ariaDB + **P**HP + **P**erl)) y luego debe descargar e instalar la aplicación que se vaya a utilizar.
+   La manera más práctica de realizar esto en un equipo Windows es [descargar](https://www.apachefriends.org/download.html), instalar y configurar el XAMPP en su computadora según la [guía](https://www.youtube.com/watch?v=6Yrw2TYCqqg). Luego, se puede instalar la aplicación que desee estudiar de manera local como una aplicación de tickets como [OSTicket](https://osticket.com/), un sistema gestor de contenido (CMS) como [WordPress](https://wordpress.org/), un sistema empresarial como [Dolibarr](https://www.dolibarr.org/) o cualquier otra. 
+   Por ejemplo, para el caso de [Dolibarr](https://www.dolibarr.org/), debe descargarlo de [aquí](https://sourceforge.net/projects/dolibarr/files/Dolibarr%20ERP-CRM/14.0.2/)) y copiarlo al directorio correcto según la ([guía](https://www.youtube.com/watch?v=_6_k0nUyezE)), según haya configurado el servidor web Apache con XAMPP.   
+   - El segundo camino es instalar toda la infraestructura ya empaquetada, por ejemplo, al usar [DoliWamp](https://sourceforge.net/projects/dolibarr/files/Dolibarr%20installer%20for%20Windows%20%28DoliWamp%29/), utilizando alguna guía como [esta](https://www.youtube.com/watch?v=ireDfaj0JYo). 
+  
+  *Parte 6*. Haga las [primeras configuraciones](https://wiki.dolibarr.org/index.php?title=Primeras_configuraciones) y pruébelo.
+    
+  Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+
 
 ### Modalidades de Evaluación
 
