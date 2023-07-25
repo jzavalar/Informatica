@@ -1,4 +1,4 @@
-<img src="https://github.com/jzavalar/2211088-informatica/blob/main/conjunto-baseIzt.png" alt="UAM Iztapalapa" width="60%"/>
+<img src="https://github.com/jzavalar/2211088-informatica/blob/main/images/conjunto-baseIzt.png" alt="UAM Iztapalapa" width="60%"/>
 
 ## Programación de computadoras en pseudocódigo
 ### Apuntes para la UEA Informática (Teoría y Práctica)
@@ -8,7 +8,7 @@
 
 **Contacto**:
 - **Correo electrónico:** [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)
-- **Telegram:** <img src="https://github.com/jzavalar/2211088-informatica/blob/main/telegram_logo.svg" alt="Telegram" width="3%"/> [jzavalar.t.me](https://jzavalar.t.me)
+- **Telegram:** <img src="https://github.com/jzavalar/2211088-informatica/blob/main/images/images/telegram_logo.svg" alt="Telegram" width="3%"/> [jzavalar.t.me](https://jzavalar.t.me)
 
 09 de marzo de 2023   
 

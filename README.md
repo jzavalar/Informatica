@@ -1,4 +1,4 @@
-<img src="https://github.com/jzavalar/2211088-informatica/blob/main/conjunto-baseIzt.png" alt="UAM Iztapalapa" width="60%"/>
+<img src="https://github.com/jzavalar/2211088-informatica/blob/main/images/conjunto-baseIzt.png" alt="UAM Iztapalapa" width="60%"/>
 
 ## Programa Analítico de la UEA Informática (Teoría y Práctica)
 ## Licenciatura en Administración
@@ -7,7 +7,7 @@
 **Trimestre:** 23 Invierno
 
 **Grupo:** HA02
-**Horario:** Lunes y Miércoles de 12:00 a 14:00 hr  
+**Horario:** Lunes y Miércoles de 12:00 a 14:00 hr
 **Salón:** Anexo del Edificio A, Sala J (AA-J).
 
 **Asesorías:**  Martes* de 20:00 a 22:00 hr, vía [Telegram](https://telegram.org/apps), previa programación, a petición del alumno.
@@ -16,7 +16,7 @@
 
 **Contacto**:
 - **Correo electrónico:** [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)
-- **Telegram:** <img src="https://github.com/jzavalar/2211088-informatica/blob/main/telegram_logo.svg" alt="Telegram" width="3%"/> [jzavalar.t.me](https://jzavalar.t.me)
+- **Telegram:** <img src="https://github.com/jzavalar/2211088-informatica/blob/main/images/telegram_logo.svg" alt="Telegram" width="3%"/> [jzavalar.t.me](https://jzavalar.t.me)
 
 
 ### Introducción
@@ -74,54 +74,67 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 2. La computadora digital como máquina simbólica de propósito general
 3. De las ciencias de la computación al cómputo en la nube
 4. Tareas y prácticas:
-- *Tarea 1.1. La computadora y su contexto histórico*. (Entrega: 27 de febrero de 2023).
 
-  *Objetivo:* Reflexionar sobre el contexto histórico de la computadora digital.  
+- *Tarea 1.1. La computadora y su contexto histórico*. (Entrega: 9 de agosto de 2023).
+
+  *Objetivo:* Reflexionar sobre el contexto histórico de la computadora digital. 
   
   *Parte 1:* Aprenda a elaborar [fichas de trabajo o de estudio](https://www.youtube.com/watch?v=pec3M47oR9I) y [tomar apuntes](https://www.youtube.com/watch?v=h7KwapGowuE) para que estudie. 
   
-  *Parte 2:* Vea la siguiente película y elabore sus fichas de trabajo de los temas de la *Tarea 1.2: Parte 1* que se aborden en la película [La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg) (1:27:54 hr).    
+  *Parte 2:* Vea la siguiente película y elabore sus fichas de trabajo de los temas de la *Tarea 1.2: Parte 1* que se aborden en la película [La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg) (1:27:54 hr). 
      
-  *Parte 3:* Reflexione sobre el contexto histórico del surgimiento de la computadora. Redáctelo en su cuaderno. Agregue las fotos de lo realizado en su cuaderno, en el Google Drive.   
+  *Parte 3:* Reflexione sobre el contexto histórico del surgimiento de la computadora. Redáctelo en su cuaderno. Luego, hágalo en su reporte de la actividad en GitHub. Agregue las fotos de lo realizado en su cuaderno, en GitHub en el directorio *imagenes* y aprenda a visualizarlas en un documento Markdown, en GitHub. 
   
-  **Muy importante**: Evite la tentación de copiar y pegar texto que encuentre en páginas web. Aprenda y comprométase consigo mismo a ser original y a escribir sus propias creaciones.
+  **Muy importante**: Evite la tentación de copiar y pegar texto que encuentre en páginas web. Mejor, aprenda a usar nuevas herrameientas y comprométase consigo mismo a ser original y a escribir sus propias creaciones.
   
-- *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 27 de febrero de 2023).
+
+- *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 14 de agosto de 2023).
      
-  *Objetivo*: Reflexionar sobre el contexto histórico de la computadora digital y de las ciencias de la computación.   
+  *Objetivo*: Reflexionar sobre la computadora digital, las ciencias de la computación y la informática. 
   
-  *Parte 1*: Consideren las siguientes preguntas guía como base y respóndalas con suficiencia: 
-     - ¿Por qué se dice que la *computadora* es una *máquina inteligente*?
-     - ¿Cuáles fueron los factores económicos, políticos y sociales que llevaron al invento de la computadora digital?
-     - ¿Quiénes fueron *Alan Turing* y *John Von Newmann* y cuáles fueron sus aportes a la computadora y a las ciencias de la computación?
-     - ¿Qué es la máquina de Turing?
-     - ¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad?
-     - ¿Qué son las 'ciencias de la computación' o 'computación' como campo de conocimiento y como trans-disciplina?
-     - ¿Cuál es la diferencia entre computación e informática?
+  *Parte 1*: Considere las siguientes preguntas guía como base y respóndalas con suficiencia: 
+     - ¿Qué son las 'ciencias de la computación' o 'computación' como campo de conocimiento y como disciplina? 
+     - ¿Cuál es la diferencia entre computación e informática? 
+     - ¿Por qué se dice que la *computadora* es una *máquina inteligente*? 
+     - ¿Cuáles fueron los factores económicos, políticos y sociales que llevaron al invento de la computadora digital? 
+     - ¿Quiénes fueron *Alan Turing* y *John Von Newmann* y cuáles fueron sus aportes a la computadora y a las ciencias de la computación? 
+     - ¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad? 
    
-  *Parte 2*: Revisen los antecedentes históricos de la [Association for Computing Machinery, ACM](https://www.acm.org/acm-history) y consulte la biblioteca digital de esta asociación profesional: la [ACM Digital Library](https://dl.acm.org/) y explore la principal revista: [Communications of the ACM](https://cacm.acm.org/). 
+  *Parte 2*: Revise los antecedentes históricos de la [Association for Computing Machinery, ACM](https://www.acm.org/acm-history). Luego, localice los siguientes tres recursos bibliográficos y haga su ficha bibliográfica en el [formato APA](https://apa.org.es/que-es-el-formato-apa/): 
+     - El artículo "The Science of Computing: What is computer science?" de Peter J. Denning en la revista *American Scientist*. 
+     - El artículo "The Profession of IT: Who We Are" de Peter Denning, publicado en [Communications of the ACM](https://cacm.acm.org/), la principal revista de la Asociación, disponible en su [ACM Digital Library](https://dl.acm.org/). 
+     - El libro "The science of computing: Shaping a discipline" de Matti Tedre. 
+
+  Utilice tres métodos de búsqueda: 
+     - Mediante sus claves de acceso a la [biblioteca digital de la UAM](https://bidi.uam.mx/) desde [esta url](https://uam.elogim.com/auth-meta/login.php?url=https://ebsco.uam.elogim.com/?authtype=ip&custid=s4768653&groupid=main&profid=eds&returnToUrl=%2feds%2fsearch%2fbasic%3fsid%3db319654b-1f97-4d32-86cb-9b5399db861d%2540redis%26vid%3d0%26sdb%3dedspub%26tid%3d3000EP&vid=0&sid=b319654b-1f97-4d32-86cb-9b5399db861d@redis&lang=es).
+     - Mediante la búsqueda avanzada en [Scholar Google](https://scholar.google.com/). 
+     - Explore otras opciones de búsqueda, por ejemplo, la proscrita [Library Genesis](gen.lib.rus.ec) y las redes P2P con aplicaciones como [qBittorrent](https://www.qbittorrent.org/) y [emule](https://www.emule-project.com/home/perl/general.cgi?l=1).
   
-  Reflexione sobre algunos de los *grandes campos de la computación*: *Hardware*, *Sistemas de cómputo*, *Redes*, *Software*, *Matemáticas en la computación*, *Sistemas de información*, *Seguridad informática*, por ejemplo.
-   
-  *Parte 3*. Elabore un documento respondiendo las preguntas planteadas en la Parte 1, primero en su cuaderno y finalmente hágalo en Google Drive. Agregue las fotos de lo realizado en su cuaderno, en el Google Drive.   
+  *Parte 3*: Reflexione sobre el cumplimiento del objetivo de la práctica.
+  
+  *Entregable 1*. A partir de las partes 2 y 3, responda las preguntas planteadas en la Parte 1. Escríbalas en su cuaderno. Luego, hágalo en GitHub. Utilice las fotos de lo realizado en su cuaderno e inclúyalas en su reporte de la práctica en GitHub.
+  
+  *Entregable 2*: Haga un video a modo de tutorial que demuestre que realizó la actividad. Suba el video a su directorio Videos de GitHub.
+  
 
-- *Práctica 1.3. Partes y funciones de la computadora*. (Entrega: 27 de febrero de 2023).   
+- *Práctica 1.3. Partes y funciones de la computadora*. (Entrega: 14 de agosto de 2023). 
 
-  *Objetivo*: Identificar las partes y funciones de los varios tipos de computadoras modernas.   
+  *Objetivo*: Identificar las partes y funciones de los varios tipos de computadoras modernas. 
     
-  *Parte 1*. Investigue e identifique las partes en una computadora de escritorio, una laptop, una tableta y un teléfono celular y elabore un *collage* a mano en su cuaderno, identificando de manera legible las partes de cada tipo de computadora, en una página para tipo. Tome una foto y envíela al canal de Telegram que le indique el profesor.   
+  *Parte 1*. Investigue e identifique las partes en una computadora de escritorio, una laptop, una tableta y un teléfono celular y elabore un *collage* a mano en su cuaderno, identificando las partes de cada tipo de computadora, de manera clara, legible y didáctica, en una página para tipo. Tome fotos. 
   
-  *Parte 2*. Aterrice la práctica documentando las partes de la o de las computadoras que tenga en su casa. Consiga los manuales de usuario del modelo respectivo y el manual de servicio del sitio del fabricante. Busque los videos de cambio de disco duro, memoria u otros componentes que haya en YouTube. Haga una reflexión sobre las partes de su computadora en un breve video.  
+  *Parte 2*. Aterrice la práctica documentando las partes de la o de las computadoras que tenga en su casa. Consiga los manuales de usuario del modelo respectivo y el manual de servicio del sitio del fabricante. Busque los videos sobre el cambio de disco duro, memoria u otros componentes que haya en YouTube que apliquen a su computadora. Haga una reflexión tipo tutorial sobre las partes de su computadora en un breve video. 
   
-  *Parte 3*. Descargue e instale [YouTube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui/releases/download/0.4/youtube-dl-gui-0.4-win-portable.zip) (versión portable) en una USB. Luego, descargue los 6 videos de la lista [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-), incluyendo los subtítulos en inglés y en español.  
+  *Parte 3*. Descargue e instale [YouTube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui/releases/download/0.4/youtube-dl-gui-0.4-win-portable.zip) (versión portable) en una USB. Luego, descargue los 6 videos de la lista [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-), incluyendo los subtítulos en inglés y en español. 
   
   *Parte 4*. Escanée o tome fotos de las actividades de su tarea y los archivos generados a su cuenta de Google Drive donde corresponda.
 
-- *Práctica 1.4. Adquisición de una computadora*. (Entrega: 27 de febrero de 2023).  
 
-  *Objetivos*: Aprender a evaluar la compra de una computadora nueva y de segunda mano.  
+- *Práctica 1.4. Adquisición de una computadora*. (Entrega: 27 de febrero de 2023). 
 
-  *Parte 1*. Identifique sus necesidades de recursos de cómputo según los siguientes puntos: (1) hardware (tipo de equipo, almacenamiento (interno y externo (respaldo)), gráficos, impresión, digitalización, sonido y otros), (2) software (sistema operativo y aplicaciones) y (3) movilidad.  
+  *Objetivos*: Aprender a evaluar la compra de una computadora nueva y de segunda mano. 
+
+  *Parte 1*. Identifique sus necesidades de recursos de cómputo según los siguientes puntos: (1) hardware (tipo de equipo, almacenamiento (interno y externo (respaldo)), gráficos, impresión, digitalización, sonido y otros), (2) software (sistema operativo y aplicaciones) y (3) movilidad. 
     
   *Parte 2*. Ponga un límite presupuestal de acuerdo a sus posibilidades y busque dos equipos nuevos y de segunda mano que cumplan con sus necesidades. Haga un presupuesto de cada componente. Cotice sus equipos en Mercado Libre.
     
@@ -349,7 +362,7 @@ Software:
     
   *Parte 3*. Utilice los archivos ISO de [Windows 7](https://thepiratebay.org/search.php?q=windows+7+untouched&apps=on&search=Pirate+Search&page=0&orderby=) y [Fedora Workstation](https://getfedora.org/es/workstation/) e instálelos mediante VirtualBox ([Video](https://www.youtube.com/watch?v=GEx046EHphI)).  
     
-  *Parte 4*. Pruebe que puede arrancar cada uno de los tres sistemas operativos como máquinas virtuales.  
+  *Parte 4*. Pruebe que puede arrancar cada uno de los dos sistemas operativos como máquinas virtuales.  
 
   Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
