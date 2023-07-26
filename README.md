@@ -117,20 +117,20 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   *Entregable 2*: Haga un video a modo de tutorial que demuestre que realizó la actividad. Suba el video a su directorio Videos de GitHub.
   
 
-- *Práctica 1.3. Partes y funciones de la computadora*. (Entrega: 14 de agosto de 2023). 
+- *Práctica 1.3. Partes y funciones de la computadora*. (Entrega: 16 de agosto de 2023). 
 
   *Objetivo*: Identificar las partes y funciones de los varios tipos de computadoras modernas. 
     
   *Parte 1*. Investigue e identifique las partes en una computadora de escritorio, una laptop, una tableta y un teléfono celular y elabore un *collage* a mano en su cuaderno, identificando las partes de cada tipo de computadora, de manera clara, legible y didáctica, en una página para tipo. Tome fotos. 
   
-  *Parte 2*. Aterrice la práctica documentando las partes de la o de las computadoras que tenga en su casa. Consiga los manuales de usuario del modelo respectivo y el manual de servicio del sitio del fabricante. Busque los videos sobre el cambio de disco duro, memoria u otros componentes que haya en YouTube que apliquen a su computadora. Haga una reflexión tipo tutorial sobre las partes de su computadora en un breve video. 
+  *Parte 2*. Aterrice la práctica documentando las partes de la(s) computadora(s) que tenga en su casa. Consiga los manuales de usuario del modelo respectivo y el manual de servicio del sitio del fabricante. Busque los videos sobre el cambio de disco duro, memoria u otros componentes que haya en YouTube que apliquen a su computadora. Haga una reflexión tipo tutorial sobre las partes de su computadora en un breve video. 
   
-  *Parte 3*. Descargue e instale [YouTube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui/releases/download/0.4/youtube-dl-gui-0.4-win-portable.zip) (versión portable) en una USB. Luego, descargue los 6 videos de la lista [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-), incluyendo los subtítulos en inglés y en español. 
+  *Parte 3*. Descargue e instale [YouTube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui/releases/download/0.4/youtube-dl-gui-0.4-win-portable.zip) (versión portable) en una USB o [Video Downloader](https://packages.fedoraproject.org/pkgs/video-downloader/video-downloader/) en su instalación de Fedora. Utilícelo para descargar los 6 videos de la lista [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-), incluyendo los subtítulos en inglés y en español. 
   
-  *Parte 4*. Escanée o tome fotos de las actividades de su tarea y los archivos generados a su cuenta de Google Drive donde corresponda.
+  *Parte 4*. Escanée o tome fotos de las actividades de su tarea y los archivos generados a su cuenta de GitHub, donde corresponda.
 
 
-- *Práctica 1.4. Adquisición de una computadora*. (Entrega: 27 de febrero de 2023). 
+- *Práctica 1.4. Adquisición de una computadora*. (Entrega: 21 de agosto de 2023). 
 
   *Objetivos*: Aprender a evaluar la compra de una computadora nueva y de segunda mano. 
 
@@ -140,7 +140,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
     
   *Parte 3*. Haga una tabla comparativa con sus criterios de decisión y el resultado de su elección y comparta con su o sus compañeros sus resultados.
     
-  *Parte 4*. Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+  *Parte 4*. Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de GitHub, donde corresponda.
 
 ##### Bibliografía Obligatoria:
 - Code.org (2018, Jan 30). [How computers work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). *YouTube*. [6 videos].
@@ -149,13 +149,13 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - Zavala, J. (2011). [¿Qué son las ciencias de la computación?: Una interpretación ecléctica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing). In *La ingeniería de software: Una discusión epistemológica (pp. 38-76)*. Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México.
 
 ##### Bibliografía Complementaria:
-- ACM. (2022). [Membership Benefits](https://www.acm.org/membership/membership-benefits).  
-- Gómez Ortega, L. F. (2018, Oct 10). [Tutorial CmapTools 2019](https://www.youtube.com/watch?v=FSG-GCU4wQE). *YouTube*. [video] (15:38 min).  
+- ACM. (2022). [Membership Benefits](https://www.acm.org/membership/membership-benefits). 
+- Gómez Ortega, L. F. (2018, Oct 10). [Tutorial CmapTools 2019](https://www.youtube.com/watch?v=FSG-GCU4wQE). *YouTube*. [video] (15:38 min). 
 - Grier. D. A. (2001). [Human computers. The first pioneers of the information age](https://www.sciencedirect.com/science/article/pii/S0160932700013387). *Endeavour 25*(1), 28-32. 
-- Haigh, T. & Ceruzzi, P. E. (2021). Inventing the computer. In [*A new history of modern computing*](https://libgen.rs/book/index.php?md5=FEC5EE9FBAB5F3C3E68371EC9025E694) (pp. 9-28). USA: The MIT Press.  
-- Haigh, T., Priestley, M., & Rope, C. (2016). [*ENIAC in action. Making and remaking the modern computer*](http://eniacinaction.com/). MIT Press. ([pdf](https://libgen.rs/book/index.php?md5=F1ECADE396A9CB8BA191218B9BE22420)).  
-- HD Documental Ciencia 2017 (2017, Dic 17). [La curiosa guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg). *YouTube*. [video]. (1:27:54 hr).  
-- Lahoz-Beltra, R. (2020). [*Turing. La computación: Pensando en máquinas que piensan*](https://libgen.rs/book/index.php?md5=0E12A6617118339310C16106A8C8F073). Budapest: epublibre.  
+- Haigh, T. & Ceruzzi, P. E. (2021). Inventing the computer. In [*A new history of modern computing*](https://libgen.rs/book/index.php?md5=FEC5EE9FBAB5F3C3E68371EC9025E694) (pp. 9-28). USA: The MIT Press. 
+- Haigh, T., Priestley, M., & Rope, C. (2016). [*ENIAC in action. Making and remaking the modern computer*](http://eniacinaction.com/). MIT Press. ([pdf](https://libgen.rs/book/index.php?md5=F1ECADE396A9CB8BA191218B9BE22420)). 
+- HD Documental Ciencia 2017 (2017, Dic 17). [La curiosa guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg). *YouTube*. [video]. (1:27:54 hr). 
+- Lahoz-Beltra, R. (2020). [*Turing. La computación: Pensando en máquinas que piensan*](https://libgen.rs/book/index.php?md5=0E12A6617118339310C16106A8C8F073). Budapest: epublibre. 
 
 #### Unidad 2. Software   
 1. Ontología del software  
@@ -176,10 +176,10 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
       - Lógicos  
       - Estructuras de datos: arreglos, matrices, listas, tablas.  
 
-   c. Archivos y tipos de archivos:  
-      - Codificación de texto: ASCII y Unicode (UTF-8, UTF-16 y UTF-32)  
-      - Codificación binaria: Audio, imagen, video y otros  
-3. Instrucciones   
+   c. Archivos y tipos de archivos: 
+      - Codificación de texto: ASCII y Unicode (UTF-8, UTF-16 y UTF-32) 
+      - Codificación binaria: Audio, imagen, video y otros 
+3. Instrucciones 
    a. Conceptos clave de programación: Programar, programa almacenado, código (fuente, binario, objeto y executable)  
    b. Lenguajes de programación:  
       - *Sintaxis* o *gramática*: Palabras clave o reservadas (*keywords*), símbolos, identificadores y sentencias.  
