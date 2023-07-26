@@ -142,6 +142,13 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
     
   *Parte 4*. Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de GitHub, donde corresponda.
 
+
+- *Videoconferencia con Clau @Cassyopea.*. (23 de agosto de 2023). 
+
+  *Objetivos*: Valorar el conocimiento sobre computación. 
+
+  *Parte 1*. Identifique sus necesidades de recursos de cómputo según los siguientes puntos: (1) hardware (tipo de equipo, almacenamiento (interno y externo (respaldo)), gráficos, impresión, digitalización, sonido y otros), (2) software (sistema operativo y aplicaciones) y (3) movilidad. 
+
 ##### Bibliografía Obligatoria:
 - Code.org (2018, Jan 30). [How computers work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). *YouTube*. [6 videos].
 - Derivando (2018, Ene 10). [¿Qué es una máquina de Turing?](https://www.youtube.com/watch?v=iaXLDz_UeYY). *YouTube*. [video] (5:17 min).
@@ -176,11 +183,12 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
       - Lógicos  
       - Estructuras de datos: arreglos, matrices, listas, tablas.  
 
-   c. Archivos y tipos de archivos: 
+   c. Archivos y tipos de archivos:  
       - Codificación de texto: ASCII y Unicode (UTF-8, UTF-16 y UTF-32) 
       - Codificación binaria: Audio, imagen, video y otros 
-3. Instrucciones 
+3. Instrucciones  
    a. Conceptos clave de programación: Programar, programa almacenado, código (fuente, binario, objeto y executable)  
+   
    b. Lenguajes de programación:  
       - *Sintaxis* o *gramática*: Palabras clave o reservadas (*keywords*), símbolos, identificadores y sentencias.  
       - *Semántica* o *significado*:  
@@ -188,16 +196,20 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
          - *Salida*: Operaciones de impresión en pantalla y archivos  
          - *Almacenamiento* en memoria y archivos: Operaciones de asignación  
          - *Procesamiento*: Operaciones de comparación y decisión, ciclos.  
+
    c. Programación:  
       - *Conceptos*: Variables, constantes, tipos y estructuras de datos, acumuladores, operadores (aritméticos, de comparación y lógicos), control condicional e iterativo, rutina, subrutina, funciones, pase de variables por valor o referencia.  
       - Pseudocódigo  
       - Diagramas de flujo  
       - Herramientas de programación: Editor, parser, ensamblador, intérprete, compilador, debugger (eliminador de errores), entorno de desarrollo integrado (IDE).  
+
    d. Algoritmos:  
       - Conceptos clave: Algoritmo, problema, entrada, salida, proceso.  
       - Técnicas: Recursión y divide y vencerás  
       - Ejemplos: Cálculo, decisión y ordenación.     
+
 4. Tareas y Prácticas  
+
 - *Tarea 2.1. Conceptos básicos de software*. (Entrega: 6 de marzo de 2023).
 
   *Objetivos*: Aprender a diseñar mapas conceptuales con una herramienta de software.
