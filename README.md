@@ -165,11 +165,11 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - Lahoz-Beltra, R. (2020). [*Turing. La computación: Pensando en máquinas que piensan*](https://libgen.rs/book/index.php?md5=0E12A6617118339310C16106A8C8F073). Budapest: epublibre. 
 
 #### Unidad 2. Software   
-1. Ontología del software 
-        a. Elementos básicos: Datos e instrucciones (programas) 
-        b. Los símbolos de la computadora: Bit y byte (y unidades derivadas) 
-        c. Información = datos + contexto 
-        d. Del procesamientos de datos al procesamiento de información 
+1. Ontología del software   
+    a. Elementos básicos: Datos e instrucciones (programas) 
+    b. Los símbolos de la computadora: Bit y byte (y unidades derivadas) 
+    c. Información = datos + contexto 
+    d. Del procesamientos de datos al procesamiento de información 
 2. Datos 
    a. Sistemas numéricos: 
       - Decimal 
