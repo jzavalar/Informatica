@@ -186,27 +186,23 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
       - Codificación binaria: Audio, imagen, video y otros 
 1. Instrucciones  
    a. Conceptos clave de programación: Programar, programa almacenado, código (fuente, binario, objeto y executable)  
-   
-   b. Lenguajes de programación:  
+   a. Lenguajes de programación:  
       - *Sintaxis* o *gramática*: Palabras clave o reservadas (*keywords*), símbolos, identificadores y sentencias.  
       - *Semántica* o *significado*:  
-         - *Entrada*: Operaciones de lectura  
-         - *Salida*: Operaciones de impresión en pantalla y archivos  
-         - *Almacenamiento* en memoria y archivos: Operaciones de asignación  
-         - *Procesamiento*: Operaciones de comparación y decisión, ciclos.  
-
-   c. Programación:  
+        - *Entrada*: Operaciones de lectura  
+        - *Salida*: Operaciones de impresión en pantalla y archivos  
+        - *Almacenamiento* en memoria y archivos: Operaciones de asignación  
+        - *Procesamiento*: Operaciones de comparación y decisión, ciclos.  
+   a. Programación:  
       - *Conceptos*: Variables, constantes, tipos y estructuras de datos, acumuladores, operadores (aritméticos, de comparación y lógicos), control condicional e iterativo, rutina, subrutina, funciones, pase de variables por valor o referencia.  
       - Pseudocódigo  
       - Diagramas de flujo  
-      - Herramientas de programación: Editor, parser, ensamblador, intérprete, compilador, debugger (eliminador de errores), entorno de desarrollo integrado (IDE).  
-
-   d. Algoritmos:  
-      - Conceptos clave: Algoritmo, problema, entrada, salida, proceso.  
-      - Técnicas: Recursión y divide y vencerás  
-      - Ejemplos: Cálculo, decisión y ordenación.     
-
-1. Tareas y Prácticas  
+      - Herramientas de programación: Editor, parser, ensamblador, intérprete, compilador, debugger (eliminador de errores), entorno de desarrollo integrado (IDE). 
+   a. Algoritmos: 
+      - Conceptos clave: Algoritmo, problema, entrada, salida, proceso. 
+      - Técnicas: Recursión y divide y vencerás 
+      - Ejemplos: Cálculo, decisión y ordenación. 
+1. Tareas y Prácticas 
 
 - *Tarea 2.1. Conceptos básicos de software*. (Entrega: 6 de marzo de 2023).
 
