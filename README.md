@@ -4,11 +4,11 @@
 ## Licenciatura en Administración
 
 **Clave de la UEA:** 2211088
-**Trimestre:** 23 Invierno
+**Trimestre:** 23 Primavera
 
-**Grupo:** HA02
-**Horario:** Lunes y Miércoles de 12:00 a 14:00 hr
-**Salón:** Anexo del Edificio A, Sala J (AA-J).
+**Grupo:** HA05 **Horario:** Lunes y Miércoles de 12:00 a 14:00 hr **Salón:** Anexo del Edificio A, Sala J (AA-J).
+
+**Grupo:** HA06 **Horario:** Lunes y Miércoles de 12:00 a 14:00 hr **Salón:** Edificio H-214.
 
 **Asesorías:**  Martes* de 20:00 a 22:00 hr, vía [Telegram](https://telegram.org/apps), previa programación, a petición del alumno.
 
@@ -33,16 +33,14 @@ Claramente, al dominio de la lengua materna, las matemáticas y los conocimiento
 
 Esta **unidad de enseñanza-aprendizaje** (**UEA**) cubre el programa del plan de estudios (ya obsoleto) de la carrera de administración en la Universidad Autónoma Metropolitana, Unidad Iztapalapa, en la Ciudad de México, a la vez que pretende reducir la brecha digital de los alumnos. El **objetivo general** de este curso es aprender los **fundamentos teóricos** de la **informática**, entendida como la aplicación de la **teoría de las ciencias de la computación** (*computer science*) en la administración, con la idea de que resulte estos conocimientos resulten *menos vulnerables a la obsolescencia* y ser útiles en el corto plazo. 
 
-El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, se proponen *lecturas* de algunos capítulos de los libros [Introducción a la Ciencia de la Computación](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D) (Forouzan, 2003) y [Fundamentos de Computación para Ingenieros](https://libgen.rs/book/index.php?md5=93B1B3A032FA25F502EB136C35C52596) (Cedano, Cedano, Rubio y Vega, 2014), como libros de texto base, complementadas con otros recursos didácticos. Y, por otro lado, se propone la realización de algunas actividades académicas que permitan aterrizar los conceptos y desarrollar algunas habilidades para resolver problemas informáticos del día a día. De manera particular, se invita a los alumnos a que conozcan y usen el software libre y abierto, desde sistemas operativos como [GNU/Linux Fedora](https://getfedora.org/es/), hasta sistemas empresariales (*Enterprise Resource Planning*, ERP) como [iDempiere](https://www.idempiere.org/), que permiten operar toda una empresa al costo más reducido posible. Con ello, se pretende que los alumnos valoren la importancia de la informática en su vida diaria como profesionales de la administración en las organizaciones. 
+El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, se proponen *lecturas* de algunos capítulos de los libros *Introducción a la Ciencia de la Computación* (Forouzan, 2003) y *Fundamentos de Computación para Ingenieros*  (Cedano, Cedano, Rubio y Vega, 2014), como libros de texto base, complementadas con otros recursos didácticos. Por otro lado, se propone la realización de algunas actividades académicas prácticas que permitan aterrizar los conceptos y desarrollar habilidades para resolver problemas informáticos del día a día. De manera particular, se instalará el sistema operativo [GNU/Linux Fedora](https://getfedora.org/es/) en una USB y como una Máquina Virtual en Windows o en MacOS X. Por ello, se invita a los alumnos a que conozcan y usen el software libre y abierto, desde sistemas operativos como Fedora hasta sistemas empresariales (*Enterprise Resource Planning*, ERP) como [iDempiere](https://www.idempiere.org/), que permiten operar toda una empresa al costo más reducido posible. Con este enfoque se pretende que los alumnos valoren la importancia de la informática en su vida diaria como profesionales de la administración en las organizaciones. 
 
 **Referencias:**
-   - ADempiere. (2022). [*ERP/CRM Software: A commons-based peer-production of Open Source ERP Applications*](https://wiki.adempiere.net/ADempiere_ERP). [software] [[descarga](http://github.com/adempiere/adempiere)] [[binario](http://bintray.com/adempiere/Official-Repository/Release/view#files)] [[video](https://www.youtube.com/watch?v=pYMUacbz898)].
    - Cedano Olvera, M. A; Cedano Rodríguez, A; Rubio González, J. A.; Vega Gutiérrez, A. C. (2014). [*Fundamentos de computación para ingenieros*](https://libgen.rs/book/index.php?md5=93B1B3A032FA25F502EB136C35C52596). México: Grupo Editorial Patria.
    - Erickson, L. (2010). [*Top secret rosies: The female computers of WWII*](http://www.topsecretrosies.com/). [video] [[torrent](https://thepiratebay.org/description.php?id=6804294)].
    - Fedora.org (2022). [Fedora Project. Fedora GNU/Linux](https://getfedora.org/es/) [Software].
    - Forouzan, B. A. (2003). [*Introducción a la ciencia de la computación: De la manipulaclón de datos a la teoría de la computación*](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D). México: Thompson.
    - Greenwald, G.; Snowden, E. J. (2015). [*No place to hide: Edward Snowden, the NSA and the surveillance state*](https://libgen.rs/book/index.php?md5=18E90AA8AA171501DBEAB7F5C87E7AAB). United States: Penguin Books. [epub].
-   - iDempiere (2022). [*iDempiere: Powerful, open-source ERP/CRM/SCM system*](https://www.idempiere.org/). [software] [[descarga](https://www.idempiere.org/get-idempiere/)] [[sitios de prueba](https://www.idempiere.org/test-sites/)].
    - Lanier, J. (2010). [*You are not a gadget: A manifesto*](https://libgen.rs/book/index.php?md5=70421B703A5F553F126BA39C828BCC32). New York: Vintage Books. (Traducción: [*Contra el rebaño digital*](https://libgen.rs/book/index.php?md5=CD2B81BCDAC2DF6FDA19FA9139801195) (2019), [epub]).
    - Lanier, J. (2018). [*Ten arguments for deleting your social media accounts right now*](https://libgen.rs/book/index.php?md5=F59013E7705F778979B3546A8A5453BC). New York: Henry Holt and Company. [epub] (Traducción: [*Diez razones para borrar tus redes de inmediato*](https://libgen.rs/book/index.php?md5=EF2E847FE3A3DFB92CA1751CF26E3E99) (2019), [epub]).
    - Light, J. S. (1999). [When computers were women](https://www.jstor.org/stable/25147356)) ([pdf](https://sci-hub.se/10.2307/25147356). *Technology and Culture, 40*(3) (Jul.), 455-483.
@@ -522,6 +520,10 @@ Instale [pagila](https://github.com/devrimgunduz/pagila).
   *Parte 6*. Haga las [primeras configuraciones](https://wiki.dolibarr.org/index.php?title=Primeras_configuraciones) y pruébelo.
     
   Saque sus conclusiones y documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+
+##### Bibliografía Complementaria:
+   - ADempiere. (2022). [*ERP/CRM Software: A commons-based peer-production of Open Source ERP Applications*](https://wiki.adempiere.net/ADempiere_ERP). [software] [[descarga](http://github.com/adempiere/adempiere)] [[binario](http://bintray.com/adempiere/Official-Repository/Release/view#files)] [[video](https://www.youtube.com/watch?v=pYMUacbz898)].
+   - iDempiere (2022). [*iDempiere: Powerful, open-source ERP/CRM/SCM system*](https://www.idempiere.org/). [software] [[descarga](https://www.idempiere.org/get-idempiere/)] [[sitios de prueba](https://www.idempiere.org/test-sites/)].
 
 
 ### Modalidades de Evaluación
