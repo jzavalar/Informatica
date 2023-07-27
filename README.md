@@ -166,10 +166,10 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 #### Unidad 2. Software   
 1. Ontología del software   
-    a. Elementos básicos: Datos e instrucciones (programas) 
-    b. Los símbolos de la computadora: Bit y byte (y unidades derivadas) 
-    c. Información = datos + contexto 
-    d. Del procesamientos de datos al procesamiento de información 
+    a. Elementos básicos: Datos e instrucciones (programas)    
+    b. Los símbolos de la computadora: Bit y byte (y unidades derivadas)    
+    c. Información = datos + contexto    
+    d. Del procesamientos de datos al procesamiento de información    
 2. Datos 
    a. Sistemas numéricos: 
       - Decimal 
