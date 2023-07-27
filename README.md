@@ -165,60 +165,60 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - Lahoz-Beltra, R. (2020). [*Turing. La computación: Pensando en máquinas que piensan*](https://libgen.rs/book/index.php?md5=0E12A6617118339310C16106A8C8F073). Budapest: epublibre. 
 
 #### Unidad 2. Software   
-1. Ontología del software  
-   a. Elementos básicos: Datos e instrucciones (programas)  
-   b. Los símbolos de la computadora: Bit y byte (y unidades derivadas)  
-   c. Información = datos + contexto  
-   d. Del procesamientos de datos al procesamiento de información  
-1. Datos  
-   a. Sistemas numéricos:  
-      - Decimal  
-      - Binario  
-      - Hexadecimal  
-      - Conversiones entre sistemas    
-   b. Tipos de datos:  
-      - Númericos: Enteros (*integer*) y reales (*float point*)  
-      - Alfanuméricos  
-      - Lógicos  
-      - Estructuras de datos: arreglos, matrices, listas, tablas.  
-   c. Archivos y tipos de archivos:  
-      - Codificación de texto: ASCII y Unicode (UTF-8, UTF-16 y UTF-32) 
-      - Codificación binaria: Audio, imagen, video y otros 
-1. Instrucciones  
-   a. Conceptos clave de programación: Programar, programa almacenado, código (fuente, binario, objeto y executable)  
-   a. Lenguajes de programación:  
-      - *Sintaxis* o *gramática*: Palabras clave o reservadas (*keywords*), símbolos, identificadores y sentencias.  
-      - *Semántica* o *significado*:  
+1. Ontología del software 
+   a. Elementos básicos: Datos e instrucciones (programas) 
+   b. Los símbolos de la computadora: Bit y byte (y unidades derivadas) 
+   c. Información = datos + contexto 
+   d. Del procesamientos de datos al procesamiento de información 
+2. Datos 
+   a. Sistemas numéricos: 
+      - Decimal 
+      - Binario 
+      - Hexadecimal 
+      - Conversiones entre sistemas 
+   b. Tipos de datos: 
+      - Númericos: Enteros (*integer*) y reales (*float point*) 
+      - Alfanuméricos 
+      - Lógicos 
+      - Estructuras de datos: arreglos, matrices, listas, tablas. 
+   c. Archivos y tipos de archivos: 
+      - Codificación de texto: ASCII y Unicode (UTF-8, UTF-16 y UTF-32). 
+      - Codificación binaria: Audio, imagen, video y otros. 
+3. Instrucciones 
+   a. Conceptos clave de programación: Programar, programa almacenado, código (fuente, binario, objeto y executable) 
+   b. Lenguajes de programación: 
+      - *Sintaxis* o *gramática*: Palabras clave o reservadas (*keywords*), símbolos, identificadores y sentencias. 
+      - *Semántica* o *significado*: 
         - *Entrada*: Operaciones de lectura  
         - *Salida*: Operaciones de impresión en pantalla y archivos  
         - *Almacenamiento* en memoria y archivos: Operaciones de asignación  
         - *Procesamiento*: Operaciones de comparación y decisión, ciclos.  
-   a. Programación:  
-      - *Conceptos*: Variables, constantes, tipos y estructuras de datos, acumuladores, operadores (aritméticos, de comparación y lógicos), control condicional e iterativo, rutina, subrutina, funciones, pase de variables por valor o referencia.  
-      - Pseudocódigo  
-      - Diagramas de flujo  
+   c. Programación: 
+      - *Conceptos*: Variables, constantes, tipos y estructuras de datos, acumuladores, operadores (aritméticos, de comparación y lógicos), control condicional e iterativo, rutina, subrutina, funciones, pase de variables por valor o referencia. 
+      - Pseudocódigo 
+      - Diagramas de flujo 
       - Herramientas de programación: Editor, parser, ensamblador, intérprete, compilador, debugger (eliminador de errores), entorno de desarrollo integrado (IDE). 
-   a. Algoritmos: 
+   d. Algoritmos: 
       - Conceptos clave: Algoritmo, problema, entrada, salida, proceso. 
       - Técnicas: Recursión y divide y vencerás 
       - Ejemplos: Cálculo, decisión y ordenación. 
-1. Tareas y Prácticas 
+4. Tareas y Prácticas 
 
 - *Tarea 2.1. Conceptos básicos de software*. (Entrega: 6 de marzo de 2023).
 
   *Objetivos*: Aprender a diseñar mapas conceptuales con una herramienta de software.
     
   *Parte 1*: En equipo, investigue la definición formal de los conceptos básicos de software que se enlistan en la unidad en tres fuentes: 
-   - Los dos libros de texto del curso: 
-     - [Introducción a la Ciencia de la Computación](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D)  
-     - [Fundamentos de Computación para Ingenieros](https://libgen.rs/book/index.php?md5=93B1B3A032FA25F502EB136C35C52596)  
-   - Alguno de los siguientes diccionarios especializados:  
-     - [Dictionary of computer science, engineering and technology](https://libgen.rs/book/index.php?md5=C2FEF4DC36C84134ABA1E5698E913F73)  
-     - [Dictionary of information science and technology](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177)  
-     - [A dictionary of computer science (Oxford Quick Reference)](https://libgen.rs/book/index.php?md5=2FD856C4E6BC92CFA8DEB03F1B621A73)  
-     - [Dictionary English informatics standard glossary of computer applications terminology](https://libgen.rs/book/index.php?md5=4F816603DBBF6AEB60B92FCCC59762A1)   
+  - Los dos libros de texto del curso: 
+    - [Introducción a la Ciencia de la Computación](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D) 
+    - [Fundamentos de Computación para Ingenieros](https://libgen.rs/book/index.php?md5=93B1B3A032FA25F502EB136C35C52596) 
+  - Alguno de los siguientes diccionarios especializados: 
+    - [Dictionary of computer science, engineering and technology](https://libgen.rs/book/index.php?md5=C2FEF4DC36C84134ABA1E5698E913F73) 
+    - [Dictionary of information science and technology](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177) 
+    - [A dictionary of computer science (Oxford Quick Reference)](https://libgen.rs/book/index.php?md5=2FD856C4E6BC92CFA8DEB03F1B621A73) 
+    - [Dictionary English informatics standard glossary of computer applications terminology](https://libgen.rs/book/index.php?md5=4F816603DBBF6AEB60B92FCCC59762A1) 
 
-   Luego, simplifique cada definición en una *frase corta* con la mejor claridad posible que le servirá para crear un mapa conceptual. Para mayor claridad, acompañe la definición, mínimo con un par de ejemplos para cada concepto.
+  Luego, simplifique cada definición en una *frase corta* con la mejor claridad posible que le servirá para crear un mapa conceptual. Para mayor claridad, acompañe la definición, mínimo con un par de ejemplos para cada concepto.
   
   La lista de conceptos es la siguiente: *bit*, *byte* y unidades derivadas (*Kilobyte* (*KB*), *Megabyte* (*MB*), *Gibabyte* (*GB*), *Terabyte* (*TB*), etc.), *dato*, *tipos de datos*, dato numérico, dato alfanumérico (*de caracter* o *de texto*), *archivo*, *sistemas numéricos*,  e *información*. 
   
@@ -272,11 +272,11 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   *Objetivo*: Aprender a utilizar el ambiente básico de programación RStudio para R.
   
-  *Parte 1*: En equipo, active su cuenta para usar [RStudio en la nube](https://posit.cloud). Cree un proyecto llamado *Informatica*. Aprenda lo básico de la ejecución de código R en un [*script*](https://www.youtube.com/watch?v=ejQ0BS2gVJI). Luego, instale por lo menos dos entornos gráficos para R, adicionales a RStudio, de esta [lista](https://aplicacionestop.com/10-mejores-interfaces-graficas-usuario-programacion-gratuita-r/).  
+  *Parte 1*: En equipo, active su cuenta para usar [RStudio en la nube](https://posit.cloud). Cree un proyecto llamado *Informatica*. Aprenda lo básico de la ejecución de código R en un [*script*](https://www.youtube.com/watch?v=ejQ0BS2gVJI). Luego, instale por lo menos dos entornos gráficos para R, adicionales a RStudio, de esta [lista](https://aplicacionestop.com/10-mejores-interfaces-graficas-usuario-programacion-gratuita-r/). 
   
-  *Parte 2*: Abra el proyecto creado en la *Parte 1*. Instale el módulo rio. Suba el [script para la importación, exportación y conversión de archivos](https://drive.google.com/file/d/15W7CjN2TmjFo5OSXbbftaWCwm8DagNWo/view?usp=sharing). Adapte y ejecute el script para que funcione correctamente.  
+  *Parte 2*: Abra el proyecto creado en la *Parte 1*. Instale el módulo rio. Suba el [script para la importación, exportación y conversión de archivos](https://drive.google.com/file/d/15W7CjN2TmjFo5OSXbbftaWCwm8DagNWo/view?usp=sharing). Adapte y ejecute el script para que funcione correctamente. 
 
-  *Parte 3*: Luego, repase este [tutorial de RMarkdown](https://www.youtube.com/watch?v=6Qj8yBFgT9Q). Suba el archivo [Programacion-en-Pseudocodigo.Rmd](https://github.com/jzavalar/2211088-informatica/blob/main/Programacion-en-Pseudocodigo.Rmd) al directorio respectivo del proyecto. Abra el archivo y compílelo con knitr para generar el archivo HTML. **Ahora estúdielo como repaso de PSeInt**.  
+  *Parte 3*: Luego, repase este [tutorial de RMarkdown](https://www.youtube.com/watch?v=6Qj8yBFgT9Q). Suba el archivo [Programacion-en-Pseudocodigo.Rmd](https://github.com/jzavalar/2211088-informatica/blob/main/Programacion-en-Pseudocodigo.Rmd) al directorio respectivo del proyecto. Abra el archivo y compílelo con knitr para generar el archivo HTML. **Ahora estúdielo como repaso de PSeInt**. 
   
   *Parte 4*: Tome como base el tutorial [Programacion-en-Pseudocodigo.Rmd](https://github.com/jzavalar/2211088-informatica/blob/main/Programacion-en-Pseudocodigo.Rmd) e identifique las instrucciones equivalentes en R que encuentre en el [tutorial de R](https://sparkbyexamples.com/r-tutorial-with-examples/). En el directorio respectivo del proyecto, cree un archivo RMarkdown que sea la síntesis 1 a 1 del tutorial *Programacion en Pseudocodigo*. Compílelo con knitr para generar el archivo HTML. El archivo RMarkdown es su entregable.  
 
@@ -293,17 +293,17 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - Butterfield, A., Ngondi, G. E. (2016). [*A dictionary of computer science (Oxford Quick Reference)*](https://libgen.rs/book/index.php?md5=2FD856C4E6BC92CFA8DEB03F1B621A73). Oxford University Press.	
 - IEEE (1987). [*IEEE standard glossary of computer applications terminology*](https://libgen.rs/book/index.php?md5=4F816603DBBF6AEB60B92FCCC59762A1). New York: Institute of 
 Electrical & Electronics Engineers (IEEE). 
-- Laplante, P. A. (2017). [*Dictionary of computer science, engineering and technology*](https://libgen.rs/book/index.php?md5=C2FEF4DC36C84134ABA1E5698E913F73).	Boca Raton, FL, USA: CRC Press.  
+- Laplante, P. A. (2017). [*Dictionary of computer science, engineering and technology*](https://libgen.rs/book/index.php?md5=C2FEF4DC36C84134ABA1E5698E913F73).	Boca Raton, FL, USA: CRC Press. 
 - Walum, H., & De Leon, D. (2022). Teacups, giraffes, & statistics (Tazas de té, jirafas y estadística). GitHub. [Módulos](https://tinystats.github.io/teacups-giraffes-and-statistics/) [Proyecto en RMarkdown](https://github.com/tinystats/teacups-giraffes-and-statistics) [Una deliciosa serie de módulos para aprender estadística y codificación en R para estudiantes, científicos y entusiastas de la estadística.]
 
 Videos:
-- [Aprende a programar en 11 minutos](https://www.youtube.com/watch?v=TAyyujKoY6k).  
-- Manik. (2020, Dec 6). [¿Cómo funciona la codificación de caracteres?: ASCII / Unicode](https://www.youtube.com/watch?v=M_yNoV3c8DY). *YouTube*. (7:50 min).  
-- UNAM Sepacomputo canal. (2016, Jan 29). [Unidades: Bit, byte, kilobyte, megabyte, gigabyte, terabyte, petabyte, exabyte y zettabyte](https://www.youtube.com/watch?v=byFsxEEQE3U). *YouTube*. (10:30 min).  
-- UNAM Sepacomputo canal. (2016, Jan 26). [Tipos de archivos](https://www.youtube.com/watch?v=LbopJOLgo5g). *YouTube*. (6:51 min).  
-- [RMarkdown](https://www.youtube.com/watch?v=tE8cgL1P-U0).  
-- [Curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw).  
-- Nasir Ahmed. (2022, Jan 1). [El algoritmo que transformó al mundo. La historia de Nasir Ahmed](https://www.youtube.com/watch?v=nNmREQIF4Ik). *YouTube*. (18:33 min).  
+- [Aprende a programar en 11 minutos](https://www.youtube.com/watch?v=TAyyujKoY6k). 
+- Manik. (2020, Dec 6). [¿Cómo funciona la codificación de caracteres?: ASCII / Unicode](https://www.youtube.com/watch?v=M_yNoV3c8DY). *YouTube*. (7:50 min). 
+- UNAM Sepacomputo canal. (2016, Jan 29). [Unidades: Bit, byte, kilobyte, megabyte, gigabyte, terabyte, petabyte, exabyte y zettabyte](https://www.youtube.com/watch?v=byFsxEEQE3U). *YouTube*. (10:30 min). 
+- UNAM Sepacomputo canal. (2016, Jan 26). [Tipos de archivos](https://www.youtube.com/watch?v=LbopJOLgo5g). *YouTube*. (6:51 min). 
+- [RMarkdown](https://www.youtube.com/watch?v=tE8cgL1P-U0). 
+- [Curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw). 
+- Nasir Ahmed. (2022, Jan 1). [El algoritmo que transformó al mundo. La historia de Nasir Ahmed](https://www.youtube.com/watch?v=nNmREQIF4Ik). *YouTube*. (18:33 min). 
 
 Software:
 - [Lenguaje R](https://www.r-project.org/)
@@ -328,7 +328,7 @@ Software:
     
   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
-- *Práctica 3.2. Instalación de sistemas operativos en un medio extraible*. (Entrega: ).
+- *Práctica 3.2. Instalación de sistemas operativos en un medio extraible*. (Demostrativa).
 
   *Objetivo*: Aprender a usar varios sistemas operativos desde un medio extraíble.
 
@@ -336,27 +336,30 @@ Software:
     
   *Parte 2*. Investigue qué es una imagen ISO y cómo se usa. Utilice Qbittorrent y, mediante su motor de búsqueda, localice la imagen ISO del sistema operativo Windows 7, usando la frase "Windows 7 untouched genuine" o "Windows 7 Ultimate spanish" ([tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)) o busque el torrent [aquí](https://thepiratebay.org/). Identifique la entrada que tiene más semillas (seeds) y descárguela. 
     
-  *Parte 3*. Investigue un poco sobre las distribuciones del sistema operativo GNU/Linux ([guía 1](https://www.youtube.com/watch?v=RLStWVb1fWo&t=313s)) ([guía 2](https://www.youtube.com/watch?v=gbqv0AkqsXw)). Descargue el archivo ISO del sistema operativo Linux [Fedora](https://getfedora.org/es/) ([guía](https://www.youtube.com/watch?v=gbqv0AkqsXw)) o [Ubuntu Mate](https://ubuntu-mate.org/download/) de 32 o 64 bits, según sea la arquitectura del procesador (CPU) de su computadora.
+  *Parte 3*. Investigue un poco sobre las distribuciones del sistema operativo GNU/Linux ([guía](https://www.youtube.com/watch?v=RLStWVb1fWo&t=313s)). Descargue el archivo ISO del sistema operativo Linux [Fedora](https://getfedora.org/es/) ([guía](https://www.youtube.com/watch?v=gbqv0AkqsXw)) o [Zorin OS](https://zorin.com/os/) de 32 o 64 bits, según sea la arquitectura del procesador (CPU) de su computadora (x86_64, por lo general).
     
-  *Parte 4*. Esta práctica requiere un dispositivo externo (USB o disco duro externo).
+  *Parte 4*. Esta parte de la práctica requiere un dispositivo externo (USB o disco duro externo).
   
-  Existen varias aplicaciones que se pueden utilizar, entre ellas, destacan [**Ventoy**](https://www.ventoy.net/en/index.html), [**Yumi**](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) o [**Rufus**](https://rufus.ie/es/). **Advertencia:** Siempre debe tener **cuidado de NO instalar Ventoy, Yumi o Rufus en el disco duro de su computadora**. Por ello, **previamente, siempre debe respaldar los archivos de la USB.** Después de preparar la USB, ya puede utilizarla para grabar otros archivos en ella.
-  
-  Utilice la aplicación [**Ventoy**](https://www.ventoy.net/en/index.html) siguiendo el siguiente tutorial en [video](https://www.youtube.com/watch?v=_3p-f_Cwa4g) o este [tutorial escrito](https://websetnet.net/es/crear-un-instalador-usb-de-arranque-para-linux-a-trav%C3%A9s-de-la-nueva-soluci%C3%B3n-ventoy/amp/), en una USB vacía, de 16 Gib, por lo menos. Una vez preparado el dispositivo externo, copie los archivos ISO a la raíz y listo! Para arrancar la ISO de Windows, descargue el [archivo](https://github.com/ventoy/vhdiso/releases/download/v3.0/ventoy_vhdboot.zip) que debe ponerlo en la raíz de la USB.
-    
-  Si en su computadora no funciona Ventoy, use [**Yumi**](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) según esta [guía en video](https://www.youtube.com/watch?v=dR8ewnlfzVc) o este [tutorial escrito](https://hacerusbbooteable.com/usb-multibooteable-con-yumi/). Cada vez que ejecute Yumi, puede instalar o desinstalar las imágenes ISO de los sistemas operativos que desee.
-  
-  Por último, puede usar [**Rufus**](https://rufus.ie/es/) siguiendo este ([tutorial en video](https://www.youtube.com/watch?v=qedjN2AA3gU)) o esta [guía escrita](https://www.xataka.com/basics/que-rufus-como-utilizarlo-para-crear-usb-arranque). Considere que Rufus sólo instala una imagen ISO, a la vez.
+  **Advertencia:** Siempre debe tener **cuidado de NO instalar Ventoy, Yumi o Rufus en el disco duro de su computadora**. Por ello, **previamente, siempre debe respaldar los archivos de la USB.** Después de preparar la USB, ya puede utilizarla para grabar otros archivos en ella.
+   
+  En una **USB** con capacidad mayor al archivo ISO que usará (mayor a 4 GiB) instale el programa para crear el **USB live** que le permitirá arrancar el sistema operativo a instalar, con alguna de las siguientes aplicaciones:
+  - [**Rufus**](https://rufus.ie/es/) ([tutorial en video](https://www.youtube.com/watch?v=qedjN2AA3gU), [guía escrita](https://www.xataka.com/basics/que-rufus-como-utilizarlo-para-crear-usb-arranque). Rufus sólo instala una imagen ISO, a la vez.
+  - [**Fedora Media Writer**](https://fedoraproject.org/workstation/download/) ([tutorial](https://www.youtube.com/watch?v=_VGXsFTQIZs)). Fedora Media Writer sólo instala una imagen ISO, a la vez.
+  - [Ventoy**](https://www.ventoy.net/en/index.html) ([tutorial en video](https://www.youtube.com/watch?v=_3p-f_Cwa4g), [tutorial escrito](https://websetnet.net/es/crear-un-instalador-usb-de-arranque-para-linux-a-trav%C3%A9s-de-la-nueva-soluci%C3%B3n-ventoy/amp/)). Ventoy es multiboot, por lo que una vez preparada la USB, sólo copie el o los archivos ISO a la raíz y listo! Nota: Para arrancar la ISO de Windows, descargue el [archivo](https://github.com/ventoy/vhdiso/releases/download/v3.0/ventoy_vhdboot.zip) que debe ponerlo en la raíz de la USB.
+  - [**Yumi**](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) ([guía en video](https://www.youtube.com/watch?v=dR8ewnlfzVc), [tutorial escrito](https://hacerusbbooteable.com/usb-multibooteable-con-yumi/)). Yumi es multiboot por lo que, cada vez que ejecute Yumi, puede instalar o desinstalar las imágenes ISO de los sistemas operativos que desee.
   
   Considere de manera alternativa que el sistema operativo *Windows* puede instalarse en un medio extraible con [WintoUSB](https://www.easyuefi.com/wintousb/index.html) siguiendo este [tutorial](https://www.youtube.com/watch?v=wisy8cmM370), pero requiere una licencia activa.
   
+  Cualquiera de los procedimientos de esta *Parte 4*, habilitan una USB para arrancar cualquier sistema operativo (Windows, Linux u otro) sin tocar el disco duro del equipo. También puede utilizarlo para instalar el sistema operativo en el mismo disco duro, adicional a Windows (*dual booting*) o instalarlo otra USB. Esto tiene muchas *aplicaciones prácticas*, por ejemplo, si falla el sistema operativo Windows, con la USB que ha preparado puede arrancar su sistema operativo Linux desde la USB y trabajar con él en tareas cotidianas de oficina como abrir o crear un archivo de texto u hoja de cálculo con [*Libre Office*](https://www.libreoffice.org/), navegar en Internet y acceder a su correo electrónico. Sin embargo, no puede hacer cambios al sistema operativo, ni instalar aplicaciones adicionales con cambios permanentes, pero esto será posible si lo instala en otra USB, de manera permanente. 
+  
   *Parte 5*. Investigue los conceptos involucrados: bootear un equipo ([guía](https://www.youtube.com/watch?v=O2S7YyKb5LI)), BIOS ([guía](https://www.youtube.com/watch?v=HD9qXyvIzOc)), UEFI ([guía](https://www.youtube.com/watch?v=X3Cx6wm6PtY)), partición (física y lógica, de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), GPT y MBR ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)).
   
-  Pruebe que puede *arrancar* (o *bootear*) cada uno de los sistemas operativos instalados desde la USB, por ejemplo, [Active Boot Disk](https://thepiratebay.org/description.php?id=13686101), [Windows 7](https://thepiratebay.org/search.php?q=windows+7+untouched&apps=on&search=Pirate+Search&page=0&orderby=) y [Fedora Workstation](https://getfedora.org/es/workstation/).
-  
-  Cualquiera de los procedimientos de la *Parte 4* de esta práctica, habilitan una USB para arrancar un sistema operativo Windows, Linux o cualquier otro, sin tocar el disco duro del equipo. Esto tiene muchas ventajas, como preservar el medio de almacenamiento o instalar el sistema operativo que se ejecute desde la USB, en el mismo disco duro, adicional al Windows (*dual booting*). Esto tiene muchas *aplicaciones prácticas*, por ejemplo, si falla el sistema operativo Windows, con la USB que ha preparado puede arrancar su sistema operativo Linux desde la USB y trabajar con él en tareas cotidianas de oficina como abrir o crear un archivo de texto u hoja de cálculo con [*Libre Office*](https://www.libreoffice.org/), navegar en Internet y acceder a su correo electrónico. Sin embargo, no puede hacer cambios al sistema operativo, ni instalar aplicaciones adicionales con cambios permanentes. 
-  
-  *Parte 6*. Afortunadamente, puede utilizarse un disco duro externo portátil de baja capacidad o una memoria USB de por lo menos 32 GB, para instalar un sistema operativo en su USB, con un sistema encriptado, con un presupuesto muy bajo. Afortunadamente, el sistema operativo *Linux*, como [Fedora](https://getfedora.org/es/) o el de su preferencia también puede instalarse y ejecutarse desde en un dispositivo externo, tal como si fuera el disco principal, sin mayor problema, completando el procedimiento de la Parte 4 de esta práctica.
+  Pruebe que puede *arrancar* (o *bootear*) live USB del sistema operativo desde la USB: 
+  - [Active Boot Disk](https://thepiratebay.org/description.php?id=13686101)
+  - [Windows 7](https://thepiratebay.org/search.php?q=windows+7+untouched&apps=on&search=Pirate+Search&page=0&orderby=)
+  - [Fedora Workstation](https://getfedora.org/es/workstation/).
+    
+  *Parte 6*. Para instalar el sistema operativo Linux en otra USB, de manera permanente y usarlo alternativamente desde su USB, conservando los cambios que haga en él, utilice el siguiente procedimiento. Ejecute la parte 4 y 5. Una vez arrancado el USB Live puede utilizar un **disco duro externo** de baja capacidad vacío o una **memoria USB vacía** de por lo menos 64 GB. Por ejemplo, el sistema operativo Linux [Fedora*](https://getfedora.org/es/) según el siguiente [tutorial](https://www.youtube.com/watch?v=Cl6tpxXhhLo).
   
    Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
@@ -364,13 +367,13 @@ Software:
 
   *Objetivo*: Aprender a instalar varios sistemas operativos como un máquinas virtuales.
 
-  *Parte 1*. Investigue qué es la virtualización, una máquina virtual y cómo se instala un sistema operativo en una máquina virtual.   
+  *Parte 1*. Investigue qué es la virtualización, una máquina virtual y cómo se instala un sistema operativo en una máquina virtual. 
 
-  *Parte 2*. Instale [VirtualBox](https://www.virtualbox.org/) en su sistema operativo Windows o el que tenga. Luego, instale el sistema operativo [Fedora Workstation](https://getfedora.org/es/workstation/) como una máquina virtual ([Video 1](https://www.youtube.com/watch?v=9-ZGT6T65VA)). Finalmente, instale el *VirtualBox Extension Pack.x*  
+  *Parte 2*. Instale [VirtualBox](https://www.virtualbox.org/) en su sistema operativo Windows o el que tenga. Luego, instale el sistema operativo [Fedora Workstation](https://getfedora.org/es/workstation/) como una máquina virtual ([Video 1](https://www.youtube.com/watch?v=9-ZGT6T65VA)). Finalmente, instale el *VirtualBox Extension Pack.x* 
     
-  *Parte 3*. Utilice los archivos ISO de [Windows 7](https://thepiratebay.org/search.php?q=windows+7+untouched&apps=on&search=Pirate+Search&page=0&orderby=) y [Fedora Workstation](https://getfedora.org/es/workstation/) e instálelos mediante VirtualBox ([Video](https://www.youtube.com/watch?v=GEx046EHphI)).  
+  *Parte 3*. Utilice los archivos ISO de [Windows 7](https://thepiratebay.org/search.php?q=windows+7+untouched&apps=on&search=Pirate+Search&page=0&orderby=) y [Fedora Workstation](https://getfedora.org/es/workstation/) e instálelos mediante VirtualBox ([Video](https://www.youtube.com/watch?v=GEx046EHphI)). 
     
-  *Parte 4*. Pruebe que puede arrancar cada uno de los dos sistemas operativos como máquinas virtuales.  
+  *Parte 4*. Pruebe que puede arrancar cada uno de los dos sistemas operativos como máquinas virtuales. 
 
   Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
@@ -388,13 +391,13 @@ Software:
 
   Aplicación: Con alguna de estas dos herramientas se puede preparar el disco duro de la computadora para instalar Linux como segundo sistema operativo o en dual boot, sin perder información, después de dejar un espacio libre de unos 20 a 50 GB, dependiendo del tamaño del disco disponible. Ver este tutorial.
 
-  Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.   
+  Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda. 
   
   Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 - *Práctica 3.5. Particiones y sistemas de archivos*. (Entrega: ).
 
-  *Objetivo*: Comprender y practicar la preparación de dispositivos de almacenamiento en una computadora.    
+  *Objetivo*: Comprender y practicar la preparación de dispositivos de almacenamiento en una computadora. 
 
   *Parte 1*. Investigue los conceptos involucrados: partición (física y lógica, primaria, partición de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), GPT y MBR ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)), formatear un dispositivo de almacenamiento ([guía](https://www.youtube.com/watch?v=YshcHw9aIno)), sistema de archivos ([guía](https://www.youtube.com/watch?v=ukzkZA73fkg)), archivo ([guía](https://www.youtube.com/watch?v=Ub7guhuy7_A)), tipos de archivo (binario, texto, programa) ([guía](https://www.youtube.com/watch?v=LbopJOLgo5g)), cómo se guarda un archivo ([guía](https://www.youtube.com/watch?v=ProWo1W-4C0)) y las operaciones de manejo de archivos ([guía](https://www.youtube.com/watch?v=f2dmh_VkNgw)).
      
@@ -404,14 +407,14 @@ Software:
   
   *Parte 4*. Practique la *recuperación de particiones eliminadas* con *[TestDisk](https://www.cgsecurity.org/wiki/TestDisk_ES)* ([tutorial en video](https://www.youtube.com/watch?v=w_JqR-9qcX8), [tutorial escrito](https://geekland.eu/recuperar-particiones-borradas-o-eliminadas-con-testdisk/)) en discos o dispositivos de almacenamiento formateados. También, practique la *recuperación de dispositivos* que no son reconocidos o que piden ser formateados, como una USB ([tutorial](https://www.youtube.com/watch?v=SV9-PdEg3nA)). 
   
-  *Aplicación*: Con alguna de estas dos herramientas se puede preparar el disco duro de la computadora para instalar Linux como segundo sistema operativo o en *dual boot, sin perder información*, después de dejar un espacio libre de unos 20 a 50 GB, dependiendo del tamaño del disco disponible. Ver este [tutorial](https://www.youtube.com/watch?v=ycTh_x-hzro).  
+  *Aplicación*: Con alguna de estas dos herramientas se puede preparar el disco duro de la computadora para instalar Linux como segundo sistema operativo o en *dual boot, sin perder información*, después de dejar un espacio libre de unos 20 a 50 GB, dependiendo del tamaño del disco disponible. Ver este [tutorial](https://www.youtube.com/watch?v=ycTh_x-hzro). 
      
   Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
 ##### Bibliografía Complementaria:
 - Dr. Beco. (2022, Jun 7). [The Code | Story of(Linux).documentary](https://www.youtube.com/watch?v=O1rCOSnuBEs). *YouTube*. (video) (58:53 min).
 - [ibiblio](https://www.ibiblio.org/). El mayor repositorio de colecciones de trabajos bajo el dominio público que incluye fotos, libros, clipart, revistas y música!
-- Edge Seguridad Informática y SysAdmin. (2022, Apr 3). [RHCSA 8](https://www.youtube.com/watch?v=Dt4agP6iBuQ&list=PLzjjPeOioSgdoQEWFIRZKQivjvilS8WBU). *YouTube*. (58 videos). Curso de capacitación para aprobar la certificación Red Hat Certified System Administrator (RHCSA) (EX200) (muy recomendable).  
+- Edge Seguridad Informática y SysAdmin. (2022, Apr 3). [RHCSA 8](https://www.youtube.com/watch?v=Dt4agP6iBuQ&list=PLzjjPeOioSgdoQEWFIRZKQivjvilS8WBU). *YouTube*. (58 videos). Curso de capacitación para aprobar la certificación Red Hat Certified System Administrator (RHCSA) (EX200) (muy recomendable). 
 - The Fedora Project (2023). Fedora [Sistema Operativo] ver. 38. [url](https://fedoraproject.org/es/). [Ayuda](https://docs.fedoraproject.org/en-US/quick-docs/). [Descargar](https://fedoraproject.org/es/workstation/download/). [Dual boot](https://www.youtube.com/watch?v=FNKnbBPGW_A) 
 - Nate Gentile. (2017, Feb 19). [Entiende Linux y el software libre de una vez](https://www.youtube.com/watch?v=UUJ0dFpj1-M). *YouTube* (video). (17:41 min).
 - Nate Gentile. (2018, Dic 16). [¿Por qué Linux no es popular?](https://www.youtube.com/watch?v=NDhJfHhe3e4). *YouTube* (video). (13:26 min).
@@ -475,29 +478,28 @@ Software:
 
   *Objetivo*: Comprender la arquitectura de un sistema de información empresarial.
     
-  *Parte 1*. Investigue la arquitectura de un sistema de información empresarial en la actualidad en el capítulo Arquitectura del sistema ERP y sus módulos funcionales (Hormigo, 2011).  
+  *Parte 1*. Investigue la arquitectura de un sistema de información empresarial en la actualidad en el capítulo Arquitectura del sistema ERP y sus módulos funcionales (Hormigo, 2011). 
     
   Hormigo, I. G. (2011). Arquitectura del sistema ERP y sus módulos funcionales. *In* H. G. Fuster, I. G. Hormigo, J. M. Joana, & J. R. Rodríguez (Eds.). *Fundamentos de sistemas de información* (pp. 31-43). Catalunya: Universitat Oberta de Catalunya. ([url](http://libgen.rs/book/index.php?md5=77DE9AE1D073B9367127448826BA6460).
     
   *Parte 2*. Haga un breve reporte en su cuaderno la investigación sobre qué es un sistema de información, un sistema de información empresarial y la tipología de ellos. Este es su entregable.
     
-  *Parte 3*. Tome como estudio de caso la solución denominada de código libre y abierto Adaxa Suite ([proveedor](http://www.adaxa.com/), [video](https://www.youtube.com/watch?v=SST_AEKg-uw), [revisión](https://www.predictiveanalyticstoday.com/adaxa-suite/)) y describa las ventajas y desventajas que tiene respecto a soluciones comerciales equivalentes en software privativo.  
+  *Parte 3*. Tome como estudio de caso la solución denominada de código libre y abierto Adaxa Suite ([proveedor](http://www.adaxa.com/), [video](https://www.youtube.com/watch?v=SST_AEKg-uw), [revisión](https://www.predictiveanalyticstoday.com/adaxa-suite/)) y describa las ventajas y desventajas que tiene respecto a soluciones comerciales equivalentes en software privativo. 
   
-  
-- *Práctica 4.5. Infraestructura de un sistemas de información empresarial*. (Entrega: ).
 
-  *Objetivo*: Instalar el software de la infraestructura para un sistema de información empresarial.
+- *Práctica 4.5. Infraestructura de un sistemas de información empresarial*. (Entrega: ). 
+
+  *Objetivo*: Instalar el software de la infraestructura para un sistema de información empresarial. 
     
-  *Parte 1*. Considere que la arquitectura de un sistema de información empresarial tiene esencialmente tres elementos básicos: (1) Sistema Operativo (Windows, Linux,  Mac o cualuier otro), (2) Servidor web (Apache o cualquier otro), (3) Gestor de base de datos (MySQL, MariaDB o cualquier otro), (4) Entorno web (PHP,  Java o cualquier otro)  y (5) Aplicación. En esta práctica aprenderás a instalar cada uno de los elementos por separado y todos al mismo tiempo.
+  *Parte 1*. Considere que la arquitectura de un sistema de información empresarial tiene esencialmente tres elementos básicos: (1) Sistema Operativo (Windows, Linux,  Mac o cualuier otro), (2) Servidor web (Apache o cualquier otro), (3) Gestor de base de datos (MySQL, MariaDB o cualquier otro), (4) Entorno web (PHP,  Java o cualquier otro)  y (5) Aplicación. En esta práctica aprenderás a instalar cada uno de los elementos por separado y todos al mismo tiempo. 
   
   *Parte 2*. Caso 1: WAMP (**W**indows + **A**pache + **M**ySQL + **P**HP) de manera manual. En este caso se requerirá instalar o tener un equipo con sistema operativo Windows. Debe seguir el siguiente [tutorial](https://www.youtube.com/watch?v=fFLTdF2CUeE). Finalmente, [descargue](https://es-mx.wordpress.org/download/) e instale una aplicación web como WordPress para probar que funciona. Utilice la siguiente [guía](https://es-mx.wordpress.org/support/article/how-to-install-wordpress/). 
 
-  *Parte 3*. Caso 2: LAMP (**L**inux + **A**pache + **M**ySQL (o **M**ariaDB) + **P**HP). En este caso debes instalar, previamente Linux Fedora en una USB, según la préctica 2.4XXX [guía con Fedora](https://computingforgeeks-com.translate.goog/how-to-install-lamp-stack-on-fedora/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419))
+  *Parte 3*. Caso 2: LAMP (**L**inux + **A**pache + **M**ySQL (o **M**ariaDB) + **P**HP). En este caso debes instalar, previamente Linux Fedora en una USB, según la préctica 2.4XXX [guía con Fedora](https://computingforgeeks-com.translate.goog/how-to-install-lamp-stack-on-fedora/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419)) 
   
-  *Parte 4*. Caso 3: XAMPP en Windows. [turorial](https://www.youtube.com/watch?v=Ab1iao1b5d0) y el siguiente [tutorial](https://www.youtube.com/watch?v=6cRolPAXA2c).
+  *Parte 4*. Caso 3: XAMPP en Windows. [turorial](https://www.youtube.com/watch?v=Ab1iao1b5d0) y el siguiente [tutorial](https://www.youtube.com/watch?v=6cRolPAXA2c). 
 
-Instale en su Tome como estudio de caso la solución denominada de 
-  [pagila](https://github.com/devrimgunduz/pagila)
+Instale [pagila](https://github.com/devrimgunduz/pagila). 
     
   *Parte 5*. A continuación se pueden seguir dos caminos para preparar la infraestructura cliente-servidor para alojar aplicaciones empresariales.
   
