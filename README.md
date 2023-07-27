@@ -186,7 +186,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
       - Codificación binaria: Audio, imagen, video y otros.    
 3. Instrucciones    
    a. Conceptos clave de programación: Programar, programa almacenado, código (fuente, binario, objeto y executable)    
-   b. Lenguajes de programación:    
+   b. Lenguajes de programación:      
       - *Sintaxis* o *gramática*: Palabras clave o reservadas (*keywords*), símbolos, identificadores y sentencias.    
       - *Semántica* o *significado*:    
         - *Entrada*: Operaciones de lectura        
