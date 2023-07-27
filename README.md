@@ -175,7 +175,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
       - Decimal  
       - Binario  
       - Hexadecimal  
-      - Conversiones entre sistemas  
+      - Conversiones entre sistemas    
    b. Tipos de datos:  
       - Númericos: Enteros (*integer*) y reales (*float point*)  
       - Alfanuméricos  
