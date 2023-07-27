@@ -170,7 +170,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
    b. Los símbolos de la computadora: Bit y byte (y unidades derivadas)  
    c. Información = datos + contexto  
    d. Del procesamientos de datos al procesamiento de información  
-2. Datos  
+1. Datos  
    a. Sistemas numéricos:  
       - Decimal  
       - Binario  
@@ -184,7 +184,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
    c. Archivos y tipos de archivos:  
       - Codificación de texto: ASCII y Unicode (UTF-8, UTF-16 y UTF-32) 
       - Codificación binaria: Audio, imagen, video y otros 
-3. Instrucciones  
+1. Instrucciones  
    a. Conceptos clave de programación: Programar, programa almacenado, código (fuente, binario, objeto y executable)  
    
    b. Lenguajes de programación:  
@@ -206,7 +206,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
       - Técnicas: Recursión y divide y vencerás  
       - Ejemplos: Cálculo, decisión y ordenación.     
 
-4. Tareas y Prácticas  
+1. Tareas y Prácticas  
 
 - *Tarea 2.1. Conceptos básicos de software*. (Entrega: 6 de marzo de 2023).
 
