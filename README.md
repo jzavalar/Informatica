@@ -176,13 +176,11 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
       - Binario  
       - Hexadecimal  
       - Conversiones entre sistemas  
- 
    b. Tipos de datos:  
       - Númericos: Enteros (*integer*) y reales (*float point*)  
       - Alfanuméricos  
       - Lógicos  
       - Estructuras de datos: arreglos, matrices, listas, tablas.  
-
    c. Archivos y tipos de archivos:  
       - Codificación de texto: ASCII y Unicode (UTF-8, UTF-16 y UTF-32) 
       - Codificación binaria: Audio, imagen, video y otros 
