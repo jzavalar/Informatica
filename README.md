@@ -7,8 +7,7 @@
 **Trimestre:** 23 Primavera
 
 **Grupo:** HA05 **Horario:** Lunes y Miércoles de 12:00 a 14:00 hr **Salón:** Anexo del Edificio A, Sala J (AA-J).
-
-**Grupo:** HA06 **Horario:** Lunes y Miércoles de 12:00 a 14:00 hr **Salón:** Edificio H-214.
+**Grupo:** HA06 **Horario:** Lunes y Miércoles de 14:00 a 16:00 hr **Salón:** Edificio H-214.
 
 **Asesorías:**  Martes* de 20:00 a 22:00 hr, vía [Telegram](https://telegram.org/apps), previa programación, a petición del alumno.
 
@@ -91,28 +90,30 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   *Objetivo*: Reflexionar sobre la computadora digital, las ciencias de la computación y la informática. 
   
   *Parte 1*: Considere las siguientes preguntas guía como base y respóndalas con suficiencia: 
-     - ¿Qué son las 'ciencias de la computación' o 'computación' como campo de conocimiento y como disciplina? 
-     - ¿Cuál es la diferencia entre computación e informática? 
+     - ¿Qué son las *ciencias de la computación* o *computación* como campo de conocimiento y como disciplina? 
+     - ¿Cuál es la diferencia entre *computación*, *informática* y *tecnologías de la información y comunicación (TIC)*? 
      - ¿Por qué se dice que la *computadora* es una *máquina inteligente*? 
-     - ¿Cuáles fueron los factores económicos, políticos y sociales que llevaron al invento de la computadora digital? 
-     - ¿Quiénes fueron *Alan Turing* y *John Von Newmann* y cuáles fueron sus aportes a la computadora y a las ciencias de la computación? 
+     - ¿Cuáles fueron los factores económicos, políticos y sociales que llevaron al invento de la *computadora digital*? 
+     - ¿Quiénes fueron *Alan Turing* y *John Von Newmann* y cuáles fueron sus aportes a la creación de la *computadora* y a las *ciencias de la computación*? 
      - ¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad? 
    
   *Parte 2*: Revise los antecedentes históricos de la [Association for Computing Machinery, ACM](https://www.acm.org/acm-history). Luego, localice los siguientes tres recursos bibliográficos y haga su ficha bibliográfica en el [formato APA](https://apa.org.es/que-es-el-formato-apa/): 
-     - El artículo "The Science of Computing: What is computer science?" de Peter J. Denning en la revista *American Scientist*. 
-     - El artículo "The Profession of IT: Who We Are" de Peter Denning, publicado en [Communications of the ACM](https://cacm.acm.org/), la principal revista de la Asociación, disponible en su [ACM Digital Library](https://dl.acm.org/). 
-     - El libro "The science of computing: Shaping a discipline" de Matti Tedre. 
+     - El artículo *"The Science of Computing: What is Computer Science?"* de Peter J. Denning en la revista *American Scientist*. 
+     - El artículo *"The Profession of IT: Who We Are"* de Peter Denning, publicado en [Communications of the ACM](https://cacm.acm.org/), la principal revista de la ACM, disponible en su [ACM Digital Library](https://dl.acm.org/). 
+     - El libro *"The Science of Computing: Shaping a Discipline"* de Matti Tedre. 
 
   Utilice tres métodos de búsqueda: 
      - Mediante sus claves de acceso a la [biblioteca digital de la UAM](https://bidi.uam.mx/) desde [esta url](https://uam.elogim.com/auth-meta/login.php?url=https://ebsco.uam.elogim.com/?authtype=ip&custid=s4768653&groupid=main&profid=eds&returnToUrl=%2feds%2fsearch%2fbasic%3fsid%3db319654b-1f97-4d32-86cb-9b5399db861d%2540redis%26vid%3d0%26sdb%3dedspub%26tid%3d3000EP&vid=0&sid=b319654b-1f97-4d32-86cb-9b5399db861d@redis&lang=es).
      - Mediante la búsqueda avanzada en [Scholar Google](https://scholar.google.com/). 
-     - Explore otras opciones de búsqueda, por ejemplo, la proscrita [Library Genesis](gen.lib.rus.ec) y las redes P2P con aplicaciones como [qBittorrent](https://www.qbittorrent.org/) y [emule](https://www.emule-project.com/home/perl/general.cgi?l=1).
+     - Explore otras opciones de búsqueda, por ejemplo, la proscrita [Library Genesis](gen.lib.rus.ec) y las redes P2P Bittorrent (con aplicaciones como [qBittorrent](https://www.qbittorrent.org/)) y las redes eD2k y Kad (con aplicacionesc como [emule](https://www.emule-project.com/home/perl/general.cgi?l=1)).
+
+  Reflexione sobre las potenciales ventajas y desventajas.
   
-  *Parte 3*: Reflexione sobre el cumplimiento del objetivo de la práctica.
+  *Parte 3*: Reflexione sobre el cumplimiento del objetivo global de la práctica.
   
-  *Entregable 1*. A partir de las partes 2 y 3, responda las preguntas planteadas en la Parte 1. Escríbalas en su cuaderno. Luego, hágalo en GitHub. Utilice las fotos de lo realizado en su cuaderno e inclúyalas en su reporte de la práctica en GitHub.
+  *Entregable 1*. A partir de las partes 2 y 3, responda las preguntas planteadas en la Parte 1. Escríbalas en su cuaderno. Luego, haga su reporte de la práctica en su cuenta de GitHub, mediante el uso del lenguaje [Markdown](https://docs.github.com/es/get-started/writing-on-github). Utilice las fotos de lo realizado en su cuaderno en un directorio llamado 'images' y enlácelas a su texto principal.
   
-  *Entregable 2*: Haga un video a modo de tutorial que demuestre que realizó la actividad. Suba el video a su directorio Videos de GitHub.
+  *Entregable 2*: Haga un video a modo de tutorial que demuestre que realizó la actividad. Suba el video a su directorio Videos de GitHub en un directorio llamado 'videos' y enlácelo a su texto principal.
   
 
 - *Práctica 1.3. Partes y funciones de la computadora*. (Entrega: 16 de agosto de 2023). 
@@ -125,7 +126,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   *Parte 3*. Descargue e instale [YouTube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui/releases/download/0.4/youtube-dl-gui-0.4-win-portable.zip) (versión portable) en una USB o [Video Downloader](https://packages.fedoraproject.org/pkgs/video-downloader/video-downloader/) en su instalación de Fedora. Utilícelo para descargar los 6 videos de la lista [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-), incluyendo los subtítulos en inglés y en español. 
   
-  *Parte 4*. Escanée o tome fotos de las actividades de su tarea y los archivos generados a su cuenta de GitHub, donde corresponda.
+  *Parte 4*. Escanée o tome fotos de las actividades de su tarea y los archivos generados a su cuenta de GitHub, en su directorio *images* y enlácelas a su texto principal. Haga un video a modo de tutorial que demuestre que realizó la actividad y súbalo a su directorio *videos* de GitHub en un directorio llamado 'videos' y enlácelo a su texto principal. Instale [Github Desktop](https://desktop.github.com/) 
 
 
 - *Práctica 1.4. Adquisición de una computadora*. (Entrega: 21 de agosto de 2023). 
@@ -218,15 +219,15 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   - Los dos libros de texto del curso: 
     - [Introducción a la Ciencia de la Computación](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D) 
     - [Fundamentos de Computación para Ingenieros](https://libgen.rs/book/index.php?md5=93B1B3A032FA25F502EB136C35C52596) 
-  - Alguno de los siguientes diccionarios especializados: 
+  - Y alguno de los siguientes diccionarios especializados: 
     - [Dictionary of computer science, engineering and technology](https://libgen.rs/book/index.php?md5=C2FEF4DC36C84134ABA1E5698E913F73) 
     - [Dictionary of information science and technology](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177) 
     - [A dictionary of computer science (Oxford Quick Reference)](https://libgen.rs/book/index.php?md5=2FD856C4E6BC92CFA8DEB03F1B621A73) 
     - [Dictionary English informatics standard glossary of computer applications terminology](https://libgen.rs/book/index.php?md5=4F816603DBBF6AEB60B92FCCC59762A1) 
 
-  Luego, simplifique cada definición en una *frase corta* con la mejor claridad posible que le servirá para crear un mapa conceptual. Para mayor claridad, acompañe la definición, mínimo con un par de ejemplos para cada concepto.
+  Luego, simplifique cada definición en una *frase corta* con la mejor claridad posible para Usted, misma que le servirá para crear un mapa conceptual. Para mayor claridad, acompañe la definición, mínimo con un par de ejemplos para cada concepto.
   
-  La lista de conceptos es la siguiente: *bit*, *byte* y unidades derivadas (*Kilobyte* (*KB*), *Megabyte* (*MB*), *Gibabyte* (*GB*), *Terabyte* (*TB*), etc.), *dato*, *tipos de datos*, dato numérico, dato alfanumérico (*de caracter* o *de texto*), *archivo*, *sistemas numéricos*,  e *información*. 
+  La lista de conceptos es la siguiente: *bit*, *byte* y unidades derivadas (*Kilobyte* (*KB*), *Megabyte* (*MB*), *Gibabyte* (*GB*), *Terabyte* (*TB*), etc.), *dato*, *tipos de datos*, *dato numérico*, *dato alfanumérico* (*caracter* o *texto*), *archivo*, *sistemas numéricos*  e *información*. Ponga atención en aprender la diferencia entre *dato* e *información*.  
   
   *Parte 2*: Haga un mapa conceptual para organizar los conceptos en una jerarquía, hasta lograr la mejor claridad posible y páselo en limpio con ayuda de la herramienta [CmapTools](https://cmap.ihmc.us/cmaptools/).
   
