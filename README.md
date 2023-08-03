@@ -6,8 +6,8 @@
 **Clave de la UEA:** 2211088
 **Trimestre:** 23 Primavera
 
-**Grupo:** HA05 **Horario:** Lunes y Miércoles de 12:00 a 14:00 hr **Salón:** Anexo del Edificio A, Sala J (AA-J).
-**Grupo:** HA06 **Horario:** Lunes y Miércoles de 14:00 a 16:00 hr **Salón:** Edificio H-214.
+**Grupo:** HA05 **Horario:** Lunes y Miércoles de 12:00 a 14:00 hr **Salón:** Anexo del Edificio A, Sala J (AA-J).  
+**Grupo:** HA06 **Horario:** Lunes y Miércoles de 14:00 a 16:00 hr **Salón:** Edificio H-214.  
 
 **Asesorías:**  Martes* de 20:00 a 22:00 hr, vía [Telegram](https://telegram.org/apps), previa programación, a petición del alumno.
 
