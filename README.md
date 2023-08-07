@@ -164,54 +164,53 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - Lahoz-Beltra, R. (2020). [*Turing. La computación: Pensando en máquinas que piensan*](https://libgen.rs/book/index.php?md5=0E12A6617118339310C16106A8C8F073). Budapest: epublibre. 
 
 #### Unidad 2. Software   
-1. Ontología del software   
-    a. Elementos básicos: Datos e instrucciones (programas)    
-    b. Los símbolos de la computadora: Bit y byte (y unidades derivadas)    
-    c. Información = datos + contexto    
-    d. Del procesamientos de datos al procesamiento de información    
+1. Ontología del software  
+    a. Elementos básicos: Datos e instrucciones (programas)  
+    b. Los símbolos de la computadora: Bit y byte (y unidades derivadas)  
+    c. Información = datos + contexto  
+    d. Del procesamientos de datos al procesamiento de información  
 2. Datos
+   a. Sistemas numéricos:  
+      - Decimal  
+      - Binario  
+      - Hexadecimal  
+      - Conversiones entre sistemas 
 
-   a. Sistemas numéricos:    
-      - Decimal    
-      - Binario    
-      - Hexadecimal    
-      - Conversiones entre sistemas    
+   b. Tipos de datos:  
+      - Númericos: Enteros (*integer*) y reales (*float point*)  
+      - Alfanuméricos  
+      - Lógicos  
+      - Estructuras de datos: arreglos, matrices, listas, tablas.  
 
-   b. Tipos de datos:    
-      - Númericos: Enteros (*integer*) y reales (*float point*)    
-      - Alfanuméricos    
-      - Lógicos    
-      - Estructuras de datos: arreglos, matrices, listas, tablas.    
+   c. Archivos y tipos de archivos:  
+      - Codificación de texto: ASCII y Unicode (UTF-8, UTF-16 y UTF-32).  
+      - Codificación binaria: Audio, imagen, video y otros.  
+3. Instrucciones  
 
-   c. Archivos y tipos de archivos:    
-      - Codificación de texto: ASCII y Unicode (UTF-8, UTF-16 y UTF-32).    
-      - Codificación binaria: Audio, imagen, video y otros.    
-3. Instrucciones    
+   a. Conceptos clave de programación: Programar, programa almacenado, código (fuente, binario, objeto y executable)  
 
-   a. Conceptos clave de programación: Programar, programa almacenado, código (fuente, binario, objeto y executable)    
-
-   b. Lenguajes de programación:    
-      - *Sintaxis* o *gramática*: Palabras clave o reservadas (*keywords*), símbolos, identificadores y sentencias.    
-      - *Semántica* o *significado*:    
+   b. Lenguajes de programación:  
+      - *Sintaxis* o *gramática*: Palabras clave o reservadas (*keywords*), símbolos, identificadores y sentencias.  
+      - *Semántica* o *significado*:  
         - *Entrada*: Operaciones de lectura        
         - *Salida*: Operaciones de impresión en pantalla y archivos  
         - *Almacenamiento* en memoria y archivos: Operaciones de asignación  
         - *Procesamiento*: Operaciones de comparación y decisión, ciclos.  
 
-   c. Programación:    
-      - *Conceptos*: Variables, constantes, tipos y estructuras de datos, acumuladores, operadores (aritméticos, de comparación y lógicos), control condicional e iterativo, rutina, subrutina, funciones, pase de variables por valor o referencia.    
-      - Pseudocódigo    
-      - Diagramas de flujo    
-      - Herramientas de programación: Editor, parser, ensamblador, intérprete, compilador, debugger (eliminador de errores), entorno de desarrollo integrado (IDE).    
+   c. Programación:  
+      - *Conceptos*: Variables, constantes, tipos y estructuras de datos, acumuladores, operadores (aritméticos, de comparación y lógicos), control condicional e iterativo, rutina, subrutina, funciones, pase de variables por valor o referencia.  
+      - Pseudocódigo  
+      - Diagramas de flujo  
+      - Herramientas de programación: Editor, parser, ensamblador, intérprete, compilador, debugger (eliminador de errores), entorno de desarrollo integrado (IDE).  
       
-   d. Algoritmos:    
-      - Conceptos clave: Algoritmo, problema, entrada, salida, proceso.    
-      - Técnicas: Recursión y divide y vencerás    
-      - Ejemplos: Cálculo, decisión y ordenación.    
+   d. Algoritmos:  
+      - Conceptos clave: Algoritmo, problema, entrada, salida, proceso.  
+      - Técnicas: Recursión y divide y vencerás  
+      - Ejemplos: Cálculo, decisión y ordenación.  
 
-4. Tareas y Prácticas    
+4. Tareas y Prácticas  
 
-- *Tarea 2.1. Conceptos básicos de software*. (Entrega: 6 de marzo de 2023).   
+- *Tarea 2.1. Conceptos básicos de software*. (Entrega: 6 de marzo de 2023).  
 
   *Objetivos*: Aprender a diseñar mapas conceptuales con una herramienta de software.
     
