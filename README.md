@@ -1,4 +1,4 @@
-<img src="https://github.com/jzavalar/2211088-informatica/blob/main/images/conjunto-baseIzt.png" alt="UAM Iztapalapa" width="60%"/>
+<img src="https://github.com/jzavalar/2211088-informatica/images/conjunto-baseIzt.png" alt="UAM Iztapalapa" width="60%"/>
 
 ## Programa Analítico de la UEA Informática (Teoría y Práctica)
 ## Licenciatura en Administración
