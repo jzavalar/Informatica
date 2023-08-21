@@ -72,7 +72,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 3. De las ciencias de la computación al cómputo en la nube
 4. Tareas y prácticas:
 
-- *Tarea 1.1. La computadora y su contexto histórico*. (Entrega: 9 de agosto de 2023).
+- *Tarea 1.1. La computadora y su contexto histórico*. (Entrega: 28 de agosto de 2023).
 
   *Objetivo:* Reflexionar sobre el contexto histórico de la computadora digital. 
   
@@ -85,7 +85,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   **Muy importante**: Evite la tentación de copiar y pegar texto que encuentre en páginas web. Mejor, aprenda a usar nuevas herrameientas y comprométase consigo mismo a ser original y a escribir sus propias creaciones.
   
 
-- *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 14 de agosto de 2023).
+- *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 28 de agosto de 2023).
      
   *Objetivo*: Reflexionar sobre la computadora digital, las ciencias de la computación y la informática. 
   
@@ -116,7 +116,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   *Entregable 2*: Haga un video a modo de tutorial que demuestre que realizó la actividad. Suba el video a su directorio Videos de GitHub en un directorio llamado 'videos' y enlácelo a su texto principal.
   
 
-- *Práctica 1.3. Partes y funciones de la computadora*. (Entrega: 16 de agosto de 2023). 
+- *Práctica 1.3. Partes y funciones de la computadora*. (Entrega: 28 de agosto de 2023). 
 
   *Objetivo*: Identificar las partes y funciones de los varios tipos de computadoras modernas. 
     
@@ -129,7 +129,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   *Parte 4*. Escanée o tome fotos de las actividades de su tarea y los archivos generados a su cuenta de GitHub, en su directorio *images* y enlácelas a su texto principal. Haga un video a modo de tutorial que demuestre que realizó la actividad y súbalo a su directorio *videos* de GitHub en un directorio llamado 'videos' y enlácelo a su texto principal. Instale [Github Desktop](https://desktop.github.com/) 
 
 
-- *Práctica 1.4. Adquisición de una computadora*. (Entrega: 21 de agosto de 2023). 
+- *Práctica 1.4. Adquisición de una computadora*. (Entrega: 28 de agosto de 2023). 
 
   *Objetivos*: Aprender a evaluar la compra de una computadora nueva y de segunda mano. 
 
@@ -142,17 +142,17 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   *Parte 4*. Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de GitHub, donde corresponda.
 
 
-- *Videoconferencia con Clau @Cassyopea.*. (23 de agosto de 2023). 
+- Videoconferencia **Corazón Resiliente** por [Claudia Hernández](https://cassyopea.t.me) (23 de agosto de 2023: 12:30 a 14:00 hr). 
 
-  *Objetivos*: Valorar el conocimiento sobre computación. 
-
-  Transmisión por YouTube. 
+  *Resumen*: Durante está plática te comparto mi camino de convertirme en artista digital con software libre. 
+  
 
 ##### Bibliografía Obligatoria:
 - Code.org (2018, Jan 30). [How computers work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). *YouTube*. [6 videos].
 - Derivando (2018, Ene 10). [¿Qué es una máquina de Turing?](https://www.youtube.com/watch?v=iaXLDz_UeYY). *YouTube*. [video] (5:17 min).
 - O’Regan, G. (2021). What Is a Computer? In [*A brief history of computing*](https://libgen.rs/book/index.php?md5=E7FC38F000E9DC68BB251E6C4D3FF660) (pp. 1-10). Switzerland: Springer Nature Switzerland AG.
 - Zavala, J. (2011). [¿Qué son las ciencias de la computación?: Una interpretación ecléctica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing). In *La ingeniería de software: Una discusión epistemológica (pp. 38-76)*. Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México.
+
 
 ##### Bibliografía Complementaria:
 - ACM. (2022). [Membership Benefits](https://www.acm.org/membership/membership-benefits). 
@@ -210,7 +210,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 4. Tareas y Prácticas  
 
-- *Tarea 2.1. Conceptos básicos de software*. (Entrega: 6 de marzo de 2023).  
+- *Tarea 2.1. Conceptos básicos de software*. (Entrega: 28 de agosto de 2023).  
 
   *Objetivos*: Aprender a diseñar mapas conceptuales con una herramienta de software.
     
@@ -234,7 +234,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
     
   Suba los archivos a su cuenta de Google Drive donde corresponda.
 
-- *Práctica 2.2. Sistemas de codificación*. (Entrega: 8 de marzo de 2023).
+- *Práctica 2.2. Sistemas de codificación*. (Entrega: 30 de agosto de 2023).
 
   *Objetivos*: Aprender los fundamentos de los sistemas de codificación de texto.
     
@@ -248,7 +248,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   *Parte 5*: Documente en un video de hasta 10 minutos sus conclusiones y su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
-- *Práctica 2.3. Pseudocódigo*. (Entrega: 13 de marzo de 2023).
+- *Práctica 2.3. Pseudocódigo*. (Entrega: 4 de septiembre de 2023).
 
   *Objetivo*: Comprender y poner en práctica los conceptos de algoritmo, pseudocódigo y diagrama de flujo.
     
@@ -260,7 +260,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
   
-- *Práctica 2.4. Algoritmos*. (Entrega: 15 de marzo de 2023).
+- *Práctica 2.4. Algoritmos*. (Entrega: 6 de septiembre de 2023).
 
   *Objetivo*: Poner a prueba sus conocimientos sobre algoritmos y pseudocódigo.
     
@@ -290,9 +290,11 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   Haga un video de la práctica de las partes 1 a 3 y R y reflexione sobre el potencial que tiene esta tecnología a modo de tutorial y súbalo a su Google Drive.  
 
+
 ##### Bibliografía Obligatoriaria:
 - Khosrow-Pour, M. (2007). [*Dictionary of information science and technology*](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey PA, USA: Idea Group.
 - Martín, C., Rubio, M. A., Urquía, A. (2011). [*Lenguajes de programación*](https://libgen.rs/book/index.php?md5=006E57DF6867BBF1B3BAE332475E72AD). Madrid: Universidad Nacional de Educación a Distancia (UNED).
+
 
 ##### Bibliografía Complementaria:
 - Baruffa, O. (2022, Jan 13). [Big book of R](https://www.bigbookofr.com/). (Sitio web) (La compilación más grande de libros y fuentes documentales sobre R).
@@ -316,13 +318,14 @@ Software:
 - [RStudio, IDE para R](https://posit.co/products/open-source/rstudio/), [RStudio en línea](https://posit.cloud/)
 - [PseInt](https://pseint.sourceforge.net/) [guía de PSeInt con ejemplos](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/), [PSeInt Portable](https://sourceforge.net/projects/pseint/files/20210609/pseint-w32-20210609.zip/download?use_mirror=gigenet&download=).
 
+
 #### Unidad 3. Sistemas operativos
 1. Definición e historia
 2. Sistemas operativos libres y privativos
 3. Funciones principales
 4. Tareas y prácticas:
 
-- *Tarea 3.1. Licenciamiento de software*. (Entrega: ).
+- *Tarea 3.1. Licenciamiento de software*. (Entrega: 11 de septiembre).
 
   *Objetivo*: Comprender los conceptos básicos de licenciamiento de software.
 
@@ -369,7 +372,7 @@ Software:
   
    Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
-- *Práctica 3.3. Instalación de sistemas operativos como máquinas virtuales*. (Entrega: ).
+- *Práctica 3.3. Instalación de sistemas operativos como máquinas virtuales*. (Entrega: 13 de septiembre).
 
   *Objetivo*: Aprender a instalar varios sistemas operativos como un máquinas virtuales.
 
@@ -383,7 +386,7 @@ Software:
 
   Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
-- *Práctica 3.4. Particiones y sistemas de archivos*. (Entrega: ).
+- *Práctica 3.4. Particiones y sistemas de archivos*. (Entrega: 18 de septiembre).
 
   *Objetivo*: Comprender y practicar la preparación de dispositivos de almacenamiento en una computadora.
 
@@ -401,7 +404,7 @@ Software:
   
   Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
 
-- *Práctica 3.5. Particiones y sistemas de archivos*. (Entrega: ).
+- *Práctica 3.5. Particiones y sistemas de archivos*. (Entrega: 20).
 
   *Objetivo*: Comprender y practicar la preparación de dispositivos de almacenamiento en una computadora. 
 
@@ -437,7 +440,7 @@ Software:
 3. Sistemas de información
 4. Tareas y prácticas:
 
-- *Tarea 4.1. LEO: El primer sistema empresarial en el mundo*. (Entrega: ).
+- *Tarea 4.1. LEO: El primer sistema empresarial en el mundo*. (Entrega: por programar).
 
   *Objetivo*: Comprender el surgimiento de los sistemas de información automatizados en las organizaciones.
     
@@ -454,7 +457,7 @@ Software:
   Suban su texto al Google Drive de cada uno de los integrantes.
 
 
-- *Tarea 4.2. Los informáticos y el poder gerencial*. (Entrega: ).
+- *Tarea 4.2. Los informáticos y el poder gerencial*. (Entrega: por programar).
 
   *Objetivo*: Comprender el surgimiento de los informáticos como una nueva clase laboral y sus desafíos gerenciales. 
     
@@ -467,7 +470,7 @@ Software:
   Suban su texto al Google Drive de cada uno de los integrantes.
 
 
-- *Tarea 4.3. Los sistemas de información empresarial y su evolución histórica*. (Entrega: ).
+- *Tarea 4.3. Los sistemas de información empresarial y su evolución histórica*. (Entrega:  por programar).
 
   *Objetivo*: Comprender el concepto y evolución histórica de los sistemas de información empresariales. 
     
@@ -480,7 +483,7 @@ Software:
   Suban su texto al Google Drive de cada uno de los integrantes.
 
 
-- *Tarea 4.4. Arquitectura de un sistemas de información*. (Entrega: ).
+- *Tarea 4.4. Arquitectura de un sistemas de información*. (Entrega: por programar).
 
   *Objetivo*: Comprender la arquitectura de un sistema de información empresarial.
     
@@ -493,7 +496,7 @@ Software:
   *Parte 3*. Tome como estudio de caso la solución denominada de código libre y abierto Adaxa Suite ([proveedor](http://www.adaxa.com/), [video](https://www.youtube.com/watch?v=SST_AEKg-uw), [revisión](https://www.predictiveanalyticstoday.com/adaxa-suite/)) y describa las ventajas y desventajas que tiene respecto a soluciones comerciales equivalentes en software privativo. 
   
 
-- *Práctica 4.5. Infraestructura de un sistemas de información empresarial*. (Entrega: ). 
+- *Práctica 4.5. Infraestructura de un sistemas de información empresarial*. (Entrega: por programar). 
 
   *Objetivo*: Instalar el software de la infraestructura para un sistema de información empresarial. 
     
@@ -537,15 +540,15 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 | Asistencia puntual | 0% |  |
 | Tareas|30% |Se entrega en la fecha programada |
 | Prácticas| 30% |Se entregan  en la fecha programada |
-| Exámenes| 40% | Primero (a), Segundo (b)|
+| Exámenes| 40% | Primero (a) , Segundo (b)|
 | Total | 100% | |
 * Para tener derecho a presentar sus exámenes, deberá asistir por lo menos el 80% de la asistencia.
 
 **Notas:
-  - **a).** Primer examen: *Teórico* (Unidades 1, 2 y 3) y *Práctico* (Programación): Fecha: .
-  - **b).** Segundo examen: *Teórico* (Unidad 4: Sistemas Operativos y Unidad 5: Sistemas de Información): Fecha: .
-  - **Evaluación Global:** Todo el curso (Teoría y Práctica) para quienes tengan baja calificación o deseen subir: Fecha: .
-  - **Entrega de calificaciones:** Fecha: .
+  - **a).** Primer examen: *Teórico* (Unidades 1, 2 y 3) y *Práctico* (Programación): Fecha: Por programar.
+  - **b).** Segundo examen: *Teórico* (Unidad 4: Sistemas Operativos y Unidad 5: Sistemas de Información): Fecha: Por programar.
+  - **Evaluación Global:** Todo el curso (Teoría y Práctica) para quienes tengan baja calificación o deseen subir: Fecha: Por programar.
+  - **Entrega de calificaciones:** Fecha: Por programar.
 
 La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
 
