@@ -266,7 +266,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
     
   Primero, modifique y corrija el pseudocódigo propuesto por [Rodríguez (s.f.)](https://docs.google.com/document/d/1Uc9Cfld53Guia5ErtmGCnByUttV_3Jc-/edit?usp=sharing&ouid=108201401516590627031&rtpof=true&sd=true), de acuerdo a las reglas de PseInt configuradas en el perfil "UNAM FCA" y de acuerdo a la estructura del algoritmo aprendida en la clase, en la lista de ejercicios, según su número de lista de grupo.
   
-  *Número de Lista*:(Ejercicios): **1**:(4, 8), **2**:(15, 34), **3**:(8, 23), **4**:(25, 17), **5**:(13, 38), **6**:(33, 2), **7**:(42, 15), **8**:(6, 35), **9**:(29, 2), **10**:(24, 26), **11**:(16, 30), **12**:(13, 37), **13**:(8, 42), **14**:(10, 42), **15**:(22, 24), **16**:(7, 28); **17**:(19, 11), **18**:(6, 34), **19**:(44, 1), **20**:(29 24), **21**:(8, 38), **22**:(27, 14), **23**:(34, 24), **24**:(21, 42), **25**:(13, 41).
+  *Número de Lista*:(Ejercicios): **1**:(35,19), **2**:(46,36), **3**:(33,47), **4**:(46,44), **5**:(37,36), **6**:(43,22), **7**:(47,15), **8**:(39,45), **9**:(23,39), **10**:(20,18), **11**:(13,31), **12**:(13,24), **13**:(13,27), **14**:(20,14), **15**:(31,27), **16**:(30,39), **17**:(30,34), **18**:(12,22), **19**:(10,29), **20**:(36,25), **21**:(11,38), **22**:(23,33), **23**:(41,36), **24**:(10,45), **25**:(12,36).
      
   Cada ejercicio debe crearse en un archivo con el nombre del número de algoritmo y el título del algorimo. Por ejemplo, para el primer algoritmo llamado "Promedio", le correpondería el nombre de *01. Promedio.psc*. 
      
