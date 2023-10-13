@@ -394,7 +394,7 @@ Software:
 
   *Parte 2*. Use una USB sin datos o nueva y practique los procesos de manejo de particiones (crear, cambiar de tamaño, fusionar y eliminar particiones en Windows con Disk Management ([guía](https://www.youtube.com/watch?v=gXvyWWi7lh8)), de los siguientes tipos: FAT, exFAT, FAT32, NTFS y EXT4. Saque sus conclusiones.
 
-  *Parte 3*. Repita las mismas operaciones de la Parte 3 de esta práctica usando la aplicación [GParted Live CD/USB/HD/PXE Bootable Image](https://gparted.org/download.php) copiando el archivo ISO en la USB con Ventoy y arrancando el ISO. Utilice este [tutorial](https://www.youtube.com/watch?v=-kYe3BYPurA). Compare Disk Management y gParted y saque sus conclusiones.
+  *Parte 3*. Repita las mismas operaciones de la Parte 3 de esta práctica usando la aplicación [GParted](https://gparted.org/download.php) Live CD/USB/HD/PXE Bootable Image copiando el archivo ISO en la USB con Ventoy y arrancando el ISO. Utilice este [tutorial](https://www.youtube.com/watch?v=-kYe3BYPurA). Compare Disk Management y gParted y saque sus conclusiones.
 
   *Parte 4*. Practique la *recuperación de particiones eliminadas* con *[TestDisk](https://www.cgsecurity.org/wiki/TestDisk_ES)* ([tutorial en video](https://www.youtube.com/watch?v=w_JqR-9qcX8), [tutorial escrito](https://geekland.eu/recuperar-particiones-borradas-o-eliminadas-con-testdisk/)) en discos o dispositivos de almacenamiento formateados. También, practique la *recuperación de dispositivos* que no son reconocidos o que piden ser formateados, como una USB ([tutorial](https://www.youtube.com/watch?v=SV9-PdEg3nA)).
 
