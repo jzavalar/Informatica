@@ -530,8 +530,8 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 **Notas:
   - **a).** Primer examen: *Teórico* (Unidades 1, 2 y 3) y *Práctico* (Programación): Fecha: Por programar.
   - **b).** Segundo examen: *Teórico* (Unidad 4: Sistemas Operativos y Unidad 5: Sistemas de Información): Fecha: Por programar.
-  - **Evaluación Global:** Todo el curso (Teoría y Práctica) para quienes tengan baja calificación o deseen subir: Fecha: Por programar.
-  - **Entrega de calificaciones:** Fecha: Por programar.
+  - **Evaluación Global:** Todo el curso (Teoría y Práctica) para quienes tengan baja calificación o deseen subir: Fecha: 18 de octubre de 2023.
+  - **Entrega de calificaciones:** Fecha: Lunes 23 de octubre de 2023.
 
 La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
 
