@@ -535,7 +535,7 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 
 La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
 
-<h5 id="evaluacion-de-recuperacion">Evaluación de Recuperación</h5>  
+##### Evaluación de Recuperación  
 La *evaluación de recuperación* será aplidada por el profesor, bajo los lineamientos de la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente, por lo que deberá ponerse en contacto con el Coordinador ([correo electrónico](mailto:coordinacion.uam.admon@gmail.com)) y/o con el profesor:
 - **Correo electrónico:** [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), - **Telegram:** <img src="https://github.com/jzavalar/Informatica/blob/main/images/telegram_logo.svg" alt="Telegram" width="3%"/> [jzavalar.t.me](https://jzavalar.t.me)
 
