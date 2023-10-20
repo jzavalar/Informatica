@@ -545,8 +545,8 @@ La evaluación de recuperación consistirá en la presentación de un examen de 
 3. Manipulación de datos numéricos asistido por computadora
 4. Manejo de bases de datos
 
-La bibliografía recomendada mínima es la siguiente:
+La **bibliografía** recomendada mínima es la siguiente:
 - Forouzan, B. A. (2003). [*Introducción a la ciencia de la computación: De la manipulaclón de datos a la teoría de la computación*](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D). México: Thompson.
-- La bibliografía incluida en este programa.
+- Compleméntese con lo que considere conveniente de la bibliografía incluida en este programa.
 
 Favor de ponerse en contacto con el profesor previamente a la presentación de su evaluación, si desea asesoría o tiene dudas sobre la evaluación. 
