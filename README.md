@@ -535,5 +535,18 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 
 La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
 
-##### Evaluación de Recuperación
-La *evaluación de recuperación* no será aplidada por el profesor, sino por la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente, por lo que deberá coordinarse con el Coordinador.
+<h5 id="evaluacion-de-recuperacion">Evaluación de Recuperación</h5>  
+La *evaluación de recuperación* será aplidada por el profesor, bajo los lineamientos de la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente, por lo que deberá ponerse en contacto con el Coordinador ([correo electrónico](mailto:coordinacion.uam.admon@gmail.com)) y/o con el profesor:
+- **Correo electrónico:** [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), - **Telegram:** <img src="https://github.com/jzavalar/Informatica/blob/main/images/telegram_logo.svg" alt="Telegram" width="3%"/> [jzavalar.t.me](https://jzavalar.t.me)
+
+La evaluación de recuperación consistirá en la presentación de un examen de opción múltiple, a través de la plataforma [Virtuami](http://virtuami.izt.uam.mx/aulas/avmacca/login/index.php), que pretende cubrir los objetivos y el contenido del [programa oficial](https://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf), por ello, el temario de la evaluación es el siguiente:
+1. Fundamentos de computación
+2. Introducción a los sistemas de información
+3. Manipulación de datos numéricos asistido por computadora
+4. Manejo de bases de datos
+
+La bibliografía recomendada mínima es la siguiente:
+- Forouzan, B. A. (2003). [*Introducción a la ciencia de la computación: De la manipulaclón de datos a la teoría de la computación*](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D). México: Thompson.
+- La bibliografía incluida en este programa.
+
+Favor de ponerse en contacto con el profesor previamente a la presentación de su evaluación, si desea asesoría o tiene dudas sobre la evaluación. 
