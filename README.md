@@ -536,8 +536,9 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
 
 ##### Evaluación de Recuperación  
-La *evaluación de recuperación* será aplicada por el profesor sinodal, bajo los lineamientos de la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente, por lo que deberá ponerse en contacto con el Coordinador ([correo electrónico](mailto:coordinacion.uam.admon@gmail.com)) y/o con el profesor:
-- **Correo electrónico:** [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), **Telegram:** <img src="https://github.com/jzavalar/Informatica/blob/main/images/telegram_logo.svg" alt="Telegram" width="3%"/> [jzavalar.t.me](https://jzavalar.t.me)
+La *evaluación de recuperación* será aplicada por el profesor sinodal, bajo los lineamientos de la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente: **6 de noviembre a las 16:00 hr**, por lo que deberá ponerse en contacto con el Coordinador ([correo electrónico](mailto:coordinacion.uam.admon@gmail.com)) y/o con el profesor:
+- **Correo electrónico:** [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)
+- **Telegram:** <img src="https://github.com/jzavalar/Informatica/blob/main/images/telegram_logo.svg" alt="Telegram" width="3%"/> [jzavalar.t.me](https://jzavalar.t.me)
 
 La evaluación de recuperación consistirá en la presentación de un examen de opción múltiple, a través de la plataforma [Virtuami](http://virtuami.izt.uam.mx/aulas/avmacca/login/index.php), que pretende cubrir los objetivos y el contenido del [programa oficial](https://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf), por ello, el temario de la evaluación es el siguiente:
 1. Fundamentos de computación
