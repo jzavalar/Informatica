@@ -76,48 +76,30 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
      
   *Objetivo*: Reflexionar sobre la computadora digital, la informática y las ciencias de la computación. 
   
-  *Parte 1*: Investigue el tema del título de la tarea a partir de las siguientes preguntas guía, respondiéndolas con suficiencia, en su cuaderno:  
+  Investigue el tema del título de la tarea a partir de las siguientes preguntas guía, respondiéndolas con suficiencia, en su cuaderno:  
      - ¿Qué es la computadora?
-     - ¿Cuáles son las partes y funciones de la computadora? 
      - ¿Por qué se dice que la *computadora* es una *máquina inteligente*?  
      - ¿Qué es la informática y qué son las *ciencias de la computación* como disciplinas científicas?  
      - ¿Cuál es la importancia de la computadora en la sociedad y en la administración?  
 
-  *Bibliografía*:
+     - Bibliografía*:
        - Consulte los libros y materiales que se le han proporcionado en el Grupo de Telegram y los de la Bibliografía Obligatoria.
-       - Lista de videos: [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
-  
+     
   *Entregable*: Haga un guión en su cuaderno usando la totalidad de las preguntas guía de la Parte 1. Después, haga un video mensaje tipo tutorial donde exponga los resultados de su investigación.   
        
 - *Práctica 1.2. Mi computadora*. (Entrega: 22 de noviembre de 2023).
      
   *Objetivo*: Conocer su computadora.
   
-  *Parte 1*. Identifique las partes de la computadora que tiene en casa, ya sea computadora de escritorio o laptop y de su teléfono celular. Busque la marca y modelo de cada una y localice los manuales de usuario y de servicio en formato PDF. 
+  *Parte 1*. Haga un esfuerzo por conocer su computadora. Tome notas sobre las partes y funciones de una compudatora en la siguiente lista de videos: [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). Luego, identifique las partes de la computadora que tiene en casa, ya sea computadora de escritorio o laptop y de su teléfono celular. Con la marca y modelo, localice los manuales de usuario y de servicio en formato PDF. Busque, en YouTube, algunos videos sobre el cambio de disco duro, memoria u otros componentes de su computadora, para que aterrice la teoría. Vaya al Panel de Control de Windows e identifique la lista de dispositivos de hardware. Vaya al sitio web del fabricante y localice los *controladores* o *drivers* disponibles para el modelo de su computadora, mismos que requerirá en caso de requerir instalar su sistema operativo Windows. 
+
+  **Entregable 1**: Haga un **guión** y luego realice un **video**, tipo tutorial, donde exponga, de manera didáctica y con claridad, las características de la computadora que tiene en casa. Suba su video al grupo de Telegram.
   
-  *Parte 2*. Aterrice la práctica documentando las partes de la(s) computadora(s) que tenga en su casa. Consiga los manuales de usuario del modelo respectivo y el manual de servicio del sitio del fabricante. Busque los videos sobre el cambio de disco duro, memoria u otros componentes que haya en YouTube que apliquen a su computadora. Haga una reflexión tipo tutorial sobre las partes de su computadora en un breve video. 
+  *Parte 2*. Identifique las necesidades de recursos de cómputo que requiera, según sus necesidades, de acuerdo a los siguientes puntos: (1) hardware (tipo de equipo, almacenamiento (interno y externo (respaldo)), gráficos, impresión, digitalización, sonido y otros), (2) software (sistema operativo y aplicaciones) y (3) movilidad.
+
+  Imagine que el jefe en su trabajo le pide a Usted que elabore una **propuesta de mejora** de su equipo atendiendo a las partes factibles de cambiar y un par de **propuestas de reemplazo** de su equipo por dos opciones: _equipo de segunda mano_ y _equipo nuevo_. Cotice ambas propuestas buscando las partes posibles de reemplazo y los equipos en [Mercado Libre](https://www.mercadolibre.com.mx/). Utilice los argumentos técnicos y económicos que considere convenientes para que su jefe le autorice algunma de las propuestas.
   
-  *Parte 3*. Descargue e instale [YouTube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui/releases/download/0.4/youtube-dl-gui-0.4-win-portable.zip) (versión portable) en una USB o [Video Downloader](https://packages.fedoraproject.org/pkgs/video-downloader/video-downloader/) en su instalación de Fedora.  
-  
-  *Parte 4*. Escanée o tome fotos de las actividades de su tarea y los archivos generados a su cuenta de GitHub, en su directorio *images* y enlácelas a su texto principal. Haga un video a modo de tutorial que demuestre que realizó la actividad y súbalo a su directorio *videos* de GitHub en un directorio llamado 'videos' y enlácelo a su texto principal. Instale [Github Desktop](https://desktop.github.com/) 
-
-
-- *Práctica 1.4. Adquisición de una computadora*. (Entrega: 28 de agosto de 2023). 
-
-  *Objetivos*: Aprender a evaluar la compra de una computadora nueva y de segunda mano. 
-
-  *Parte 1*. Identifique sus necesidades de recursos de cómputo según los siguientes puntos: (1) hardware (tipo de equipo, almacenamiento (interno y externo (respaldo)), gráficos, impresión, digitalización, sonido y otros), (2) software (sistema operativo y aplicaciones) y (3) movilidad. 
-    
-  *Parte 2*. Ponga un límite presupuestal de acuerdo a sus posibilidades y busque dos equipos nuevos y de segunda mano que cumplan con sus necesidades. Haga un presupuesto de cada componente. Cotice sus equipos en Mercado Libre.
-    
-  *Parte 3*. Haga una tabla comparativa con sus criterios de decisión y el resultado de su elección y comparta con su o sus compañeros sus resultados.
-    
-  *Parte 4*. Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de GitHub, donde corresponda.
-
-
-- Videoconferencia **Corazón Resiliente** por [Claudia Hernández](https://cassyopea.t.me) (23 de agosto de 2023: 12:30 a 14:00 hr). 
-
-  *Resumen*: Durante está plática te comparto mi camino de convertirme en artista digital con software libre. 
+  **Entregable 2**: Haga un **guión** y luego realice un **video**, tipo tutorial, donde exponga, cómo realizó el informe y cuáles son sus argumentos y conlusiones, sobre las tres propuestas elaboradas. Suba sus tres propuestas y su video, al grupo de Telegram. 
   
 
 ##### Bibliografía Obligatoria:
