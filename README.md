@@ -72,28 +72,28 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 3. De las ciencias de la computación al cómputo en la nube
 4. Tareas y prácticas:
 
-- *Tarea 1.1. La computadora y la disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 22 de noviembre de 2023).
+- *Tarea 1.1. La computadora y informática: Contexto histórico, evolución e importancia*. (Entrega: 22 de noviembre de 2023).
      
-  *Objetivo*: Reflexionar sobre la computadora digital, las ciencias de la computación y la informática. 
+  *Objetivo*: Reflexionar sobre la computadora digital, la informática y las ciencias de la computación. 
   
   *Parte 1*: Investigue el tema del título de la tarea a partir de las siguientes preguntas guía, respondiéndolas con suficiencia, en su cuaderno:  
-     - ¿Qué es la computadora?  
+     - ¿Qué es la computadora?
+     - ¿Cuáles son las partes y funciones de la computadora? 
      - ¿Por qué se dice que la *computadora* es una *máquina inteligente*?  
-     - ¿Qué son las *ciencias de la computación* o *computación* como campo de conocimiento y como disciplina?  
-     - ¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad?  
-     - ¿Cuáles son las partes y funciones de la computadora?
+     - ¿Qué es la informática y qué son las *ciencias de la computación* como disciplinas científicas?  
+     - ¿Cuál es la importancia de la computadora en la sociedad y en la administración?  
 
   *Bibliografía*:
-       - Consulte los litros y materiales que se le han proporcionado en el Grupo de Telegram.
+       - Consulte los libros y materiales que se le han proporcionado en el Grupo de Telegram y los de la Bibliografía Obligatoria.
        - Lista de videos: [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
   
   *Entregable*: Haga un guión en su cuaderno usando la totalidad de las preguntas guía de la Parte 1. Después, haga un video mensaje tipo tutorial donde exponga los resultados de su investigación.   
        
 - *Práctica 1.2. Mi computadora*. (Entrega: 22 de noviembre de 2023).
      
-  *Objetivo*: Reflexionar sobre la computadora digital, las ciencias de la computación y la informática.
+  *Objetivo*: Conocer su computadora.
   
-  *Parte 1*. Identifique las partes de las computadoras que tiene en casa (computadora de escritorio, laptop, tableta y/o teléfono celular). Busque la marca y modelo de cada una a partir de localizar los manuales de usuario y de servicio en formato PDF. ma y elabore un *collage* a mano en su cuaderno, identificando las partes de cada tipo de computadora, de manera clara, legible y didáctica, en una página para tipo. Tome fotos. 
+  *Parte 1*. Identifique las partes de la computadora que tiene en casa, ya sea computadora de escritorio o laptop y de su teléfono celular. Busque la marca y modelo de cada una y localice los manuales de usuario y de servicio en formato PDF. 
   
   *Parte 2*. Aterrice la práctica documentando las partes de la(s) computadora(s) que tenga en su casa. Consiga los manuales de usuario del modelo respectivo y el manual de servicio del sitio del fabricante. Busque los videos sobre el cambio de disco duro, memoria u otros componentes que haya en YouTube que apliquen a su computadora. Haga una reflexión tipo tutorial sobre las partes de su computadora en un breve video. 
   
@@ -122,19 +122,12 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 ##### Bibliografía Obligatoria:
 - Code.org (2018, Jan 30). [How computers work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). *YouTube*. [6 videos].
-- Derivando (2018, Ene 10). [¿Qué es una máquina de Turing?](https://www.youtube.com/watch?v=iaXLDz_UeYY). *YouTube*. [video] (5:17 min).
 - O’Regan, G. (2021). What Is a Computer? In [*A brief history of computing*](https://libgen.rs/book/index.php?md5=E7FC38F000E9DC68BB251E6C4D3FF660) (pp. 1-10). Switzerland: Springer Nature Switzerland AG.
-- Zavala, J. (2011). [¿Qué son las ciencias de la computación?: Una interpretación ecléctica](https://drive.google.com/file/d/0B8yPXE-mYJ1wTExPelJSVWlrX1RpeFpralN6ZnV1bUtIaXhZ/view?usp=sharing). In *La ingeniería de software: Una discusión epistemológica (pp. 38-76)*. Tesis de Maestría en Ciencias de la Computación. Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Ciudad de México.
-
 
 ##### Bibliografía Complementaria:
-- ACM. (2022). [Membership Benefits](https://www.acm.org/membership/membership-benefits). 
-- Gómez Ortega, L. F. (2018, Oct 10). [Tutorial CmapTools 2019](https://www.youtube.com/watch?v=FSG-GCU4wQE). *YouTube*. [video] (15:38 min). 
-- Grier. D. A. (2001). [Human computers. The first pioneers of the information age](https://www.sciencedirect.com/science/article/pii/S0160932700013387). *Endeavour 25*(1), 28-32. 
 - Haigh, T. & Ceruzzi, P. E. (2021). Inventing the computer. In [*A new history of modern computing*](https://libgen.rs/book/index.php?md5=FEC5EE9FBAB5F3C3E68371EC9025E694) (pp. 9-28). USA: The MIT Press. 
 - Haigh, T., Priestley, M., & Rope, C. (2016). [*ENIAC in action. Making and remaking the modern computer*](http://eniacinaction.com/). MIT Press. ([pdf](https://libgen.rs/book/index.php?md5=F1ECADE396A9CB8BA191218B9BE22420)). 
-- HD Documental Ciencia 2017 (2017, Dic 17). [La curiosa guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg). *YouTube*. [video]. (1:27:54 hr). 
-- Lahoz-Beltra, R. (2020). [*Turing. La computación: Pensando en máquinas que piensan*](https://libgen.rs/book/index.php?md5=0E12A6617118339310C16106A8C8F073). Budapest: epublibre. 
+
 
 #### Unidad 2. Software   
 1. Ontología del software  
