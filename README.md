@@ -4,10 +4,10 @@
 ## Licenciatura en Administración
 
 **Clave de la UEA:** 2211088
-**Trimestre:** 23 Primavera
+**Trimestre:** 23 Otoño
 
-**Grupo:** HA05 **Horario:** Lunes y Miércoles de 12:00 a 14:00 hr **Salón:** Anexo del Edificio A, Sala K (AA-K).  
-**Grupo:** HA06 **Horario:** Lunes y Miércoles de 14:00 a 16:00 hr **Salón:** Edificio H-214.  
+**Grupo:** HA05 **Horario:** Lunes y Miércoles de 14:00 a 16:00 hr **Salón:** Anexo del Edificio A, Sala K (AA-K).  
+**Grupo:** HA57 **Horario:** Lunes y Miércoles de 16:00 a 18:00 hr **Salón:** Anexo del Edificio A, Sala K (AA-K).  
 
 **Asesorías:**  Martes* de 20:00 a 22:00 hr, vía [Telegram](https://telegram.org/apps), previa programación, a petición del alumno.
 
@@ -59,7 +59,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 - Que al finalizar el curso el alumno sea capaz, entre otras cosas, de:
 
-  - Utilizar *programas* de *aplicación general* para el manejo de *datos numéricos* y de *bases de datos* con el propósito de emplearlos como apoyo a las actividades propias de la carrera de administración.
+  - Utilizar *programas de aplicación general* para el manejo de *datos numéricos* y de *bases de datos* con el propósito de emplearlos como apoyo a las actividades propias de la carrera de administración.
   - Expresar la comprensión de textos y comunicar sus ideas haciendo un uso adecuado de la lengua española.
 
 
@@ -72,59 +72,32 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 3. De las ciencias de la computación al cómputo en la nube
 4. Tareas y prácticas:
 
-- *Tarea 1.1. La computadora y su contexto histórico*. (Entrega: 28 de agosto de 2023).
-
-  *Objetivo:* Reflexionar sobre el contexto histórico de la computadora digital. 
-  
-  *Parte 1:* Aprenda a elaborar [fichas de trabajo o de estudio](https://www.youtube.com/watch?v=pec3M47oR9I) y [tomar apuntes](https://www.youtube.com/watch?v=h7KwapGowuE) para que estudie. 
-  
-  *Parte 2:* Vea la siguiente película y elabore sus fichas de trabajo de los temas de la *Tarea 1.2: Parte 1* que se aborden en la película [La Curiosa Guerra de Alan Turing](https://www.youtube.com/watch?v=f-NVZeLuhPg) (1:27:54 hr). 
-     
-  *Parte 3:* Reflexione sobre el contexto histórico del surgimiento de la computadora. Redáctelo en su cuaderno. Luego, hágalo en su reporte de la actividad en GitHub. Agregue las fotos de lo realizado en su cuaderno, en GitHub en el directorio *imagenes* y aprenda a visualizarlas en un documento Markdown, en GitHub. 
-  
-  **Muy importante**: Evite la tentación de copiar y pegar texto que encuentre en páginas web. Mejor, aprenda a usar nuevas herrameientas y comprométase consigo mismo a ser original y a escribir sus propias creaciones.
-  
-
-- *Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 28 de agosto de 2023).
+- *Tarea 1.1. La computadora y la disciplina de la computación: contexto histórico, evolución e importancia*. (Entrega: 22 de noviembre de 2023).
      
   *Objetivo*: Reflexionar sobre la computadora digital, las ciencias de la computación y la informática. 
   
-  *Parte 1*: Considere las siguientes preguntas guía como base y respóndalas con suficiencia: 
-     - ¿Qué son las *ciencias de la computación* o *computación* como campo de conocimiento y como disciplina? 
-     - ¿Cuál es la diferencia entre *computación*, *informática* y *tecnologías de la información y comunicación (TIC)*? 
-     - ¿Por qué se dice que la *computadora* es una *máquina inteligente*? 
-     - ¿Cuáles fueron los factores económicos, políticos y sociales que llevaron al invento de la *computadora digital*? 
-     - ¿Quiénes fueron *Alan Turing* y *John Von Newmann* y cuáles fueron sus aportes a la creación de la *computadora* y a las *ciencias de la computación*? 
-     - ¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad? 
-   
-  *Parte 2*: Revise los antecedentes históricos de la [Association for Computing Machinery, ACM](https://www.acm.org/acm-history). Luego, localice los siguientes tres recursos bibliográficos y haga su ficha bibliográfica en el [formato APA](https://apa.org.es/que-es-el-formato-apa/): 
-     - El artículo *"The Science of Computing: What is Computer Science?"* de Peter J. Denning en la revista *American Scientist*. 
-     - El artículo *"The Profession of IT: Who We Are"* de Peter Denning, publicado en [Communications of the ACM](https://cacm.acm.org/), la principal revista de la ACM, disponible en su [ACM Digital Library](https://dl.acm.org/). 
-     - El libro *"The Science of Computing: Shaping a Discipline"* de Matti Tedre. 
+  *Parte 1*: Investigue el tema del título de la tarea a partir de las siguientes preguntas guía, respondiéndolas con suficiencia, en su cuaderno:  
+     - ¿Qué es la computadora?  
+     - ¿Por qué se dice que la *computadora* es una *máquina inteligente*?  
+     - ¿Qué son las *ciencias de la computación* o *computación* como campo de conocimiento y como disciplina?  
+     - ¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad?  
+     - ¿Cuáles son las partes y funciones de la computadora?
 
-  Utilice tres métodos de búsqueda: 
-     - Mediante sus claves de acceso a la [biblioteca digital de la UAM](https://bidi.uam.mx/) desde [esta url](https://uam.elogim.com/auth-meta/login.php?url=https://ebsco.uam.elogim.com/?authtype=ip&custid=s4768653&groupid=main&profid=eds&returnToUrl=%2feds%2fsearch%2fbasic%3fsid%3db319654b-1f97-4d32-86cb-9b5399db861d%2540redis%26vid%3d0%26sdb%3dedspub%26tid%3d3000EP&vid=0&sid=b319654b-1f97-4d32-86cb-9b5399db861d@redis&lang=es).
-     - Mediante la búsqueda avanzada en [Scholar Google](https://scholar.google.com/). 
-     - Explore otras opciones de búsqueda, por ejemplo, la proscrita [Library Genesis](gen.lib.rus.ec) y las redes P2P Bittorrent (con aplicaciones como [qBittorrent](https://www.qbittorrent.org/)) y las redes eD2k y Kad (con aplicacionesc como [emule](https://www.emule-project.com/home/perl/general.cgi?l=1)).
-
-  Reflexione sobre las potenciales ventajas y desventajas.
+  *Bibliografía*:
+       - Consulte los litros y materiales que se le han proporcionado en el Grupo de Telegram.
+       - Lista de videos: [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
   
-  *Parte 3*: Reflexione sobre el cumplimiento del objetivo global de la práctica.
+  *Entregable*: Haga un guión en su cuaderno usando la totalidad de las preguntas guía de la Parte 1. Después, haga un video mensaje tipo tutorial donde exponga los resultados de su investigación.   
+       
+- *Práctica 1.2. Mi computadora*. (Entrega: 22 de noviembre de 2023).
+     
+  *Objetivo*: Reflexionar sobre la computadora digital, las ciencias de la computación y la informática.
   
-  *Entregable 1*. A partir de las partes 2 y 3, responda las preguntas planteadas en la Parte 1. Escríbalas en su cuaderno. Luego, haga su reporte de la práctica en su cuenta de GitHub, mediante el uso del lenguaje [Markdown](https://docs.github.com/es/get-started/writing-on-github). Utilice las fotos de lo realizado en su cuaderno en un directorio llamado 'images' y enlácelas a su texto principal.
-  
-  *Entregable 2*: Haga un video a modo de tutorial que demuestre que realizó la actividad. Suba el video a su directorio Videos de GitHub en un directorio llamado 'videos' y enlácelo a su texto principal.
-  
-
-- *Práctica 1.3. Partes y funciones de la computadora*. (Entrega: 28 de agosto de 2023). 
-
-  *Objetivo*: Identificar las partes y funciones de los varios tipos de computadoras modernas. 
-    
-  *Parte 1*. Investigue e identifique las partes en una computadora de escritorio, una laptop, una tableta y un teléfono celular y elabore un *collage* a mano en su cuaderno, identificando las partes de cada tipo de computadora, de manera clara, legible y didáctica, en una página para tipo. Tome fotos. 
+  *Parte 1*. Identifique las partes de las computadoras que tiene en casa (computadora de escritorio, laptop, tableta y/o teléfono celular). Busque la marca y modelo de cada una a partir de localizar los manuales de usuario y de servicio en formato PDF. ma y elabore un *collage* a mano en su cuaderno, identificando las partes de cada tipo de computadora, de manera clara, legible y didáctica, en una página para tipo. Tome fotos. 
   
   *Parte 2*. Aterrice la práctica documentando las partes de la(s) computadora(s) que tenga en su casa. Consiga los manuales de usuario del modelo respectivo y el manual de servicio del sitio del fabricante. Busque los videos sobre el cambio de disco duro, memoria u otros componentes que haya en YouTube que apliquen a su computadora. Haga una reflexión tipo tutorial sobre las partes de su computadora en un breve video. 
   
-  *Parte 3*. Descargue e instale [YouTube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui/releases/download/0.4/youtube-dl-gui-0.4-win-portable.zip) (versión portable) en una USB o [Video Downloader](https://packages.fedoraproject.org/pkgs/video-downloader/video-downloader/) en su instalación de Fedora. Utilícelo para descargar los 6 videos de la lista [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-), incluyendo los subtítulos en inglés y en español. 
+  *Parte 3*. Descargue e instale [YouTube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui/releases/download/0.4/youtube-dl-gui-0.4-win-portable.zip) (versión portable) en una USB o [Video Downloader](https://packages.fedoraproject.org/pkgs/video-downloader/video-downloader/) en su instalación de Fedora.  
   
   *Parte 4*. Escanée o tome fotos de las actividades de su tarea y los archivos generados a su cuenta de GitHub, en su directorio *images* y enlácelas a su texto principal. Haga un video a modo de tutorial que demuestre que realizó la actividad y súbalo a su directorio *videos* de GitHub en un directorio llamado 'videos' y enlácelo a su texto principal. Instale [Github Desktop](https://desktop.github.com/) 
 
