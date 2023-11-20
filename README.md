@@ -82,10 +82,12 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
      - ¿Qué es la informática y qué son las *ciencias de la computación* como disciplinas científicas?  
      - ¿Cuál es la importancia de la computadora en la sociedad y en la administración?  
 
-     - Bibliografía*:
-       - Consulte los libros y materiales que se le han proporcionado en el Grupo de Telegram y los de la Bibliografía Obligatoria.
+     - Bibliografía:
+       - Consulte los libros y materiales que se le han proporcionado en el Grupo de Telegram y los de la Bibliografía Obligatoria, en esta unidad.
      
-  *Entregable*: Haga un guión en su cuaderno usando la totalidad de las preguntas guía de la Parte 1. Después, haga un video mensaje tipo tutorial donde exponga los resultados de su investigación.   
+  *Entregable*: Haga un **guión en su cuaderno** usando la totalidad de las preguntas guía de la Parte 1. Después, haga un **video mensaje** tipo tutorial donde exponga los resultados de su investigación. El guión y el video mensaje debe enviarlos al grupo de Telegram.
+
+  Cada video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española. La transcripción debe corregirse, aplicando las reglas gramaticales, respectivas. Debe usarse un editor de textos con el control de cambios activado, para que se muestren las correcciones. Ese archivo debe enviarse también al grupo, para que el profesor lo revise y pueda retroalimentar al alumno.
        
 - *Práctica 1.2. Mi computadora*. (Entrega: 22 de noviembre de 2023).
      
