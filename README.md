@@ -107,6 +107,8 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - O’Regan, G. (2021). What Is a Computer? In [*A brief history of computing*](https://libgen.rs/book/index.php?md5=E7FC38F000E9DC68BB251E6C4D3FF660) (pp. 1-10). Switzerland: Springer Nature Switzerland AG.
 
 ##### Bibliografía Complementaria:
+- INFORMATICONFIG (2022, Aug 30). Curso completo de informática básica desde cero para principiantes 2022 (16 videos). _YouTube_. URL: [https://www.youtube.com/watch?v=o_78Ue_EUeI&list=PL2Z95CSZ1N4HLqf215jj9ZJgmWIXm7gOo]
+- Rodríguez Parra, J. A. (2001). [*Aprende informática desde cero: Por fin podrás entenderte con tu ordenador*](https://libgen.rs/book/index.php?md5=054DAEF64F0500CB2ECCC0C2EB72B1E3). España:
 - Haigh, T. & Ceruzzi, P. E. (2021). Inventing the computer. In [*A new history of modern computing*](https://libgen.rs/book/index.php?md5=FEC5EE9FBAB5F3C3E68371EC9025E694) (pp. 9-28). USA: The MIT Press. 
 - Haigh, T., Priestley, M., & Rope, C. (2016). [*ENIAC in action. Making and remaking the modern computer*](http://eniacinaction.com/). MIT Press. ([pdf](https://libgen.rs/book/index.php?md5=F1ECADE396A9CB8BA191218B9BE22420)). 
 
