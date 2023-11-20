@@ -46,7 +46,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
    - Melfi, T. (2016). [*Talentos Ocultos* (*Hidden Figures*)](https://www.imdb.com/title/tt4846340/) [[torrent](https://thepiratebay.org/description.php?id=17551668)].
    - Snowden, E. (2019). [*Permanent record*](https://libgen.rs/book/index.php?md5=A5BDA164BB2B8419C57E57012A2F7F82). London: Macmillan. [epub]. (traducción: [*Vigilancia permanente*](https://libgen.rs/book/index.php?md5=5B91B59909B7CA93B0CD3F77BBA32864) [epub])
    - UAM. Informática. [Programa vigente](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf).
-   - UAM. (2022). [Calendario vigente](http://www.uam.mx/calendario/index.html).
+   - UAM. (2023). [Calendario vigente](http://www.uam.mx/calendario/index.html).
 
 
 ### Objetivos
@@ -83,7 +83,8 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
      - ¿Cuál es la importancia de la computadora en la sociedad y en la administración?  
 
      - Bibliografía:
-       - Consulte los libros y materiales que se le han proporcionado en el Grupo de Telegram y los de la Bibliografía Obligatoria, en esta unidad.
+       - Consulte los libros y materiales que se le han proporcionado en el Grupo de Telegram y
+       - La Bibliografía Obligatoria, en esta unidad.
      
   *Entregable*: Haga un **guión en su cuaderno** usando la totalidad de las preguntas guía de la Parte 1. Después, haga un **video mensaje** tipo tutorial donde exponga los resultados de su investigación. El guión y el video mensaje debe enviarlos al grupo de Telegram.
 
@@ -110,7 +111,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 ##### Bibliografía Complementaria:
 - INFORMATICONFIG (2022, Aug 30). Curso completo de informática básica desde cero para principiantes 2022 (16 videos). _YouTube_. URL: [https://www.youtube.com/watch?v=o_78Ue_EUeI&list=PL2Z95CSZ1N4HLqf215jj9ZJgmWIXm7gOo]
-- Rodríguez Parra, J. A. (2001). [*Aprende informática desde cero: Por fin podrás entenderte con tu ordenador*](https://libgen.rs/book/index.php?md5=054DAEF64F0500CB2ECCC0C2EB72B1E3). España:
+- Rodríguez Parra, J. A. (2001). [*Aprende informática desde cero: Por fin podrás entenderte con tu ordenador*](https://libgen.rs/book/index.php?md5=054DAEF64F0500CB2ECCC0C2EB72B1E3) (pp. 1-80). España.
 - Haigh, T. & Ceruzzi, P. E. (2021). Inventing the computer. In [*A new history of modern computing*](https://libgen.rs/book/index.php?md5=FEC5EE9FBAB5F3C3E68371EC9025E694) (pp. 9-28). USA: The MIT Press. 
 - Haigh, T., Priestley, M., & Rope, C. (2016). [*ENIAC in action. Making and remaking the modern computer*](http://eniacinaction.com/). MIT Press. ([pdf](https://libgen.rs/book/index.php?md5=F1ECADE396A9CB8BA191218B9BE22420)). 
 
@@ -164,21 +165,13 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 - *Tarea 2.1. Conceptos básicos de software*. (Entrega: 28 de agosto de 2023).  
 
-  *Objetivos*: Aprender a diseñar mapas conceptuales con una herramienta de software.
+  *Objetivos*: Aprender los conceptos básicos de software.
     
-  *Parte 1*: En equipo, investigue la definición formal de los conceptos básicos de software que se enlistan en la unidad en tres fuentes: 
-  - Los dos libros de texto del curso: 
-    - [Introducción a la Ciencia de la Computación](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D) 
-    - [Fundamentos de Computación para Ingenieros](https://libgen.rs/book/index.php?md5=93B1B3A032FA25F502EB136C35C52596) 
-  - Y alguno de los siguientes diccionarios especializados: 
-    - [Dictionary of computer science, engineering and technology](https://libgen.rs/book/index.php?md5=C2FEF4DC36C84134ABA1E5698E913F73) 
-    - [Dictionary of information science and technology](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177) 
-    - [A dictionary of computer science (Oxford Quick Reference)](https://libgen.rs/book/index.php?md5=2FD856C4E6BC92CFA8DEB03F1B621A73) 
-    - [Dictionary English informatics standard glossary of computer applications terminology](https://libgen.rs/book/index.php?md5=4F816603DBBF6AEB60B92FCCC59762A1) 
+  *Parte 1*: Considere la siguiente lista de conceptos básicos de software: *bit*, *byte* y unidades derivadas (*Kilobyte* (*KB*), *Megabyte* (*MB*), *Gibabyte* (*GB*), *Terabyte* (*TB*), etc.), *dato*, *tipos de datos*, *dato numérico*, *dato alfanumérico* (*caracter* o *texto*), *archivo*, *sistemas numéricos*  e *información*.
 
-  Luego, simplifique cada definición en una *frase corta* con la mejor claridad posible para Usted, misma que le servirá para crear un mapa conceptual. Para mayor claridad, acompañe la definición, mínimo con un par de ejemplos para cada concepto.
-  
-  La lista de conceptos es la siguiente: *bit*, *byte* y unidades derivadas (*Kilobyte* (*KB*), *Megabyte* (*MB*), *Gibabyte* (*GB*), *Terabyte* (*TB*), etc.), *dato*, *tipos de datos*, *dato numérico*, *dato alfanumérico* (*caracter* o *texto*), *archivo*, *sistemas numéricos*  e *información*. Ponga atención en aprender la diferencia entre *dato* e *información*.  
+  Luego, investigue la definición formal de los conceptos en alguno de los diccionarios especializados listados en la Bibliografía Obligatoria, citada más abajo. Haga su trabajo en su cuaderno. Cite correctamente: si lo copia tal cual, eso es una cita textual y debe acotarse con par de comillas. Si tiene dudas, consulte [esta referencia](). Después, simplifique cada definición en una *frase corta*, con la mejor claridad posible para Usted. Para mayor claridad y entendimiento, acompañe la definición, mínimo con uno varios ejemplos para cada concepto. Ponga atención en aprender la diferencia entre *dato* e *información*. Quizás, ahora puede distinguir la diferencia entre informática y computación.   
+
+    
   
   *Parte 2*: Haga un mapa conceptual para organizar los conceptos en una jerarquía, hasta lograr la mejor claridad posible y páselo en limpio con ayuda de la herramienta [CmapTools](https://cmap.ihmc.us/cmaptools/).
   
@@ -250,10 +243,12 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 ##### Bibliografía Complementaria:
 - Baruffa, O. (2022, Jan 13). [Big book of R](https://www.bigbookofr.com/). (Sitio web) (La compilación más grande de libros y fuentes documentales sobre R).
-- Butterfield, A., Ngondi, G. E. (2016). [*A dictionary of computer science (Oxford Quick Reference)*](https://libgen.rs/book/index.php?md5=2FD856C4E6BC92CFA8DEB03F1B621A73). Oxford University Press.	
-- IEEE (1987). [*IEEE standard glossary of computer applications terminology*](https://libgen.rs/book/index.php?md5=4F816603DBBF6AEB60B92FCCC59762A1). New York: Institute of 
+- 	Butterfield, A., Ngondi, G. E., & Kerr, A. (2016). [A dictionary of computer science (Oxford Quick Reference)](https://libgen.rs/book/index.php?md5=2FD856C4E6BC92CFA8DEB03F1B621A73). Oxford University Press.
+- 	Forouzan, B. A. (2003). [Introducción a la ciencia de la computación : De la manipulación de datos a la teoría de la computación](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D). México: International Thomson Editores.
+- 	Institute of Electrical & Electronics Engineers (IEEE). (1987). [Dictionary English informatics standard glossary of computer applications terminology](https://libgen.rs/book/index.php?md5=4F816603DBBF6AEB60B92FCCC59762A1). New York: Institute of 
 Electrical & Electronics Engineers (IEEE). 
-- Laplante, P. A. (2017). [*Dictionary of computer science, engineering and technology*](https://libgen.rs/book/index.php?md5=C2FEF4DC36C84134ABA1E5698E913F73).	Boca Raton, FL, USA: CRC Press. 
+- 	Khosrow-Pour, M. (2007). [Dictionary of information science and technology](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey, PA: Idea Group Reference.
+- 	Laplante, P. A. (2017). [Dictionary of computer science, engineering and technology](https://libgen.rs/book/index.php?md5=C2FEF4DC36C84134ABA1E5698E913F73). Boca Raton, FL, USA: Chapman and Hall; CRC.
 - Walum, H., & De Leon, D. (2022). Teacups, giraffes, & statistics (Tazas de té, jirafas y estadística). GitHub. [Módulos](https://tinystats.github.io/teacups-giraffes-and-statistics/) [Proyecto en RMarkdown](https://github.com/tinystats/teacups-giraffes-and-statistics) [Una deliciosa serie de módulos para aprender estadística y codificación en R para estudiantes, científicos y entusiastas de la estadística.]
 
 Videos:
