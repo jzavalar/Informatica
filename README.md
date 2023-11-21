@@ -195,34 +195,23 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
     
   *Parte 1*: Considere la siguiente lista de conceptos básicos de software: *bit*, *byte* y unidades derivadas (*Kilobyte* (*KB*), *Megabyte* (*MB*), *Gibabyte* (*GB*), *Terabyte* (*TB*), etc.), *dato*, *tipos de datos*, *dato numérico*, *dato alfanumérico* (*caracter* o *texto*), *archivo*, *sistemas numéricos*  e *información*. Luego, investigue la definición formal de los conceptos en alguno de los diccionarios especializados listados en la Bibliografía Obligatoria, citada más abajo. Haga el trabajo en su cuaderno.
 
-  Cite correctamente. Si lo copia tal cual, eso es una _cita textual_ y debe acotarse con par de comillas; si no, es una paráfrasis. En ambos casos debe registrar la referencia. Si tiene dudas cómo citar, consulte [esta referencia](https://digitum.um.es/digitum/bitstream/10201/117544/4/C%C3%B3mo%20citar%20y%20elaborar%20la%20bibliograf%C3%ADa%20de%20un%20trabajo%20acad%C3%A9mico.pdf).
+  Nota: Cite correctamente. Si lo copia tal cual, eso es una _cita textual_ y debe acotarse con par de comillas; si no, es una paráfrasis. En ambos casos debe registrar la referencia. Si tiene dudas cómo citar, consulte [esta referencia](https://digitum.um.es/digitum/bitstream/10201/117544/4/C%C3%B3mo%20citar%20y%20elaborar%20la%20bibliograf%C3%ADa%20de%20un%20trabajo%20acad%C3%A9mico.pdf).
 
   *Parte 2*: Ahora, simplifique cada definición en una *frase corta*, con la mejor claridad posible para Usted. Para mayor claridad y entendimiento, acompañe la definición, mínimo con uno varios ejemplos para cada concepto. Ponga atención en aprender la diferencia entre *dato* e *información*. Quizás, ahora puede distinguir la diferencia entre informática y computación. Si no la entiende busque la respuesta en Internet o pregunte en el grupo. 
 
   **Entregable**: Haga un **guión** donde explique cada concepto de la lista de conceptos, según lo realizado en la Parte 2. Luego, realice un **video** tipo tutorial, donde exponga la lista de conceptos con sus ejemplos. Suba su video, al grupo de Telegram. NOTA: _El video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó._
-  
 
-- *Práctica 2.2. Sistemas de codificación*. (Entrega: 27 de noviembre de 2023).
-
-  *Objetivos*: Aprender los fundamentos de los sistemas de codificación de texto.
-    
-  *Parte 1*: Investigue los dos principales sistemas de codificación (ASCII, UTF-8 o Unicode) y haga una tabla comparativa en términos de ventajas y desventajas, métodos de conversión y aplicación de cada uno.
-  
-  *Parte 2*: Identifique el código para cada carácter de su nombre y primer apellido y encuentre una función para generarlos utilizando ese código en *LibreOffice portable*  ([guía 1](https://www.libreofficehelp.com/how-to-type-unicode-characters-in-libreoffice/)) y pruebe el siguiente [convertidor Unicode online](https://r12a.github.io/app-conversion/)).
-  
-  *Parte 3*: Traduzca su nombre a tres tipos de caractares: Cirílico, Chino y Japonés e identyifique el código para cada símbolo y genere su nombre utilizando ese código en LibreOffice.
-  
-  *Parte 4*: Elija 10 emojis de su preferencia e identyifique el código para símbolo y genérelos utilizando ese código en LibreOffice.
-  
-  *Parte 5*: Documente en un video de hasta 10 minutos sus conclusiones y su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
-
-- *Práctica 2.3. Pseudocódigo*. (Entrega: 4 de septiembre de 2023).
+- *Práctica 2.2. Pseudocódigo*. (Entrega: 4 de septiembre de 2023).
 
   *Objetivo*: Comprender y poner en práctica los conceptos de algoritmo, pseudocódigo y diagrama de flujo.
     
-  *Parte 1*: Instale la aplicación [PseInt](http://pseint.sourceforge.net/) en su equipo o utilice [PSeInt Portable](https://sourceforge.net/projects/pseint/files/20210609/pseint-w32-20210609.zip/download?use_mirror=gigenet&download=).
+  *Parte 1*: Instale la aplicación [PseInt](http://pseint.sourceforge.net/) en su equipo o utilice [PSeInt Portable](https://sourceforge.net/projects/pseint/files/20210609/pseint-w32-20210609.zip/download?use_mirror=gigenet&download=) en una USB, para que la pueda usar en el salón.
   
-  *Parte 2:* Estudie, a discreción, el [curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw) y la [guía de PSeInt con ejemplos](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/) y pruebe algunos ejemplos. Si lo prefiere, estudie el [sistema de información para la operación de un estacionamiento](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f) en PSeInt. Descargue el archivo con el código fuente del pseudocódigo, disponible en la descripción de cada uno de ellos y observe el crecimiento progresivo de la aplicación.
+  *Parte 2:* Estudie el pseudocódigo como lenguaje de programación en [mis apuntes], el [curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw) en video, esta [guía de PSeInt, con ejemplos](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/) o, si lo prefiere, en el [sistema de información para la operación de un estacionamiento](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f) en PSeInt.
+
+  Considere que aprender a programar es básico para operar mejor cualquier aplicación como cualquier hoja de cálculo, editor de texto o manejador de bases de datos; sin embargo, aprender lo básico, requiere practicar. Sin práctica, no hay aprendizaje.
+  
+  Descargue el archivo con el código fuente del pseudocódigo, disponible en la descripción de cada uno de ellos y observe el crecimiento progresivo de la aplicación.
    
   Distinga entre el proceso principal y los subprocesos. Para cada subproceso identifique los parámetros o datos de entrada, el pase valores (por valor y por referencia) y el valor de regreso.
   
@@ -260,11 +249,14 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 
 ##### Bibliografía Obligatoriaria:
-- Khosrow-Pour, M. (2007). [*Dictionary of information science and technology*](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey PA, USA: Idea Group.
-- Martín, C., Rubio, M. A., Urquía, A. (2011). [*Lenguajes de programación*](https://libgen.rs/book/index.php?md5=006E57DF6867BBF1B3BAE332475E72AD). Madrid: Universidad Nacional de Educación a Distancia (UNED).
-
+- [curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw)
+- [guía de PSeInt con ejemplos](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/)
+- [sistema de información para la operación de un estacionamiento](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f)
+- [esta referencia](https://digitum.um.es/digitum/bitstream/10201/117544/4/C%C3%B3mo%20citar%20y%20elaborar%20la%20bibliograf%C3%ADa%20de%20un%20trabajo%20acad%C3%A9mico.pdf)
 
 ##### Bibliografía Complementaria:
+- Khosrow-Pour, M. (2007). [*Dictionary of information science and technology*](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey PA, USA: Idea Group.
+- Martín, C., Rubio, M. A., Urquía, A. (2011). [*Lenguajes de programación*](https://libgen.rs/book/index.php?md5=006E57DF6867BBF1B3BAE332475E72AD). Madrid: Universidad Nacional de Educación a Distancia (UNED).
 - Baruffa, O. (2022, Jan 13). [Big book of R](https://www.bigbookofr.com/). (Sitio web) (La compilación más grande de libros y fuentes documentales sobre R).
 - 	Butterfield, A., Ngondi, G. E., & Kerr, A. (2016). [A dictionary of computer science (Oxford Quick Reference)](https://libgen.rs/book/index.php?md5=2FD856C4E6BC92CFA8DEB03F1B621A73). Oxford University Press.
 - 	Forouzan, B. A. (2003). [Introducción a la ciencia de la computación : De la manipulación de datos a la teoría de la computación](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D). México: International Thomson Editores.
