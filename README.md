@@ -88,7 +88,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
      
   *Entregable*: Haga un **guión en su cuaderno** usando la totalidad de las preguntas guía de la Parte 1. Después, haga un **video mensaje** tipo tutorial donde exponga los resultados de su investigación. El guión y el video mensaje debe enviarlos al grupo de Telegram.
 
-  Cada video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española. La transcripción debe corregirse, aplicando las reglas gramaticales, respectivas. Debe usarse un editor de textos con el control de cambios activado, para que se muestren las correcciones. Ese archivo debe enviarse también al grupo, para que el profesor lo revise y pueda retroalimentar al alumno.
+  NOTA: _El video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española. La transcripción debe corregirse aplicando las reglas gramaticales respectivas. Debe usarse un editor de textos con el control de cambios activado para que se muestren las correcciones. Ese archivo debe enviarse también al grupo, para que el profesor lo revise y pueda retroalimentar al alumno._
        
 - *Práctica 1.2. Mi computadora*. (Entrega: 22 de noviembre de 2023).
      
@@ -96,13 +96,13 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   *Parte 1*. Haga un esfuerzo por conocer su computadora. Tome notas sobre las partes y funciones de una compudatora en la siguiente lista de videos: [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). Luego, identifique las partes de la computadora que tiene en casa, ya sea computadora de escritorio o laptop y de su teléfono celular. Con la marca y modelo, localice los manuales de usuario y de servicio en formato PDF. Busque, en YouTube, algunos videos sobre el cambio de disco duro, memoria u otros componentes de su computadora, para que aterrice la teoría. Vaya al Panel de Control de Windows e identifique la lista de dispositivos de hardware. Vaya al sitio web del fabricante y localice los *controladores* o *drivers* disponibles para el modelo de su computadora, mismos que requerirá en caso de requerir instalar su sistema operativo Windows. 
 
-  **Entregable 1**: Haga un **guión** y luego realice un **video**, tipo tutorial, donde exponga, de manera didáctica y con claridad, las características de la computadora que tiene en casa. Suba su video al grupo de Telegram.
+  **Entregable 1**: Haga un **guión** y luego realice un **video**, tipo tutorial, donde exponga, de manera didáctica y con claridad, las características de la computadora que tiene en casa. Suba su video al grupo de Telegram. _El video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó._
   
   *Parte 2*. Identifique las necesidades de recursos de cómputo que requiera, según sus necesidades, de acuerdo a los siguientes puntos: (1) hardware (tipo de equipo, almacenamiento (interno y externo (respaldo)), gráficos, impresión, digitalización, sonido y otros), (2) software (sistema operativo y aplicaciones) y (3) movilidad.
 
   Imagine que el jefe en su trabajo le pide a Usted que elabore una **propuesta de mejora** de su equipo atendiendo a las partes factibles de cambiar y un par de **propuestas de reemplazo** de su equipo por dos opciones: _equipo de segunda mano_ y _equipo nuevo_. Cotice ambas propuestas buscando las partes posibles de reemplazo y los equipos en [Mercado Libre](https://www.mercadolibre.com.mx/). Utilice los argumentos técnicos y económicos que considere convenientes para que su jefe le autorice algunma de las propuestas.
   
-  **Entregable 2**: Haga un **guión** y luego realice un **video**, tipo tutorial, donde exponga, cómo realizó el informe y cuáles son sus argumentos y conlusiones, sobre las tres propuestas elaboradas. Suba sus tres propuestas y su video, al grupo de Telegram. 
+  **Entregable 2**: Haga un **guión** y luego realice un **video**, tipo tutorial, donde exponga, cómo realizó el informe y cuáles son sus argumentos y conlusiones, sobre las tres propuestas elaboradas. Suba sus tres propuestas y su video, al grupo de Telegram. _El video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó._
   
 
 ##### Bibliografía Obligatoria:
@@ -118,10 +118,11 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 #### Unidad 2. Software   
 1. Ontología del software  
-    a. Elementos básicos: Datos e instrucciones (programas)  
-    b. Los símbolos de la computadora: Bit y byte (y unidades derivadas)  
-    c. Información = datos + contexto  
-    d. Del procesamientos de datos al procesamiento de información  
+   a. Elementos básicos: Datos e instrucciones (programas)  
+   b. Los símbolos de la computadora: Bit y byte (y unidades derivadas)  
+   c. Información = datos + contexto  
+   d. Del procesamientos de datos al procesamiento de información  
+
 2. Datos
    a. Sistemas numéricos:  
       - Decimal  
@@ -132,54 +133,76 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
    b. Tipos de datos:  
       - Númericos: Enteros (*integer*) y reales (*float point*)  
       - Alfanuméricos  
-      - Lógicos  
-      - Estructuras de datos: arreglos, matrices, listas, tablas.  
+      - Lógicos
+      - Nulo 
 
-   c. Archivos y tipos de archivos:  
-      - Codificación de texto: ASCII y Unicode (UTF-8, UTF-16 y UTF-32).  
-      - Codificación binaria: Audio, imagen, video y otros.  
-3. Instrucciones  
+   c. Estructuras de datos:
+      - Arreglos
+      - Matrices
+      - Listas
+      - Tablas o dataframes  
 
-   a. Conceptos clave de programación: Programar, programa almacenado, código (fuente, binario, objeto y executable)  
+   d. Archivos y tipos de archivos:  
+      - Codificación de texto: ASCII y Unicode (UTF-8, UTF-16 y UTF-32)  
+      - Codificación binaria: Audio, imagen, video y otros.
+      - Conversión entre archivos  
+
+4. Instrucciones  
+
+   a. Conceptos clave de programación:
+      - Programar, programa, código (fuente, binario, objeto y executable)  
 
    b. Lenguajes de programación:  
       - *Sintaxis* o *gramática*: Palabras clave o reservadas (*keywords*), símbolos, identificadores y sentencias.  
       - *Semántica* o *significado*:  
-        - *Entrada*: Operaciones de lectura        
-        - *Salida*: Operaciones de impresión en pantalla y archivos  
+        - *Entrada*: Operaciones de lectura, lectura de archivos        
+        - *Salida*: Operaciones de impresión en pantalla, almacenamiento en archivos  
         - *Almacenamiento* en memoria y archivos: Operaciones de asignación  
         - *Procesamiento*: Operaciones de comparación y decisión, ciclos.  
 
    c. Programación:  
-      - *Conceptos*: Variables, constantes, tipos y estructuras de datos, acumuladores, operadores (aritméticos, de comparación y lógicos), control condicional e iterativo, rutina, subrutina, funciones, pase de variables por valor o referencia.  
+      - *Conceptos*:
+        - Variables
+        - Constantes
+        - Tipos y estructuras de datos
+        - Acumuladores
+        - Operadores:
+          - Aritméticos
+          - De comparación
+          - Lógicos
+        - Control:
+          - Condicional
+          - Iterativo
+        - Rutina y subrutina
+        - Función:
+          - Pase de variables por valor o referencia.  
       - Pseudocódigo  
       - Diagramas de flujo  
-      - Herramientas de programación: Editor, parser, ensamblador, intérprete, compilador, debugger (eliminador de errores), entorno de desarrollo integrado (IDE).  
+      - Herramientas de programación:
+        - Editor, parser, ensamblador, intérprete, compilador, debugger (eliminador de errores)
+        - Entorno de desarrollo integrado (IDE)  
       
    d. Algoritmos:  
       - Conceptos clave: Algoritmo, problema, entrada, salida, proceso.  
       - Técnicas: Recursión y divide y vencerás  
       - Ejemplos: Cálculo, decisión y ordenación.  
 
-4. Tareas y Prácticas  
+6. Tareas y Prácticas  
 
-- *Tarea 2.1. Conceptos básicos de software*. (Entrega: 28 de agosto de 2023).  
+- *Tarea 2.1. Conceptos básicos de software*. (Entrega: 27 de noviembre de 2023).  
 
   *Objetivos*: Aprender los conceptos básicos de software.
     
-  *Parte 1*: Considere la siguiente lista de conceptos básicos de software: *bit*, *byte* y unidades derivadas (*Kilobyte* (*KB*), *Megabyte* (*MB*), *Gibabyte* (*GB*), *Terabyte* (*TB*), etc.), *dato*, *tipos de datos*, *dato numérico*, *dato alfanumérico* (*caracter* o *texto*), *archivo*, *sistemas numéricos*  e *información*.
+  *Parte 1*: Considere la siguiente lista de conceptos básicos de software: *bit*, *byte* y unidades derivadas (*Kilobyte* (*KB*), *Megabyte* (*MB*), *Gibabyte* (*GB*), *Terabyte* (*TB*), etc.), *dato*, *tipos de datos*, *dato numérico*, *dato alfanumérico* (*caracter* o *texto*), *archivo*, *sistemas numéricos*  e *información*. Luego, investigue la definición formal de los conceptos en alguno de los diccionarios especializados listados en la Bibliografía Obligatoria, citada más abajo. Haga el trabajo en su cuaderno.
 
-  Luego, investigue la definición formal de los conceptos en alguno de los diccionarios especializados listados en la Bibliografía Obligatoria, citada más abajo. Haga su trabajo en su cuaderno. Cite correctamente: si lo copia tal cual, eso es una cita textual y debe acotarse con par de comillas. Si tiene dudas, consulte [esta referencia](). Después, simplifique cada definición en una *frase corta*, con la mejor claridad posible para Usted. Para mayor claridad y entendimiento, acompañe la definición, mínimo con uno varios ejemplos para cada concepto. Ponga atención en aprender la diferencia entre *dato* e *información*. Quizás, ahora puede distinguir la diferencia entre informática y computación.   
+  Cite correctamente. Si lo copia tal cual, eso es una _cita textual_ y debe acotarse con par de comillas; si no, es una paráfrasis. En ambos casos debe registrar la referencia. Si tiene dudas cómo citar, consulte [esta referencia](https://digitum.um.es/digitum/bitstream/10201/117544/4/C%C3%B3mo%20citar%20y%20elaborar%20la%20bibliograf%C3%ADa%20de%20un%20trabajo%20acad%C3%A9mico.pdf).
 
-    
+  *Parte 2*: Ahora, simplifique cada definición en una *frase corta*, con la mejor claridad posible para Usted. Para mayor claridad y entendimiento, acompañe la definición, mínimo con uno varios ejemplos para cada concepto. Ponga atención en aprender la diferencia entre *dato* e *información*. Quizás, ahora puede distinguir la diferencia entre informática y computación. Si no la entiende busque la respuesta en Internet o pregunte en el grupo. 
+
+  **Entregable**: Haga un **guión** donde explique cada concepto de la lista de conceptos, según lo realizado en la Parte 2. Luego, realice un **video** tipo tutorial, donde exponga la lista de conceptos con sus ejemplos. Suba su video, al grupo de Telegram. NOTA: _El video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó._
   
-  *Parte 2*: Haga un mapa conceptual para organizar los conceptos en una jerarquía, hasta lograr la mejor claridad posible y páselo en limpio con ayuda de la herramienta [CmapTools](https://cmap.ihmc.us/cmaptools/).
-  
-  *Parte 3*: Tome una foto del mapa conceptual de su cuaderno e imprima el mapa conceptual elaborado con CMapTools en formato PDF y como imagen en formato PNG.
-    
-  Suba los archivos a su cuenta de Google Drive donde corresponda.
 
-- *Práctica 2.2. Sistemas de codificación*. (Entrega: 30 de agosto de 2023).
+- *Práctica 2.2. Sistemas de codificación*. (Entrega: 27 de noviembre de 2023).
 
   *Objetivos*: Aprender los fundamentos de los sistemas de codificación de texto.
     
