@@ -122,7 +122,27 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 3. Funciones principales
 4. Tareas y prácticas:
    
-- *Tarea 3.1. Licenciamiento de software*. (Entrega: ).
+- *Práctica 2.1. Particiones y sistemas de archivos*. (Entrega: 27 de noviembre de 2023).
+
+  *Objetivo*: Aprender a preparar de dispositivos de almacenamiento para una computadora.
+
+  *Parte 1*. Investigue los conceptos involucrados: _partición_ (física y lógica, primaria, partición de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), _GPT_ y _MBR_ ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)), formatear un dispositivo de almacenamiento ([guía](https://www.youtube.com/watch?v=YshcHw9aIno)), _sistema de archivos_ ([guía](https://www.youtube.com/watch?v=ukzkZA73fkg)), archivo ([guía](https://www.youtube.com/watch?v=Ub7guhuy7_A)), _tipos de archivo_ (binario, texto, programa) ([guía](https://www.youtube.com/watch?v=LbopJOLgo5g)), cómo se guarda un archivo ([guía](https://www.youtube.com/watch?v=ProWo1W-4C0)) y las operaciones de manejo de archivos ([guía](https://www.youtube.com/watch?v=f2dmh_VkNgw)). Escriba en su cuaderno la investigación.
+
+  Aterrice los conceptos investigando _qué unidades de almacenamiento_ tiene en su computadora y qué _sistema de particiones_ tiene y cuántas particiones. Luego, investigue qué _sistema de archivos_ tiene en cada partición de su computadora. Después, use un _navegador de archivos_ y busque los _tipos de archivos_ que tiene en los directorios (carpetas): `Documentos`, `Descargas`, `Musica`, `Videos` y en la ruta `C:\Windows\System32`. Registre en su cuaderno la investigación.
+
+  **Entregable 1**: Grabe, en un video, la pantalla de su equipo con las operaciones que va realizando y explique lo que está realizando, a modo de tutorial. Luego, súbalo al grupo de Telegram, junto con las fotografías de su cuaderno. Haga la práctica de dominio de la lengua española, tal como se ha indicado anteriormente.
+
+  *Parte 2*. Use una **USB sin datos** y practique los procesos de manejo de particiones (crear, agrandar y reducir de tamaño y eliminar particiones usando _Disk Management_ ([guía](https://www.youtube.com/watch?v=gXvyWWi7lh8)). Pruebe con los siguientes sistemas de archivos: FAT, exFAT, FAT32 y NTFS. La última operación que debe realizar es copiar un par de archivos a la partición NTFS y después debe borrarla. Saque sus conclusiones.
+
+  **Advertencia:** Siempre debe tener **cuidado de instalar Ventoy en la USB**. Por ello, **previamente, siempre debe respaldar los archivos de la USB.**
+
+  **Entregable 2**: Grabe, en un video, la pantalla de su equipo con las operaciones que va realizando y explique lo que está realizando, a modo de tutorial. Luego, súbalo al grupo de Telegram, junto con las fotografías de su cuaderno. Haga la práctica de dominio de la lengua española, tal como se ha indicado anteriormente.
+
+  *Parte 3*. Ponga a prueba sus conocimientos. *Recupere la partición NTFS y los archivos* eliminados en la Parte 2. Use *[TestDisk](https://www.cgsecurity.org/wiki/TestDisk_ES)*. Vea el ([tutorial en video](https://www.youtube.com/watch?v=w_JqR-9qcX8) o revise el [tutorial escrito](https://geekland.eu/recuperar-particiones-borradas-o-eliminadas-con-testdisk/)). 
+  
+  **Entregable 3**: Grabe, en un video, la pantalla de su equipo con las operaciones que va realizando y explique lo que está realizando, a modo de tutorial. Luego, súbalo al grupo de Telegram, junto con las fotografías de su cuaderno. Haga la práctica de dominio de la lengua española, tal como se ha indicado anteriormente.
+
+- *Tarea 3.2. Licenciamiento de software*. (Entrega: 29 de noviembre de 2023).
 
   *Objetivo*: Comprender los conceptos básicos de licenciamiento de software.
 
@@ -141,53 +161,37 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   *Parte 2*: Ahora, simplifique cada definición en una *frase corta*, con la mejor claridad posible para Usted. Para mayor claridad y entendimiento, acompañe la definición, mínimo con uno varios ejemplos para cada concepto. Ponga atención en aprender la diferencia entre los *tipos de licenciamiento de software*. Reflexione sobre el software libre y abierto (FLOSS) como ideología y como negocio y sobre las principales aportaciones de tres personajes: [Bill Gates](https://es.wikipedia.org/wiki/Bill_Gates), [Richard M. Stallman](https://es.wikipedia.org/wiki/Richard_Stallman), [Linus Torvalds](https://es.wikipedia.org/wiki/Linus_Torvalds) y [Eric S. Raymond](https://es.wikipedia.org/wiki/Eric_S._Raymond). Si hay algo que no entienda busque la respuesta en Internet o pregunte en el grupo. 
 
-  **Entregable**: Haga un **guión** donde explique cada concepto de la lista de conceptos, según lo realizado en la Parte 2. Luego, realice un **video** tipo tutorial, donde exponga la lista de conceptos con sus ejemplos. Suba su video, al grupo de Telegram. NOTA: _El video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó._
+  **Entregable**: Haga un **guión** donde explique cada concepto de la lista de conceptos, según lo realizado en la Parte 2. Luego, realice un **video** tipo tutorial, donde exponga la lista de conceptos con sus ejemplos. Suba su video, al grupo de Telegram. El video debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó.
 
-- *Proyecto 2.2. Instalación de un sistema operativo*. (Demostrativa).
+- *Proyecto 2.3. Instalación de sistemas operativos*. (Entrega: _Partes 1 a 3:_ 29 de noviembre de 2023; : 29 de noviembre de 2023).).
 
-  *Objetivo*: Aprender a instalar sistemas operativos desde un medio extraíble.
+  *Objetivo*: Aprender a usar sistemas operativos desde una Live USB y en máquinas virtuales.
 
-  *Parte 1*. Investigue qué es un sistema operativo, los tipos de sistemas operativos y compárelos en términos de ventajas, desventajas, seguridad, usabilidad y robustez. Considere como ejemplo tres sistemas operativos: Windows, Linux, MacOS y Android. Escríbalo en su cuaderno. Nuevamente, no olvide crear y registrar las citas y sus referencias. Considere la siguiente bibliografía:
+  *Parte 1. Conceptos*. Investigue qué es un _sistema operativo_, los _tipos de sistemas operativos_ y compárelos en términos de ventajas, desventajas, seguridad, usabilidad y robustez. Considere como ejemplo cuatro sistemas operativos: _Windows_, _Linux_, _MacOS_ y _Android_. Escríbalo en su cuaderno. Nuevamente, no olvide crear y registrar las citas y sus referencias. Considere la siguiente bibliografía:
   - UNAM Sepacomputo canal. (2016, Feb 23). [Sistemas operativos](https://www.youtube.com/playlist?list=PLH9AYXxUslqocwqqiCz0oQY_oZJH-bF_p). _YouTube_. [3 videos] (4:11, 5:52 y 4:46 min).
   
-  *Parte 2*. Crear la Live USB. Para esta práctica requerirá una **USB sin datos**, de por lo menos 8 GiB. Investigue qué es una [Live USB](https://es.wikipedia.org/wiki/Live_USB), [*imagen ISO*](https://es.wikipedia.org/wiki/Imagen_ISO) y cómo se usa para instalar un sistema operativo desde la USB. 
+  **Entregable 1**: Haga un video tipo tutorial donde explique (no lea) los conceptos lo que investigó de esta parte de la práctica. Súbalo al grupo de Telegram y haga la práctica de dominio del idioma español, tal como se ha indicado con anterioridad.
+  
+  *Parte 2. Crear la _Live USB_*. Para esta práctica requerirá una **USB sin datos**, de por lo menos 8 GiB. Investigue qué es una [*Live USB*](https://es.wikipedia.org/wiki/Live_USB), [*imagen ISO*](https://es.wikipedia.org/wiki/Imagen_ISO) y cómo se usa para instalar un sistema operativo desde la USB. 
 
   Una Live USB permite arrancar o ejecutar un sistema operativo en vivo, desde la USB, sin tocar el sistema operativo de su computadora. Para preparar de manera apropiada la Live USB, se requieren dos cosas: (1) una aplicación para configurar la USB para que arranque y (2) la imagen ISO del sistema operativo que va a arrancar desde la USB. Una aplicación que puede usar es [**Ventoy**](https://www.ventoy.net/en/download.html)), misma que debe instalar al ejecutar el archivo `Ventoy2Disk.exe`. Si tiene dudas, revise el ([tutorial en video](https://www.youtube.com/watch?v=AZA42A4QmDs)) o la guía de instalación [aquí](https://github.com/ventoy/). Como Ventoy es un multiboot o [multiarranque](https://es.wikipedia.org/wiki/Multiarranque), una vez preparada la USB, sólo debe copiar el o los archivos ISO a la raíz de la USB y listo!
 
   La imagen ISO de un sistema operativo, en general se puede obtener a través de una [red P2P](https://es.wikipedia.org/wiki/Peer-to-peer) como [BitTorrent](https://es.wikipedia.org/wiki/BitTorrent) o directamente del proveedor del sistema operativo. En el primer caso, _previamente_ se debe instalar una aplicación como [qBitTorrent](https://www.qbittorrent.org/download) para descargar el _torrent de la imagen ISO_. Los torrents se encuentran en sitios como [The Pirate Bay](https://thepiratebay.org/). Por ejemplo, si se quiere obtener una imagen ISO sel sistema operativo **Windows 7**, debe buscarla usando la frase "Windows 7 Ultimate Spanish". En la lista de torrents, identifique la entrada que tiene más semillas (_seeds_) y descárguela con su aplicación. Vea el siguiente [tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)) para que vea cómo se hace. Una vez elegido, en unos minutos tendrá la imagen ISO. En el segundo caso, hay que ir al sitio web del proveedor y decargar el archivo ISO del sistema operativo que se va a instalar; por ejemplo, si requiere **Linux Fedora Workstation** vaya al sitio de descarga [https://getfedora.org/es/](https://getfedora.org/es/). Vea la ([guía](https://www.youtube.com/watch?v=gbqv0AkqsXw)), si es necesario.
-    
-  *Parte 3*. Arrancar el sistema operativo desde la Live USB.
-   de Windows, descargue el [archivo](https://github.com/ventoy/vhdiso/releases/download/v3.0/ventoy_vhdboot.zip) que debe ponerlo en la raíz de la USB.
 
-  **Advertencia:** Siempre debe tener **cuidado de instalar Ventoy en la USB**. Por ello, **previamente, siempre debe respaldar los archivos de la USB.** Después de preparar la USB, ya puede utilizarla para grabar otros archivos en ella.
-   
-  *Parte 3*. Investigue los conceptos involucrados: bootear un equipo ([guía](https://www.youtube.com/watch?v=O2S7YyKb5LI)), BIOS ([guía](https://www.youtube.com/watch?v=HD9qXyvIzOc)), UEFI ([guía](https://www.youtube.com/watch?v=X3Cx6wm6PtY)), partición (física y lógica, de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), GPT y MBR ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)).
+  **Entregable 2**: Haga un video tipo tutorial donde muestre que realizó la práctica (no sólo lea) de esta parte del proyecto. Súbalo al grupo de Telegram y haga la práctica de dominio del idioma español, tal como se ha indicado con anterioridad.
+    
+  *Parte 3. Arranque del sistema operativo desde la Live USB*. Investigue los conceptos involucrados: _bootear_ o _arrancar_ un equipo ([guía](https://www.youtube.com/watch?v=O2S7YyKb5LI)), _BIOS_ ([guía](https://www.youtube.com/watch?v=HD9qXyvIzOc)), _UEFI_ ([guía](https://www.youtube.com/watch?v=X3Cx6wm6PtY)), _partición_ (física y lógica, de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), _GPT_ y _MBR_ ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)). Identifique qué sistema de arranque tiene en su computadora (BIOS o UEFI) y qué sistema de particiones tiene (GPT o MBR). Investigue cómo puede acceder a la configuración del BIOS de su computadora ([guía](https://www.linkedin.com/advice/0/how-do-you-access-bios-setup-different)) y configure la secuencia de booteo para que pueda arrancar su Live USB; por ejemplo, en una laptop [Lenovo ThinkPad](https://www.youtube.com/watch?v=Fa4QRW5i7kQ). 
   
-  Pruebe que puede *arrancar* (o *bootear*) live USB del sistema operativo desde la USB: 
+  Pruebe que puede *arrancar* (o *bootear*) la _Live USB_ los dos sistemas operativos que tiene en su USB: 
   - [Windows 7](https://thepiratebay.org/search.php?q=windows+7+untouched&apps=on&search=Pirate+Search&page=0&orderby=)
-  - [Fedora Workstation](https://getfedora.org/es/workstation/).
+  - [Fedora Workstation 39](https://getfedora.org/es/workstation/).
     
-  Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
-
-  *Parte 4*. Instale [VirtualBox](https://www.virtualbox.org/) en su sistema operativo Windows o el que tenga. Luego, instale el sistema operativo [Fedora Workstation](https://getfedora.org/es/workstation/) como una máquina virtual ([Video 1](https://www.youtube.com/watch?v=9-ZGT6T65VA)). Finalmente, instale el *VirtualBox Extension Pack.x*. Después, instale los dos sistemas operativos Windows 7 y Fedora Workstation 39. Investigue qué es la virtualización, una máquina virtual y cómo se instala un sistema operativo en una máquina virtual. 
-    
-  - *Práctica 3.4. Particiones y sistemas de archivos*. (Entrega: 18 de septiembre).
-
-  *Objetivo*: Comprender y practicar la preparación de dispositivos de almacenamiento en una computadora.
-
-  *Parte 1*. Investigue los conceptos involucrados: partición (física y lógica, primaria, partición de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), GPT y MBR ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)), formatear un dispositivo de almacenamiento ([guía](https://www.youtube.com/watch?v=YshcHw9aIno)), sistema de archivos ([guía](https://www.youtube.com/watch?v=ukzkZA73fkg)), archivo ([guía](https://www.youtube.com/watch?v=Ub7guhuy7_A)), tipos de archivo (binario, texto, programa) ([guía](https://www.youtube.com/watch?v=LbopJOLgo5g)), cómo se guarda un archivo ([guía](https://www.youtube.com/watch?v=ProWo1W-4C0)) y las operaciones de manejo de archivos ([guía](https://www.youtube.com/watch?v=f2dmh_VkNgw)).
-
-  *Parte 2*. Use una USB sin datos o nueva y practique los procesos de manejo de particiones (crear, cambiar de tamaño, fusionar y eliminar particiones en Windows con Disk Management ([guía](https://www.youtube.com/watch?v=gXvyWWi7lh8)), de los siguientes tipos: FAT, exFAT, FAT32, NTFS y EXT4. Saque sus conclusiones.
-
-  *Parte 3*. Repita las mismas operaciones de la Parte 3 de esta práctica usando la aplicación [GParted](https://gparted.org/download.php) Live CD/USB/HD/PXE Bootable Image copiando el archivo ISO en la USB con Ventoy y arrancando el ISO. Utilice este [tutorial](https://www.youtube.com/watch?v=-kYe3BYPurA). Compare Disk Management y gParted y saque sus conclusiones.
-
-  *Parte 4*. Practique la *recuperación de particiones eliminadas* con *[TestDisk](https://www.cgsecurity.org/wiki/TestDisk_ES)* ([tutorial en video](https://www.youtube.com/watch?v=w_JqR-9qcX8), [tutorial escrito](https://geekland.eu/recuperar-particiones-borradas-o-eliminadas-con-testdisk/)) en discos o dispositivos de almacenamiento formateados. También, practique la *recuperación de dispositivos* que no son reconocidos o que piden ser formateados, como una USB ([tutorial](https://www.youtube.com/watch?v=SV9-PdEg3nA)).
-
-  Aplicación: Con alguna de estas dos herramientas se puede preparar el disco duro de la computadora para instalar Linux como segundo sistema operativo o en dual boot, sin perder información, después de dejar un espacio libre de unos 20 a 50 GB, dependiendo del tamaño del disco disponible. Ver este [tutorial](https://www.youtube.com/watch?v=ycTh_x-hzro).
-
-  Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda. 
+  **Entregable 3**: Haga un video tipo tutorial donde muestre que realizó la práctica (no sólo lea) de esta parte del proyecto. Súbalo al grupo de Telegram y haga la práctica de dominio del idioma español, tal como se ha indicado con anterioridad.
   
+  *Parte 4. Virtualización*. Investigue qué es la _virtualización_, una _máquina virtual_ y cómo se instala un sistema operativo en una máquina virtual usando VirtualBox ([Video 1](https://www.youtube.com/watch?v=9-ZGT6T65VA)). Instale [VirtualBox]([https://www.virtualbox.org/](https://www.virtualbox.org/wiki/Downloads)) en su computadora. Luego, descargue el [*VirtualBox Extension Pack.x*](https://download.virtualbox.org/virtualbox/7.0.12/Oracle_VM_VirtualBox_Extension_Pack-7.0.12.vbox-extpack) e instálelo. Después, instale los dos sistemas operativos Windows 7 y Fedora Workstation 39 que tiene en su Live USB.
 
+  **Entregable 4**: Haga un video tipo tutorial donde muestre que realizó la práctica (no sólo lea) de esta parte del proyecto. Súbalo al grupo de Telegram y haga la práctica de dominio del idioma español, tal como se ha indicado con anterioridad.
+  
 ##### Bibliografía Complementaria:
 - Canal del Congreso México. (2011, Jun 16). [Foro Software Libre en México: Inauguración. Conferencia de Richard Stallman](https://www.youtube.com/watch?v=XrZ0RhpYaLA). _YouTube_. [video] (51:10 min).
 - Dr. Beco. (2022, Jun 7). [The Code | Story of(Linux).documentary](https://www.youtube.com/watch?v=O1rCOSnuBEs). *YouTube*. (video) (58:53 min).
@@ -196,9 +200,6 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - Sintes, B. (2017). [Catálogo de Software Libre](http://www.cdlibre.org/index.html). 
 - SourceForge (2022). [SourceForge](https://sourceforge.net/) (Catálogo de Software Libre y Abierto).
 - Wheeler, D. A. (2015). *[Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!](https://www.dwheeler.com/oss_fs_why.html)*. ([Versión al español](http://hispalinux.es/informes/wheeler/index.html) de 2001).
-
-
-
 
 
 #### Unidad 3. Software   
@@ -274,7 +275,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 6. Tareas y Prácticas  
 
-- *Tarea 2.1. Conceptos básicos de software*. (Entrega: 27 de noviembre de 2023).  
+- *Tarea 3.1. Conceptos básicos de software*. (Entrega:).  
 
   *Objetivos*: Aprender los conceptos básicos de software.
     
@@ -286,45 +287,36 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   **Entregable**: Haga un **guión** donde explique cada concepto de la lista de conceptos, según lo realizado en la Parte 2. Luego, realice un **video** tipo tutorial, donde exponga la lista de conceptos con sus ejemplos. Suba su video, al grupo de Telegram. NOTA: _El video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó._
 
-- *Práctica 2.2. Pseudocódigo*. (Entrega:  de 2023).
+- *Proyecto 3.2. Programación*. (Entrega:).
 
-  *Objetivo*: Comprender y poner en práctica los conceptos de algoritmo, pseudocódigo y diagrama de flujo.
+  *Objetivo*: Comprender y poner en práctica los conceptos de programación.
     
-  *Parte 1*: Instale la aplicación [PseInt](http://pseint.sourceforge.net/) en su equipo o utilice [PSeInt Portable](https://sourceforge.net/projects/pseint/files/20210609/pseint-w32-20210609.zip/download?use_mirror=gigenet&download=) en una USB, para que la pueda usar en el salón.
+  *Parte 1: PSeInt*. Instale la aplicación [PseInt](http://pseint.sourceforge.net/) en su equipo o utilice [PSeInt Portable](https://sourceforge.net/projects/pseint/files/20210609/pseint-w32-20210609.zip/download?use_mirror=gigenet&download=) en una USB, para que la pueda usar en el salón.
   
-  *Parte 2:* Estudie el pseudocódigo como lenguaje de programación en alguna de las siguientes fuentes:
+  *Parte 2: Pseudocódigo*. Estudie la gramática del pseudocódigo como lenguaje de programación en alguna de las siguientes fuentes:
   - Zavala, J. (2023). [Apuntes sobre Programación de Computadoras en Pseudocódigo](https://github.com/jzavalar/Informatica/blob/main/Programacion-en-pseudocodigo.md)
   - JhonvaCode. (2021, May 15). [Curso de PSeint: De cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw) [29 videos]. *YouTube*.
   - JhonvaCode (2021, May 15). [Sistema para un parqueadero \[estacionamiento\] en #PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). *YouTube*.
   - terepebernal. (2023). [Algoritmos en Pseudocódigo con PSeInt: Lo más básico](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/)
    
-  Considere que **aprender a programar** es básico para usar bien cualquier aplicación, tales como una hoja de cálculo, un editor de textos o un manejador de bases de datos, ya que *usar software es dar instrucciones a la computadora*. Sin embargo, aprender lo básico requiere practicar pues sin práctica no hay aprendizaje.
-  
-  Descargue el archivo con el código fuente del pseudocódigo, disponible en la descripción de cada uno de ellos y observe el crecimiento progresivo de la aplicación.
-   
-  Distinga entre el proceso principal y los subprocesos. Para cada subproceso identifique los parámetros o datos de entrada, el pase valores (por valor y por referencia) y el valor de regreso.
-  
-  Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
-  
-- *Práctica 2.4. Algoritmos*. (Entrega: 6 de septiembre de 2023).
+  Considere que **aprender a programar** es básico para usar bien cualquier aplicación, tales como una hoja de cálculo, un editor de textos o un manejador de bases de datos, ya que *usar software es dar instrucciones a la computadora*. Aprender programación requiere practicar pues, sin práctica, no hay aprendizaje. Así que ponga a prueba sus conocimientos.
 
-  *Objetivo*: Poner a prueba sus conocimientos sobre algoritmos y pseudocódigo.
+  Primero, descargue los apuntes de [Rodríguez (s.f.)](https://docs.google.com/document/d/1Uc9Cfld53Guia5ErtmGCnByUttV_3Jc-/edit?usp=sharing&ouid=108201401516590627031&rtpof=true&sd=true). Configure PseInt con el perfil "UNAM FCA".
+
+  Segundo, identifique su número de lista y realice en PSeInt, los ejercicios que le toquen de la siguiente relación:
     
-  Primero, modifique y corrija el pseudocódigo propuesto por [Rodríguez (s.f.)](https://docs.google.com/document/d/1Uc9Cfld53Guia5ErtmGCnByUttV_3Jc-/edit?usp=sharing&ouid=108201401516590627031&rtpof=true&sd=true), de acuerdo a las reglas de PseInt configuradas en el perfil "UNAM FCA" y de acuerdo a la estructura del algoritmo aprendida en la clase, en la lista de ejercicios, según su número de lista de grupo.
-  
-  *Número de Lista*:(Ejercicios): **1**:(35,19), **2**:(46,36), **3**:(33,47), **4**:(46,44), **5**:(37,36), **6**:(43,22), **7**:(47,15), **8**:(39,45), **9**:(23,39), **10**:(20,18), **11**:(13,31), **12**:(13,24), **13**:(13,27), **14**:(20,14), **15**:(31,27), **16**:(30,39), **17**:(30,34), **18**:(12,22), **19**:(10,29), **20**:(36,25), **21**:(11,38), **22**:(23,33), **23**:(41,36), **24**:(10,45), **25**:(12,36).
+  **Entregable**: **POR DEFINIR** *Número de Lista*:(Ejercicios): **1**:(35,19), **2**:(46,36), **3**:(33,47), **4**:(46,44), **5**:(37,36), **6**:(43,22), **7**:(47,15), **8**:(39,45), **9**:(23,39), **10**:(20,18), **11**:(13,31), **12**:(13,24), **13**:(13,27), **14**:(20,14), **15**:(31,27), **16**:(30,39), **17**:(30,34), **18**:(12,22), **19**:(10,29), **20**:(36,25), **21**:(11,38), **22**:(23,33), **23**:(41,36), **24**:(10,45), **25**:(12,36).
      
-  Cada ejercicio debe crearse en un archivo con el nombre del número de algoritmo y el título del algorimo. Por ejemplo, para el primer algoritmo llamado "Promedio", le correpondería el nombre de *01. Promedio.psc*. 
+  Cada ejercicio debe crearse en un archivo con el nombre del número de algoritmo y el título del algorimo. Por ejemplo, para el primer algoritmo llamado "Promedio", le correpondería el nombre de *01. Promedio.psc*. Cuando sea necesario, corrija el algoritmo para que los cálculos se realizcen de manera correcta y genere la salida respectiva. Incluya las modificaciones para que el algoritmo se ejecute de manera iterativa y termine de manera elegante. Incluya los comentarios respectivos en cada parte y los datos para identificarlo a usted como autor de las modificaciones y al autor, con la referencia bibliográfica original. Por último, pruebe que los algoritmos son correctos.
      
-  Cuando sea necesario, corrija el algoritmo para que los cálculos se realizcen de manera correcta y genere la salida respectiva. Incluya las modificaciones para que el algoritmo se ejecute de manera iterativa y termine de manera elegante. Incluya los comentarios respectivos en cada parte y los datos para identificarlo a usted como autor de las modificaciones y al autor, con la referencia bibliográfica original. Por último, pruebe que los algoritmos son correctos.
-     
-  Guarde el pseudocódigo del algoritmo (en formato *psc*) y el diagrama de flujo (como imagen) y suba sus archivos a su cuenta de Google Drive en el diretorio respectivo de la tarea y comparta el link con el profesor.
+  Guarde el pseudocódigo del algoritmo (en formato *psc*) y el diagrama de flujo (como imagen) y suba sus archivos al grupo de Telegram.
 
-- *Práctica 2.5. De pseudocódigo a R*. (Entrega: por definir; medio punto adicional). 
-
-  *Objetivo*: Aprender a utilizar el ambiente básico de programación RStudio para R.
+  **Entregable**: Haga un **video** tipo tutorial, uno por cada ejercicio que le tocó, donde enseñe cómo realizarlo. Suba, al grupo de Telegram, primero su video y luego el archivo generado, cada vez que termine un ejercicio. Continue con el siguiente. El _primer video_ debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó.
   
-  *Parte 1*: En equipo, active su cuenta para usar [RStudio en la nube](https://posit.cloud). Cree un proyecto llamado *Informatica*. Aprenda lo básico de la ejecución de código R en un [*script*](https://www.youtube.com/watch?v=ejQ0BS2gVJI). Luego, instale por lo menos dos entornos gráficos para R, adicionales a RStudio, de esta [lista](https://aplicacionestop.com/10-mejores-interfaces-graficas-usuario-programacion-gratuita-r/). 
+  *Parte 3: De pseudocódigo a R*. Cree su cuenta en [RStudio en la nube](https://posit.cloud). Cree un proyecto llamado *Informatica*. Aprenda lo básico de la ejecución de código R en un [*script*](https://www.youtube.com/watch?v=ejQ0BS2gVJI). Una vez que los ejercicios que le tocaron funcionan bien el PSeInt, convierta el código PSeInt a R, línea por línea, en un script en R y guárdelo con el mismo nombre del número del algoritmo, por ejemplo, *Algoritmo_10_.R*). .
+
+    
+  Luego, instale por lo menos dos entornos gráficos para R, adicionales a RStudio, de esta [lista](https://aplicacionestop.com/10-mejores-interfaces-graficas-usuario-programacion-gratuita-r/). 
   
   *Parte 2*: Abra el proyecto creado en la *Parte 1*. Instale el módulo rio. Suba el [script para la importación, exportación y conversión de archivos](https://drive.google.com/file/d/15W7CjN2TmjFo5OSXbbftaWCwm8DagNWo/view?usp=sharing). Adapte y ejecute el script para que funcione correctamente. 
 
