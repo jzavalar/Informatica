@@ -1,6 +1,6 @@
 <img src="https://github.com/jzavalar/2211088-informatica/blob/main/images/conjunto-baseIzt.png" alt="UAM Iztapalapa" width="60%"/>
 
-## Apuntes sobre Programación de Computadoras en Pseudocódigo
+## Programación de Computadoras con Pseudocódigo PSeInt
 
 **Profesor:** dr. Jesús Zavala Ruiz
 
@@ -23,16 +23,14 @@ Los *verdaderos lenguajes de programación* o simplemente lenguajes de programac
 
 ### 2. Algoritmo en pseudocódigo
 
-El código fuente se escribe con las instrucciones del *algoritmo* según las reglas estrictas de la *sintaxis* del lenguaje, en cualquier editor de texto o en un entorno de desarrollo integrado (EDI), creando un *programa* y un archivo fuente.
+El _código fuente_ se escribe con las instrucciones del *algoritmo* según las reglas estrictas de la *sintaxis* del lenguaje, en cualquier editor de texto o en un entorno de desarrollo integrado (EDI), creando un *programa* y un _archivo fuente_.
 
-El *pseudocódigo* es un lenguaje intermedio entre el lenguaje natural y un verdadero lenguaje de programación como R o Python, que es utilizado para dar instrucciones a una computadora con fines didácticos. Cuando el pseudocódigo se implanta en un intérprete como [*PseInt*](https://pseint.sourceforge.net/)[^3], puede verse en acción la ejecución de cada instrucción, como si fuera un verdadero *lenguaje de programación*.
-
-PSeInt es la contracción de "*PSe*udocode *Int*erpreter" (Intérprete de Pseudocódigo). Inicialmente, PSeInt fue el resultado de un proyecto final para la materia Programación I, de la carrera de Ingeniería en Informática, de la Facultad de Ingeniería y Ciencias Hídricas de la Universidad Nacional del Litoral (FICH-UNL), Argentina, por el Ing. Pablo Novara, entonces estudiante, en diciembre de 2003[^4]. El PSeInt tomó como base el pseudocódigo usado por sus profesores, el Ing. Horacio Loyarte y el Dr. Diego Milone (idem). Las premisas del pseudocódigo PSeInt son:
+El *pseudocódigo* es un lenguaje intermedio entre el lenguaje natural y un verdadero lenguaje de programación como R o Python, que es utilizado para dar instrucciones a una computadora con fines didácticos. Cuando el pseudocódigo se implanta en un intérprete como [*PseInt*](https://pseint.sourceforge.net/)[^3], puede verse en acción la ejecución de cada instrucción, como si fuera un verdadero *lenguaje de programación*. _PSeInt_ es la contracción de "*PSe*udocode *Int*erpreter" (Intérprete de Pseudocódigo). Inicialmente, _PSeInt_ fue el resultado de un proyecto final para la materia Programación I, de la carrera de Ingeniería en Informática, de la Facultad de Ingeniería y Ciencias Hídricas de la Universidad Nacional del Litoral (FICH-UNL) en Argentina. PSeInt fue desarrollado por el Ing. Pablo Novara, entonces estudiante, en diciembre de 2003[^4]. El PSeInt tomó como base el pseudocódigo usado por sus profesores, el Ing. Horacio Loyarte y el Dr. Diego Milone (idem). Las premisas del pseudocódigo PSeInt son:
 
 -   Programación estructurada con:
     -   Un programa principal o *Algoritmo o Proceso*,
     -   *Subprocesos* o *funciones*.
--   Con una sintaxis sencilla y, relativamente flexible, en español.
+-   Una sintaxis sencilla y, relativamente flexible, en español.
 -   Entrada y salida de datos en una consola.
 -   Solo tres *tipos de datos* básicos o simples:
     -   `Numéricos`, `Enteros` y `Reales`.
@@ -50,20 +48,18 @@ PSeInt es la contracción de "*PSe*udocode *Int*erpreter" (Intérprete de Pseudo
         -   `Repetir`
         -   `Para`
 
-Las *instrucciones* se construyen con los siguientes elementos básicos: *palabras reservadas*, *variables*, *operadores* y signos de puntación como punto y coma ( `;` ) para identificar el final de una instrucción.
-
-Las *palabras reservadas*, *palabras clave* o *keywords* en pseudocódigo PSeInt son identificadores predefinidos que tienen un significado especial, por lo que esencialmente son la gramática del lenguaje y sirven para crear las instrucciones.
-
-Un *programa* en pseudocódigo consta de ninguna, una o varias funciones o subprocesos y/o un procedimiento principal llamado Algoritmo o Proceso, con la siguiente estructura general:
+Las *instrucciones* se construyen con los siguientes elementos básicos: *palabras reservadas*, *variables*, *operadores* y signos de puntación como punto y coma ( `;` ) para identificar el final de una instrucción. Las *palabras reservadas*, *palabras clave* o *keywords* en pseudocódigo PSeInt son identificadores predefinidos que tienen un significado especial y constituyen la _gramática del lenguaje_ y sirven para crear las instrucciones, en un programa. Un *programa* en pseudocódigo consta de ninguna, una o varias funciones o subprocesos y/o, por lo menos, un procedimiento principal llamado `Algoritmo` o `Proceso`, con la siguiente estructura general:
 
 ```
+    // Se usan dos diagonales `//` para declarar un comentario, que es una línea que no se ejecuta
+
     // La estructura de un algoritmo puede organizarse
     // en Funciones o Subprocesos y un bloque de código
     // principal llamado Proceso o Algoritmo
 
     // Declaración de una Funcion o Subproceso
-    // Funcion
 
+    // Funcion
     // Cabecera
     Funcion <variable_de_retorno> <- <nombre_de_la_función>( [ <lista_de_parámetros_formales> ] )
        // Declaraciones
@@ -71,9 +67,7 @@ Un *programa* en pseudocódigo consta de ninguna, una o varias funciones o subpr
        <bloque_de_instrucciones>
     FinFuncion
 
-
     // SubProceso
-
     // Cabecera
     SubProceso <nombre_del_procedimiento>( [ <lista_de_parámetros_formales> ] )
        // Declaraciones
@@ -81,8 +75,7 @@ Un *programa* en pseudocódigo consta de ninguna, una o varias funciones o subpr
        <bloque_de_instrucciones>
     FinSubProceso
 
-
-    // Declaración del proceso principal
+    // Declaración del proceso principal o del algoritmo principal:
 
     // Cabecera
     Proceso <nombre_del_proceso>
@@ -90,7 +83,6 @@ Un *programa* en pseudocódigo consta de ninguna, una o varias funciones o subpr
        // Cuerpo
        <bloque_de_instrucciones>
     FinProceso
-
 
     // o declaración del algoritmo principal
     // Cabecera
@@ -101,16 +93,15 @@ Un *programa* en pseudocódigo consta de ninguna, una o varias funciones o subpr
     FinAlgoritmo
 ```
 
-En pseudocódigo, cuando no se definen funciones ni suprocesos, el programa en pseudocódigo sólo incluye la palabra reservada `Algoritmo` o `Proceso`, seguida del *nombre del algoritmo* que es utilizada para definir el inicio de un algoritmo. Luego, le sigue una *secuencia de instrucciones* y finaliza con la palabra reservada `FinAlgoritmo` o `FinProceso`.
-
-El ejemplo más simple de esta construcción es el programa *Suma.psc* de la Ayuda de PSeInt, un pequeño algoritmo que *pide al usuario dos números* para *sumarlos* y, después, *muestra el resultado* de la operación, al cual se le han hecho alguna adecuaciones para señalar las partes del algoritmo y el nombre de las variables en minúsculas:
+En pseudocódigo, cuando no se definen funciones ni suprocesos, el programa en pseudocódigo sólo incluye la palabra reservada `Algoritmo` o `Proceso`, seguida del *nombre del algoritmo* que es utilizada para definir el inicio de un algoritmo. Luego, le sigue una *secuencia de instrucciones* y finaliza con la palabra reservada `FinAlgoritmo` o `FinProceso`. Por lo tanto, un algortimo es un bloque de instrucciones que inicia con la palabra `Algoritmo` y termina con `FinAlgoritmo` o inicia con `Proceso` y termina con `FinProceso`, tal como se ilustra más delante. El ejemplo más simple de esta construcción es el programa *Suma.psc* de la Ayuda de PSeInt, un pequeño algoritmo que *pide al usuario dos números* para *sumarlos* y, después, *muestra el resultado* de la operación suma, al cual se le han hecho alguna adecuaciones para señalar las partes del algoritmo y el nombre de las variables en minúsculas:
 
 ```
     // suma.psc
 
-    // El ejemplo más simple de la Ayuda de PSeInt (2003)
+    // El ejemplo más simple de la Ayuda de PSeInt (2023)
     // Solicita dos numeros, los suma y muestra el resultado
 
+    // Inicia el proceso principal
     Proceso Suma
         // Parte 1: Declarar las variables y su tipo de dato 
         Definir a, b, c como Reales;
@@ -137,8 +128,11 @@ El ejemplo más simple de esta construcción es el programa *Suma.psc* de la Ayu
         // precedido de un mensaje
         Escribir "El resultado de sumar ", a , " + " , b , " es: ", c;
 
+    // Termina el proceso
     FinProceso
 ```
+
+Descargue el archivo [suma.psc](https://github.com/jzavalar/Informatica/blob/main/suma.psc) y cárguelo y pruébelo en PSeInt.
 
 Este ejemplo sirve para mostrar la estructura básica de un algoritmo o programa que contiene, esencialmente, las tres partes que coinciden con las cuatro funciones de la computadora:
 1. Carga de datos (*Entrada*)
