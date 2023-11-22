@@ -121,6 +121,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 2. Sistemas operativos libres y privativos
 3. Funciones principales
 4. Tareas y prácticas:
+   
 - *Tarea 3.1. Licenciamiento de software*. (Entrega: ).
 
   *Objetivo*: Comprender los conceptos básicos de licenciamiento de software.
@@ -135,11 +136,10 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   - Espectro Canal UCR (2016, Nov 17). [Diferencia entre Open Source y Software Libre por Esteban Azofeifa](https://www.youtube.com/watch?v=zgfw2hlIOIA). *YouTube*. [video] (2:36 min).  
   - DesarrolladorSoft. (2017, Oct 1). [¿Qué es un código abierto y cuáles son sus beneficios? (open source)](https://www.youtube.com/watch?v=KD7N6tyBKno). _YouTube_. [video] (15:17 min).
   - Free Software Foundation. (2023). [Licencias]([https://www.gnu.org/licenses/license-recommendations.html](https://www-gnu-org.translate.goog/licenses/licenses.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)). Free Software Foundation.
-  - [guía](https://www.youtube.com/watch?v=szSU1A2RhuQ)).
-
+  
   Nota: Cite correctamente. Si lo copia tal cual, eso es una _cita textual_ y debe acotarse con par de comillas; si no, es una paráfrasis. En ambos casos debe registrar la referencia. Si tiene dudas cómo citar, consulte [esta referencia](https://digitum.um.es/digitum/bitstream/10201/117544/4/C%C3%B3mo%20citar%20y%20elaborar%20la%20bibliograf%C3%ADa%20de%20un%20trabajo%20acad%C3%A9mico.pdf).
 
-  *Parte 2*: Ahora, simplifique cada definición en una *frase corta*, con la mejor claridad posible para Usted. Para mayor claridad y entendimiento, acompañe la definición, mínimo con uno varios ejemplos para cada concepto. Ponga atención en aprender la diferencia entre los *tipos de licenciamiento de software*. Reflexione sobre el software libre y abierto (FLOSS) como ideología y como negocio y sobre las principales aportaciones de tres personajes: [Bill Gates](https://es.wikipedia.org/wiki/Bill_Gates), [Richard M. Stallman](https://es.wikipedia.org/wiki/Richard_Stallman), [Linus Torvalds](https://es.wikipedia.org/wiki/Linus_Torvalds) y [Eric S. Raymond](https://es.wikipedia.org/wiki/Eric_S._Raymond). Si no la entiende busque la respuesta en Internet o pregunte en el grupo. 
+  *Parte 2*: Ahora, simplifique cada definición en una *frase corta*, con la mejor claridad posible para Usted. Para mayor claridad y entendimiento, acompañe la definición, mínimo con uno varios ejemplos para cada concepto. Ponga atención en aprender la diferencia entre los *tipos de licenciamiento de software*. Reflexione sobre el software libre y abierto (FLOSS) como ideología y como negocio y sobre las principales aportaciones de tres personajes: [Bill Gates](https://es.wikipedia.org/wiki/Bill_Gates), [Richard M. Stallman](https://es.wikipedia.org/wiki/Richard_Stallman), [Linus Torvalds](https://es.wikipedia.org/wiki/Linus_Torvalds) y [Eric S. Raymond](https://es.wikipedia.org/wiki/Eric_S._Raymond). Si hay algo que no entienda busque la respuesta en Internet o pregunte en el grupo. 
 
   **Entregable**: Haga un **guión** donde explique cada concepto de la lista de conceptos, según lo realizado en la Parte 2. Luego, realice un **video** tipo tutorial, donde exponga la lista de conceptos con sus ejemplos. Suba su video, al grupo de Telegram. NOTA: _El video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó._
 
@@ -150,14 +150,17 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   *Parte 1*. Investigue qué es un sistema operativo, los tipos de sistemas operativos y compárelos en términos de ventajas, desventajas, seguridad, usabilidad y robustez. Considere como ejemplo tres sistemas operativos: Windows, Linux, MacOS y Android. Escríbalo en su cuaderno. Nuevamente, no olvide crear y registrar las citas y sus referencias. Considere la siguiente bibliografía:
   - UNAM Sepacomputo canal. (2016, Feb 23). [Sistemas operativos](https://www.youtube.com/playlist?list=PLH9AYXxUslqocwqqiCz0oQY_oZJH-bF_p). _YouTube_. [3 videos] (4:11, 5:52 y 4:46 min).
   
-  *Parte 2*. Investigue qué es una imagen ISO y cómo se usa. Instale la aplicación [Qbittorrent](https://www.qbittorrent.org/download) y, mediante su motor de búsqueda, localice la imagen ISO del sistema operativo Windows 7, usando la frase "Windows 7 Ultimate spanish". (Vea el siguiente [tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)) o busque el torrent [aquí](https://thepiratebay.org/). Identifique la entrada que tiene más semillas (seeds) y descárguela. También, descargue el archivo ISO del sistema operativo Linux [Fedora](https://getfedora.org/es/) ([guía](https://www.youtube.com/watch?v=gbqv0AkqsXw))
-    
-  *Parte 3*. Para esta práctica requerirá una **USB sin datos**, de por lo menos 8 GiB. Instale [**Ventoy**](https://www.ventoy.net/en/download.html)) ([tutorial en video](https://www.youtube.com/watch?v=AZA42A4QmDs)). Si tiene dudas, revise la guía de instalación [aquí](https://github.com/ventoy/).
+  *Parte 2*. Crear la Live USB. Para esta práctica requerirá una **USB sin datos**, de por lo menos 8 GiB. Investigue qué es una [Live USB](https://es.wikipedia.org/wiki/Live_USB), [*imagen ISO*](https://es.wikipedia.org/wiki/Imagen_ISO) y cómo se usa para instalar un sistema operativo desde la USB. 
 
-  Ventoy es un multiboot o [multiarranque](https://es.wikipedia.org/wiki/Multiarranque), por lo que una vez preparada la USB, sólo copie el o los archivos ISO a la raíz y listo! Nota: Para arrancar la ISO de Windows, descargue el [archivo](https://github.com/ventoy/vhdiso/releases/download/v3.0/ventoy_vhdboot.zip) que debe ponerlo en la raíz de la USB. **Advertencia:** Siempre debe tener **cuidado de instalar Ventoy en la USB**. Por ello, **previamente, siempre debe respaldar los archivos de la USB.** Después de preparar la USB, ya puede utilizarla para grabar otros archivos en ella.
+  Una Live USB permite arrancar o ejecutar un sistema operativo en vivo, desde la USB, sin tocar el sistema operativo de su computadora. Para preparar de manera apropiada la Live USB, se requieren dos cosas: (1) una aplicación para configurar la USB para que arranque y (2) la imagen ISO del sistema operativo que va a arrancar desde la USB. Una aplicación que puede usar es [**Ventoy**](https://www.ventoy.net/en/download.html)), misma que debe instalar al ejecutar el archivo `Ventoy2Disk.exe`. Si tiene dudas, revise el ([tutorial en video](https://www.youtube.com/watch?v=AZA42A4QmDs)) o la guía de instalación [aquí](https://github.com/ventoy/). Como Ventoy es un multiboot o [multiarranque](https://es.wikipedia.org/wiki/Multiarranque), una vez preparada la USB, sólo debe copiar el o los archivos ISO a la raíz de la USB y listo!
+
+  La imagen ISO de un sistema operativo, en general se puede obtener a través de una [red P2P](https://es.wikipedia.org/wiki/Peer-to-peer) como [BitTorrent](https://es.wikipedia.org/wiki/BitTorrent) o directamente del proveedor del sistema operativo. En el primer caso, _previamente_ se debe instalar una aplicación como [qBitTorrent](https://www.qbittorrent.org/download) para descargar el _torrent de la imagen ISO_. Los torrents se encuentran en sitios como [The Pirate Bay](https://thepiratebay.org/). Por ejemplo, si se quiere obtener una imagen ISO sel sistema operativo **Windows 7**, debe buscarla usando la frase "Windows 7 Ultimate Spanish". En la lista de torrents, identifique la entrada que tiene más semillas (_seeds_) y descárguela con su aplicación. Vea el siguiente [tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)) para que vea cómo se hace. Una vez elegido, en unos minutos tendrá la imagen ISO. En el segundo caso, hay que ir al sitio web del proveedor y decargar el archivo ISO del sistema operativo que se va a instalar; por ejemplo, si requiere **Linux Fedora Workstation** vaya al sitio de descarga [https://getfedora.org/es/](https://getfedora.org/es/). Vea la ([guía](https://www.youtube.com/watch?v=gbqv0AkqsXw)), si es necesario.
+    
+  *Parte 3*. Arrancar el sistema operativo desde la Live USB.
+   de Windows, descargue el [archivo](https://github.com/ventoy/vhdiso/releases/download/v3.0/ventoy_vhdboot.zip) que debe ponerlo en la raíz de la USB.
+
+  **Advertencia:** Siempre debe tener **cuidado de instalar Ventoy en la USB**. Por ello, **previamente, siempre debe respaldar los archivos de la USB.** Después de preparar la USB, ya puede utilizarla para grabar otros archivos en ella.
    
-  Considere de manera alternativa que el sistema operativo *Windows* puede instalarse en un medio extraible con [WintoUSB](https://www.easyuefi.com/wintousb/index.html) siguiendo este [tutorial](https://www.youtube.com/watch?v=wisy8cmM370), pero requiere una licencia activa.
-  
   *Parte 3*. Investigue los conceptos involucrados: bootear un equipo ([guía](https://www.youtube.com/watch?v=O2S7YyKb5LI)), BIOS ([guía](https://www.youtube.com/watch?v=HD9qXyvIzOc)), UEFI ([guía](https://www.youtube.com/watch?v=X3Cx6wm6PtY)), partición (física y lógica, de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), GPT y MBR ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)).
   
   Pruebe que puede *arrancar* (o *bootear*) live USB del sistema operativo desde la USB: 
@@ -186,18 +189,13 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
 
 ##### Bibliografía Complementaria:
+- Canal del Congreso México. (2011, Jun 16). [Foro Software Libre en México: Inauguración. Conferencia de Richard Stallman](https://www.youtube.com/watch?v=XrZ0RhpYaLA). _YouTube_. [video] (51:10 min).
 - Dr. Beco. (2022, Jun 7). [The Code | Story of(Linux).documentary](https://www.youtube.com/watch?v=O1rCOSnuBEs). *YouTube*. (video) (58:53 min).
 - [ibiblio](https://www.ibiblio.org/). El mayor repositorio de colecciones de trabajos bajo el dominio público que incluye fotos, libros, clipart, revistas y música!
-- Edge Seguridad Informática y SysAdmin. (2022, Apr 3). [RHCSA 8](https://www.youtube.com/watch?v=Dt4agP6iBuQ&list=PLzjjPeOioSgdoQEWFIRZKQivjvilS8WBU). *YouTube*. (58 videos). Curso de capacitación para aprobar la certificación Red Hat Certified System Administrator (RHCSA) (EX200) (muy recomendable). 
 - The Fedora Project (2023). Fedora [Sistema Operativo] ver. 38. [url](https://fedoraproject.org/es/). [Ayuda](https://docs.fedoraproject.org/en-US/quick-docs/). [Descargar](https://fedoraproject.org/es/workstation/download/). [Dual boot](https://www.youtube.com/watch?v=FNKnbBPGW_A) 
-- Nate Gentile. (2017, Feb 19). [Entiende Linux y el software libre de una vez](https://www.youtube.com/watch?v=UUJ0dFpj1-M). *YouTube* (video). (17:41 min).
-- Nate Gentile. (2018, Dic 16). [¿Por qué Linux no es popular?](https://www.youtube.com/watch?v=NDhJfHhe3e4). *YouTube* (video). (13:26 min).
-- SourceForge (2022). [SourceForge](https://sourceforge.net/) (Catálogo de Software Libre y Abierto).
-- Stallings, W. (2005). *Sistemas operativos: Aspectos internos y principios de diseño* (pp. 53-104). México: Pearson-Prentice-Hall. ([pdf](http://cotana.informatica.edu.bo/downloads/Sistemas%20Operativos.pdf)).
-- Tanembaum, A. S (2009). *Sistemas operativos modernos*. México: Pearson Educación. ([pdf](https://norbertomn.files.wordpress.com/2013/09/sistemas-operativos-modernos.pdf)).
 - Sintes, B. (2017). [Catálogo de Software Libre](http://www.cdlibre.org/index.html). 
+- SourceForge (2022). [SourceForge](https://sourceforge.net/) (Catálogo de Software Libre y Abierto).
 - Wheeler, D. A. (2015). *[Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!](https://www.dwheeler.com/oss_fs_why.html)*. ([Versión al español](http://hispalinux.es/informes/wheeler/index.html) de 2001).
-- Zorin Group (2023). Zorin OS [Sistema operativo]. Ver 16.2. [url](https://zorin.com/os/). [Ayuda](https://help.zorin.com/). [Comprar Zorin OS Pro](https://zorin.com/os/pro/). [URL torrent](https://solidtorrents.to/torrents/zorin-os-16-2-all-8cc85/63992643ab7e15fd945f6641/) 
 
 
 
