@@ -1,8 +1,6 @@
 <img src="https://github.com/jzavalar/2211088-informatica/blob/main/images/conjunto-baseIzt.png" alt="UAM Iztapalapa" width="60%"/>
 
-## Programación de computadoras en pseudocódigo
-### Apuntes para la UEA Informática (Teoría y Práctica)
-### Licenciatura en Administración
+## Apuntes sobre Programación de Computadoras en Pseudocódigo
 
 **Profesor:** dr. Jesús Zavala Ruiz
 
@@ -10,7 +8,7 @@
 - **Correo electrónico:** [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)
 - **Telegram:** <img src="https://github.com/jzavalar/2211088-informatica/blob/main/images/images/telegram_logo.svg" alt="Telegram" width="3%"/> [jzavalar.t.me](https://jzavalar.t.me)
 
-Ultima actualización: 27 de julio de 2023. 
+Ultima actualización: 21 de noviembre de 2023. 
 
 ### 1. Introducción
 
