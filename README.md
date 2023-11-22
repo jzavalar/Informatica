@@ -9,7 +9,7 @@
 **Grupo:** HA05 **Horario:** Lunes y Miércoles de 14:00 a 16:00 hr **Salón:** Anexo del Edificio A, Sala K (AA-K).  
 **Grupo:** HA57 **Horario:** Lunes y Miércoles de 16:00 a 18:00 hr **Salón:** Anexo del Edificio A, Sala K (AA-K).  
 
-**Asesorías:**  Martes* de 20:00 a 22:00 hr, vía [Telegram](https://telegram.org/apps), previa programación, a petición del alumno.
+**Asesorías:**  *Martes* de 20:00 a 22:00 hr, vía [Telegram](https://telegram.org/apps), previa programación, a petición del alumno.
 
 **Profesor:** dr. Jesús Zavala Ruiz
 
@@ -92,7 +92,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
        
 - *Práctica 1.2. Mi computadora*. (Entrega: 22 de noviembre de 2023).
      
-  *Objetivo*: Conocer su computadora.
+  *Objetivo*: Conocer mi computadora.
   
   *Parte 1*. Haga un esfuerzo por conocer su computadora. Tome notas sobre las partes y funciones de una compudatora en la siguiente lista de videos: [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). Luego, identifique las partes de la computadora que tiene en casa, ya sea computadora de escritorio o laptop y de su teléfono celular. Con la marca y modelo, localice los manuales de usuario y de servicio en formato PDF. Busque, en YouTube, algunos videos sobre el cambio de disco duro, memoria u otros componentes de su computadora, para que aterrice la teoría. Vaya al Panel de Control de Windows e identifique la lista de dispositivos de hardware. Vaya al sitio web del fabricante y localice los *controladores* o *drivers* disponibles para el modelo de su computadora, mismos que requerirá en caso de requerir instalar su sistema operativo Windows. 
 
@@ -116,7 +116,94 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - Haigh, T., Priestley, M., & Rope, C. (2016). [*ENIAC in action. Making and remaking the modern computer*](http://eniacinaction.com/). MIT Press. ([pdf](https://libgen.rs/book/index.php?md5=F1ECADE396A9CB8BA191218B9BE22420)). 
 
 
-#### Unidad 2. Software   
+#### Unidad 2. Sistemas operativos
+1. Definición e historia
+2. Sistemas operativos libres y privativos
+3. Funciones principales
+4. Tareas y prácticas:
+- *Tarea 3.1. Licenciamiento de software*. (Entrega: ).
+
+  *Objetivo*: Comprender los conceptos básicos de licenciamiento de software.
+
+  *Parte 1*: Considere la siguiente lista de conceptos básicos de *licenciamiento de software*: (1) propiedad intelectual (en el caso del software), (2) patente de software, (3) dominio público (public domain), (4) distribución de software, (5) shareware, (6) freeware, (7) copyright, (8) copyleft, (9) licenciamiento de software, (10) software privativo, (11) software abierto o software de código abierto (*open source software*), (12) software libre (free software), (13) licencia GPL, (14) la *Free Software Foundation* y (15) *Open Source Initiative*.
+
+  Luego, investigue la definición formal de los conceptos elistados listados en la bibliografía citada más abajo. Haga el trabajo en su cuaderno. Se le sugiere considerar la siguiente bibliografía:
+  - Gómez Labrador, R. M. (2005). [Tipos de licencias de software](https://gc.scalahed.com/recursos/files/r161r/w24014w/LicenciasSoftware.pdf). [PDF].
+  - UNAM Sepacomputo canal. (2016, Feb 29). [Tipos de licencias de los programas](https://www.youtube.com/watch?v=F6yjAu92mPY&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=16)). _YouTube_. [video] (7:28 min).
+  - Hernández, L. (2012,  Nov 16). [El software libre y la educación - Richard Stallman](https://www.youtube.com/watch?v=aRvorE9PJso). *YouTube*. [video] (6:11 min).
+  - ObservatorioTecnologíaUNED. [Richard Stallman - Software privativo](https://www.youtube.com/watch?v=tkiG7cWZ2uc)). _YouTube_. (3:44 min).
+  - Espectro Canal UCR (2016, Nov 17). [Diferencia entre Open Source y Software Libre por Esteban Azofeifa](https://www.youtube.com/watch?v=zgfw2hlIOIA). *YouTube*. [video] (2:36 min).  
+  - DesarrolladorSoft. (2017, Oct 1). [¿Qué es un código abierto y cuáles son sus beneficios? (open source)](https://www.youtube.com/watch?v=KD7N6tyBKno). _YouTube_. [video] (15:17 min).
+  - Free Software Foundation. (2023). [Licencias]([https://www.gnu.org/licenses/license-recommendations.html](https://www-gnu-org.translate.goog/licenses/licenses.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)). Free Software Foundation.
+  - [guía](https://www.youtube.com/watch?v=szSU1A2RhuQ)).
+
+  Nota: Cite correctamente. Si lo copia tal cual, eso es una _cita textual_ y debe acotarse con par de comillas; si no, es una paráfrasis. En ambos casos debe registrar la referencia. Si tiene dudas cómo citar, consulte [esta referencia](https://digitum.um.es/digitum/bitstream/10201/117544/4/C%C3%B3mo%20citar%20y%20elaborar%20la%20bibliograf%C3%ADa%20de%20un%20trabajo%20acad%C3%A9mico.pdf).
+
+  *Parte 2*: Ahora, simplifique cada definición en una *frase corta*, con la mejor claridad posible para Usted. Para mayor claridad y entendimiento, acompañe la definición, mínimo con uno varios ejemplos para cada concepto. Ponga atención en aprender la diferencia entre los *tipos de licenciamiento de software*. Reflexione sobre el software libre y abierto (FLOSS) como ideología y como negocio y sobre las principales aportaciones de tres personajes: [Bill Gates](https://es.wikipedia.org/wiki/Bill_Gates), [Richard M. Stallman](https://es.wikipedia.org/wiki/Richard_Stallman), [Linus Torvalds](https://es.wikipedia.org/wiki/Linus_Torvalds) y [Eric S. Raymond](https://es.wikipedia.org/wiki/Eric_S._Raymond). Si no la entiende busque la respuesta en Internet o pregunte en el grupo. 
+
+  **Entregable**: Haga un **guión** donde explique cada concepto de la lista de conceptos, según lo realizado en la Parte 2. Luego, realice un **video** tipo tutorial, donde exponga la lista de conceptos con sus ejemplos. Suba su video, al grupo de Telegram. NOTA: _El video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó._
+
+- *Proyecto 2.2. Instalación de un sistema operativo*. (Demostrativa).
+
+  *Objetivo*: Aprender a instalar sistemas operativos desde un medio extraíble.
+
+  *Parte 1*. Investigue qué es un sistema operativo, los tipos de sistemas operativos y compárelos en términos de ventajas, desventajas, seguridad, usabilidad y robustez. Considere como ejemplo tres sistemas operativos: Windows, Linux, MacOS y Android. Escríbalo en su cuaderno. Nuevamente, no olvide crear y registrar las citas y sus referencias. Considere la siguiente bibliografía:
+  - UNAM Sepacomputo canal. (2016, Feb 23). [Sistemas operativos](https://www.youtube.com/playlist?list=PLH9AYXxUslqocwqqiCz0oQY_oZJH-bF_p). _YouTube_. [3 videos] (4:11, 5:52 y 4:46 min).
+  
+  *Parte 2*. Investigue qué es una imagen ISO y cómo se usa. Instale la aplicación [Qbittorrent](https://www.qbittorrent.org/download) y, mediante su motor de búsqueda, localice la imagen ISO del sistema operativo Windows 7, usando la frase "Windows 7 Ultimate spanish". (Vea el siguiente [tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)) o busque el torrent [aquí](https://thepiratebay.org/). Identifique la entrada que tiene más semillas (seeds) y descárguela. También, descargue el archivo ISO del sistema operativo Linux [Fedora](https://getfedora.org/es/) ([guía](https://www.youtube.com/watch?v=gbqv0AkqsXw))
+    
+  *Parte 3*. Para esta práctica requerirá una **USB sin datos**, de por lo menos 8 GiB. Instale [**Ventoy**](https://www.ventoy.net/en/download.html)) ([tutorial en video](https://www.youtube.com/watch?v=AZA42A4QmDs)). Si tiene dudas, revise la guía de instalación [aquí](https://github.com/ventoy/).
+
+  Ventoy es un multiboot o [multiarranque](https://es.wikipedia.org/wiki/Multiarranque), por lo que una vez preparada la USB, sólo copie el o los archivos ISO a la raíz y listo! Nota: Para arrancar la ISO de Windows, descargue el [archivo](https://github.com/ventoy/vhdiso/releases/download/v3.0/ventoy_vhdboot.zip) que debe ponerlo en la raíz de la USB. **Advertencia:** Siempre debe tener **cuidado de instalar Ventoy en la USB**. Por ello, **previamente, siempre debe respaldar los archivos de la USB.** Después de preparar la USB, ya puede utilizarla para grabar otros archivos en ella.
+   
+  Considere de manera alternativa que el sistema operativo *Windows* puede instalarse en un medio extraible con [WintoUSB](https://www.easyuefi.com/wintousb/index.html) siguiendo este [tutorial](https://www.youtube.com/watch?v=wisy8cmM370), pero requiere una licencia activa.
+  
+  *Parte 3*. Investigue los conceptos involucrados: bootear un equipo ([guía](https://www.youtube.com/watch?v=O2S7YyKb5LI)), BIOS ([guía](https://www.youtube.com/watch?v=HD9qXyvIzOc)), UEFI ([guía](https://www.youtube.com/watch?v=X3Cx6wm6PtY)), partición (física y lógica, de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), GPT y MBR ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)).
+  
+  Pruebe que puede *arrancar* (o *bootear*) live USB del sistema operativo desde la USB: 
+  - [Windows 7](https://thepiratebay.org/search.php?q=windows+7+untouched&apps=on&search=Pirate+Search&page=0&orderby=)
+  - [Fedora Workstation](https://getfedora.org/es/workstation/).
+    
+  Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
+
+  *Parte 4*. Instale [VirtualBox](https://www.virtualbox.org/) en su sistema operativo Windows o el que tenga. Luego, instale el sistema operativo [Fedora Workstation](https://getfedora.org/es/workstation/) como una máquina virtual ([Video 1](https://www.youtube.com/watch?v=9-ZGT6T65VA)). Finalmente, instale el *VirtualBox Extension Pack.x*. Después, instale los dos sistemas operativos Windows 7 y Fedora Workstation 39. Investigue qué es la virtualización, una máquina virtual y cómo se instala un sistema operativo en una máquina virtual. 
+    
+  - *Práctica 3.4. Particiones y sistemas de archivos*. (Entrega: 18 de septiembre).
+
+  *Objetivo*: Comprender y practicar la preparación de dispositivos de almacenamiento en una computadora.
+
+  *Parte 1*. Investigue los conceptos involucrados: partición (física y lógica, primaria, partición de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), GPT y MBR ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)), formatear un dispositivo de almacenamiento ([guía](https://www.youtube.com/watch?v=YshcHw9aIno)), sistema de archivos ([guía](https://www.youtube.com/watch?v=ukzkZA73fkg)), archivo ([guía](https://www.youtube.com/watch?v=Ub7guhuy7_A)), tipos de archivo (binario, texto, programa) ([guía](https://www.youtube.com/watch?v=LbopJOLgo5g)), cómo se guarda un archivo ([guía](https://www.youtube.com/watch?v=ProWo1W-4C0)) y las operaciones de manejo de archivos ([guía](https://www.youtube.com/watch?v=f2dmh_VkNgw)).
+
+  *Parte 2*. Use una USB sin datos o nueva y practique los procesos de manejo de particiones (crear, cambiar de tamaño, fusionar y eliminar particiones en Windows con Disk Management ([guía](https://www.youtube.com/watch?v=gXvyWWi7lh8)), de los siguientes tipos: FAT, exFAT, FAT32, NTFS y EXT4. Saque sus conclusiones.
+
+  *Parte 3*. Repita las mismas operaciones de la Parte 3 de esta práctica usando la aplicación [GParted](https://gparted.org/download.php) Live CD/USB/HD/PXE Bootable Image copiando el archivo ISO en la USB con Ventoy y arrancando el ISO. Utilice este [tutorial](https://www.youtube.com/watch?v=-kYe3BYPurA). Compare Disk Management y gParted y saque sus conclusiones.
+
+  *Parte 4*. Practique la *recuperación de particiones eliminadas* con *[TestDisk](https://www.cgsecurity.org/wiki/TestDisk_ES)* ([tutorial en video](https://www.youtube.com/watch?v=w_JqR-9qcX8), [tutorial escrito](https://geekland.eu/recuperar-particiones-borradas-o-eliminadas-con-testdisk/)) en discos o dispositivos de almacenamiento formateados. También, practique la *recuperación de dispositivos* que no son reconocidos o que piden ser formateados, como una USB ([tutorial](https://www.youtube.com/watch?v=SV9-PdEg3nA)).
+
+  Aplicación: Con alguna de estas dos herramientas se puede preparar el disco duro de la computadora para instalar Linux como segundo sistema operativo o en dual boot, sin perder información, después de dejar un espacio libre de unos 20 a 50 GB, dependiendo del tamaño del disco disponible. Ver este [tutorial](https://www.youtube.com/watch?v=ycTh_x-hzro).
+
+  Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda. 
+  
+
+##### Bibliografía Complementaria:
+- Dr. Beco. (2022, Jun 7). [The Code | Story of(Linux).documentary](https://www.youtube.com/watch?v=O1rCOSnuBEs). *YouTube*. (video) (58:53 min).
+- [ibiblio](https://www.ibiblio.org/). El mayor repositorio de colecciones de trabajos bajo el dominio público que incluye fotos, libros, clipart, revistas y música!
+- Edge Seguridad Informática y SysAdmin. (2022, Apr 3). [RHCSA 8](https://www.youtube.com/watch?v=Dt4agP6iBuQ&list=PLzjjPeOioSgdoQEWFIRZKQivjvilS8WBU). *YouTube*. (58 videos). Curso de capacitación para aprobar la certificación Red Hat Certified System Administrator (RHCSA) (EX200) (muy recomendable). 
+- The Fedora Project (2023). Fedora [Sistema Operativo] ver. 38. [url](https://fedoraproject.org/es/). [Ayuda](https://docs.fedoraproject.org/en-US/quick-docs/). [Descargar](https://fedoraproject.org/es/workstation/download/). [Dual boot](https://www.youtube.com/watch?v=FNKnbBPGW_A) 
+- Nate Gentile. (2017, Feb 19). [Entiende Linux y el software libre de una vez](https://www.youtube.com/watch?v=UUJ0dFpj1-M). *YouTube* (video). (17:41 min).
+- Nate Gentile. (2018, Dic 16). [¿Por qué Linux no es popular?](https://www.youtube.com/watch?v=NDhJfHhe3e4). *YouTube* (video). (13:26 min).
+- SourceForge (2022). [SourceForge](https://sourceforge.net/) (Catálogo de Software Libre y Abierto).
+- Stallings, W. (2005). *Sistemas operativos: Aspectos internos y principios de diseño* (pp. 53-104). México: Pearson-Prentice-Hall. ([pdf](http://cotana.informatica.edu.bo/downloads/Sistemas%20Operativos.pdf)).
+- Tanembaum, A. S (2009). *Sistemas operativos modernos*. México: Pearson Educación. ([pdf](https://norbertomn.files.wordpress.com/2013/09/sistemas-operativos-modernos.pdf)).
+- Sintes, B. (2017). [Catálogo de Software Libre](http://www.cdlibre.org/index.html). 
+- Wheeler, D. A. (2015). *[Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!](https://www.dwheeler.com/oss_fs_why.html)*. ([Versión al español](http://hispalinux.es/informes/wheeler/index.html) de 2001).
+- Zorin Group (2023). Zorin OS [Sistema operativo]. Ver 16.2. [url](https://zorin.com/os/). [Ayuda](https://help.zorin.com/). [Comprar Zorin OS Pro](https://zorin.com/os/pro/). [URL torrent](https://solidtorrents.to/torrents/zorin-os-16-2-all-8cc85/63992643ab7e15fd945f6641/) 
+
+
+
+
+
+#### Unidad 3. Software   
 1. Ontología del software  
    a. Elementos básicos: Datos e instrucciones (programas)  
    b. Los símbolos de la computadora: Bit y byte (y unidades derivadas)  
@@ -201,15 +288,19 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   **Entregable**: Haga un **guión** donde explique cada concepto de la lista de conceptos, según lo realizado en la Parte 2. Luego, realice un **video** tipo tutorial, donde exponga la lista de conceptos con sus ejemplos. Suba su video, al grupo de Telegram. NOTA: _El video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó._
 
-- *Práctica 2.2. Pseudocódigo*. (Entrega: 4 de septiembre de 2023).
+- *Práctica 2.2. Pseudocódigo*. (Entrega:  de 2023).
 
   *Objetivo*: Comprender y poner en práctica los conceptos de algoritmo, pseudocódigo y diagrama de flujo.
     
   *Parte 1*: Instale la aplicación [PseInt](http://pseint.sourceforge.net/) en su equipo o utilice [PSeInt Portable](https://sourceforge.net/projects/pseint/files/20210609/pseint-w32-20210609.zip/download?use_mirror=gigenet&download=) en una USB, para que la pueda usar en el salón.
   
-  *Parte 2:* Estudie el pseudocódigo como lenguaje de programación en [mis apuntes], el [curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw) en video, esta [guía de PSeInt, con ejemplos](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/) o, si lo prefiere, en el [sistema de información para la operación de un estacionamiento](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f) en PSeInt.
-
-  Considere que aprender a programar es básico para operar mejor cualquier aplicación como cualquier hoja de cálculo, editor de texto o manejador de bases de datos; sin embargo, aprender lo básico, requiere practicar. Sin práctica, no hay aprendizaje.
+  *Parte 2:* Estudie el pseudocódigo como lenguaje de programación en alguna de las siguientes fuentes:
+  - Zavala, J. (2023). [Apuntes sobre Programación de Computadoras en Pseudocódigo](https://github.com/jzavalar/Informatica/blob/main/Programacion-en-pseudocodigo.md)
+  - JhonvaCode. (2021, May 15). [Curso de PSeint: De cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw) [29 videos]. *YouTube*.
+  - JhonvaCode (2021, May 15). [Sistema para un parqueadero \[estacionamiento\] en #PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). *YouTube*.
+  - terepebernal. (2023). [Algoritmos en Pseudocódigo con PSeInt: Lo más básico](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/)
+   
+  Considere que **aprender a programar** es básico para usar bien cualquier aplicación, tales como una hoja de cálculo, un editor de textos o un manejador de bases de datos, ya que *usar software es dar instrucciones a la computadora*. Sin embargo, aprender lo básico requiere practicar pues sin práctica no hay aprendizaje.
   
   Descargue el archivo con el código fuente del pseudocódigo, disponible en la descripción de cada uno de ellos y observe el crecimiento progresivo de la aplicación.
    
@@ -249,9 +340,10 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 
 ##### Bibliografía Obligatoriaria:
-- [curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw)
-- [guía de PSeInt con ejemplos](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/)
-- [sistema de información para la operación de un estacionamiento](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f)
+- Zavala, J. (2023). [Apuntes sobre Programación de Computadoras en Pseudocódigo](https://github.com/jzavalar/Informatica/blob/main/Programacion-en-pseudocodigo.md)
+- JhonvaCode. (2021, May 15). [Curso de PSeint: De cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw) [29 videos]. *YouTube*.
+- JhonvaCode (2021, May 15). [Sistema para un parqueadero \[estacionamiento\] en #PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). *YouTube*.
+- terepebernal. (2023). [Algoritmos en Pseudocódigo con PSeInt: Lo más básico](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/)
 - [esta referencia](https://digitum.um.es/digitum/bitstream/10201/117544/4/C%C3%B3mo%20citar%20y%20elaborar%20la%20bibliograf%C3%ADa%20de%20un%20trabajo%20acad%C3%A9mico.pdf)
 
 ##### Bibliografía Complementaria:
@@ -280,104 +372,6 @@ Software:
 - [RStudio, IDE para R](https://posit.co/products/open-source/rstudio/), [RStudio en línea](https://posit.cloud/)
 - [PseInt](https://pseint.sourceforge.net/) [guía de PSeInt con ejemplos](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/), [PSeInt Portable](https://sourceforge.net/projects/pseint/files/20210609/pseint-w32-20210609.zip/download?use_mirror=gigenet&download=).
 
-
-#### Unidad 3. Sistemas operativos
-1. Definición e historia
-2. Sistemas operativos libres y privativos
-3. Funciones principales
-4. Tareas y prácticas:
-
-- *Tarea 3.1. Licenciamiento de software*. (Entrega: 11 de septiembre).
-
-  *Objetivo*: Comprender los conceptos básicos de licenciamiento de software.
-
-  En equipo, investigue los conceptos básicos de *licenciamiento de software*: (1) propiedad intelectual en el caso del software, (2) patente de software, (3) dominio público (public domain), (4) distribución de software, (5) shareware, (6) freeware, (7) copyright vs copyleft, (8) licenciamiento de software ([guía](https://www.youtube.com/watch?v=F6yjAu92mPY&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=16)) y (9) software privativo ([guía](https://www.youtube.com/watch?v=tkiG7cWZ2uc)), (10) software abierto o de código abierto (*open source*) y revise la (11) *Open Source Initiative* ([url](https://opensource.org/licenses)) ([guía](https://www.youtube.com/watch?v=KD7N6tyBKno)), (12) software libre (free software), (13) la licencia GPL ([url](https://www.gnu.org/licenses/license-recommendations.html)) y la *Free Software Foundation* ([url](https://www.fsf.org/)) ([guía](https://www.youtube.com/watch?v=szSU1A2RhuQ)).
-    
-  Simplifique la definición con una frase corta y acompañe la definición con un par de ejemplos.
-    
-  Vea el video [Revolución de los Sistemas Operativos](https://www.youtube.com/watch?v=jfYBeWHc3GE) o [The Code](https://www.youtube.com/watch?v=O1rCOSnuBEs) y tome sus notas. Finalmente, compare los tres tipos de software (privativo, abierto y libre) ([guía](https://www.youtube.com/watch?v=SiCDIaTWKvg)), en términos de ventajas y desventajas y saque sus conclusiones filosóficas, técnicas, económicas, a partir de tres licencias representativas y de las biografías de tres personales: Bill Gates (Microsoft), Eric S. Raymond (OSI) y Richard Stallman (GNU - GLP) ([guía](https://www.youtube.com/watch?v=szSU1A2RhuQ)). Reflexione sobre el software libre y abierto (FLOSS) como ideología y como negocio.
-    
-  Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
-
-- *Práctica 3.2. Instalación de sistemas operativos en un medio extraible*. (Demostrativa).
-
-  *Objetivo*: Aprender a usar varios sistemas operativos desde un medio extraíble.
-
-  *Parte 1*. Investigue qué es un sistema operativo ([guía](https://www.youtube.com/watch?v=JJM3riqBKec&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=14)), tipos de sistemas operativos ([guía](https://www.youtube.com/watch?v=8bv30xKRqfE&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=10)) y compárelos en términos de ventajas, desventajas, seguridad, usabilidad y robustez ([url](https://www.youtube.com/playlist?list=PLH9AYXxUslqocwqqiCz0oQY_oZJH-bF_p)).
-    
-  *Parte 2*. Investigue qué es una imagen ISO y cómo se usa. Utilice Qbittorrent y, mediante su motor de búsqueda, localice la imagen ISO del sistema operativo Windows 7, usando la frase "Windows 7 untouched genuine" o "Windows 7 Ultimate spanish" ([tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)) o busque el torrent [aquí](https://thepiratebay.org/). Identifique la entrada que tiene más semillas (seeds) y descárguela. 
-    
-  *Parte 3*. Investigue un poco sobre las distribuciones del sistema operativo GNU/Linux ([guía](https://www.youtube.com/watch?v=RLStWVb1fWo&t=313s)). Descargue el archivo ISO del sistema operativo Linux [Fedora](https://getfedora.org/es/) ([guía](https://www.youtube.com/watch?v=gbqv0AkqsXw)) o [Zorin OS](https://zorin.com/os/) de 32 o 64 bits, según sea la arquitectura del procesador (CPU) de su computadora (x86_64, por lo general).
-    
-  *Parte 4*. Esta parte de la práctica requiere un dispositivo externo (USB o disco duro externo).
-  
-  **Advertencia:** Siempre debe tener **cuidado de NO instalar Ventoy, Yumi o Rufus en el disco duro de su computadora**. Por ello, **previamente, siempre debe respaldar los archivos de la USB.** Después de preparar la USB, ya puede utilizarla para grabar otros archivos en ella.
-   
-  En una **USB** con capacidad mayor al archivo ISO que usará (mayor a 4 GiB) instale el programa para crear el **USB live** que le permitirá arrancar el sistema operativo a instalar, con alguna de las siguientes aplicaciones:
-  - [**Rufus**](https://rufus.ie/es/) ([tutorial en video](https://www.youtube.com/watch?v=qedjN2AA3gU), [guía escrita](https://www.xataka.com/basics/que-rufus-como-utilizarlo-para-crear-usb-arranque). Rufus sólo instala una imagen ISO, a la vez.
-  - [**Fedora Media Writer**](https://fedoraproject.org/workstation/download/) ([tutorial](https://www.youtube.com/watch?v=_VGXsFTQIZs)). Fedora Media Writer sólo instala una imagen ISO, a la vez.
-  - [Ventoy**](https://www.ventoy.net/en/index.html) ([tutorial en video](https://www.youtube.com/watch?v=_3p-f_Cwa4g), [tutorial escrito](https://websetnet.net/es/crear-un-instalador-usb-de-arranque-para-linux-a-trav%C3%A9s-de-la-nueva-soluci%C3%B3n-ventoy/amp/)). Ventoy es multiboot, por lo que una vez preparada la USB, sólo copie el o los archivos ISO a la raíz y listo! Nota: Para arrancar la ISO de Windows, descargue el [archivo](https://github.com/ventoy/vhdiso/releases/download/v3.0/ventoy_vhdboot.zip) que debe ponerlo en la raíz de la USB.
-  - [**Yumi**](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) ([guía en video](https://www.youtube.com/watch?v=dR8ewnlfzVc), [tutorial escrito](https://hacerusbbooteable.com/usb-multibooteable-con-yumi/)). Yumi es multiboot por lo que, cada vez que ejecute Yumi, puede instalar o desinstalar las imágenes ISO de los sistemas operativos que desee.
-  
-  Considere de manera alternativa que el sistema operativo *Windows* puede instalarse en un medio extraible con [WintoUSB](https://www.easyuefi.com/wintousb/index.html) siguiendo este [tutorial](https://www.youtube.com/watch?v=wisy8cmM370), pero requiere una licencia activa.
-  
-  Cualquiera de los procedimientos de esta *Parte 4*, habilitan una USB para arrancar cualquier sistema operativo (Windows, Linux u otro) sin tocar el disco duro del equipo. También puede utilizarlo para instalar el sistema operativo en el mismo disco duro, adicional a Windows (*dual booting*) o instalarlo otra USB. Esto tiene muchas *aplicaciones prácticas*, por ejemplo, si falla el sistema operativo Windows, con la USB que ha preparado puede arrancar su sistema operativo Linux desde la USB y trabajar con él en tareas cotidianas de oficina como abrir o crear un archivo de texto u hoja de cálculo con [*Libre Office*](https://www.libreoffice.org/), navegar en Internet y acceder a su correo electrónico. Sin embargo, no puede hacer cambios al sistema operativo, ni instalar aplicaciones adicionales con cambios permanentes, pero esto será posible si lo instala en otra USB, de manera permanente. 
-  
-  *Parte 5*. Investigue los conceptos involucrados: bootear un equipo ([guía](https://www.youtube.com/watch?v=O2S7YyKb5LI)), BIOS ([guía](https://www.youtube.com/watch?v=HD9qXyvIzOc)), UEFI ([guía](https://www.youtube.com/watch?v=X3Cx6wm6PtY)), partición (física y lógica, de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), GPT y MBR ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)).
-  
-  Pruebe que puede *arrancar* (o *bootear*) live USB del sistema operativo desde la USB: 
-  - [Active Boot Disk](https://thepiratebay.org/description.php?id=13686101)
-  - [Windows 7](https://thepiratebay.org/search.php?q=windows+7+untouched&apps=on&search=Pirate+Search&page=0&orderby=)
-  - [Fedora Workstation](https://getfedora.org/es/workstation/).
-    
-  *Parte 6*. Para instalar el sistema operativo Linux en otra USB, de manera permanente y usarlo alternativamente desde su USB, conservando los cambios que haga en él, utilice el siguiente procedimiento. Ejecute la parte 4 y 5. Una vez arrancado el USB Live puede utilizar un **disco duro externo** de baja capacidad vacío o una **memoria USB vacía** de por lo menos 64 GB. Por ejemplo, el sistema operativo Linux [Fedora*](https://getfedora.org/es/) según el siguiente [tutorial](https://www.youtube.com/watch?v=Cl6tpxXhhLo).
-  
-   Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
-
-- *Práctica 3.3. Instalación de sistemas operativos como máquinas virtuales*. (Entrega: 13 de septiembre).
-
-  *Objetivo*: Aprender a instalar varios sistemas operativos como un máquinas virtuales.
-
-  *Parte 1*. Investigue qué es la virtualización, una máquina virtual y cómo se instala un sistema operativo en una máquina virtual. 
-
-  *Parte 2*. Instale [VirtualBox](https://www.virtualbox.org/) en su sistema operativo Windows o el que tenga. Luego, instale el sistema operativo [Fedora Workstation](https://getfedora.org/es/workstation/) como una máquina virtual ([Video 1](https://www.youtube.com/watch?v=9-ZGT6T65VA)). Finalmente, instale el *VirtualBox Extension Pack.x* 
-    
-  *Parte 3*. Utilice los archivos ISO de [Windows 7](https://thepiratebay.org/search.php?q=windows+7+untouched&apps=on&search=Pirate+Search&page=0&orderby=) y [Fedora Workstation](https://getfedora.org/es/workstation/) e instálelos mediante VirtualBox ([Video](https://www.youtube.com/watch?v=GEx046EHphI)). 
-    
-  *Parte 4*. Pruebe que puede arrancar cada uno de los dos sistemas operativos como máquinas virtuales. 
-
-  Documente en un video su experiencia en la realización de la actividad en cada parte y comparta los videos en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda.
-
-- *Práctica 3.4. Particiones y sistemas de archivos*. (Entrega: 18 de septiembre).
-
-  *Objetivo*: Comprender y practicar la preparación de dispositivos de almacenamiento en una computadora.
-
-  *Parte 1*. Investigue los conceptos involucrados: partición (física y lógica, primaria, partición de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), GPT y MBR ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)), formatear un dispositivo de almacenamiento ([guía](https://www.youtube.com/watch?v=YshcHw9aIno)), sistema de archivos ([guía](https://www.youtube.com/watch?v=ukzkZA73fkg)), archivo ([guía](https://www.youtube.com/watch?v=Ub7guhuy7_A)), tipos de archivo (binario, texto, programa) ([guía](https://www.youtube.com/watch?v=LbopJOLgo5g)), cómo se guarda un archivo ([guía](https://www.youtube.com/watch?v=ProWo1W-4C0)) y las operaciones de manejo de archivos ([guía](https://www.youtube.com/watch?v=f2dmh_VkNgw)).
-
-  *Parte 2*. Use una USB sin datos o nueva y practique los procesos de manejo de particiones (crear, cambiar de tamaño, fusionar y eliminar particiones en Windows con Disk Management ([guía](https://www.youtube.com/watch?v=gXvyWWi7lh8)), de los siguientes tipos: FAT, exFAT, FAT32, NTFS y EXT4. Saque sus conclusiones.
-
-  *Parte 3*. Repita las mismas operaciones de la Parte 3 de esta práctica usando la aplicación [GParted](https://gparted.org/download.php) Live CD/USB/HD/PXE Bootable Image copiando el archivo ISO en la USB con Ventoy y arrancando el ISO. Utilice este [tutorial](https://www.youtube.com/watch?v=-kYe3BYPurA). Compare Disk Management y gParted y saque sus conclusiones.
-
-  *Parte 4*. Practique la *recuperación de particiones eliminadas* con *[TestDisk](https://www.cgsecurity.org/wiki/TestDisk_ES)* ([tutorial en video](https://www.youtube.com/watch?v=w_JqR-9qcX8), [tutorial escrito](https://geekland.eu/recuperar-particiones-borradas-o-eliminadas-con-testdisk/)) en discos o dispositivos de almacenamiento formateados. También, practique la *recuperación de dispositivos* que no son reconocidos o que piden ser formateados, como una USB ([tutorial](https://www.youtube.com/watch?v=SV9-PdEg3nA)).
-
-  Aplicación: Con alguna de estas dos herramientas se puede preparar el disco duro de la computadora para instalar Linux como segundo sistema operativo o en dual boot, sin perder información, después de dejar un espacio libre de unos 20 a 50 GB, dependiendo del tamaño del disco disponible. Ver este [tutorial](https://www.youtube.com/watch?v=ycTh_x-hzro).
-
-  Desarrolle la actividad en su cuaderno y, luego, documente cada parte en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda. 
-  
-
-##### Bibliografía Complementaria:
-- Dr. Beco. (2022, Jun 7). [The Code | Story of(Linux).documentary](https://www.youtube.com/watch?v=O1rCOSnuBEs). *YouTube*. (video) (58:53 min).
-- [ibiblio](https://www.ibiblio.org/). El mayor repositorio de colecciones de trabajos bajo el dominio público que incluye fotos, libros, clipart, revistas y música!
-- Edge Seguridad Informática y SysAdmin. (2022, Apr 3). [RHCSA 8](https://www.youtube.com/watch?v=Dt4agP6iBuQ&list=PLzjjPeOioSgdoQEWFIRZKQivjvilS8WBU). *YouTube*. (58 videos). Curso de capacitación para aprobar la certificación Red Hat Certified System Administrator (RHCSA) (EX200) (muy recomendable). 
-- The Fedora Project (2023). Fedora [Sistema Operativo] ver. 38. [url](https://fedoraproject.org/es/). [Ayuda](https://docs.fedoraproject.org/en-US/quick-docs/). [Descargar](https://fedoraproject.org/es/workstation/download/). [Dual boot](https://www.youtube.com/watch?v=FNKnbBPGW_A) 
-- Nate Gentile. (2017, Feb 19). [Entiende Linux y el software libre de una vez](https://www.youtube.com/watch?v=UUJ0dFpj1-M). *YouTube* (video). (17:41 min).
-- Nate Gentile. (2018, Dic 16). [¿Por qué Linux no es popular?](https://www.youtube.com/watch?v=NDhJfHhe3e4). *YouTube* (video). (13:26 min).
-- SourceForge (2022). [SourceForge](https://sourceforge.net/) (Catálogo de Software Libre y Abierto).
-- Stallings, W. (2005). *Sistemas operativos: Aspectos internos y principios de diseño* (pp. 53-104). México: Pearson-Prentice-Hall. ([pdf](http://cotana.informatica.edu.bo/downloads/Sistemas%20Operativos.pdf)).
-- Tanembaum, A. S (2009). *Sistemas operativos modernos*. México: Pearson Educación. ([pdf](https://norbertomn.files.wordpress.com/2013/09/sistemas-operativos-modernos.pdf)).
-- Sintes, B. (2017). [Catálogo de Software Libre](http://www.cdlibre.org/index.html). 
-- Wheeler, D. A. (2015). *[Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!](https://www.dwheeler.com/oss_fs_why.html)*. ([Versión al español](http://hispalinux.es/informes/wheeler/index.html) de 2001).
-- Zorin Group (2023). Zorin OS [Sistema operativo]. Ver 16.2. [url](https://zorin.com/os/). [Ayuda](https://help.zorin.com/). [Comprar Zorin OS Pro](https://zorin.com/os/pro/). [URL torrent](https://solidtorrents.to/torrents/zorin-os-16-2-all-8cc85/63992643ab7e15fd945f6641/) 
 
 #### Unidad 4. Bases de datos
 1. Introducción
