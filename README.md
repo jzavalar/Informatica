@@ -467,17 +467,19 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 | Factor | Porcentaje | Observaciones |
 | :---: | :---: | ------------- |
 | Asistencia puntual | 0% |  |
-| Tareas | 30% |Fecha límite: 18 de octubre de 2023, 12:00 hr |
-| Prácticas | 30% |Fecha límite: 18 de octubre de 2023, 12:00 hr |
-| Exámenes | 40% | 18 de octubre de 2023, 12:00 hr / 14:00 hr|
+| Tareas | 20% | Deben entregarse puntualmente, a más tardar el día que se trate el tema en clase |
+| Prácticas | 20% | Deben entregarse puntualmente, a más tardar el día que se trate el tema en clase |
+| Exámenes | 30% | Por definir |
+| Lengua Española - Ejercicios| 10% | Deben entregarse puntualmente, a más tardar el día de la clase |
+| Lengua Española - Exam final| 20% | Por definir |
 | Total | 100% | |
 * Para tener derecho a presentar sus exámenes, deberá asistir por lo menos el 80% de la asistencia.
 
 **Notas:
-  - **a).** Primer examen: *Teórico* (Unidades 1, 2 y 3) y *Práctico* (Programación): Fecha: Por programar.
-  - **b).** Segundo examen: *Teórico* (Unidad 4: Sistemas Operativos y Unidad 5: Sistemas de Información): Fecha: Por programar.
-  - **Evaluación Global:** Todo el curso (Teoría y Práctica) para quienes tengan baja calificación o deseen subir: Fecha: 18 de octubre de 2023.
-  - **Entrega de calificaciones:** Fecha: Lunes 23 de octubre de 2023.
+  - **a).** Primer examen: *Teórico* (Unidades 1, 2 y 3) y *Práctico* (Programación): Fecha: Por definir.
+  - **b).** Segundo examen: *Teórico* (Unidad 4: Sistemas Operativos y Unidad 5: Sistemas de Información): Fecha: Por definir.
+  - **Evaluación Global:** Todo el curso (Teoría y Práctica) para quienes tengan baja calificación o deseen subir: Fecha: Fecha: Por definir.
+  - **Entrega de calificaciones:** Fecha: Por definir.
 
 La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
 
