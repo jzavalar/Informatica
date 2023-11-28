@@ -132,7 +132,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   **Entregable 1**: Grabe, en un video, la pantalla de su equipo con las operaciones que va realizando y explique lo que está realizando, a modo de tutorial. Luego, súbalo al grupo de Telegram, junto con las fotografías de su cuaderno. Haga la práctica de dominio de la lengua española, tal como se ha indicado anteriormente.
 
-  *Parte 2*. Use una **USB sin datos** y practique los procesos de manejo de particiones (crear, agrandar y reducir de tamaño y eliminar particiones usando _Disk Management_ ([guía](https://www.youtube.com/watch?v=gXvyWWi7lh8)). Pruebe con los siguientes sistemas de archivos: FAT, exFAT, FAT32 y NTFS. La última operación que debe realizar es copiar un par de archivos a la partición NTFS y después debe borrarla. Saque sus conclusiones.
+  *Parte 2*. Use una **USB sin datos** y practique los procesos de manejo de particiones (crear, agrandar y reducir de tamaño y eliminar particiones usando _Disk Management_ (guía: [Tnlgo. Carlos Palacios. (2022, Jul 20)](https://www.youtube.com/watch?v=eeVR9YQtFdY). Pruebe con los siguientes sistemas de archivos: FAT, exFAT, FAT32 y NTFS. La última operación que debe realizar es copiar un par de archivos a la partición NTFS y después debe borrarla. Saque sus conclusiones.
 
   **Advertencia:** Siempre debe tener **cuidado de instalar Ventoy en la USB**. Por ello, **previamente, siempre debe respaldar los archivos de la USB.**
 
@@ -191,6 +191,9 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   *Parte 4. Virtualización*. Investigue qué es la _virtualización_, una _máquina virtual_ y cómo se instala un sistema operativo en una máquina virtual usando VirtualBox ([Video 1](https://www.youtube.com/watch?v=9-ZGT6T65VA)). Instale [VirtualBox]([https://www.virtualbox.org/](https://www.virtualbox.org/wiki/Downloads)) en su computadora. Luego, descargue el [*VirtualBox Extension Pack.x*](https://download.virtualbox.org/virtualbox/7.0.12/Oracle_VM_VirtualBox_Extension_Pack-7.0.12.vbox-extpack) e instálelo. Después, instale los dos sistemas operativos Windows 7 y Fedora Workstation 39 que tiene en su Live USB.
 
   **Entregable 4**: Haga un video tipo tutorial donde muestre que realizó la práctica (no sólo lea) de esta parte del proyecto. Súbalo al grupo de Telegram y haga la práctica de dominio del idioma español, tal como se ha indicado con anterioridad.
+
+##### Bibliografía Obligatoria:
+- Tnlgo. Carlos Palacios. (2022, Jul 20). [Crear particiones de disco duro en Windows 10/11: Aumentar o reducir el tamaño del disco duro C, D, E](https://www.youtube.com/watch?v=eeVR9YQtFdY). YouTube. [video] (8:38 min).
   
 ##### Bibliografía Complementaria:
 - Canal del Congreso México. (2011, Jun 16). [Foro Software Libre en México: Inauguración. Conferencia de Richard Stallman](https://www.youtube.com/watch?v=XrZ0RhpYaLA). _YouTube_. [video] (51:10 min).
