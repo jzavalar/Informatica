@@ -208,18 +208,16 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 #### Unidad 3. Software   
 1. Ontología del software  
    a. Elementos básicos: Datos e instrucciones (programas)  
-   b. Los símbolos de la computadora: Bit y byte (y unidades derivadas)
+   b. Los símbolos de la computadora: Bit y byte (y unidades derivadas) ([guía](https://www.calculadoras.uno/bit-byte/))
    c. Información = datos + contexto  
    d. Del procesamientos de datos al procesamiento de información
-      - Referencia: Calculadoras.uno. (2023). Capacidad de almacenamiento. Calculadoras.uno. [https://www.calculadoras.uno/bit-byte/](https://www.calculadoras.uno/bit-byte/) 
-
+      
 3. Datos
    a. Sistemas numéricos:  
       - Decimal  
       - Binario  
       - Hexadecimal  
-      - Conversiones entre sistemas
-      - Referencia: Calculadoras.uno. (2023). Bases numéricas. Calculadoras.uno. [https://www.calculadoras.uno/binario-decimal/](https://www.calculadoras.uno/binario-decimal/)
+      - Conversiones entre sistemas numéricos [guía](https://www.calculadoras.uno/binario-decimal/)
 
    b. Tipos de datos:  
       - Númericos: Enteros (*integer*) y reales (*float point*)  
@@ -336,21 +334,24 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 ##### Bibliografía Obligatoriaria:
 - Zavala, J. (2023). [Apuntes sobre Programación de Computadoras en Pseudocódigo](https://github.com/jzavalar/Informatica/blob/main/Programacion-en-pseudocodigo.md)
-- JhonvaCode. (2021, May 15). [Curso de PSeint: De cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw) [29 videos]. *YouTube*.
-- JhonvaCode (2021, May 15). [Sistema para un parqueadero \[estacionamiento\] en #PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). *YouTube*.
-- terepebernal. (2023). [Algoritmos en Pseudocódigo con PSeInt: Lo más básico](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/)
+- Calculadoras.uno. (2023). [Capacidad de almacenamiento](https://www.calculadoras.uno/bit-byte/). Calculadoras.uno. 
+- Calculadoras.uno. (2023). [Bases numéricas](https://www.calculadoras.uno/binario-decimal/). Calculadoras.uno. 
+
 - [esta referencia](https://digitum.um.es/digitum/bitstream/10201/117544/4/C%C3%B3mo%20citar%20y%20elaborar%20la%20bibliograf%C3%ADa%20de%20un%20trabajo%20acad%C3%A9mico.pdf)
 
 ##### Bibliografía Complementaria:
-- Khosrow-Pour, M. (2007). [*Dictionary of information science and technology*](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey PA, USA: Idea Group.
-- Martín, C., Rubio, M. A., Urquía, A. (2011). [*Lenguajes de programación*](https://libgen.rs/book/index.php?md5=006E57DF6867BBF1B3BAE332475E72AD). Madrid: Universidad Nacional de Educación a Distancia (UNED).
 - Baruffa, O. (2022, Jan 13). [Big book of R](https://www.bigbookofr.com/). (Sitio web) (La compilación más grande de libros y fuentes documentales sobre R).
 - 	Butterfield, A., Ngondi, G. E., & Kerr, A. (2016). [A dictionary of computer science (Oxford Quick Reference)](https://libgen.rs/book/index.php?md5=2FD856C4E6BC92CFA8DEB03F1B621A73). Oxford University Press.
 - 	Forouzan, B. A. (2003). [Introducción a la ciencia de la computación : De la manipulación de datos a la teoría de la computación](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D). México: International Thomson Editores.
 - 	Institute of Electrical & Electronics Engineers (IEEE). (1987). [Dictionary English informatics standard glossary of computer applications terminology](https://libgen.rs/book/index.php?md5=4F816603DBBF6AEB60B92FCCC59762A1). New York: Institute of 
 Electrical & Electronics Engineers (IEEE). 
+- JhonvaCode. (2021, May 15). [Curso de PSeint: De cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw) [29 videos]. *YouTube*.
+- JhonvaCode (2021, May 15). [Sistema para un parqueadero \[estacionamiento\] en #PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). *YouTube*.
+- Khosrow-Pour, M. (2007). [*Dictionary of information science and technology*](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey PA, USA: Idea Group.
 - 	Khosrow-Pour, M. (2007). [Dictionary of information science and technology](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey, PA: Idea Group Reference.
 - 	Laplante, P. A. (2017). [Dictionary of computer science, engineering and technology](https://libgen.rs/book/index.php?md5=C2FEF4DC36C84134ABA1E5698E913F73). Boca Raton, FL, USA: Chapman and Hall; CRC.
+- Martín, C., Rubio, M. A., Urquía, A. (2011). [*Lenguajes de programación*](https://libgen.rs/book/index.php?md5=006E57DF6867BBF1B3BAE332475E72AD). Madrid: Universidad Nacional de Educación a Distancia (UNED).
+- terepebernal. (2023). [Algoritmos en Pseudocódigo con PSeInt: Lo más básico](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/)
 - Walum, H., & De Leon, D. (2022). Teacups, giraffes, & statistics (Tazas de té, jirafas y estadística). GitHub. [Módulos](https://tinystats.github.io/teacups-giraffes-and-statistics/) [Proyecto en RMarkdown](https://github.com/tinystats/teacups-giraffes-and-statistics) [Una deliciosa serie de módulos para aprender estadística y codificación en R para estudiantes, científicos y entusiastas de la estadística.]
 
 Videos:
