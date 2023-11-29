@@ -208,22 +208,27 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 #### Unidad 3. Software   
 1. Ontología del software  
    a. Elementos básicos: Datos e instrucciones (programas)  
-   b. Los símbolos de la computadora: Bit y byte (y unidades derivadas)  
+   b. Los símbolos de la computadora: Bit y byte (y unidades derivadas)
+      Referencia:
+      Calculadoras.uno. (2023). Capacidad de almacenamiento. Calculadoras.uno. [https://www.calculadoras.uno/bit-byte/](https://www.calculadoras.uno/bit-byte/) 
    c. Información = datos + contexto  
    d. Del procesamientos de datos al procesamiento de información  
 
-2. Datos
+3. Datos
    a. Sistemas numéricos:  
       - Decimal  
       - Binario  
       - Hexadecimal  
-      - Conversiones entre sistemas 
+      - Conversiones entre sistemas
+        Referencia:
+        Calculadoras.uno. (2023). Bases numéricas. Calculadoras.uno. [https://www.calculadoras.uno/binario-decimal/](https://www.calculadoras.uno/binario-decimal/)
 
    b. Tipos de datos:  
       - Númericos: Enteros (*integer*) y reales (*float point*)  
       - Alfanuméricos  
       - Lógicos
-      - Nulo 
+      - Nulo
+         
 
    c. Estructuras de datos:
       - Arreglos
