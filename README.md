@@ -474,9 +474,11 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 | Asistencia puntual | 0% |  |
 | Tareas | 20% | Deben entregarse puntualmente, a más tardar el día que se trate el tema en clase |
 | Prácticas | 20% | Deben entregarse puntualmente, a más tardar el día que se trate el tema en clase |
-| Exámenes | 30% | Por definir |
+| Exámenes: |  |  |
+| Teoría | 20% | Por definir |
+| Práctica | 20% | Semana (11) |
 | Lengua Española - Ejercicios| 10% | Deben entregarse puntualmente, a más tardar el día de la clase |
-| Lengua Española - Exam final| 20% | Por definir |
+| Lengua Española - Exam final| 10% | Por definir |
 | Total | 100% | |
 * Para tener derecho a presentar sus exámenes, deberá asistir por lo menos el 80% de la asistencia.
 
