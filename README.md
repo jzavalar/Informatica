@@ -474,7 +474,7 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 | :--- | :---: | :------------- |
 | Asistencia puntual | 0% | Es su obligación estar en clases: pase de lista |
 | Tareas | 20% | Deben entregarse puntualmente, a más tardar el día que se trate el tema en clase |
-| Prácticas | 20% | Deben entregarse puntualmente, a más tardar el día que se trate el tema en clase |
+| Prácticas y Proyectos| 20% | Deben entregarse puntualmente, a más tardar el día que se trate el tema en clase |
 | Exámenes: |  |  |
 | Teoría | 20% | Por definir |
 | Práctica | 20% | Semana (11) |
