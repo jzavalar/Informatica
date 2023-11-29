@@ -72,7 +72,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 3. De las ciencias de la computación al cómputo en la nube
 4. Tareas y prácticas:
 
-- *Tarea 1.1. La computadora y informática: Contexto histórico, evolución e importancia*. (Entrega: 22 de noviembre de 2023).
+- *Tarea 1.1. La computadora y informática: Contexto histórico, evolución e importancia*. (Entrega: 4 de diciembre de 2023).
      
   *Objetivo*: Reflexionar sobre la computadora digital, la informática y las ciencias de la computación. 
   
@@ -90,7 +90,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   NOTA: _El video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española. La transcripción debe corregirse aplicando las reglas gramaticales respectivas. Debe usarse un editor de textos con el control de cambios activado para que se muestren las correcciones. Ese archivo debe enviarse también al grupo, para que el profesor lo revise y pueda retroalimentar al alumno._
        
-- *Práctica 1.2. Mi computadora*. (Entrega: 22 de noviembre de 2023).
+- *Práctica 1.2. Mi computadora*. (Entrega: 4 de diciembre de 2023).
      
   *Objetivo*: Conocer mi computadora.
   
@@ -122,7 +122,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 3. Funciones principales
 4. Tareas y prácticas:
    
-- *Práctica 2.1. Particiones y sistemas de archivos*. (Entrega: 27 de noviembre de 2023).
+- *Práctica 2.1. Particiones y sistemas de archivos*. (Entrega: 4 de diciembre de 2023).
 
   *Objetivo*: Aprender a preparar de dispositivos de almacenamiento para una computadora.
 
@@ -142,7 +142,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   **Entregable 3**: Grabe, en un video, la pantalla de su equipo con las operaciones que va realizando y explique lo que está realizando, a modo de tutorial. Luego, súbalo al grupo de Telegram, junto con las fotografías de su cuaderno. Haga la práctica de dominio de la lengua española, tal como se ha indicado anteriormente.
 
-- *Tarea 3.2. Licenciamiento de software*. (Entrega: 29 de noviembre de 2023).
+- *Tarea 2.2. Licenciamiento de software*. (Entrega: 4 de diciembre de 2023).
 
   *Objetivo*: Comprender los conceptos básicos de licenciamiento de software.
 
@@ -163,7 +163,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   **Entregable**: Haga un **guión** donde explique cada concepto de la lista de conceptos, según lo realizado en la Parte 2. Luego, realice un **video** tipo tutorial, donde exponga la lista de conceptos con sus ejemplos. Suba su video, al grupo de Telegram. El video debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó.
 
-- *Proyecto 2.3. Instalación de sistemas operativos*. (Entrega: _Partes 1 a 3:_ 29 de noviembre de 2023; : 29 de noviembre de 2023).).
+- *Proyecto 2.3. Instalación de sistemas operativos*. (Entrega: _Partes 1 a 3:_ 6 de diciembre de 2023; Completo: 11 de diciembre de 2023).).
 
   *Objetivo*: Aprender a usar sistemas operativos desde una Live USB y en máquinas virtuales.
 
