@@ -122,7 +122,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 3. Funciones principales
 4. Tareas y prácticas:
    
-- *Práctica 2.1. Particiones y sistemas de archivos*. (Entrega: 4 de diciembre de 2023).
+- *Práctica 2.1. Particiones y sistemas de archivos*. (Entrega: 18 de diciembre de 2023).
 
   *Objetivo*: Aprender a preparar de dispositivos de almacenamiento para una computadora.
 
@@ -142,7 +142,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   **Entregable 3**: Grabe, en un video, la pantalla de su equipo con las operaciones que va realizando y explique lo que está realizando, a modo de tutorial. Luego, súbalo al grupo de Telegram, junto con las fotografías de su cuaderno. Haga la práctica de dominio de la lengua española, tal como se ha indicado anteriormente.
 
-- *Tarea 2.2. Licenciamiento de software*. (Entrega: 4 de diciembre de 2023).
+- *Tarea 2.2. Licenciamiento de software*. (Entrega: 18 de diciembre de 2023).
 
   *Objetivo*: Comprender los conceptos básicos de licenciamiento de software.
 
@@ -163,7 +163,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   **Entregable**: Haga un **guión** donde explique cada concepto de la lista de conceptos, según lo realizado en la Parte 2. Luego, realice un **video** tipo tutorial, donde exponga la lista de conceptos con sus ejemplos. Suba su video, al grupo de Telegram. El video debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó.
 
-- *Proyecto 2.3. Instalación de sistemas operativos*. (Entrega: _Partes 1 a 3:_ 6 de diciembre de 2023; Completo: 11 de diciembre de 2023).).
+- *Proyecto 2.3. Instalación de sistemas operativos*. (Entrega: _Partes 1 a 3:_ 18 de diciembre de 2023; Completo: 18 de diciembre de 2023).
 
   *Objetivo*: Aprender a usar sistemas operativos desde una Live USB y en máquinas virtuales.
 
@@ -278,7 +278,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 6. Tareas y Prácticas  
 
-- *Tarea 3.1. Conceptos básicos de software*. (Entrega:).  
+- *Tarea 3.1. Conceptos básicos de software*. (Entrega: 8 de enero de 2024).  
 
   *Objetivos*: Aprender los conceptos básicos de software.
     
@@ -290,18 +290,14 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   **Entregable**: Haga un **guión** donde explique cada concepto de la lista de conceptos, según lo realizado en la Parte 2. Luego, realice un **video** tipo tutorial, donde exponga la lista de conceptos con sus ejemplos. Suba su video, al grupo de Telegram. NOTA: _El video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó._
 
-- *Proyecto 3.2. Programación*. (Entrega:).
+- *Proyecto 3.2. Programación*. (Entrega: Partes 1 y 2: 8 de enero de 2024; Parte 3: 15 de enero de 2024).
 
   *Objetivo*: Comprender y poner en práctica los conceptos de programación.
     
   *Parte 1: PSeInt*. Instale la aplicación [PseInt](http://pseint.sourceforge.net/) en su equipo o utilice [PSeInt Portable](https://sourceforge.net/projects/pseint/files/20210609/pseint-w32-20210609.zip/download?use_mirror=gigenet&download=) en una USB, para que la pueda usar en el salón.
   
-  *Parte 2: Pseudocódigo*. Estudie la gramática del pseudocódigo como lenguaje de programación en alguna de las siguientes fuentes:
-  - Zavala, J. (2023). [Apuntes sobre Programación de Computadoras en Pseudocódigo](https://github.com/jzavalar/Informatica/blob/main/Programacion-en-pseudocodigo.md)
-  - JhonvaCode. (2021, May 15). [Curso de PSeint: De cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw) [29 videos]. *YouTube*.
-  - JhonvaCode (2021, May 15). [Sistema para un parqueadero \[estacionamiento\] en #PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). *YouTube*.
-  - terepebernal. (2023). [Algoritmos en Pseudocódigo con PSeInt: Lo más básico](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/)
-   
+  *Parte 2: Pseudocódigo*. Estudie la gramática del pseudocódigo como lenguaje de programación en los [Apuntes sobre Programación de Computadoras en Pseudocódigo](https://github.com/jzavalar/Informatica/blob/main/Programacion-en-pseudocodigo.md).
+     
   Considere que **aprender a programar** es básico para usar bien cualquier aplicación, tales como una hoja de cálculo, un editor de textos o un manejador de bases de datos, ya que *usar software es dar instrucciones a la computadora*. Aprender programación requiere practicar pues, sin práctica, no hay aprendizaje. Así que ponga a prueba sus conocimientos.
 
   Primero, descargue los apuntes de [Rodríguez (s.f.)](https://docs.google.com/document/d/1Uc9Cfld53Guia5ErtmGCnByUttV_3Jc-/edit?usp=sharing&ouid=108201401516590627031&rtpof=true&sd=true). Configure PseInt con el perfil "UNAM FCA".
@@ -316,21 +312,13 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   **Entregable**: Haga un **video** tipo tutorial, uno por cada ejercicio que le tocó, donde enseñe cómo realizarlo. Suba, al grupo de Telegram, primero su video y luego el archivo generado, cada vez que termine un ejercicio. Continue con el siguiente. El _primer video_ debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó.
   
-  *Parte 3: De pseudocódigo a R*. Cree su cuenta en [RStudio en la nube](https://posit.cloud). Cree un proyecto llamado *Informatica*. Aprenda lo básico de la ejecución de código R en un [*script*](https://www.youtube.com/watch?v=ejQ0BS2gVJI). Una vez que los ejercicios que le tocaron funcionan bien el PSeInt, convierta el código PSeInt a R, línea por línea, en un script en R y guárdelo con el mismo nombre del número del algoritmo, por ejemplo, *Algoritmo_10_.R*). .
-
-    
-  Luego, instale por lo menos dos entornos gráficos para R, adicionales a RStudio, de esta [lista](https://aplicacionestop.com/10-mejores-interfaces-graficas-usuario-programacion-gratuita-r/). 
+  *Parte 3: De pseudocódigo a R*. Pruebe sus conocimientos implantando los algoritmos que codificó en PseInt, usando un archivo RMarkdown, exponiendo en primer lugar el pseudocódigo y luego el código en R. Convierta el código PSeInt a R, línea por línea, en un script en R y guárdelo con el mismo nombre del número del algoritmo, por ejemplo, *Algoritmo_10.R*).
   
-  *Parte 2*: Abra el proyecto creado en la *Parte 1*. Instale el módulo rio. Suba el [script para la importación, exportación y conversión de archivos](https://drive.google.com/file/d/15W7CjN2TmjFo5OSXbbftaWCwm8DagNWo/view?usp=sharing). Adapte y ejecute el script para que funcione correctamente. 
+  Cree su cuenta en [RStudio en la nube](https://posit.cloud). Cree un proyecto llamado *Informatica*. Aprenda lo básico de la ejecución de código R en un [*script*](https://www.youtube.com/watch?v=ejQ0BS2gVJI).
 
-  *Parte 3*: Luego, repase este [tutorial de RMarkdown](https://www.youtube.com/watch?v=6Qj8yBFgT9Q). Suba el archivo [Programacion-en-Pseudocodigo.Rmd](https://github.com/jzavalar/2211088-informatica/blob/main/Programacion-en-Pseudocodigo.Rmd) al directorio respectivo del proyecto. Abra el archivo y compílelo con knitr para generar el archivo HTML. **Ahora estúdielo como repaso de PSeInt**. 
+  Tome como base el tutorial [Programacion-en-Pseudocodigo.Rmd](https://github.com/jzavalar/2211088-informatica/blob/main/Programacion-en-Pseudocodigo.Rmd) e identifique las instrucciones equivalentes en R.
   
-  *Parte 4*: Tome como base el tutorial [Programacion-en-Pseudocodigo.Rmd](https://github.com/jzavalar/2211088-informatica/blob/main/Programacion-en-Pseudocodigo.Rmd) e identifique las instrucciones equivalentes en R que encuentre en el [tutorial de R](https://sparkbyexamples.com/r-tutorial-with-examples/). En el directorio respectivo del proyecto, cree un archivo RMarkdown que sea la síntesis 1 a 1 del tutorial *Programacion en Pseudocodigo*. Compílelo con knitr para generar el archivo HTML. El archivo RMarkdown es su entregable.  
-
-  *Parte 5*: Pruebe sus conocimientos implantando en un par de funciones en R, los algoritmos que implantó en PseInt en la *Práctica 2.4.* en un archivo RMarkdown, exponiendo en primer lugar el pseudocódigo y luego el código en R.  
-  
-  Haga un video de la práctica de las partes 1 a 3 y R y reflexione sobre el potencial que tiene esta tecnología a modo de tutorial y súbalo a su Google Drive.  
-
+  Haga un video de cada parte y entréguelo en el grupo de Telegram, a más tardar en la fecha de entrega.  
 
 ##### Bibliografía Obligatoriaria:
 - Zavala, J. (2023). [Apuntes sobre Programación de Computadoras en Pseudocódigo](https://github.com/jzavalar/Informatica/blob/main/Programacion-en-pseudocodigo.md)
@@ -341,27 +329,26 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 ##### Bibliografía Complementaria:
 - Baruffa, O. (2022, Jan 13). [Big book of R](https://www.bigbookofr.com/). (Sitio web) (La compilación más grande de libros y fuentes documentales sobre R).
-- 	Butterfield, A., Ngondi, G. E., & Kerr, A. (2016). [A dictionary of computer science (Oxford Quick Reference)](https://libgen.rs/book/index.php?md5=2FD856C4E6BC92CFA8DEB03F1B621A73). Oxford University Press.
-- 	Forouzan, B. A. (2003). [Introducción a la ciencia de la computación : De la manipulación de datos a la teoría de la computación](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D). México: International Thomson Editores.
-- 	Institute of Electrical & Electronics Engineers (IEEE). (1987). [Dictionary English informatics standard glossary of computer applications terminology](https://libgen.rs/book/index.php?md5=4F816603DBBF6AEB60B92FCCC59762A1). New York: Institute of 
+- Butterfield, A., Ngondi, G. E., & Kerr, A. (2016). [A dictionary of computer science (Oxford Quick Reference)](https://libgen.rs/book/index.php?md5=2FD856C4E6BC92CFA8DEB03F1B621A73). Oxford University Press.
+- Forouzan, B. A. (2003). [Introducción a la ciencia de la computación : De la manipulación de datos a la teoría de la computación](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D). México: International Thomson Editores.
+- Institute of Electrical & Electronics Engineers (IEEE). (1987). [Dictionary English informatics standard glossary of computer applications terminology](https://libgen.rs/book/index.php?md5=4F816603DBBF6AEB60B92FCCC59762A1). New York: Institute of 
 Electrical & Electronics Engineers (IEEE). 
-- JhonvaCode. (2021, May 15). [Curso de PSeint: De cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw) [29 videos]. *YouTube*.
-- JhonvaCode (2021, May 15). [Sistema para un parqueadero \[estacionamiento\] en #PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). *YouTube*.
-- Khosrow-Pour, M. (2007). [*Dictionary of information science and technology*](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey PA, USA: Idea Group.
-- 	Khosrow-Pour, M. (2007). [Dictionary of information science and technology](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey, PA: Idea Group Reference.
-- 	Laplante, P. A. (2017). [Dictionary of computer science, engineering and technology](https://libgen.rs/book/index.php?md5=C2FEF4DC36C84134ABA1E5698E913F73). Boca Raton, FL, USA: Chapman and Hall; CRC.
-- Martín, C., Rubio, M. A., Urquía, A. (2011). [*Lenguajes de programación*](https://libgen.rs/book/index.php?md5=006E57DF6867BBF1B3BAE332475E72AD). Madrid: Universidad Nacional de Educación a Distancia (UNED).
 - terepebernal. (2023). [Algoritmos en Pseudocódigo con PSeInt: Lo más básico](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/)
+- Khosrow-Pour, M. (2007). [*Dictionary of information science and technology*](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey PA, USA: Idea Group.
+- Laplante, P. A. (2017). [Dictionary of computer science, engineering and technology](https://libgen.rs/book/index.php?md5=C2FEF4DC36C84134ABA1E5698E913F73). Boca Raton, FL, USA: Chapman and Hall; CRC.
+- Martín, C., Rubio, M. A., Urquía, A. (2011). [*Lenguajes de programación*](https://libgen.rs/book/index.php?md5=006E57DF6867BBF1B3BAE332475E72AD). Madrid: Universidad Nacional de Educación a Distancia (UNED).
 - Walum, H., & De Leon, D. (2022). Teacups, giraffes, & statistics (Tazas de té, jirafas y estadística). GitHub. [Módulos](https://tinystats.github.io/teacups-giraffes-and-statistics/) [Proyecto en RMarkdown](https://github.com/tinystats/teacups-giraffes-and-statistics) [Una deliciosa serie de módulos para aprender estadística y codificación en R para estudiantes, científicos y entusiastas de la estadística.]
 
 Videos:
 - [Aprende a programar en 11 minutos](https://www.youtube.com/watch?v=TAyyujKoY6k). 
+- JhonvaCode. (2021, May 15). [Curso de PSeint: De cero a siempre](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw) [29 videos]. *YouTube*.
+- JhonvaCode (2021, May 15). [Sistema para un parqueadero \[estacionamiento\] en #PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). *YouTube*.
 - Manik. (2020, Dec 6). [¿Cómo funciona la codificación de caracteres?: ASCII / Unicode](https://www.youtube.com/watch?v=M_yNoV3c8DY). *YouTube*. (7:50 min). 
-- UNAM Sepacomputo canal. (2016, Jan 29). [Unidades: Bit, byte, kilobyte, megabyte, gigabyte, terabyte, petabyte, exabyte y zettabyte](https://www.youtube.com/watch?v=byFsxEEQE3U). *YouTube*. (10:30 min). 
-- UNAM Sepacomputo canal. (2016, Jan 26). [Tipos de archivos](https://www.youtube.com/watch?v=LbopJOLgo5g). *YouTube*. (6:51 min). 
 - [RMarkdown](https://www.youtube.com/watch?v=tE8cgL1P-U0). 
 - [Curso de PSeInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbLiHKmoTFLxPvd2x6olQ6Pw). 
 - Nasir Ahmed. (2022, Jan 1). [El algoritmo que transformó al mundo. La historia de Nasir Ahmed](https://www.youtube.com/watch?v=nNmREQIF4Ik). *YouTube*. (18:33 min). 
+- UNAM Sepacomputo canal. (2016, Jan 29). [Unidades: Bit, byte, kilobyte, megabyte, gigabyte, terabyte, petabyte, exabyte y zettabyte](https://www.youtube.com/watch?v=byFsxEEQE3U). *YouTube*. (10:30 min). 
+- UNAM Sepacomputo canal. (2016, Jan 26). [Tipos de archivos](https://www.youtube.com/watch?v=LbopJOLgo5g). *YouTube*. (6:51 min). 
 
 Software:
 - [Lenguaje R](https://www.r-project.org/)
