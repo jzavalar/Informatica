@@ -203,7 +203,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - Sintes, B. (2017). [Catálogo de Software Libre](http://www.cdlibre.org/index.html). 
 - SourceForge (2022). [SourceForge](https://sourceforge.net/) (Catálogo de Software Libre y Abierto).
 - Wheeler, D. A. (2015). *[Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!](https://www.dwheeler.com/oss_fs_why.html)*. ([Versión al español](http://hispalinux.es/informes/wheeler/index.html) de 2001).
-
+- [Free data recovery, file and partition recovery, undelete and unformat utilities](https://www.thefreecountry.com/utilities/datarecovery.shtml)
 
 #### Unidad 3. Software   
 1. Ontología del software  
