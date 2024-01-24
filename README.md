@@ -463,23 +463,20 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 | Tareas | 20% | Deben entregarse puntualmente, a más tardar el día que se trate el tema en clase |
 | Prácticas y Proyectos| 20% | Deben entregarse puntualmente, a más tardar el día que se trate el tema en clase |
 | Exámenes: |  |  |
-| Teoría | 20% | Por definir |
-| Práctica | 20% | Semana (11) |
-| Lengua Española: Ejercicios | 10% | Deben entregarse puntualmente, a más tardar el día de la clase |
-| Lengua Española - Examen final práctico| 10% | Semana 11 |
+| Teoría | 20% | (a) |
+| Práctica | 20% | (a) |
+| Lengua Española: |  |  |
+| Ejercicios | 10% | Deben entregarse puntualmente, a más tardar el día de la clase |
+| Examen final práctico| 10% | (a) |
 | Total | 100% | |
 * Para tener derecho a presentar sus exámenes, deberá asistir por lo menos el 80% de la asistencia.
 
 **Notas:
-  - **a).** Primer examen: *Teórico* (Unidades 1, 2 y 3) y *Práctico* (Programación): Fecha: Por definir.
-  - **b).** Segundo examen: *Teórico* (Unidad 4: Sistemas Operativos y Unidad 5: Sistemas de Información): Fecha: Por definir.
-  - **Evaluación Global:** Todo el curso (Teoría y Práctica) para quienes tengan baja calificación o deseen subir: Fecha: Fecha: Por definir.
-  - **Entrega de calificaciones:** Fecha: Por definir.
-
-La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
+  - a). **Evaluación Global**: *Teórico-Práctico* (Unidades 1, 2 y 3) y *Lengua Española*: Fecha: 31 de enero de 2024.
+  - **Entrega de calificaciones:** Fecha: 7 de febrero de 2024.
 
 ##### Evaluación de Recuperación  
-La *evaluación de recuperación* será aplicada por el profesor sinodal, bajo los lineamientos de la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente: **6 de noviembre a las 16:00 hr**, por lo que deberá ponerse en contacto con el Coordinador ([correo electrónico](mailto:coordinacion.uam.admon@gmail.com)) y/o con el profesor:
+La *evaluación de recuperación* será aplicada por el profesor sinodal, bajo los lineamientos de la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente: **xx de febrero de 2024 a las xx:xx hr**, por lo que deberá ponerse en contacto con el Coordinador ([correo electrónico](mailto:coordinacion.uam.admon@gmail.com)) y/o con el profesor:
 - **Correo electrónico:** [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)
 - **Telegram:** <img src="https://github.com/jzavalar/Informatica/blob/main/images/telegram_logo.svg" alt="Telegram" width="3%"/> [jzavalar.t.me](https://jzavalar.t.me)
 
