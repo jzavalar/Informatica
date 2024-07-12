@@ -4,7 +4,7 @@
 ## Licenciatura en Administración
 
 **Clave de la UEA:** 2211088
-**Trimestre:** 24 Invierno
+**Trimestre:** 24 Primavera
 
 **Grupo:** HA06 **Horario:** Lunes y Miércoles de 14:00 a 16:00 hr **Salón:** Anexo del Edificio A, Sala K (AA-K).  
 **Grupo:** HA55 **Horario:** Lunes y Miércoles de 16:00 a 18:00 hr **Salón:** Anexo del Edificio A, Sala K (AA-K).  
@@ -358,9 +358,11 @@ Software:
 
 #### Unidad 4. Bases de datos
 1. Introducción
-2. Bases de datos relacionales
-3. Sistemas de información
-4. Tareas y prácticas:
+2. Bases de datos: teoría
+3. Bases de datos: en texto plano, archivos delimitados, hoja de cálculo y sistema gestor de bases de datos (DBMS)
+4. Bases de datos relacionales
+5. Sistemas de información
+6. Tareas y prácticas:
 
 - *Tarea 4.1. LEO: El primer sistema empresarial en el mundo*. (Entrega: ).
 
