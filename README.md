@@ -4,10 +4,10 @@
 ## Licenciatura en Administración
 
 **Clave de la UEA:** 2211088
-**Trimestre:** 23 Otoño
+**Trimestre:** 24 Invierno
 
-**Grupo:** HA05 **Horario:** Lunes y Miércoles de 14:00 a 16:00 hr **Salón:** Anexo del Edificio A, Sala K (AA-K).  
-**Grupo:** HA57 **Horario:** Lunes y Miércoles de 16:00 a 18:00 hr **Salón:** Anexo del Edificio A, Sala K (AA-K).  
+**Grupo:** HA06 **Horario:** Lunes y Miércoles de 14:00 a 16:00 hr **Salón:** Anexo del Edificio A, Sala K (AA-K).  
+**Grupo:** HA55 **Horario:** Lunes y Miércoles de 16:00 a 18:00 hr **Salón:** Anexo del Edificio A, Sala K (AA-K).  
 
 **Asesorías:**  *Martes* de 20:00 a 22:00 hr, vía [Telegram](https://telegram.org/apps), previa programación, a petición del alumno.
 
@@ -35,18 +35,18 @@ Esta **unidad de enseñanza-aprendizaje** (**UEA**) cubre el programa del plan d
 El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, se proponen *lecturas* de algunos capítulos de los libros *Introducción a la Ciencia de la Computación* (Forouzan, 2003) y *Fundamentos de Computación para Ingenieros*  (Cedano, Cedano, Rubio y Vega, 2014), como libros de texto base, complementadas con otros recursos didácticos. Por otro lado, se propone la realización de algunas actividades académicas prácticas que permitan aterrizar los conceptos y desarrollar habilidades para resolver problemas informáticos del día a día. De manera particular, se instalará el sistema operativo [GNU/Linux Fedora](https://getfedora.org/es/) en una USB y como una Máquina Virtual en Windows o en MacOS X. Por ello, se invita a los alumnos a que conozcan y usen el software libre y abierto, desde sistemas operativos como Fedora hasta sistemas empresariales (*Enterprise Resource Planning*, ERP) como [iDempiere](https://www.idempiere.org/), que permiten operar toda una empresa al costo más reducido posible. Con este enfoque se pretende que los alumnos valoren la importancia de la informática en su vida diaria como profesionales de la administración en las organizaciones. 
 
 **Referencias:**
-   - Cedano Olvera, M. A; Cedano Rodríguez, A; Rubio González, J. A.; Vega Gutiérrez, A. C. (2014). [*Fundamentos de computación para ingenieros*](https://libgen.rs/book/index.php?md5=93B1B3A032FA25F502EB136C35C52596). México: Grupo Editorial Patria.
+   - Cedano Olvera, M. A, Cedano Rodríguez, A; Rubio González, J. A.; Vega Gutiérrez, A. C. (2014). [*Fundamentos de computación para ingenieros*](https://libgen.rs/book/index.php?md5=93B1B3A032FA25F502EB136C35C52596). México: Grupo Editorial Patria.
    - Erickson, L. (2010). [*Top secret rosies: The female computers of WWII*](http://www.topsecretrosies.com/). [video] [[torrent](https://thepiratebay.org/description.php?id=6804294)].
    - Fedora.org (2022). [Fedora Project. Fedora GNU/Linux](https://getfedora.org/es/) [Software].
    - Forouzan, B. A. (2003). [*Introducción a la ciencia de la computación: De la manipulaclón de datos a la teoría de la computación*](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D). México: Thompson.
-   - Greenwald, G.; Snowden, E. J. (2015). [*No place to hide: Edward Snowden, the NSA and the surveillance state*](https://libgen.rs/book/index.php?md5=18E90AA8AA171501DBEAB7F5C87E7AAB). United States: Penguin Books. [epub].
+   - Greenwald, G., & Snowden, E. J. (2015). [*No place to hide: Edward Snowden, the NSA and the surveillance state*](https://libgen.rs/book/index.php?md5=18E90AA8AA171501DBEAB7F5C87E7AAB). United States: Penguin Books. [epub].
    - Lanier, J. (2010). [*You are not a gadget: A manifesto*](https://libgen.rs/book/index.php?md5=70421B703A5F553F126BA39C828BCC32). New York: Vintage Books. (Traducción: [*Contra el rebaño digital*](https://libgen.rs/book/index.php?md5=CD2B81BCDAC2DF6FDA19FA9139801195) (2019), [epub]).
    - Lanier, J. (2018). [*Ten arguments for deleting your social media accounts right now*](https://libgen.rs/book/index.php?md5=F59013E7705F778979B3546A8A5453BC). New York: Henry Holt and Company. [epub] (Traducción: [*Diez razones para borrar tus redes de inmediato*](https://libgen.rs/book/index.php?md5=EF2E847FE3A3DFB92CA1751CF26E3E99) (2019), [epub]).
    - Light, J. S. (1999). [When computers were women](https://www.jstor.org/stable/25147356)) ([pdf](https://sci-hub.se/10.2307/25147356). *Technology and Culture, 40*(3) (Jul.), 455-483.
    - Melfi, T. (2016). [*Talentos Ocultos* (*Hidden Figures*)](https://www.imdb.com/title/tt4846340/) [[torrent](https://thepiratebay.org/description.php?id=17551668)].
    - Snowden, E. (2019). [*Permanent record*](https://libgen.rs/book/index.php?md5=A5BDA164BB2B8419C57E57012A2F7F82). London: Macmillan. [epub]. (traducción: [*Vigilancia permanente*](https://libgen.rs/book/index.php?md5=5B91B59909B7CA93B0CD3F77BBA32864) [epub])
    - UAM. Informática. [Programa vigente](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf).
-   - UAM. (2023). [Calendario vigente](http://www.uam.mx/calendario/index.html).
+   - UAM. (2024). [Calendario vigente](http://www.uam.mx/calendario/index.html).
 
 
 ### Objetivos
@@ -72,7 +72,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 3. De las ciencias de la computación al cómputo en la nube
 4. Tareas y prácticas:
 
-- *Tarea 1.1. La computadora y informática: Contexto histórico, evolución e importancia*. (Entrega: 4 de diciembre de 2023).
+- *Tarea 1.1. La computadora y informática: Contexto histórico, evolución e importancia*. (Entrega: ).
      
   *Objetivo*: Reflexionar sobre la computadora digital, la informática y las ciencias de la computación. 
   
@@ -90,7 +90,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   NOTA: _El video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española. La transcripción debe corregirse aplicando las reglas gramaticales respectivas. Debe usarse un editor de textos con el control de cambios activado para que se muestren las correcciones. Ese archivo debe enviarse también al grupo, para que el profesor lo revise y pueda retroalimentar al alumno._
        
-- *Práctica 1.2. Mi computadora*. (Entrega: 4 de diciembre de 2023).
+- *Práctica 1.2. Mi computadora*. (Entrega: ).
      
   *Objetivo*: Conocer mi computadora.
   
@@ -112,7 +112,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 ##### Bibliografía Complementaria:
 - INFORMATICONFIG (2022, Aug 30). Curso completo de informática básica desde cero para principiantes 2022 (16 videos). _YouTube_. URL: [https://www.youtube.com/watch?v=o_78Ue_EUeI&list=PL2Z95CSZ1N4HLqf215jj9ZJgmWIXm7gOo]
 - Rodríguez Parra, J. A. (2001). [*Aprende informática desde cero: Por fin podrás entenderte con tu ordenador*](https://libgen.rs/book/index.php?md5=054DAEF64F0500CB2ECCC0C2EB72B1E3) (pp. 1-80). España.
-- Haigh, T. & Ceruzzi, P. E. (2021). Inventing the computer. In [*A new history of modern computing*](https://libgen.rs/book/index.php?md5=FEC5EE9FBAB5F3C3E68371EC9025E694) (pp. 9-28). USA: The MIT Press. 
+- Haigh, T., & Ceruzzi, P. E. (2021). Inventing the computer. In [*A new history of modern computing*](https://libgen.rs/book/index.php?md5=FEC5EE9FBAB5F3C3E68371EC9025E694) (pp. 9-28). USA: The MIT Press. 
 - Haigh, T., Priestley, M., & Rope, C. (2016). [*ENIAC in action. Making and remaking the modern computer*](http://eniacinaction.com/). MIT Press. ([pdf](https://libgen.rs/book/index.php?md5=F1ECADE396A9CB8BA191218B9BE22420)). 
 
 
@@ -122,7 +122,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 3. Funciones principales
 4. Tareas y prácticas:
    
-- *Práctica 2.1. Particiones y sistemas de archivos*. (Entrega: 18 de diciembre de 2023).
+- *Práctica 2.1. Particiones y sistemas de archivos*. (Entrega: ).
 
   *Objetivo*: Aprender a preparar de dispositivos de almacenamiento para una computadora.
 
@@ -142,7 +142,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   **Entregable 3**: Grabe, en un video, la pantalla de su equipo con las operaciones que va realizando y explique lo que está realizando, a modo de tutorial. Luego, súbalo al grupo de Telegram, junto con las fotografías de su cuaderno. Haga la práctica de dominio de la lengua española, tal como se ha indicado anteriormente.
 
-- *Tarea 2.2. Licenciamiento de software*. (Entrega: 18 de diciembre de 2023).
+- *Tarea 2.2. Licenciamiento de software*. (Entrega: ).
 
   *Objetivo*: Comprender los conceptos básicos de licenciamiento de software.
 
@@ -163,7 +163,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   **Entregable**: Haga un **guión** donde explique cada concepto de la lista de conceptos, según lo realizado en la Parte 2. Luego, realice un **video** tipo tutorial, donde exponga la lista de conceptos con sus ejemplos. Suba su video, al grupo de Telegram. El video debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó.
 
-- *Proyecto 2.3. Instalación de sistemas operativos*. (Entrega: _Partes 1 a 3:_ 18 de diciembre de 2023; Completo: 18 de diciembre de 2023).
+- *Proyecto 2.3. Instalación de sistemas operativos*. (Entrega: _Partes 1 a 3_: ; Completo: ).
 
   *Objetivo*: Aprender a usar sistemas operativos desde una Live USB y en máquinas virtuales.
 
@@ -176,7 +176,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   Una Live USB permite arrancar o ejecutar un sistema operativo en vivo, desde la USB, sin tocar el sistema operativo de su computadora. Para preparar de manera apropiada la Live USB, se requieren dos cosas: (1) una aplicación para configurar la USB para que arranque y (2) la imagen ISO del sistema operativo que va a arrancar desde la USB. Una aplicación que puede usar es [**Ventoy**](https://www.ventoy.net/en/download.html)), misma que debe instalar al ejecutar el archivo `Ventoy2Disk.exe`. Si tiene dudas, revise el ([tutorial en video](https://www.youtube.com/watch?v=AZA42A4QmDs)) o la guía de instalación [aquí](https://github.com/ventoy/). Como Ventoy es un multiboot o [multiarranque](https://es.wikipedia.org/wiki/Multiarranque), una vez preparada la USB, sólo debe copiar el o los archivos ISO a la raíz de la USB y listo!
 
-  La imagen ISO de un sistema operativo, en general se puede obtener a través de una [red P2P](https://es.wikipedia.org/wiki/Peer-to-peer) como [BitTorrent](https://es.wikipedia.org/wiki/BitTorrent) o directamente del proveedor del sistema operativo. En el primer caso, _previamente_ se debe instalar una aplicación como [qBitTorrent](https://www.qbittorrent.org/download) para descargar el _torrent de la imagen ISO_. Los torrents se encuentran en sitios como [The Pirate Bay](https://thepiratebay.org/). Por ejemplo, si se quiere obtener una imagen ISO sel sistema operativo **Windows 7**, debe buscarla usando la frase "Windows 7 Ultimate Spanish". En la lista de torrents, identifique la entrada que tiene más semillas (_seeds_) y descárguela con su aplicación. Vea el siguiente [tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)) para que vea cómo se hace. Una vez elegido, en unos minutos tendrá la imagen ISO. En el segundo caso, hay que ir al sitio web del proveedor y decargar el archivo ISO del sistema operativo que se va a instalar; por ejemplo, si requiere **Linux Fedora Workstation** vaya al sitio de descarga [https://getfedora.org/es/](https://getfedora.org/es/). Vea la ([guía](https://www.youtube.com/watch?v=gbqv0AkqsXw)), si es necesario.
+  La imagen ISO de un sistema operativo, en general se puede obtener a través de una [red P2P](https://es.wikipedia.org/wiki/Peer-to-peer) como [BitTorrent](https://es.wikipedia.org/wiki/BitTorrent) o directamente del proveedor del sistema operativo. En el primer caso, _previamente_ se debe instalar una aplicación como [qBitTorrent](https://www.qbittorrent.org/download) para descargar el _torrent de la imagen ISO_. Los torrents se encuentran en sitios como [The Pirate Bay](https://thepiratebay.org/). Por ejemplo, si se quiere obtener una imagen ISO sel sistema operativo **Windows 7**, debe buscarla usando la frase "Windows 7 Ultimate Spanish". En la lista de torrents, identifique la entrada que tiene más semillas (_seeds_) y descárguela con su aplicación. Vea el siguiente [tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)) para que vea cómo se hace. Una vez elegido, en unos minutos tendrá la imagen ISO. Otra alternativa es utilizar el repositorio de Archive Internet, por ejemplo, para obtener una copia de Windows 11, busque [aquí](https://archive.org/details/software?tab=collection&query=windows+11+ltsc+enterprise+spanish). En el segundo caso, hay que ir al sitio web del proveedor y decargar el archivo ISO del sistema operativo que se va a instalar. Por ejemplo, si requiere **Windows 11**, descargue una copia de prueba, directamente desde el sitio web de [Microsoft](https://www.microsoft.com/en-in/software-download/windows11) o, si necesita **Linux Fedora Workstation**, vaya al sitio de descarga [https://getfedora.org/es/](https://getfedora.org/es/). Vea la ([guía](https://www.youtube.com/watch?v=gbqv0AkqsXw)), si es necesario.
 
   **Entregable 2**: Haga un video tipo tutorial donde muestre que realizó la práctica (no sólo lea) de esta parte del proyecto. Súbalo al grupo de Telegram y haga la práctica de dominio del idioma español, tal como se ha indicado con anterioridad.
     
@@ -199,7 +199,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - Canal del Congreso México. (2011, Jun 16). [Foro Software Libre en México: Inauguración. Conferencia de Richard Stallman](https://www.youtube.com/watch?v=XrZ0RhpYaLA). _YouTube_. [video] (51:10 min).
 - Dr. Beco. (2022, Jun 7). [The Code | Story of(Linux).documentary](https://www.youtube.com/watch?v=O1rCOSnuBEs). *YouTube*. (video) (58:53 min).
 - [ibiblio](https://www.ibiblio.org/). El mayor repositorio de colecciones de trabajos bajo el dominio público que incluye fotos, libros, clipart, revistas y música!
-- The Fedora Project (2023). Fedora [Sistema Operativo] ver. 38. [url](https://fedoraproject.org/es/). [Ayuda](https://docs.fedoraproject.org/en-US/quick-docs/). [Descargar](https://fedoraproject.org/es/workstation/download/). [Dual boot](https://www.youtube.com/watch?v=FNKnbBPGW_A) 
+- The Fedora Project (2024). Fedora [Sistema Operativo] ver. 40. [url](https://fedoraproject.org/es/). [Ayuda](https://docs.fedoraproject.org/en-US/quick-docs/). [Descargar](https://fedoraproject.org/es/workstation/download/). [Dual boot](https://www.youtube.com/watch?v=FNKnbBPGW_A) 
 - Sintes, B. (2017). [Catálogo de Software Libre](http://www.cdlibre.org/index.html). 
 - SourceForge (2022). [SourceForge](https://sourceforge.net/) (Catálogo de Software Libre y Abierto).
 - Wheeler, D. A. (2015). *[Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!](https://www.dwheeler.com/oss_fs_why.html)*. ([Versión al español](http://hispalinux.es/informes/wheeler/index.html) de 2001).
@@ -212,7 +212,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
    c. Información = datos + contexto  
    d. Del procesamientos de datos al procesamiento de información
       
-3. Datos
+2. Datos
    a. Sistemas numéricos:  
       - Decimal  
       - Binario  
@@ -236,7 +236,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
       - Codificación binaria: Audio, imagen, video y otros.
       - Conversión entre archivos  
 
-4. Instrucciones  
+3. Instrucciones  
 
    a. Conceptos clave de programación:
       - Programar, programa, código (fuente, binario, objeto y executable)  
@@ -276,9 +276,9 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
       - Técnicas: Recursión y divide y vencerás  
       - Ejemplos: Cálculo, decisión y ordenación.  
 
-6. Tareas y Prácticas  
+4. Tareas y Prácticas  
 
-- *Tarea 3.1. Conceptos básicos de software*. (Entrega: 8 de enero de 2024).  
+- *Tarea 3.1. Conceptos básicos de software*. (Entrega: ).  
 
   *Objetivos*: Aprender los conceptos básicos de software.
     
@@ -290,7 +290,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   **Entregable**: Haga un **guión** donde explique cada concepto de la lista de conceptos, según lo realizado en la Parte 2. Luego, realice un **video** tipo tutorial, donde exponga la lista de conceptos con sus ejemplos. Suba su video, al grupo de Telegram. NOTA: _El video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó._
 
-- *Proyecto 3.2. Programación*. (Entrega: Partes 1 y 2: 8 de enero de 2024; Parte 3: 15 de enero de 2024).
+- *Proyecto 3.2. Programación*. (Entrega: *Partes 1 y 2*: ; *Parte 3*: ).
 
   *Objetivo*: Comprender y poner en práctica los conceptos de programación.
     
@@ -336,7 +336,7 @@ Electrical & Electronics Engineers (IEEE).
 - terepebernal. (2023). [Algoritmos en Pseudocódigo con PSeInt: Lo más básico](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/)
 - Khosrow-Pour, M. (2007). [*Dictionary of information science and technology*](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey PA, USA: Idea Group.
 - Laplante, P. A. (2017). [Dictionary of computer science, engineering and technology](https://libgen.rs/book/index.php?md5=C2FEF4DC36C84134ABA1E5698E913F73). Boca Raton, FL, USA: Chapman and Hall; CRC.
-- Martín, C., Rubio, M. A., Urquía, A. (2011). [*Lenguajes de programación*](https://libgen.rs/book/index.php?md5=006E57DF6867BBF1B3BAE332475E72AD). Madrid: Universidad Nacional de Educación a Distancia (UNED).
+- Martín, C., Rubio, M. A., & Urquía, A. (2011). [*Lenguajes de programación*](https://libgen.rs/book/index.php?md5=006E57DF6867BBF1B3BAE332475E72AD). Madrid: Universidad Nacional de Educación a Distancia (UNED).
 - Walum, H., & De Leon, D. (2022). Teacups, giraffes, & statistics (Tazas de té, jirafas y estadística). GitHub. [Módulos](https://tinystats.github.io/teacups-giraffes-and-statistics/) [Proyecto en RMarkdown](https://github.com/tinystats/teacups-giraffes-and-statistics) [Una deliciosa serie de módulos para aprender estadística y codificación en R para estudiantes, científicos y entusiastas de la estadística.]
 
 Videos:
@@ -362,7 +362,7 @@ Software:
 3. Sistemas de información
 4. Tareas y prácticas:
 
-- *Tarea 4.1. LEO: El primer sistema empresarial en el mundo*. (Entrega: por programar).
+- *Tarea 4.1. LEO: El primer sistema empresarial en el mundo*. (Entrega: ).
 
   *Objetivo*: Comprender el surgimiento de los sistemas de información automatizados en las organizaciones.
     
@@ -379,7 +379,7 @@ Software:
   Suban su texto al Google Drive de cada uno de los integrantes.
 
 
-- *Tarea 4.2. Los informáticos y el poder gerencial*. (Entrega: por programar).
+- *Tarea 4.2. Los informáticos y el poder gerencial*. (Entrega: ).
 
   *Objetivo*: Comprender el surgimiento de los informáticos como una nueva clase laboral y sus desafíos gerenciales. 
     
@@ -392,7 +392,7 @@ Software:
   Suban su texto al Google Drive de cada uno de los integrantes.
 
 
-- *Tarea 4.3. Los sistemas de información empresarial y su evolución histórica*. (Entrega:  por programar).
+- *Tarea 4.3. Los sistemas de información empresarial y su evolución histórica*. (Entrega: ).
 
   *Objetivo*: Comprender el concepto y evolución histórica de los sistemas de información empresariales. 
     
@@ -405,7 +405,7 @@ Software:
   Suban su texto al Google Drive de cada uno de los integrantes.
 
 
-- *Tarea 4.4. Arquitectura de un sistemas de información*. (Entrega: por programar).
+- *Tarea 4.4. Arquitectura de un sistemas de información*. (Entrega: ).
 
   *Objetivo*: Comprender la arquitectura de un sistema de información empresarial.
     
@@ -430,7 +430,7 @@ Software:
   
   *Parte 4*. Caso 3: XAMPP en Windows. [turorial](https://www.youtube.com/watch?v=Ab1iao1b5d0) y el siguiente [tutorial](https://www.youtube.com/watch?v=6cRolPAXA2c). 
 
-Instale [pagila](https://github.com/devrimgunduz/pagila). 
+   Instale [pagila](https://github.com/devrimgunduz/pagila). 
     
   *Parte 5*. A continuación se pueden seguir dos caminos para preparar la infraestructura cliente-servidor para alojar aplicaciones empresariales.
   
@@ -448,35 +448,30 @@ Instale [pagila](https://github.com/devrimgunduz/pagila).
 
 ##### Bibliografía Complementaria:
    - ADempiere. (2022). [*ERP/CRM Software: A commons-based peer-production of Open Source ERP Applications*](https://wiki.adempiere.net/ADempiere_ERP). [software] [[descarga](http://github.com/adempiere/adempiere)] [[binario](http://bintray.com/adempiere/Official-Repository/Release/view#files)] [[video](https://www.youtube.com/watch?v=pYMUacbz898)].
-   - iDempiere (2022). [*iDempiere: Powerful, open-source ERP/CRM/SCM system*](https://www.idempiere.org/). [software] [[descarga](https://www.idempiere.org/get-idempiere/)] [[sitios de prueba](https://www.idempiere.org/test-sites/)].
+   - iDempiere (2022). [*iDempiere: Powerful, open-source ERP/CRM/SCM system*](https://www.idempiere.org/). [software] [[descarga](https://www.idempiere.org/download/)] [[sitios de prueba](https://www.idempiere.org/test-sites/)].
 
 
 ### Modalidades de Evaluación
 
 #### Evaluación Global
-La asistencia puntual a la clase es obligatoria, según el reglamento de estudios. Es importante la *participación activa clase a clase*. La falta de participación en clase y la no entrega de sus reportes de prácticas a lo largo del trimestre, tendrá repercusiones en la evaluación final que puede llegar a la reprobación del curso. Ver porcentajes de ponderación de calificación.
+La asistencia puntual a la clase es obligatoria, según el reglamento de estudios. Es importante la *participación activa clase a clase*. La falta de participación en clase y la no entrega de sus tareas o reportes de prácticas, a lo largo del trimestre, tendrá repercusiones en la evaluación final que puede llegar a la reprobación del curso. Ver porcentajes de ponderación de calificación.
 
 ##### Calificación
 | Factor | Porcentaje | Observaciones |
 | :--- | :---: | :------------- |
 | Asistencia puntual | 0% | Es su obligación estar en clases: pase de lista |
 | Tareas | 20% | Deben entregarse puntualmente, a más tardar el día que se trate el tema en clase |
-| Prácticas y Proyectos| 20% | Deben entregarse puntualmente, a más tardar el día que se trate el tema en clase |
-| Exámenes: |  |  |
-| Teoría | 20% | (a) |
-| Práctica | 20% | (a) |
-| Lengua Española: |  |  |
-| Ejercicios | 10% | Deben entregarse puntualmente, a más tardar el día de la clase |
-| Examen final práctico| 10% | (a) |
+| Prácticas| 30% | Deben entregarse puntualmente, a más tardar el día que se trate el tema en clase |
+| Exámenes: | 50% |  |
 | Total | 100% | |
 * Para tener derecho a presentar sus exámenes, deberá asistir por lo menos el 80% de la asistencia.
 
 **Notas:
-  - a). **Evaluación Global**: *Teórico-Práctico* (Unidades 1, 2 y 3) y *Lengua Española*: Fecha: 31 de enero de 2024.
-  - **Entrega de calificaciones:** Fecha: 7 de febrero de 2024.
+  - a). **Evaluación Global**: *Teórico-Práctico* (Unidades 1, 2 y 3).
+  - **Entrega de calificaciones:** Fecha: .
 
 ##### Evaluación de Recuperación  
-La *evaluación de recuperación* será aplicada por el profesor sinodal, bajo los lineamientos de la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente: **xx de febrero de 2024 a las xx:xx hr**, por lo que deberá ponerse en contacto con el Coordinador ([correo electrónico](mailto:coordinacion.uam.admon@gmail.com)) y/o con el profesor:
+La *evaluación de recuperación* será aplicada por el profesor sinodal, bajo los lineamientos de la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente, por lo que deberá ponerse en contacto con el Coordinador ([correo electrónico](mailto:coordinacion.uam.admon@gmail.com)) y/o con el profesor:
 - **Correo electrónico:** [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)
 - **Telegram:** <img src="https://github.com/jzavalar/Informatica/blob/main/images/telegram_logo.svg" alt="Telegram" width="3%"/> [jzavalar.t.me](https://jzavalar.t.me)
 
