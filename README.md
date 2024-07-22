@@ -462,9 +462,9 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 | Factor | Porcentaje | Observaciones |
 | :--- | :---: | :------------- |
 | Asistencia puntual | 0% | Es su obligación estar en clases: pase de lista |
-| Tareas | 20% | Deben entregarse puntualmente, a más tardar el día que se trate el tema en clase |
-| Prácticas| 30% | Deben entregarse puntualmente, a más tardar el día que se trate el tema en clase |
-| Exámenes: | 50% |  |
+| Tareas | 10% | Deben entregarse puntualmente, a más tardar el día que se trate el tema en clase |
+| Prácticas| 20% | Deben entregarse puntualmente, a más tardar el día que se trate el tema en clase |
+| Exámenes: | 70% |  |
 | Total | 100% | |
 * Para tener derecho a presentar sus exámenes, deberá asistir por lo menos el 80% de la asistencia.
 
