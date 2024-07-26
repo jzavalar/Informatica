@@ -72,7 +72,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 3. De las ciencias de la computación al cómputo en la nube
 4. Tareas y prácticas:
 
-- *Tarea 1.1. La computadora y informática: Contexto histórico, evolución e importancia*. (Entrega: ).
+- *Tarea 1.1. La computadora y informática: Contexto histórico, evolución e importancia*. (Entrega: Semana 2).
      
   *Objetivo*: Reflexionar sobre la computadora digital, la informática y las ciencias de la computación. 
   
@@ -90,7 +90,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   NOTA: _El video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española. La transcripción debe corregirse aplicando las reglas gramaticales respectivas. Debe usarse un editor de textos con el control de cambios activado para que se muestren las correcciones. Ese archivo debe enviarse también al grupo, para que el profesor lo revise y pueda retroalimentar al alumno._
        
-- *Práctica 1.2. Mi computadora*. (Entrega: ).
+- *Práctica 1.2. Mi computadora*. (Entrega: Semana 2).
      
   *Objetivo*: Conocer mi computadora.
   
@@ -122,7 +122,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 3. Funciones principales
 4. Tareas y prácticas:
    
-- *Práctica 2.1. Particiones y sistemas de archivos*. (Entrega: ).
+- *Práctica 2.1. Particiones y sistemas de archivos*. (Entrega: Semana 3).
 
   *Objetivo*: Aprender a preparar de dispositivos de almacenamiento para una computadora.
 
@@ -142,7 +142,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   **Entregable 3**: Grabe, en un video, la pantalla de su equipo con las operaciones que va realizando y explique lo que está realizando, a modo de tutorial. Luego, súbalo al grupo de Telegram, junto con las fotografías de su cuaderno. Haga la práctica de dominio de la lengua española, tal como se ha indicado anteriormente.
 
-- *Tarea 2.2. Licenciamiento de software*. (Entrega: ).
+- *Tarea 2.2. Licenciamiento de software*. (Entrega: Semana 3).
 
   *Objetivo*: Comprender los conceptos básicos de licenciamiento de software.
 
@@ -163,7 +163,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   **Entregable**: Haga un **guión** donde explique cada concepto de la lista de conceptos, según lo realizado en la Parte 2. Luego, realice un **video** tipo tutorial, donde exponga la lista de conceptos con sus ejemplos. Suba su video, al grupo de Telegram. El video debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó.
 
-- *Proyecto 2.3. Instalación de sistemas operativos*. (Entrega: _Partes 1 a 3_: ; Completo: ).
+- *Proyecto 2.3. Instalación de sistemas operativos*. (Entrega: _Partes 1 a 3_: Semana 3; Completo: Semana 4).
 
   *Objetivo*: Aprender a usar sistemas operativos desde una Live USB y en máquinas virtuales.
 
@@ -278,7 +278,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 4. Tareas y Prácticas  
 
-- *Tarea 3.1. Conceptos básicos de software*. (Entrega: ).  
+- *Tarea 3.1. Conceptos básicos de software*. (Entrega: Semana 5).  
 
   *Objetivos*: Aprender los conceptos básicos de software.
     
@@ -290,7 +290,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   **Entregable**: Haga un **guión** donde explique cada concepto de la lista de conceptos, según lo realizado en la Parte 2. Luego, realice un **video** tipo tutorial, donde exponga la lista de conceptos con sus ejemplos. Suba su video, al grupo de Telegram. NOTA: _El video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó._
 
-- *Proyecto 3.2. Programación*. (Entrega: *Partes 1 y 2*: ; *Parte 3*: ).
+- *Proyecto 3.2. Programación*. (Entrega: *Partes 1 y 2*: Semana 6; *Parte 3*: Semana 6).
 
   *Objetivo*: Comprender y poner en práctica los conceptos de programación.
     
@@ -364,7 +364,7 @@ Software:
 5. Sistemas de información
 6. Tareas y prácticas:
 
-- *Tarea 4.1. LEO: El primer sistema empresarial en el mundo*. (Entrega: ).
+- *Tarea 4.1. LEO: El primer sistema empresarial en el mundo*. (Entrega: Semana 7).
 
   *Objetivo*: Comprender el surgimiento de los sistemas de información automatizados en las organizaciones.
     
@@ -381,7 +381,7 @@ Software:
   Suban su texto al Google Drive de cada uno de los integrantes.
 
 
-- *Tarea 4.2. Los informáticos y el poder gerencial*. (Entrega: ).
+- *Tarea 4.2. Los informáticos y el poder gerencial*. (Entrega: Semana 8).
 
   *Objetivo*: Comprender el surgimiento de los informáticos como una nueva clase laboral y sus desafíos gerenciales. 
     
@@ -394,7 +394,7 @@ Software:
   Suban su texto al Google Drive de cada uno de los integrantes.
 
 
-- *Tarea 4.3. Los sistemas de información empresarial y su evolución histórica*. (Entrega: ).
+- *Tarea 4.3. Los sistemas de información empresarial y su evolución histórica*. (Entrega: Semana 9).
 
   *Objetivo*: Comprender el concepto y evolución histórica de los sistemas de información empresariales. 
     
@@ -407,7 +407,7 @@ Software:
   Suban su texto al Google Drive de cada uno de los integrantes.
 
 
-- *Tarea 4.4. Arquitectura de un sistemas de información*. (Entrega: ).
+- *Tarea 4.4. Arquitectura de un sistemas de información*. (Entrega: Semana 10).
 
   *Objetivo*: Comprender la arquitectura de un sistema de información empresarial.
     
@@ -420,7 +420,7 @@ Software:
   *Parte 3*. Tome como estudio de caso la solución denominada de código libre y abierto Adaxa Suite ([proveedor](http://www.adaxa.com/), [video](https://www.youtube.com/watch?v=SST_AEKg-uw), [revisión](https://www.predictiveanalyticstoday.com/adaxa-suite/)) y describa las ventajas y desventajas que tiene respecto a soluciones comerciales equivalentes en software privativo. 
   
 
-- *Práctica 4.5. Infraestructura de un sistemas de información empresarial*. (Entrega: por programar). 
+- *Práctica 4.5. Infraestructura de un sistemas de información empresarial*. (Entrega: Semana 10). 
 
   *Objetivo*: Instalar el software de la infraestructura para un sistema de información empresarial. 
     
