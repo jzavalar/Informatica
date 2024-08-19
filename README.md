@@ -244,10 +244,10 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
    b. Lenguajes de programación:  
       - *Sintaxis* o *gramática*: Palabras clave o reservadas (*keywords*), símbolos, identificadores y sentencias.  
       - *Semántica* o *significado*:  
-        - *Entrada*: Operaciones de lectura, lectura de archivos        
-        - *Salida*: Operaciones de impresión en pantalla, almacenamiento en archivos  
-        - *Almacenamiento* en memoria y archivos: Operaciones de asignación  
-        - *Procesamiento*: Operaciones de comparación y decisión, ciclos.  
+        - *Entrada*: Operaciones de lectura de datos desde cualquier dispositivo y lectura de archivos        
+        - *Salida*: Operaciones de salida a cualquier dispositivo y escritura de archivos  
+        - *Almacenamiento*: Operaciones de asignación de valores a variables en memoria y escritura de archivos 
+        - *Procesamiento*: Operaciones de lógicas de comparación y decisión y ciclos.  
 
    c. Programación:  
       - *Conceptos*:
@@ -268,7 +268,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
       - Pseudocódigo  
       - Diagramas de flujo  
       - Herramientas de programación:
-        - Editor, parser, ensamblador, intérprete, compilador, debugger (eliminador de errores)
+        - Editor (cualquier editor de texto, por ejemplo, vi o SublimeText), compilador (preprocesador o parser, compilador, ensamblador y linker) (por ejemplo, [gcc](https://www.onlinegdb.com/online_c_compiler)), intérprete (compilador al vuelo) (por ejemplo, R o Python), debugger (eliminador de errores) (por ejemplo, gdb)
         - Entorno de desarrollo integrado (IDE)  
       
    d. Algoritmos:  
