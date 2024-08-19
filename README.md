@@ -338,6 +338,7 @@ Electrical & Electronics Engineers (IEEE).
 - Laplante, P. A. (2017). [Dictionary of computer science, engineering and technology](https://libgen.rs/book/index.php?md5=C2FEF4DC36C84134ABA1E5698E913F73). Boca Raton, FL, USA: Chapman and Hall; CRC.
 - Martín, C., Rubio, M. A., & Urquía, A. (2011). [*Lenguajes de programación*](https://libgen.rs/book/index.php?md5=006E57DF6867BBF1B3BAE332475E72AD). Madrid: Universidad Nacional de Educación a Distancia (UNED).
 - Walum, H., & De Leon, D. (2022). Teacups, giraffes, & statistics (Tazas de té, jirafas y estadística). GitHub. [Módulos](https://tinystats.github.io/teacups-giraffes-and-statistics/) [Proyecto en RMarkdown](https://github.com/tinystats/teacups-giraffes-and-statistics) [Una deliciosa serie de módulos para aprender estadística y codificación en R para estudiantes, científicos y entusiastas de la estadística.]
+- [Learn Programming C, step by step](https://learn.onlinegdb.com/c_program_examples) (Editor y compilador de C, en línea).
 
 Videos:
 - [Aprende a programar en 11 minutos](https://www.youtube.com/watch?v=TAyyujKoY6k). 
