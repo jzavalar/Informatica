@@ -113,7 +113,8 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 - INFORMATICONFIG (2022, Aug 30). [Curso completo de informática básica desde cero para principiantes 2022](https://www.youtube.com/watch?v=o_78Ue_EUeI&list=PL2Z95CSZ1N4HLqf215jj9ZJgmWIXm7gOo) (16 videos). _YouTube_.   
 - Rodríguez Parra, J. A. (2001). [*Aprende informática desde cero: Por fin podrás entenderte con tu ordenador*](https://libgen.rs/book/index.php?md5=054DAEF64F0500CB2ECCC0C2EB72B1E3) (pp. 1-80). España.
 - Haigh, T., & Ceruzzi, P. E. (2021). Inventing the computer. In [*A new history of modern computing*](https://libgen.rs/book/index.php?md5=FEC5EE9FBAB5F3C3E68371EC9025E694) (pp. 9-28). USA: The MIT Press. 
-- Haigh, T., Priestley, M., & Rope, C. (2016). [*ENIAC in action. Making and remaking the modern computer*](http://eniacinaction.com/). MIT Press. ([pdf](https://libgen.rs/book/index.php?md5=F1ECADE396A9CB8BA191218B9BE22420)). 
+- Haigh, T., Priestley, M., & Rope, C. (2016). [*ENIAC in action. Making and remaking the modern computer*](http://eniacinaction.com/). MIT Press. ([pdf](https://libgen.rs/book/index.php?md5=F1ECADE396A9CB8BA191218B9BE22420)).
+- Use el navegador [Yandex](https://browser.yandex.ru/?lang=en) para acceder a la biblioteca fantasma [Library Genesis](https://libgen.rs).
 
 
 #### Unidad 2. Sistemas operativos
