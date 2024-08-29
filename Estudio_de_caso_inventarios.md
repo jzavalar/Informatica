@@ -10,6 +10,93 @@ El propietario de la tienda, Don Carlos, ha mencionado que le gustaría emplear 
 
 La tienda tiene un inventario reducido de productos (aproximadamente 50 artículos). Los productos se registran manualmente en hojas de papel, lo que lleva a errores humanos y desactualización frecuente de los niveles de stock.
 
+Don Carlos le pregunta: “¿Hay alguna manera de que podamos automatizar esto?”.
+
+## Preguntas para Reflexionar
+
+1. **¿Qué tipo de información es esencial para llevar un control adecuado del inventario?**
+   - Reflexione sobre los datos necesarios: nombre del producto, cantidad, precio, fecha de ingreso, etc.
+   - Haga el análisis de datos.
+
+2. **¿Cómo podría una hoja de cálculo simplificar este proceso?**
+   - Considere las ventajas de estructurar los datos y la capacidad de realizar cálculos automáticos.
+   - Compare entre usar Excel o una aplicación de manejo de inventarios.
+
+3. **¿Qué funciones básicas deberíamos incluir en una solución tecnológica para satisfacer las necesidades de ‘El Ahorro’?**
+   - Enlista funciones de altas, bajas y cambios para manejar el inventario
+   - Proponga la manera de darle seguimiento a las ventas con algunos reportes de inventario.
+   - Desarrolle conceptualmente los reportes.
+
+4. **Si tuviéramos que programar una pequeña aplicación, ¿qué lenguaje de programación sería más adecuado para este caso y por qué?**
+   - Reflexione sobre lenguajes como Python, Excel/VBA o R.
+
+5. **¿Qué desafíos podrían surgir al implementar esta solución en la tienda?**
+   - Considere la resistencia al cambio, la capacitación del personal para el uso del nuevo sistema y problemas técnicos.
+
+## Actividad: Desarrollo del sistema de inventarios
+
+En grupos de 3 estudiantes, utilicen [ChatGPT](https://deepai.org/chat) como una herramienta para crear una pequeña aplicación como un prototipo simplificado de un sistema de inventario con las siguientes especificaciones:
+
+1. Estudiante con el **menor número de matrícula** será responsable de lo siguiente:
+
+   - Crear el libro en **Excel** `inventario.xlsx`
+   - Desarrollar las macros que incluyan las siguientes funcionalidades:
+       - Registrar los productos en la hoja `inventario`.
+       - Actualizar cantidades.
+       - Mostrar un informe de los productos con bajo inventario.
+       - Registrar la historia del inventario en el archivo de texto en la hoja: `historial`.
+       - Mostrar la historia del inventario de un periodo de fechas en formato DD-MM-YYYY
+   - Genere las macros para que usen el archivo  modificado que use SQLite
+   - Poner en funcionamiento la aplicación.
+   - Genere una presentación de su aplicación.
+   - Preséntela en un video de 5 minutos grabando la pantalla de su computadora y su voz.
+
+2. Estudiante con el número de matrícula medio será responsable de lo siguiente:
+
+   - Generar el script `inventario.py` en lenguaje **Python**.
+   - Implementar las siguientes funcionalidades:
+       - Registrar los productos en un archivo `inventario.csv` como almacén de persistencia de datos.
+       - Actualizar cantidades.
+       - Mostrar un informe de los productos con bajo inventario.
+       - Registrar la historia del inventario en el archivo de texto en la hoja: `historial.txt`.
+       - Mostrar la historia del inventario de un periodo de fechas en formato DD-MM-YYYY.
+   - Genere el script en Python `inventario_sqlite.py` modificado para que use el archivo `inventario.db` con SQLite, en lugar del archivo `inventario.csv` como base de datos.
+   - Genere una presentación de su aplicación que incluya sus propias reflexiones NO generadas por IA.
+   - Preséntela en un video de 5 minutos grabando la pantalla de su computadora.
+   
+3. Estudiante con el mayor número de matrícula responsable de lo siguiente:
+
+   - Genere el script `inventario.R` en **lenguaje R**.
+   - Implemente las siguientes funcionalidades:
+       - Registrar los productos en SQLite en un archivo `inventario.db`.
+       - Actualizar cantidades.
+       - Mostrar un informe de los productos con bajo inventario.
+       - Registrar la historia del inventario en el archivo de texto en la hoja: `historial.txt`.
+       - Mostrar la historia del inventario de un periodo de fechas en formato DD-MM-YYYY
+   - Genere el script en Python `inventario_sqlite.R` modificado para que use el archivo `inventario.db` con SQLite, en lugar del archivo `inventario.csv` como base de datos.
+   - Genere una presentación de su aplicación que incluya sus propias reflexiones NO generadas por IA.
+   - Preséntela en un video de 5 minutos grabando la pantalla de su computadora. 
+
+### Habilidades a desarrollar
+
+Para realizar esta actividad, Usted debe enfocarse en las siguientes habilidades:
+
+1. **Lógica de Programación**: Iniciado con la identificación de tareas, secuenciación de procesos y manejo de condiciones.
+2. **Uso de Hojas de Cálculo**: Aprender a utilizar funciones básicas (SUMA, CONTAR, SI) y fórmulas.
+3. **Resolución de Problemas**: Identificar errores comunes en el manejo manual de inventarios y crear un flujo de trabajo eficiente.
+4. **Comunicación**: Presentar su solución al resto de la clase y recibir retroalimentación.
+
+## Recursos Recomendados
+
+- **“Excel para Dummies”** de Greg Harvey: Excelente introducción al uso de Excel, incluyendo fórmulas y funciones.
+- **“Automate the Boring Stuff with Python”** de Al Sweigart: Si se desea ir un paso más allá hacia la programación con Python.
+
+## Conclusión
+
+El estudio de caso de “El Ahorro” resalta la importancia de la programación y el manejo de datos en la administración moderna. A través de un enfoque práctico, los estudiantes no solo desarrollarán habilidades técnicas, sino también resolverán problemas del mundo real, lo que les permitirá apreciar la utilidad de la tecnología en la gestión empresarial. La comprensión de herramientas como hojas de cálculo es esencial en su formación, y les servirá como base para futuros avances en el ámbito tecnológico y administrativo.
+
+## Anexo: Datos de prueba
+
 A continuación, se presenta un ejemplo de los 50 datos que Don Carlos podría estar registrando manualmente para llevar el control de su inventario en la tienda de abarrotes "El Ahorro". Cada registro contendrá información esencial sobre los productos disponibles, permitiéndole a Don Carlos tener una visión clara de su inventario. A continuación se muestra un ejemplo de los datos registrados.
 
 | ID  | Nombre del Producto        | Categoría        | Cantidad en Stock | Precio Unitario | Fecha de Ingreso | Proveedor              |
@@ -67,55 +154,3 @@ A continuación, se presenta un ejemplo de los 50 datos que Don Carlos podría e
 
 Este conjunto de datos incluye diversas categorías de productos que son comunes en una tienda de abarrotes, así como información relevante para la gestión del inventario. Don Carlos podría utilizar esta información para hacer un seguimiento de las existencias, planificar pedidos y prevenir faltantes en su tienda.
 
-Don Carlos le pregunta: “¿Hay alguna manera de que podamos automatizar esto?”.
-
-## Preguntas para Reflexionar
-
-1. **¿Qué tipo de información es esencial para llevar un control adecuado del inventario?**
-   - Reflexione sobre los datos necesarios: nombre del producto, cantidad, precio, fecha de ingreso, etc.
-   - Haga el análisis de datos.
-
-2. **¿Cómo podría una hoja de cálculo simplificar este proceso?**
-   - Considere las ventajas de estructurar los datos y la capacidad de realizar cálculos automáticos.
-   - Compare entre usar Excel o una aplicación de manejo de inventarios.
-
-3. **¿Qué funciones básicas deberíamos incluir en una solución tecnológica para satisfacer las necesidades de ‘El Ahorro’?**
-   - Enlista funciones de altas, bajas y cambios para manejar el inventario
-   - Proponga la manera de darle seguimiento a las ventas con algunos reportes de inventario.
-   - Desarrolle conceptualmente los reportes.
-
-4. **Si tuviéramos que programar una pequeña aplicación, ¿qué lenguaje de programación sería más adecuado para este caso y por qué?**
-   - Reflexione sobre lenguajes como Python, Excel/VBA o R.
-
-5. **¿Qué desafíos podrían surgir al implementar esta solución en la tienda?**
-   - Considere la resistencia al cambio, la capacitación del personal para el uso del nuevo sistema y problemas técnicos.
-
-## Actividad
-
-En grupos de 3 estudiantes, desarrollen un prototipo simplificado de un sistema de inventario utilizando una hoja de cálculo. Incluyan las siguientes funcionalidades:
-
-- Registro de productos.
-- Actualización de cantidades.
-- Informes de productos con bajo inventario.
-
-Utilice [ChatGPT](https://deepai.org/chat) como una herramienta para crear una pequeña aplicación en lenguajes de programación Python y póngala en operación. Los requisitos que debe cumplir la aplicación son los siguientes:
-
-- 
-
-### Habilidades a desarrollar
-
-Para realizar esta actividad, Usted debe enfocarse en las siguientes habilidades:
-
-1. **Lógica de Programación**: Iniciado con la identificación de tareas, secuenciación de procesos y manejo de condiciones.
-2. **Uso de Hojas de Cálculo**: Aprender a utilizar funciones básicas (SUMA, CONTAR, SI) y fórmulas.
-3. **Resolución de Problemas**: Identificar errores comunes en el manejo manual de inventarios y crear un flujo de trabajo eficiente.
-4. **Comunicación**: Presentar su solución al resto de la clase y recibir retroalimentación.
-
-## Recursos Recomendados
-
-- **“Excel para Dummies”** de Greg Harvey: Excelente introducción al uso de Excel, incluyendo fórmulas y funciones.
-- **“Automate the Boring Stuff with Python”** de Al Sweigart: Si se desea ir un paso más allá hacia la programación con Python.
-
-## Conclusión
-
-El estudio de caso de “El Ahorro” resalta la importancia de la programación y el manejo de datos en la administración moderna. A través de un enfoque práctico, los estudiantes no solo desarrollarán habilidades técnicas, sino también resolverán problemas del mundo real, lo que les permitirá apreciar la utilidad de la tecnología en la gestión empresarial. La comprensión de herramientas como hojas de cálculo es esencial en su formación, y les servirá como base para futuros avances en el ámbito tecnológico y administrativo.
