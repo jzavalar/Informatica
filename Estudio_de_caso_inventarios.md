@@ -33,50 +33,6 @@ Don Carlos le pregunta: “¿Hay alguna manera de que podamos automatizar esto?�
 5. **¿Qué desafíos podrían surgir al implementar esta solución en la tienda?**
    - Considere la resistencia al cambio, la capacitación del personal para el uso del nuevo sistema y problemas técnicos.
 
-## Actividad: Desarrollo del sistema de inventarios
-
-En grupos de 3 estudiantes, utilicen [ChatGPT](https://deepai.org/chat) como una herramienta para crear una pequeña aplicación como un prototipo simplificado de un sistema de inventario con las siguientes especificaciones:
-
-1. Estudiante con el **menor número de matrícula** será responsable de lo siguiente:
-
-   - Crear el libro en **Excel** `inventario.xlsx`
-   - Desarrollar las macros que incluyan las siguientes funcionalidades:
-       - Registrar los productos en la hoja `inventario`.
-       - Actualizar cantidades.
-       - Mostrar un informe de los productos con bajo inventario.
-       - Registrar la historia del inventario en el archivo de texto en la hoja: `historial`.
-       - Mostrar la historia del inventario de un periodo de fechas en formato DD-MM-YYYY
-   - Genere las macros para que usen el archivo  modificado que use SQLite
-   - Poner en funcionamiento la aplicación.
-   - Genere una presentación de su aplicación.
-   - Preséntela en un video de 5 minutos grabando la pantalla de su computadora y su voz.
-
-2. Estudiante con el número de matrícula medio será responsable de lo siguiente:
-
-   - Generar el script `inventario.py` en lenguaje **Python**.
-   - Implementar las siguientes funcionalidades:
-       - Registrar los productos en un archivo `inventario.csv` como almacén de persistencia de datos.
-       - Actualizar cantidades.
-       - Mostrar un informe de los productos con bajo inventario.
-       - Registrar la historia del inventario en el archivo de texto en la hoja: `historial.txt`.
-       - Mostrar la historia del inventario de un periodo de fechas en formato DD-MM-YYYY.
-   - Genere el script en Python `inventario_sqlite.py` modificado para que use el archivo `inventario.db` con SQLite, en lugar del archivo `inventario.csv` como base de datos.
-   - Genere una presentación de su aplicación que incluya sus propias reflexiones NO generadas por IA.
-   - Preséntela en un video de 5 minutos grabando la pantalla de su computadora.
-   
-3. Estudiante con el mayor número de matrícula responsable de lo siguiente:
-
-   - Genere el script `inventario.R` en **lenguaje R**.
-   - Implemente las siguientes funcionalidades:
-       - Registrar los productos en SQLite en un archivo `inventario.db`.
-       - Actualizar cantidades.
-       - Mostrar un informe de los productos con bajo inventario.
-       - Registrar la historia del inventario en el archivo de texto en la hoja: `historial.txt`.
-       - Mostrar la historia del inventario de un periodo de fechas en formato DD-MM-YYYY
-   - Genere el script en Python `inventario_sqlite.R` modificado para que use el archivo `inventario.db` con SQLite, en lugar del archivo `inventario.csv` como base de datos.
-   - Genere una presentación de su aplicación que incluya sus propias reflexiones NO generadas por IA.
-   - Preséntela en un video de 5 minutos grabando la pantalla de su computadora. 
-
 ### Habilidades a desarrollar
 
 Para realizar esta actividad, Usted debe enfocarse en las siguientes habilidades:
@@ -95,7 +51,59 @@ Para realizar esta actividad, Usted debe enfocarse en las siguientes habilidades
 
 El estudio de caso de “El Ahorro” resalta la importancia de la programación y el manejo de datos en la administración moderna. A través de un enfoque práctico, los estudiantes no solo desarrollarán habilidades técnicas, sino también resolverán problemas del mundo real, lo que les permitirá apreciar la utilidad de la tecnología en la gestión empresarial. La comprensión de herramientas como hojas de cálculo es esencial en su formación, y les servirá como base para futuros avances en el ámbito tecnológico y administrativo.
 
-## Anexo: Datos de prueba
+## Anexo 1. Proyecto: Desarrollo del sistema de inventarios
+
+En grupos de 3 estudiantes, utilicen [ChatGPT](https://deepai.org/chat) como una herramienta para crear una pequeña aplicación como un prototipo simplificado de un sistema de inventario con las siguientes especificaciones:
+
+1. Estudiante con el **menor número de matrícula** será responsable de lo siguiente:
+
+   - Crear el libro en **Excel** `inventario.xlsx`
+   - Desarrollar las macros que incluyan las siguientes funcionalidades:
+       - Registrar los productos en la hoja `inventario`.
+       - Actualizar cantidades.
+       - Mostrar un informe de los productos con bajo inventario.
+       - Registrar la historia del inventario en el archivo de texto en la hoja: `historial`.
+       - Mostrar la historia del inventario de un periodo de fechas en formato DD-MM-YYYY
+   - Genere otras macros para que usen el archivo `inventario.db` con SQLite como base de datos.
+   - Ponga en funcionamiento las dos aplicaciones.
+   - Genere una presentación de su aplicación que incluya sus propias reflexiones NO generadas por IA y las dificultades que tuvo y cómo las resolvió.
+   - Preséntela en un video de 5 minutos grabando la pantalla de su computadora y su voz.
+   - Haga una compilación de los prompts que le permitieron generar su aplicación. 
+   - Genere un archivo comprimido con todos los archivos de su proyecto y entréguelo por chat al profesor.
+
+2. Estudiante con el número de matrícula medio será responsable de lo siguiente:
+
+   - Generar el script `inventario.py` en lenguaje **Python**.
+   - Implementar las siguientes funcionalidades:
+       - Registrar los productos en un archivo `inventario.csv` como almacén de persistencia de datos.
+       - Actualizar cantidades.
+       - Mostrar un informe de los productos con bajo inventario.
+       - Registrar la historia del inventario en el archivo de texto en la hoja: `historial.txt`.
+       - Mostrar la historia del inventario de un periodo de fechas en formato DD-MM-YYYY.
+   - Genere el script en Python `inventario_sqlite.py` modificado para que use el archivo `inventario.db` con SQLite, en lugar del archivo `inventario.csv` como base de datos.
+   - Ponga en funcionamiento las dos aplicaciones.
+   - Genere una presentación de su aplicación que incluya sus propias reflexiones NO generadas por IA y las dificultades que tuvo y cómo las resolvió.
+   - Preséntela en un video de 5 minutos grabando la pantalla de su computadora.
+   - Haga una compilación de los prompts que le permitieron generar su aplicación. 
+   - Genere un archivo comprimido con todos los archivos de su proyecto y entréguelo por chat al profesor.
+   
+3. Estudiante con el mayor número de matrícula responsable de lo siguiente:
+
+   - Genere el script `inventario.R` en **lenguaje R**.
+   - Implemente las siguientes funcionalidades:
+       - Registrar los productos en SQLite en un archivo `inventario.db`.
+       - Actualizar cantidades.
+       - Mostrar un informe de los productos con bajo inventario.
+       - Registrar la historia del inventario en el archivo de texto en la hoja: `historial.txt`.
+       - Mostrar la historia del inventario de un periodo de fechas en formato DD-MM-YYYY
+   - Genere el script en Python `inventario_sqlite.R` modificado para que use el archivo `inventario.db` con SQLite, en lugar del archivo `inventario.csv` como base de datos.
+   - Ponga en funcionamiento las dos aplicaciones.
+   - Genere una presentación de su aplicación que incluya sus propias reflexiones NO generadas por IA.
+   - Preséntela en un video de 5 minutos grabando la pantalla de su computadora.
+   - Haga una compilación de los prompts que le permitieron generar su aplicación. 
+   - Genere un archivo comprimido con todos los archivos de su proyecto y entréguelo por chat al profesor. 
+
+## Anexo 2: Datos de prueba
 
 A continuación, se presenta un ejemplo de los 50 datos que Don Carlos podría estar registrando manualmente para llevar el control de su inventario en la tienda de abarrotes "El Ahorro". Cada registro contendrá información esencial sobre los productos disponibles, permitiéndole a Don Carlos tener una visión clara de su inventario. A continuación se muestra un ejemplo de los datos registrados.
 
@@ -154,3 +162,4 @@ A continuación, se presenta un ejemplo de los 50 datos que Don Carlos podría e
 
 Este conjunto de datos incluye diversas categorías de productos que son comunes en una tienda de abarrotes, así como información relevante para la gestión del inventario. Don Carlos podría utilizar esta información para hacer un seguimiento de las existencias, planificar pedidos y prevenir faltantes en su tienda.
 
+# Anexo 3: Ejemplo de lo realizable
