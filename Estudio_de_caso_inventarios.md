@@ -161,5 +161,3 @@ A continuación, se presenta un ejemplo de los 50 datos que Don Carlos podría e
 | 50  | Gelatina Instantánea       | Postres          | 20                | $10.00          | 24/01/2024        | Proveedor AF           |
 
 Este conjunto de datos incluye diversas categorías de productos que son comunes en una tienda de abarrotes, así como información relevante para la gestión del inventario. Don Carlos podría utilizar esta información para hacer un seguimiento de las existencias, planificar pedidos y prevenir faltantes en su tienda.
-
-# Anexo 3: Ejemplo de lo realizable
