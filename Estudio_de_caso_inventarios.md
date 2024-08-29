@@ -31,7 +31,7 @@ Don Carlos le pregunta: “¿Hay alguna manera de que podamos automatizar esto?�
 
 ## Actividad
 
-En grupos de 3 a 5 estudiantes, desarrollen un prototipo simplificado de un sistema de inventario utilizando una hoja de cálculo. Incluyan las siguientes funcionalidades:
+En grupos de 3 estudiantes, desarrollen un prototipo simplificado de un sistema de inventario utilizando una hoja de cálculo. Incluyan las siguientes funcionalidades:
 
 - Registro de productos.
 - Actualización de cantidades.
