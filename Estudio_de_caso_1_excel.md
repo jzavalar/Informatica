@@ -1,4 +1,4 @@
-# Estudio de Caso: Análisis de Datos con Excel
+# Estudio de Caso 1: Análisis de Datos con Excel
 
 ## Introducción
 Las bases de datos son colecciones estructuradas de información que permiten almacenar, gestionar y recuperar datos eficientemente. Excel, aunque no es un sistema de gestión de bases de datos en sí mismo, ofrece potentes herramientas para analizar conjuntos de datos mediante sus funciones, gráficos y tablas dinámicas. En el contexto de administración, el análisis de datos se vuelve fundamental para la toma de decisiones empresariales informadas.
