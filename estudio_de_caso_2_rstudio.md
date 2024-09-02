@@ -1,4 +1,4 @@
-# **Estudio de Caso: Análisis de Datos con RStudio**
+# **Estudio de Caso 2: Análisis de Datos con RStudio**
 
 ## **Introducción**
 
