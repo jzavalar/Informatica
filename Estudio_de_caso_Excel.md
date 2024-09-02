@@ -57,14 +57,14 @@ A continuación se dan las instrucciones paso a paso para procesar los datos en 
 8. **Guardar el Libro de Excel**:
    - Ve a la pestaña "Archivo" y selecciona "Guardar Como".
    - Elige la ubicación donde deseas guardar el archivo.
-   - En el campo "Nombre del archivo", ingresa un nombre (por ejemplo, "Análisis_Ventas").
+   - En el campo "Nombre del archivo", ingresa un nombre (por ejemplo, "analisis_ventas").
    - Asegúrate que el formato sea "Libro de Excel (*.xlsx)" y haz clic en "Guardar".
 
 10. **Guardar como CSV**:
    A continuación, se guardan los datos en formato CSV (valores separados por comas), un formato prácticamente universal, para guardar tablas de datos.
    - Con el libro aún abierto, vuelve a la pestaña "Archivo".
    - Selecciona "Guardar Como" y elige la misma ubicación que antes.
-   - En el campo "Nombre del archivo", puedes usar el mismo nombre pero con la extensión "csv" (por ejemplo, "Análisis_Ventas.csv").
+   - En el campo "Nombre del archivo", puedes usar el mismo nombre pero con la extensión "csv" (por ejemplo, "analisis_ventas.csv").
    - En el menú desplegable de “Tipo”, elige "CSV (Comma delimited) (*.csv)" y haz clic en "Guardar".
    - Si aparece un mensaje advirtiendo que algunas características de Excel no se guardarán en el formato CSV, haz clic en "Sí". Esto es normal, ya que CSV solo guarda texto y números.
 
@@ -83,6 +83,16 @@ Comprueba que, después de seguir los pasos anteriores, la tabla dinámica deber
 | Sombrero    | 70            |
 | Zapatos     | 160           |
 | **Total**   | 620           |
+
+Compare el archivo CSV `analisis_ventas.csv` con el siguiente código.
+```
+ID Venta,Producto,Cantidad,Precio Unitario,Fecha
+1,Camiseta,5,20,2023-10-01
+2,Pantalón,3,30,2023-10-02
+3,Chaqueta,2,50,2023-10-03
+4,Zapatos,4,40,2023-10-04
+5,Sombrero,7,10,2023-10-05
+```
 
 ## Conclusión
 Este ejercicio ilustra la importancia del análisis de datos en la administración. Al manipular estos datos en Excel y guardarlos tanto en formato de Excel como en CSV, no solo se dominan las herramientas prácticas, sino que también se prepara para enfrentar problemas reales en el ámbito empresarial usando datos para tomar decisiones más informadas. El formato CSV es especialmente útil para la interoperabilidad con otras aplicaciones y sistemas de gestión de datos.
