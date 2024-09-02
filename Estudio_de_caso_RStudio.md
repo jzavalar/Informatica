@@ -160,12 +160,19 @@ A continuación se presenta una comparación entre R (específicamente sus dataf
    a. **Calcular el Total de Ventas**:
       - En la ventana de "Consola" de RStudio, ingresa la siguiente instrucción para calcular el total de ventas por cada producto:
       ```R
+      # Cargar la biblioteca dplyr para manipulación de datos
       library(dplyr)
-      sales <- read_csv("analisis_ventas.csv")
-      sales_total <- sales %>%
-      group_by(Producto) %>%
-      summarize(Total = sum(Precio_Unitario * Cantidad))
+      
+      # Leer el archivo CSV que contiene los datos de ventas
+      ventas <- read_csv("analisis_ventas.csv")
+
+      # Agrupar los datos por la columna 'Producto' y calcular el total de ventas
+      ventas_total <- ventas %>%
+        group_by(Producto) %>%  # Agrupar por producto
+        summarize(Total = sum(Precio_Unitario * Cantidad))  # Calcular el total de ventas por producto
       ```
+      **Explicación breve**: Este script utiliza la biblioteca `dplyr` para realizar análisis de datos en R. Primeramente, se carga la biblioteca necesaria y se importan los datos desde un archivo CSV llamado "analisis_ventas.csv". Luego, se agrupan los datos por la columna `Producto` para calcular el `total de ventas`. Esto se lleva a cabo multiplicando el `Precio_Unitario` por la `Cantidad` vendida y sumando los resultados para cada producto. El resultado se almacena en el dataframe `sales_total`, que contiene el total de ventas para cada producto.
+    
       - Asegúrate de que los datos estén bien cargados y que no haya errores en la sintaxis.
 
       **Explicación:** La función `summarise` agrupa los datos por cada producto y calcula el total de ventas para cada grupo. Esto nos permite obtener la venta total generada por cada producto.
@@ -180,7 +187,7 @@ b. **Crear una Tabla Dinámica con RStudio**
       - Para crear una tabla dinámica similar a la que se generó en Excel, puedes utilizar la función `kable` del paquete `knitr`:
       ```R
       library(knitr)
-      kable(sales_total)
+      kable(ventas_total)
       ```
       - Asegúrate de que la tabla se muestre correctamente y que los valores estén bien calculados.
 
@@ -201,7 +208,7 @@ Después de seguir los pasos anteriores, la tabla dinámica debería verse así:
 
 ## **Automatización del Análisis**
 
-Puedes automatizar el proceso de carga de un archivo CSV, la generación de una tabla dinámica y la creación de una gráfica en R utilizando los paquetes `dplyr`, `tidyverse` y `ggplot2`. A continuación, se ilustra eso con un script completo que realiza estas tareas. El script en R incluye la validación de la existencia de los paquetes, con la carga condicional de los mismos y mensajes informativos al usuario sobre el nombre del script, su objetivo, los prerrequisitos y los procesos que realiza:
+Se puede automatizar el proceso de carga de un archivo CSV, la generación de una tabla dinámica y la creación de una gráfica en R utilizando los paquetes `dplyr`, `tidyverse` y `ggplot2`. A continuación, se ilustra eso con un script completo que realiza estas tareas. El script en R incluye la validación de la existencia de los paquetes, con la carga condicional de los mismos y mensajes informativos al usuario sobre el nombre del script, su objetivo, los prerrequisitos y los procesos que realiza:
 
 **Script en R**
 
