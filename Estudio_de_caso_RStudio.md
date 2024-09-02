@@ -191,6 +191,95 @@ Después de seguir los pasos anteriores, la tabla dinámica debería verse así:
 | Zapatos     | 160   |
 | **Total**   | 620   |
 
+## **Automatización del Análisis**
+
+Puedes automatizar el proceso de carga de un archivo CSV, la generación de una tabla dinámica y la creación de una gráfica en R utilizando los paquetes `dplyr`, `tidyverse` y `ggplot2`. A continuación, se ilustra eso con un script completo que realiza estas tareas. El script en R incluye la validación de la existencia de los paquetes, con la carga condicional de los mismos y mensajes informativos al usuario sobre el nombre del script, su objetivo, los prerrequisitos y los procesos que realiza:
+
+**Script en R**
+
+```R
+# Nombre del Script: Analisis_Ventas.R
+# Objetivo: Automatizar la carga de un archivo CSV, 
+# calcular el total de ventas por producto y generar una gráfica correspondiente.
+# Prerrequisitos: El archivo 'Análisis_Ventas.csv' debe estar en el directorio actual.
+
+# Mensaje informativo al usuario
+cat("=== Script: Analisis_Ventas.R ===\n")
+cat("Objetivo: Automatizar la carga de un archivo CSV,\n")
+cat("calcular el total de ventas por producto y generar una gráfica correspondiente.\n")
+cat("Asegúrate de tener el archivo 'Análisis_Ventas.csv' en el directorio actual.\n")
+cat("===================================\n\n")
+
+# Función para instalar y cargar paquetes
+load_packages <- function(packages) {
+  for (pkg in packages) {
+    if (!require(pkg, character.only = TRUE)) {
+      install.packages(pkg, dependencies = TRUE)
+      library(pkg, character.only = TRUE)
+      cat(paste("Instalado y cargado:", pkg, "\n"))
+    } else {
+      library(pkg, character.only = TRUE)
+      cat(paste("Cargado:", pkg, "\n"))
+    }
+  }
+}
+
+# Listar los paquetes requeridos
+required_packages <- c("tidyverse", "dplyr", "ggplot2")
+
+# Cargar los paquetes
+load_packages(required_packages)
+
+# 1. Cargar el archivo CSV
+file_path <- "Análisis_Ventas.csv"  # Ajusta la ruta al archivo CSV si es necesario
+ventas <- read_csv(file_path)
+
+# 2. Validar si el archivo se ha cargado correctamente
+if (is.null(ventas) || nrow(ventas) == 0) {
+  stop("Error: No se pudo cargar el archivo 'Análisis_Ventas.csv'. Verifica que la ruta y el nombre del archivo sean correctos.")
+}
+
+# 3. Generar la tabla dinámica
+ventas_total <- ventas %>%
+  group_by(Producto) %>%
+  summarise(Total_Ventas = sum(Precio_Unitario * Cantidad, na.rm = TRUE), .groups = 'drop')
+
+# Mostrar la tabla dinámica
+cat("\nTabla dinámica generada:\n")
+print(ventas_total)
+
+# 4. Generar la gráfica correspondiente
+ggplot(ventas_total, aes(x = Producto, y = Total_Ventas, fill = Producto)) +
+  geom_bar(stat = "identity") +
+  labs(title = "Total de Ventas por Producto",
+       x = "Producto",
+       y = "Total de Ventas") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+# 5. Guardar la gráfica
+ggsave("grafico_total_ventas.png", width = 8, height = 6)
+cat("\nGráfica guardada como 'grafico_total_ventas.png'.\n")
+```
+
+**Explicación del script**
+
+1. **Mensajes Informativos**: Al inicio del script, se incluyen mensajes que informan al usuario sobre el propósito del script, su objetivo, y los requerimientos necesarios (el archivo CSV debe estar presente).
+
+2. **Función `load_packages`**: Esta función se encarga de verificar si cada paquete está instalado. Si no lo está, lo instala y lo carga; si ya está instalado, simplemente lo carga. Esto se hace de manera que se eviten errores al ejecutar el script.
+
+3. **Validación de Carga de Datos**: Después de intentar cargar el archivo CSV, se añade una validación para asegurar que los datos se han cargado correctamente (verificando que no sea `NULL` y que contenga filas). En caso contrario, se genera un mensaje de error y se detiene el script.
+
+4. **Mensajes para el Usuario**: Se incluyen mensajes que indican qué sucede en cada etapa del proceso, especialmente al finalizar la carga y generación de la gráfica.
+
+**Ejecución**
+
+Para ejecutar el script:
+- Asegúrate de que el archivo `Análisis_Ventas.csv` esté en la ubicación correcta que especificaste en `file_path`.
+- Copia y pega el código en un archivo `.R` o ejecútalo directamente en la consola de R. 
+
+Este script es relativamente robusto y proporciona una mejor experiencia al usuario al indicar el estado de las operaciones que se están llevando a cabo.
+
 ## **Conclusión**
 
 Este ejercicio ilustra la importancia del análisis de datos en la administración. Al manipular estos datos en RStudio y generar la tabla dinámica similar a la que se generó en Excel, no solo se adquiere el dominio de herramientas prácticas más potentes como R y RStudio, sino que también se está preparado para enfrentar problemas reales en el ámbito empresarial usando datos para tomar decisiones más informadas.
