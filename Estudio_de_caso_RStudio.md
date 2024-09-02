@@ -42,19 +42,19 @@ A continuación se presenta una comparación entre R (específicamente sus dataf
 
    b. **Convierte el archivo CSV a un archivo Excel**:
       ```R
-      convert("Análisis_Ventas.csv", "Análisis_Ventas_exportado.xlsx")
+      convert("analisis_ventas.csv", "analisis_ventas_exportado.xlsx")
       ```
       - Asegúrate de que el archivo se haya creado correctamente.
 
    c. **Convierte el Archivo CSV a un archivo JSON**:
       ```R
-      convert("Análisis_Ventas.csv", "Análisis_Ventas_exportado.json")
+      convert("analisis_ventas.csv", "analisis_ventas_exportado.json")
       ```
       - Asegúrate de que el archivo se haya creado correctamente.
 
    d. **Convierte el Archivo CSV a un archivo XML**:
       ```R
-      convert("Análisis_Ventas.csv", "Análisis_Ventas_exportado.xml")
+      convert("analisis_ventas.csv", "analisis_ventas_exportado.xml")
       ```
       - Asegúrate de que el archivo se haya creado correctamente.
 
@@ -72,14 +72,14 @@ A continuación se presenta una comparación entre R (específicamente sus dataf
 
    b. **Cargar el Archivo CSV**:
       - Ve a la pestaña "Archivo" y selecciona "Importar datos".
-      - Selecciona el archivo "Análisis_Ventas.csv" que se generó anteriormente.
+      - Selecciona el archivo "analisis_ventas.csv" que se generó anteriormente.
       - Asegúrate de que el tipo de archivo sea "CSV (Comma delimited)" y haz clic en "Aceptar".
 
    **Explicación:** Al cargar el archivo CSV, RStudio puede leer los datos y prepararlos para el análisis. Esta sección es fundamental para obtener los datos correctos para el análisis.
 
 3. **Carga del Archivo CSV con `rio`**
 
-   En esta sección, vamos a cargar el archivo CSV "Análisis_Ventas.csv" en RStudio.
+   En esta sección, vamos a cargar el archivo CSV "analisis_ventas.csv" en RStudio.
 
    **Instrucciones:**
 
@@ -87,14 +87,14 @@ A continuación se presenta una comparación entre R (específicamente sus dataf
       - En la ventana de "Consola" de RStudio, ingresa la siguiente instrucción:
       ```R
       library(rio)
-      ventas <- read_csv("Análisis_Ventas.csv")
+      ventas <- read_csv("analisis_ventas.csv")
       ```
       - Asegúrate de que el archivo se haya cargado correctamente como un dataframe llamado `ventas`.
 
    b. **Importar el Archivo CSV**:
       - En la ventana de "Consola" de RStudio, ingresa la siguiente instrucción:
       ```R
-      ventas_imp <- import("Análisis_Ventas.csv")
+      ventas_imp <- import("analisis_ventas.csv")
       ```
       - Asegúrate de que el archivo se haya cargado correctamente como un dataframe llamado `ventas_imp`.
 
@@ -108,25 +108,25 @@ A continuación se presenta una comparación entre R (específicamente sus dataf
 
    a. **Convierte el dataframe en memoria y el archivo CSV a un archivo Excel**:
       ```R
-      write_xlsx(ventas, "Análisis_Ventas.xlsx")
+      write_xlsx(ventas, "analisis_ventas.xlsx")
       ```
       - Asegúrate de que el archivo se haya creado correctamente.
 
    b. **Convierte el Archivo CSV a un archivo JSON**:
       ```R
-      write_json(ventas, "Análisis_Ventas.json")
+      write_json(ventas, "analisis_ventas.json")
       ```
       - Asegúrate de que el archivo se haya creado correctamente.
 
    c. **Convierte el Archivo CSV a un archivo XML**:
       ```R
-      write_xml(ventas, "ventas.xml")
+      write_xml(ventas, "analisis_ventas.xml")
       ```
       - Asegúrate de que el archivo se haya creado correctamente.
 
    d. También puede usarse el paquete `rio`, con la función `export(dataframe, "archivo_de_salida.formato")`, por ejemplo:
       ```R
-      export(ventas_imp, "Análisis_Ventas_exportado.xlsx")
+      export(ventas_imp, "analisis_ventas_exportado.xlsx")
       ```
 
 5. **Visualizar los Datos**
@@ -136,7 +136,7 @@ A continuación se presenta una comparación entre R (específicamente sus dataf
    **Instrucciones:**
 
    a. **Visualizar los Datos**:
-      - Una vez que se haya cargado el archivo CSV, ve a la pestaña "Explorador" y selecciona el archivo "Análisis_Ventas.csv".
+      - Una vez que se haya cargado el archivo CSV, ve a la pestaña "Explorador" y selecciona el archivo "analisis_ventas.csv".
       - Haz clic en el botón "Visualizar" y selecciona la opción "Tabla" para visualizar los datos.
 
    **Explicación:** Al visualizar los datos, podemos verificar que los datos estén bien cargados y que no haya errores en la sintaxis. Esto es importante para asegurarnos de que los datos sean correctos para el análisis.
@@ -153,7 +153,7 @@ A continuación se presenta una comparación entre R (específicamente sus dataf
       - En la ventana de "Consola" de RStudio, ingresa la siguiente instrucción para calcular el total de ventas por cada producto:
       ```R
       library(dplyr)
-      sales <- read_csv("Análisis_Ventas.csv")
+      sales <- read_csv("analisis_ventas.csv")
       sales_total <- sales %>%
       group_by(Producto) %>%
       summarize(Total = sum(Precio_Unitario * Cantidad))
@@ -198,13 +198,13 @@ Puedes automatizar el proceso de carga de un archivo CSV, la generación de una 
 **Script en R**
 
 ```R
-# Nombre del Script: Analisis_Ventas.R
+# Nombre del Script: analisis_ventas.R
 # Objetivo: Automatizar la carga de un archivo CSV, 
 # calcular el total de ventas por producto y generar una gráfica correspondiente.
-# Prerrequisitos: El archivo 'Análisis_Ventas.csv' debe estar en el directorio actual.
+# Prerrequisitos: El archivo 'analisis_ventas.csv' debe estar en el directorio actual.
 
 # Mensaje informativo al usuario
-cat("=== Script: Analisis_Ventas.R ===\n")
+cat("=== Script: analisis_ventas.R ===\n")
 cat("Objetivo: Automatizar la carga de un archivo CSV,\n")
 cat("calcular el total de ventas por producto y generar una gráfica correspondiente.\n")
 cat("Asegúrate de tener el archivo 'Análisis_Ventas.csv' en el directorio actual.\n")
@@ -231,12 +231,12 @@ required_packages <- c("tidyverse", "dplyr", "ggplot2")
 load_packages(required_packages)
 
 # 1. Cargar el archivo CSV
-file_path <- "Análisis_Ventas.csv"  # Ajusta la ruta al archivo CSV si es necesario
+file_path <- "analisis_ventas.csv"  # Ajusta la ruta al archivo CSV si es necesario
 ventas <- read_csv(file_path)
 
 # 2. Validar si el archivo se ha cargado correctamente
 if (is.null(ventas) || nrow(ventas) == 0) {
-  stop("Error: No se pudo cargar el archivo 'Análisis_Ventas.csv'. Verifica que la ruta y el nombre del archivo sean correctos.")
+  stop("Error: No se pudo cargar el archivo 'analisis_ventas.csv'. Verifica que la ruta y el nombre del archivo sean correctos.")
 }
 
 # 3. Generar la tabla dinámica
@@ -275,7 +275,7 @@ cat("\nGráfica guardada como 'grafico_total_ventas.png'.\n")
 **Ejecución**
 
 Para ejecutar el script:
-- Asegúrate de que el archivo `Análisis_Ventas.csv` esté en la ubicación correcta que especificaste en `file_path`.
+- Asegúrate de que el archivo `analisis_ventas.csv` esté en la ubicación correcta que especificaste en `file_path`.
 - Copia y pega el código en un archivo `.R` o ejecútalo directamente en la consola de R. 
 
 Este script es relativamente robusto y proporciona una mejor experiencia al usuario al indicar el estado de las operaciones que se están llevando a cabo.
