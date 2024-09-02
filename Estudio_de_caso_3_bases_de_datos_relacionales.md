@@ -1,4 +1,4 @@
-# **Estudio de Caso: Bases de Datos Relacionales**
+# **Estudio de Caso 3: Bases de Datos Relacionales**
 
 ## **Introducción**
 
