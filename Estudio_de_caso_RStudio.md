@@ -1,7 +1,7 @@
-## **Estudio de Caso: Análisis de Datos con RStudio**
+# **Estudio de Caso: Análisis de Datos con RStudio**
 =============================
 
-### **Introducción**
+## **Introducción**
 ------------
 
 En R, las **bases de datos** se manejan a través de *estructuras de datos* conocidas como *dataframes*. Un **dataframe** es un tipo de estructura de datos que se utiliza para almacenar y manipular grandes cantidades de datos en R. Los dataframes pueden ser creados a partir de archivos de texto, como CSV, o mediante la carga de datos desde bases de datos externas. 
@@ -14,7 +14,7 @@ R es una herramienta poderosa para el análisis de datos y ofrece una amplia var
 
 A continuación se presenta una comparación entre R (específicamente sus dataframes) y Excel en cuanto a los límites de un libro y una hoja, destacando las características y limitaciones de cada uno.
 
-### Comparación entre R y Excel
+## Comparación entre R y Excel
 
 | **Característica**              | **Excel**                                            | **R (Dataframe)**                          |
 |----------------------------------|----------------------------------------------------|--------------------------------------------|
@@ -28,7 +28,7 @@ A continuación se presenta una comparación entre R (específicamente sus dataf
 | **Lectura y Escritura de Archivos**| Varios formatos pero lenta para archivos grandes. | Múltiples formatos, rápidamente y grandes volúmenes de datos. |
 
 
-### **Práctica**
+## **Práctica**
 
 1. **Conversión de archivos**
 
@@ -148,6 +148,8 @@ a. **Visualizar los Datos**:
 5. **Calcular el Total de Ventas**
 En esta sección, se calculará el total de ventas por cada producto utilizando la función `summarise` del paquete `dplyr`; recuerde que se debe instalar y/o cargar el paquete, previamente.
 
+**Pregunta** : ¿Cuál fue la venta total generada por cada producto?
+
 **Instrucciones:**
 
 a. **Calcular el Total de Ventas**:
@@ -178,10 +180,7 @@ a. **Crear una Tabla Dinámica con RStudio**:
 
 **Explicación:** La función `kable` crea una tabla dinámica que puede ser utilizada para visualizar los resultados del análisis. Esto es similar a la tabla dinámica generada en Excel.
 
-### Pregunta para Responder con la Tabla Dinámica
-**¿Cuál fue la venta total generada por cada producto?**
-
-**Solución del Ejercicio Práctico:**
+## **Solución**
 Después de seguir los pasos anteriores, la tabla dinámica debería verse así:
 
 | Producto    | Total |
@@ -193,4 +192,5 @@ Después de seguir los pasos anteriores, la tabla dinámica debería verse así:
 | Zapatos     | 160  |
 | **Total**   | 620  |
 
-**Reflexión Final:** Este ejercicio ilustra la importancia del análisis de datos en la administración. Al manipular estos datos en RStudio y generar una tabla dinámica similar a la que se generó en Excel, los estudiantes no solo dominan herramientas prácticas, sino que también se preparan para enfrentar problemas reales en el ámbito empresarial usando datos para tomar decisiones más informadas.
+## **Conclusión**
+Este ejercicio ilustra la importancia del análisis de datos en la administración. Al manipular estos datos en RStudio y generar la tabla dinámica similar a la que se generó en Excel, no solo se adquire el dominio de herramientas prácticas más potentes como R y RStudio, sino que también se prepara para enfrentar problemas reales en el ámbito empresarial usando datos para tomar decisiones más informadas.
