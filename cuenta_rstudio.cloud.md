@@ -1,4 +1,4 @@
-# Cuenta de RStudio.cloud en [posit.cloud](https://posit.cloud)
+# Cuenta de RStudio en línea
 
 Instrucciones detalladas para que un usuario pueda crear una cuenta en el sitio web posit.cloud y para que inicie un proyecto en R llamado "EstudiodecasoRStudio" y pueda ejecutar código R en RStudio en línea.
 
