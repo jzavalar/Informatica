@@ -1,8 +1,8 @@
-# Cuenta de RStudio en línea
+# RStudio en Línea
 
 Instrucciones detalladas para que un usuario pueda crear una cuenta en el sitio web posit.cloud y para que inicie un proyecto en R llamado "EstudiodecasoRStudio" y pueda ejecutar código R en RStudio en línea.
 
-## Crear una cuenta en posit.cloud
+## Crear la Cuenta
 
 1. **Acceso a la Página Web:**
    - Abre tu navegador web y dirígete a [posit.cloud](https://posit.cloud).
@@ -28,7 +28,7 @@ Instrucciones detalladas para que un usuario pueda crear una cuenta en el sitio 
    - Regresa al sitio de posit.cloud y haz clic en "Sign In" o "Iniciar Sesión".
    - Ingresa tu correo electrónico y la contraseña que utilizaste para registrarte.
 
-## Crear un proyecto de R
+## Crear un Proyecto
 
 1. **Acceder a RStudio Cloud:**
    - Una vez que hayas iniciado sesión en posit.cloud, dirígete a RStudio Cloud. (El enlace directo es [rstudio.cloud](https://rstudio.cloud)).
