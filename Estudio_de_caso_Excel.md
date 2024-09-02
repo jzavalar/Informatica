@@ -1,11 +1,9 @@
 # Estudio de Caso: Análisis de Datos con Excel
 
-## Parte Teórica
-
-### Introducción
+## Introducción
 Las bases de datos son colecciones estructuradas de información que permiten almacenar, gestionar y recuperar datos eficientemente. Excel, aunque no es un sistema de gestión de bases de datos en sí mismo, ofrece potentes herramientas para analizar conjuntos de datos mediante sus funciones, gráficos y tablas dinámicas. En el contexto de administración, el análisis de datos se vuelve fundamental para la toma de decisiones empresariales informadas.
 
-### Preguntas Guía
+## Preguntas Guía
 1. **¿Cómo influye la organización de los datos en la efectividad de su análisis?**
    - Reflexiona sobre la estructura de tus datos y cómo una mala organización podría dificultar la obtención de resultados valiosos.
   
@@ -28,7 +26,7 @@ Para ilustrar el uso de Excel en el análisis de datos, vamos a considerar los s
 | 4        | Zapatos     | 4        | 40               | 2023-10-04  |
 | 5        | Sombrero    | 7        | 10               | 2023-10-05  |
 
-### Instrucciones
+**Instrucciones**
 
 A continuación se dan las instrucciones paso a paso para procesar los datos en Excel.
 
@@ -74,7 +72,7 @@ A continuación se dan las instrucciones paso a paso para procesar los datos en 
 **¿Cuál fue la venta total generada por cada producto?**
 Crea un pantallazo de tu tabla dinámica y publícala en el chat de Telegram del grupo.
 
-## Solución
+### Solución
 Comprueba que, después de seguir los pasos anteriores, la tabla dinámica debería verse así:
 
 | Producto    | Suma de Total |
@@ -86,5 +84,5 @@ Comprueba que, después de seguir los pasos anteriores, la tabla dinámica deber
 | Zapatos     | 160           |
 | **Total**   | 620           |
 
-### Reflexión
-Este ejercicio ilustra la importancia del análisis de datos en la administración. Al manipular estos datos en Excel y guardarlos tanto en formato de Excel como en CSV, los estudiantes no solo dominan herramientas prácticas, sino que también se preparan para enfrentar problemas reales en el ámbito empresarial usando datos para tomar decisiones más informadas. El formato CSV es especialmente útil para la interoperabilidad con otras aplicaciones y sistemas de gestión de datos.
+## Conclusión
+Este ejercicio ilustra la importancia del análisis de datos en la administración. Al manipular estos datos en Excel y guardarlos tanto en formato de Excel como en CSV, no solo se dominan las herramientas prácticas, sino que también se prepara para enfrentar problemas reales en el ámbito empresarial usando datos para tomar decisiones más informadas. El formato CSV es especialmente útil para la interoperabilidad con otras aplicaciones y sistemas de gestión de datos.
