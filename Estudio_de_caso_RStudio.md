@@ -6,13 +6,21 @@ En R, las **bases de datos** se manejan a través de *estructuras de datos* cono
 
 Ambas herramientas tienen sus ventajas y desventajas, y la elección entre usar R o Excel dependerá de las necesidades específicas del usuario y la naturaleza del proyecto en cuestión.
 
+## **Preguntas guía**
+
+1. **¿Cuáles son las ventajas y desventajas de utilizar R en comparación con Excel para el análisis de datos, y en qué situaciones es preferible usar cada herramienta?**
+
+2. **¿Qué pasos son necesarios para cargar y manipular un archivo CSV en R, y cómo se pueden convertir los datos a otros formatos, como Excel, JSON y XML?**
+
+3. **¿Cómo se calcula el total de ventas por producto utilizando R, y qué métodos se pueden emplear para visualizar y presentar estos resultados de manera efectiva?**
+
+## **Comparación entre R y Excel**
+
 Excel es una herramienta popular para el análisis de datos, pero tiene algunas *limitaciones* en cuanto a la cantidad de datos que puede manejar. **Excel** es más accesible para trabajos que no requieren procesamiento intensivo de datos y es una herramienta práctica para realizar análisis básicos o presentaciones visuales de datos. Sin embargo, tiene limitaciones significativas en el manejo de grandes volúmenes de datos y funcionalidades avanzadas.
 
 **R** es una herramienta poderosa para el análisis de datos y ofrece una amplia variedad de paquetes y funcionalidades para *importar*, *convertir* y *exportar* archivos. Algunos ejemplos de paquetes incluyen `readr` para leer archivos de texto, `writexl` para exportar a archivos Excel y `rio` para interactuar con archivos de datos. **R** es una herramienta más robusta y versátil para análisis de datos, especialmente cuando se trabaja con grandes conjuntos de datos. La capacidad del dataframe para manejar más filas y columnas de manera eficiente, así como su flexibilidad para realizar cálculos y análisis complejos, hace que sea la opción preferida en entornos académicos y de investigación.
 
 A continuación se presenta una comparación entre R (específicamente sus dataframes) y Excel en cuanto a los límites de un libro y una hoja, destacando las características y limitaciones de cada uno.
-
-## Comparación entre R y Excel
 
 | **Característica**              | **Excel**                                            | **R (Dataframe)**                          |
 |----------------------------------|----------------------------------------------------|--------------------------------------------|
