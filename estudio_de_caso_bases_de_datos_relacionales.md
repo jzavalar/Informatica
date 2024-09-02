@@ -96,7 +96,7 @@ conn.commit()
 print("La base de datos Sakila ha sido implementada con éxito")
 print("Puedes utilizar la base de datos con SQLite3 o un cliente SQL")
 ```
-### **Carga de datos con archivos CSV*
+### **Carga de datos con archivos CSV**
 
 Los *archivos CSV* (Comma Separated Values), también se utilizan para cargar datos en una base de datos relacional de varias maneras:
 
