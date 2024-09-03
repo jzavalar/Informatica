@@ -37,7 +37,7 @@ A continuación se presenta una comparación entre R (específicamente sus dataf
 
 1. **Conversión de archivos**
 
-   El paquete `rio` permite convertir un archivo directamente, sin cargarlo en memoria. A continuación se va a convertir el Archivo CSV a los tres tipos de archivo de datos más frecuentes.
+   El paquete `rio` (R Input/Output) se considera una *"Navaja Suiza para la entrada y salida de datos"* que permite convertir un archivo directamente, sin cargarlo en memoria. A continuación se va a convertir el archivo CSV a los tres tipos de archivo de datos más frecuentes.
 
    **Instrucciones**:
 
@@ -48,28 +48,30 @@ A continuación se presenta una comparación entre R (específicamente sus dataf
       ```
       - Asegúrate de que el paquete esté instalado correctamente.
 
+      Para que puedas utilizar la funcionalidad de un paquete en R, requieres cargarlo a tu proyecto. Por ejemplo, después de instalar el paquete `rio`, debes asegurarte de instalar los formatos con los siguientes comandos: 
+      ```R
+      library(rio)
+      install_formats()
+      ```
+
    b. **Convierte el archivo CSV a un archivo Excel**:
+      Ahora sí estás en condiciones de usar `rio` para convertir un archivo que está en tu directorio de trabajo o que esté en cualquier otra ubicación, incluso desde Internet, con el siguiente comando general: `convert("ruta/al/archivo/a/covertir", "ruta/local/al/archivo/covertido.tipo")`, donde `tipo` es la extención del archivo covertido, por ejemplo, xlsx, csv, dbf, dta, sas, etc. Por ejemplo:  
       ```R
+      # convertir a a un archivo Excel
       convert("analisis_ventas.csv", "analisis_ventas_exportado.xlsx")
-      ```
-      - Asegúrate de que el archivo se haya creado correctamente.
 
-   c. **Convierte el Archivo CSV a un archivo JSON**:
-      ```R
+      # convertir a un archivo JSON
       convert("analisis_ventas.csv", "analisis_ventas_exportado.json")
-      ```
-      - Asegúrate de que el archivo se haya creado correctamente.
 
-   d. **Convierte el Archivo CSV a un archivo XML**:
-      ```R
+      # convertir a un archivo XML
       convert("analisis_ventas.csv", "analisis_ventas_exportado.xml")
       ```
-      - Asegúrate de que el archivo se haya creado correctamente.
+      - Asegúrate de que el archivo se haya convertido correctamente.
 
    **Instrucciones Adicionales**:
    Asegúrate de publicar el pantallazo del directorio con los archivos exportados y convertidos en el grupo de Telegram.
 
-2. **Carga del Archivo CSV**
+1. **Carga del Archivo CSV**
 
    En esta sección, se cargará el archivo CSV en RStudio.
 
@@ -85,17 +87,23 @@ A continuación se presenta una comparación entre R (específicamente sus dataf
 
    **Explicación:** Al cargar el archivo CSV, RStudio puede leer los datos y prepararlos para el análisis. Esta sección es fundamental para obtener los datos correctos para el análisis.
 
-3. **Carga del Archivo CSV con `rio`**
+2. **Carga del Archivo CSV con `rio`**
 
-   En esta sección, vamos a cargar el archivo CSV "analisis_ventas.csv" en RStudio.
+   En esta sección, vamos a cargar el archivo CSV `analisis_ventas.csv` a la memoria, en un *dataframe* con un nombre dado, en RStudio.
 
    **Instrucciones:**
 
    a. **Cargar el Archivo CSV**:
       - En la ventana de "Consola" de RStudio, ingresa la siguiente instrucción:
       ```R
+      # Se carga el paquete rio
       library(rio)
+
+      # Se carga el archivo analisis_ventas.csv al dataframe llamado ventas
       ventas <- read_csv("analisis_ventas.csv")
+
+      # Se muestra el dataframe en RStudio
+      View(ventas)
       ```
       - Asegúrate de que el archivo se haya cargado correctamente como un dataframe llamado `ventas`.
 
@@ -108,33 +116,67 @@ A continuación se presenta una comparación entre R (específicamente sus dataf
 
    **Explicación:** La función `read_csv` es utilizada para leer archivos CSV y crear un dataframe en R. El paquete `rio` es una herramienta poderosa para importar y exportar archivos en R.
 
-4. **Exportación de Dataframes**
+3. **Exportación de Dataframes**
 
-   Una vez que el dataframe está en la memoria (`ventas`), este se puede exportar. Van tres ejemplos de cómo exportar a los tres tipos de archivo de datos más frecuentes.
+   Una vez que el dataframe está en la memoria (`ventas`), éste se puede exportar. Van tres ejemplos de cómo exportar a los tres tipos de archivo de datos más frecuentes.
 
    **Instrucciones**:
 
    a. **Convierte el dataframe en memoria y el archivo CSV a un archivo Excel**:
+
+   Se puede usar la función `write_xlsx(dataframe, "archivo.xlsx")` del paquete `writexl`. Si ya se instaló `rio` ya no es necesario, si no, debe instalarse
       ```R
+      # Paso 1: Instalar el paquete
+      install.packages("writexl")
+
+      # Paso 2: Cargar el paquete
+      library(writexl)
+
+      # Paso 3: Validar que el data frame 'ventas' esté en memoria
+
+      # Paso 4: Escribir el data frame en un archivo de Excel
       write_xlsx(ventas, "analisis_ventas.xlsx")
       ```
       - Asegúrate de que el archivo se haya creado correctamente.
 
    b. **Convierte el Archivo CSV a un archivo JSON**:
+      La función `write_json()` se utiliza en R para escribir datos en formato JSON (JavaScript Object Notation) y es parte del paquete `jsonlite`.
       ```R
+      # Paso 1: Instalar el paquete
+      install.packages("jsonlite")
+
+      # Paso 2: Cargar el paquete
+      library(jsonlite)
+
+      # Paso 3: convertir el archivo
       write_json(ventas, "analisis_ventas.json")
       ```
       - Asegúrate de que el archivo se haya creado correctamente.
 
    c. **Convierte el Archivo CSV a un archivo XML**:
+      La función `write_xml()` se utiliza en R para escribir datos en formato XML (Extensible Markup Language) y ésta es parte del paquete `xml2`.
       ```R
+      # Paso 1: Instalar el paquete xml2 (si aún no lo has hecho)
+      install.packages("xml2")
+
+      # Paso 2: Cargar el paquete
+      library(xml2)
+
+      # Paso 3: Convertir el archivo
       write_xml(ventas, "analisis_ventas.xml")
       ```
       - Asegúrate de que el archivo se haya creado correctamente.
 
-   d. También puede usarse el paquete `rio`, con la función `export(dataframe, "archivo_de_salida.formato")`, por ejemplo:
+   d. También puede usarse el paquete `rio`, con la función `export(dataframe, "archivo/de/salida.formato")`, por ejemplo:
       ```R
-      export(ventas_imp, "analisis_ventas_exportado.xlsx")
+      # Paso 1: Instalar el paquete rio (si aún no lo has hecho)
+      install.packages("rio")
+
+      # Paso 2: Cargar el paquete
+      library(rio)
+
+      # Paso 3: Convertir el archivo
+      export(ventas_imp, "analisis_ventas_exportado.dbf")
       ```
 
 5. **Visualizar los Datos**
@@ -146,40 +188,47 @@ A continuación se presenta una comparación entre R (específicamente sus dataf
    a. **Visualizar los Datos**:
       - Una vez que se haya cargado el archivo CSV, ve a la pestaña "Explorador" y selecciona el archivo "analisis_ventas.csv".
       - Haz clic en el botón "Visualizar" y selecciona la opción "Tabla" para visualizar los datos.
-
+  
+   b. **Visualizar los Datos con código**:
+   Puedes usar la función  `View(dataframe)` o darle doble click al dataframe `analisis_ventas`.
+   ```
+   View(analisis_ventas)
+   ```
+ 
    **Explicación:** Al visualizar los datos, podemos verificar que los datos estén bien cargados y que no haya errores en la sintaxis. Esto es importante para asegurarnos de que los datos sean correctos para el análisis.
 
 6. **Calcular el Total de Ventas**
 
-   En esta sección, se calculará el total de ventas por cada producto utilizando la función `summarise` del paquete `dplyr`; recuerde que se debe instalar y/o cargar el paquete, previamente.
-
    **Pregunta**: ¿Cuál fue la venta total generada por cada producto?
+
+   En esta sección, se calculará el total de ventas por cada producto utilizando la función `summarise` del paquete `dplyr`; recuerda que se debes instalar y/o cargar el paquete, previamente.
 
    **Instrucciones:**
 
    a. **Calcular el Total de Ventas**:
       - En la ventana de "Consola" de RStudio, ingresa la siguiente instrucción para calcular el total de ventas por cada producto:
       ```R
-      # Cargar la biblioteca dplyr para manipulación de datos
+      # Cargar el paquete dplyr para manipulación de datos
       library(dplyr)
       
       # Leer el archivo CSV que contiene los datos de ventas
       ventas <- read_csv("analisis_ventas.csv")
 
       # Agrupar los datos por la columna 'Producto' y calcular el total de ventas
-      ventas_total <- ventas %>%
-        group_by(Producto) %>%  # Agrupar por producto
-        summarize(Total = sum(Precio_Unitario * Cantidad))  # Calcular el total de ventas por producto
+      # Cargar el paquete dplyr (asegúrate de que esté instalado)
+
+      # Calcular las ventas totales por producto
+      ventas_total <- ventas %>% # Al dataframe ventas se le hace lo siguiente:
+         group_by(Producto) %>%  # Agrupar por la columna 'Producto'
+         summarize(Total = sum(Precio_Unitario * Cantidad))  # Calcular el total de ventas
+
+      # Mostrar el resultado
+      print(ventas_total)
       ```
-      **Explicación breve**: Este script utiliza la biblioteca `dplyr` para realizar análisis de datos en R. Primeramente, se carga la biblioteca necesaria y se importan los datos desde un archivo CSV llamado "analisis_ventas.csv". Luego, se agrupan los datos por la columna `Producto` para calcular el `total de ventas`. Esto se lleva a cabo multiplicando el `Precio_Unitario` por la `Cantidad` vendida y sumando los resultados para cada producto. El resultado se almacena en el dataframe `sales_total`, que contiene el total de ventas para cada producto.
-    
-      - Asegúrate de que los datos estén bien cargados y que no haya errores en la sintaxis.
+      
+   b. **Crear una Tabla Dinámica con RStudio**
 
-      **Explicación:** La función `summarise` agrupa los datos por cada producto y calcula el total de ventas para cada grupo. Esto nos permite obtener la venta total generada por cada producto.
-
-b. **Crear una Tabla Dinámica con RStudio**
-
-   En esta sección, se creará una tabla dinámica utilizando la función `kable` del paquete `knitr`.
+   En esta sección, se creará una tabla dinámica equivalente, utilizando la función `kable` del paquete `knitr`.
 
    **Instrucciones:**
 
