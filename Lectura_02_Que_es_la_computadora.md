@@ -101,12 +101,12 @@ El contraste entre **hardware** y **software** permite a las computadoras ser ve
 
 ### 8. **Referencias**
 
-- Code.org (2018, Jan 30). *How computers work*. YouTube. [6 videos]. https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-
-- Haigh, T., & Ceruzzi, P. E. (2021). *Inventing the computer*. In *A new history of modern computing* (pp. 9-28). The MIT Press.  
-- O’Regan, G. (2021). *What Is a Computer?* In *A brief history of computing* (pp. 1-10). Springer Nature Switzerland AG.
-- Turing, A. M. (1936). *On Computable Numbers, with an Application to the Entscheidungsproblem*. Proceedings of the London Mathematical Society, 2(42), 230–265. 
+- Code.org (2018, Jan 30). **How computers work**. *YouTube*. [6 videos].[url](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+- Haigh, T., & Ceruzzi, P. E. (2021). **Inventing the computer**. In ***A new history of modern computing*** (pp. 9-28). The MIT Press.  
+- O’Regan, G. (2021). **What is a computer?** In ***A brief history of computing*** (pp. 1-10). Springer Nature Switzerland AG.
+- Turing, A. M. (1936). **On Computable Numbers, with an Application to the Entscheidungsproblem**. ***Proceedings of the London Mathematical Society***, ***2***(42), 230–265. 
 
 --- 
 Notas:
 [^1]: Profesor-investigador del Departamento de Economía de la Universidad Autónoma Metropolitana, Unidad Iztapalapa. email: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), [https://t.me/jzavalar](https://t.me/jzavalar).
-[^2]: Lectura leída el 23 de octubre de 2024.
+[^2]: Lectura leída el 28 de octubre de 2024.
