@@ -1,4 +1,4 @@
-**Computadora 2.0: La Inteligencia Artificial una tecnología que llegó para quedarse**[^1]
+## **Computadora 2.0: La Inteligencia Artificial una tecnología que llegó para quedarse**[^1]
 
 prof. dr. Jesús Zavala Ruiz[^2]
 
