@@ -4,10 +4,10 @@
 ## Licenciatura en Administración
 
 **Clave de la UEA:** 2211088
-**Trimestre:** 24 Primaver
+**Trimestre:** 24 Otoño
 
-**Grupo:** HA06 **Horario:** Lunes y Miércoles de 14:00 a 16:00 hr **Salón:** Anexo del Edificio A, Sala K (AA-K).  
-**Grupo:** HA55 **Horario:** Lunes y Miércoles de 16:00 a 18:00 hr **Salón:** Anexo del Edificio A, Sala K (AA-K).  
+**Grupo:** HA56 **Horario:** Lunes y Miércoles de 14:00 a 16:00 hr **Salón:** Anexo del Edificio A, Sala K (AA-K).  
+**Grupo:** HA57 **Horario:** Lunes y Miércoles de 16:00 a 18:00 hr **Salón:** Anexo del Edificio A, Sala K (AA-K).  
 
 **Asesorías:**  *Martes* de 20:00 a 22:00 hr, vía [Telegram](https://telegram.org/apps), previa programación, a petición del alumno.
 
@@ -129,13 +129,11 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   *Parte 1*. Investigue los conceptos involucrados: _partición_ (física y lógica, primaria, partición de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), _GPT_ y _MBR_ ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)), formatear un dispositivo de almacenamiento ([guía](https://www.youtube.com/watch?v=YshcHw9aIno)), _sistema de archivos_ ([guía](https://www.youtube.com/watch?v=ukzkZA73fkg)), archivo ([guía](https://www.youtube.com/watch?v=Ub7guhuy7_A)), _tipos de archivo_ (binario, texto, programa) ([guía](https://www.youtube.com/watch?v=LbopJOLgo5g)), cómo se guarda un archivo ([guía](https://www.youtube.com/watch?v=ProWo1W-4C0)) y las operaciones de manejo de archivos ([guía](https://www.youtube.com/watch?v=f2dmh_VkNgw)). Escriba en su cuaderno la investigación.
 
-  Aterrice los conceptos investigando _qué unidades de almacenamiento_ tiene en su computadora y qué _sistema de particiones_ tiene y cuántas particiones. Luego, investigue qué _sistema de archivos_ tiene en cada partición de su computadora. Después, use un _navegador de archivos_ y busque los _tipos de archivos_ que tiene en los directorios (carpetas): `Documentos`, `Descargas`, `Musica`, `Videos` y en la ruta `C:\Windows\System32`. Registre en su cuaderno la investigación.
+Aterrice los conceptos investigando _qué unidades de almacenamiento_ tiene en su computadora y qué _sistema de particiones_ tiene y cuántas particiones. Luego, investigue qué _sistema de archivos_ tiene en cada partición de su computadora. Después, use un _navegador de archivos_ y busque los _tipos de archivos_ que tiene en los directorios (carpetas): `Documentos`, `Descargas`, `Musica`, `Videos` y en la ruta `C:\Windows\System32`. Registre en su cuaderno la investigación.
 
   **Entregable 1**: Grabe, en un video, la pantalla de su equipo con las operaciones que va realizando y explique lo que está realizando, a modo de tutorial. Luego, súbalo al grupo de Telegram, junto con las fotografías de su cuaderno. Haga la práctica de dominio de la lengua española, tal como se ha indicado anteriormente.
 
   *Parte 2*. Use una **USB sin datos** y practique los procesos de manejo de particiones (crear, agrandar y reducir de tamaño y eliminar particiones usando _Disk Management_ (guía: [Tnlgo. Carlos Palacios. (2022, Jul 20)](https://www.youtube.com/watch?v=eeVR9YQtFdY). Pruebe con los siguientes sistemas de archivos: FAT, exFAT, FAT32 y NTFS. La última operación que debe realizar es copiar un par de archivos a la partición NTFS y después debe borrarla. Saque sus conclusiones.
-
-  **Advertencia:** Siempre debe tener **cuidado de instalar Ventoy en la USB**. Por ello, **previamente, siempre debe respaldar los archivos de la USB.**
 
   **Entregable 2**: Grabe, en un video, la pantalla de su equipo con las operaciones que va realizando y explique lo que está realizando, a modo de tutorial. Luego, súbalo al grupo de Telegram, junto con las fotografías de su cuaderno. Haga la práctica de dominio de la lengua española, tal como se ha indicado anteriormente.
 
