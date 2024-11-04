@@ -82,13 +82,9 @@ Los datos lógicos simplifican el proceso de decisión en programación, permiti
 
 Cada una de estas estructuras de datos cumple una función crítica en la optimización del procesamiento y manipulación de la información en los sistemas informáticos, permitiendo que los programas funcionen de manera eficiente y adaptada a diversas necesidades computacionales. 
 
-### **4. Codificación de Datos: De Caracteres a Representaciones Digitales**
-
-La **codificación de datos** es fundamental para transformar la realidad en formatos que las computadoras pueden interpretar, representando texto, imágenes y sonidos en bits. Este proceso permite que datos de múltiples formas se almacenen, manipulen y compartan entre plataformas digitales.
-
 ### **4. Codificación de archivos**
 
-La **codificación de caracteres**, como **ASCII** y **Unicode**, es crucial para representar texto. ASCII utiliza 7 bits para caracteres en inglés, mientras que Unicode, mediante **UTF-8**, abarca caracteres de todos los idiomas y sistemas de escritura, incluyendo **emojis**. La **codificación binaria** facilita el almacenamiento de datos multimedia, optimizando el tamaño de archivos como `.mp3` o `.jpg`.
+La **codificación de datos** es fundamental para transformar la realidad en formatos que las computadoras pueden interpretar, representando texto, imágenes y sonidos en bits. Este proceso permite que datos de múltiples formas se almacenen, manipulen y compartan entre plataformas digitales. La **codificación de caracteres**, como **ASCII** y **Unicode**, es crucial para representar texto. ASCII utiliza 7 bits para caracteres en inglés, mientras que Unicode, mediante **UTF-8**, abarca caracteres de todos los idiomas y sistemas de escritura, incluyendo **emojis**. La **codificación binaria** facilita el almacenamiento de datos multimedia, optimizando el tamaño de archivos como `.mp3` o `.jpg`.
 
 La codificación de datos es esencial en la informática, ya que permite la organización, almacenamiento y transmisión de información en múltiples formatos y plataformas. Estos estándares de codificación son fundamentales para asegurar la compatibilidad y accesibilidad de los datos entre distintos sistemas y dispositivos. Gracias a la estandarización de la codificación, los datos pueden ser interpretados de manera uniforme en diferentes plataformas y sistemas operativos, garantizando que la información se conserve y se presente correctamente, sin importar el entorno en el que se utilice.
 
@@ -98,19 +94,25 @@ Por ejemplo, un documento codificado en UTF-8 puede abrirse en dispositivos de t
 
 Los **archivos digitales** pueden clasificarse en **archivos de texto** y **archivos binarios**. Esta distinción radica en cómo los datos se representan y almacenan en el archivo, lo cual impacta su accesibilidad y manipulación en sistemas informáticos.
 
-1. **Archivos de Texto**: Estos archivos almacenan datos legibles en formatos de texto, utilizando principalmente ASCII o Unicode. Los archivos de texto se pueden abrir y editar en cualquier editor de texto, permitiendo una gran accesibilidad. UTF-8, un formato de Unicode, se ha convertido en el estándar para la web debido a su compatibilidad con ASCII y su capacidad de representar una gran variedad de caracteres. Por ejemplo, un archivo `.txt` con el mensaje “Hola, mundo!” en UTF-8 se puede abrir y leer en cualquier editor de texto.
+1. **Archivos de Texto**
+
+Estos archivos almacenan datos legibles en formatos de texto, utilizando principalmente ASCII o Unicode. Los archivos de texto se pueden abrir y editar en cualquier editor de texto, permitiendo una gran accesibilidad. UTF-8, un formato de Unicode, se ha convertido en el estándar para la web debido a su compatibilidad con ASCII y su capacidad de representar una gran variedad de caracteres. Por ejemplo, un archivo `.txt` con el mensaje “Hola, mundo!” en UTF-8 se puede abrir y leer en cualquier editor de texto.
 
    - **Documentos de Texto**: Incluyen archivos como `.txt`, `.md` y `.epub`, que almacenan texto plano y son ideales para contenido textual básico.
    - **Código Fuente**: Archivos como `.c` y `.py`, que contienen instrucciones en lenguajes de programación, pueden ser interpretados o compilados por sistemas específicos.
    - **Intercambio de Datos**: Formatos como `.csv`, `.json` y `.xml` se utilizan para estructurar y transferir información entre sistemas. Por ejemplo, un archivo `.csv` permite almacenar datos tabulares, que se pueden abrir en hojas de cálculo o integrarse en bases de datos.
 
-2. **Archivos Binarios**: Estos archivos almacenan datos en un formato que no es legible directamente sin el software adecuado. Son comunes en multimedia y aplicaciones que requieren grandes volúmenes de información. Los archivos binarios incluyen:
+2. **Archivos Binarios**
+
+Estos archivos almacenan datos en un formato que no es legible directamente sin el software adecuado. Son comunes en multimedia y aplicaciones que requieren grandes volúmenes de información. Los archivos binarios incluyen:
 
    - **Documentos de Oficina**: Archivos como `.pdf`, `.docx`, `.pptx` y `.xlsx`, utilizados en aplicaciones de oficina para almacenar texto, gráficos y datos estructurados.
    - **Multimedia**: Archivos como `.jpg`, `.png`, `.mp3`, `.mp4` y `.avi` contienen imágenes, audio y video, enriqueciendo la experiencia visual y auditiva en aplicaciones de entretenimiento y comunicación.
    - **Archivos Comprimidos**: Formatos como `.zip`, `.tar` y `.tgz` que permiten empaquetar múltiples archivos en un solo contenedor para facilitar su transmisión y almacenamiento. Un archivo `.zip` puede contener varios documentos, que se transmiten juntos y ocupan menos espacio.
 
-3.**Codificación de Datos en Bases de Datos**: La **codificación en bases de datos** permite almacenar y organizar grandes volúmenes de datos estructurados. Dependiendo del sistema, las bases de datos pueden codificarse en formato de texto o binario.
+3.**Bases de Datos**
+
+La **codificación en bases de datos** permite almacenar y organizar grandes volúmenes de datos estructurados. Dependiendo del sistema, las bases de datos pueden codificarse en formato de texto o binario.
 
 - **Archivos de Texto**: Formatos como `.sql` y `.arff` facilitan la exportación e importación de datos en texto plano, simplificando el intercambio entre diferentes sistemas de bases de datos.
 - **Archivos Binarios**: Formatos como `.db`, `.sqlite`, `.mdb`, `.nosql` y `.parquet` están optimizados para el almacenamiento y acceso rápido en bases de datos. Un archivo `.sqlite` es un contenedor que permite realizar consultas rápidas y eficientes en sistemas de pequeña escala y aplicaciones móviles.
