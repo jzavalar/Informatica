@@ -30,9 +30,9 @@ La capacidad del software para contextualizar datos y convertirlos en **informac
 
 La estructura del software depende fundamentalmente de los datos, los cuales sirven como la materia prima que da sentido a las operaciones computacionales. A continuación, exploramos el rol de los **símbolos** y los **sistemas numéricos** en la representación de la información, así como los **tipos básicos de datos** utilizados en informática y las estructuras que organizan estos datos para el procesamiento eficaz en aplicaciones reales.
 
-#### **a. Símbolos: Del Significado a la Representación**
+#### **a. Símbolos: La Representación del Significado**
 
-En computación, un **significado** es el concepto o idea que se asocia con un símbolo particular, como una palabra o imagen. Este significado se convierte en un **símbolo**, una representación visual, auditiva o conceptual que se usa para transmitir esa idea. Los símbolos abarcan desde caracteres alfanuméricos hasta códigos de colores y gráficos, y en computación, son esenciales para representar información de manera que el sistema pueda interpretarla.
+En computación, un **significado** es el concepto o idea que se asocia con un símbolo particular, como una palabra o imagen. Este significado se convierte en un **símbolo**, una representación visual, auditiva o conceptual que se usa para transmitir esa idea. Los símbolos abarcan desde caracteres alfanuméricos hasta códigos de colores y gráficos y, en computación, son esenciales para representar información de manera que el sistema pueda interpretarla.
 
 "La transición del significado al símbolo es fundamental en la comunicación digital, pues convierte conceptos abstractos en representaciones visuales o numéricas" (Thompson, 2017, p. 14). En el mundo digital, el proceso de convertir ideas en símbolos facilita la comunicación uniforme en las plataformas tecnológicas (Martin & Lewis, 2020, p. 30). De este modo, la **semiótica digital** estudia cómo los significados se traducen a símbolos, lo cual permite crear representaciones computacionales precisas (Smith, 2018, p. 18).
 
