@@ -1,4 +1,4 @@
-## Lectura 06. El Software como Datos e Instrucciones[^1]
+## Lectura 6. El Software como Datos e Instrucciones[^1]
 
 prof. dr. Jesús Zavala Ruiz[^2]
 
@@ -6,13 +6,13 @@ prof. dr. Jesús Zavala Ruiz[^2]
 
 ### Introducción
 
-Imagina una biblioteca moderna, vibrante y llena de posibilidades, en la que estudiantes, profesores e investigadores pueden acceder a un vasto mundo de conocimientos con solo un clic. En este entorno, cada libro, artículo y recurso digital está al alcance de quienes buscan aprender y descubrir. Sin embargo, para que esta biblioteca funcione con eficiencia y agilidad, existe un poderoso sistema detrás: un software que convierte datos y código en una experiencia accesible y organizada para sus usuarios.
+Imaginen una biblioteca moderna, vibrante y llena de posibilidades, en la que ustedes, estudiantes, profesores e investigadores pueden acceder a un vasto mundo de conocimientos con solo un clic. En este entorno, cada libro, artículo y recurso digital está al alcance de quienes buscan aprender y descubrir. Sin embargo, para que esta biblioteca funcione con eficiencia y agilidad, existe un poderoso sistema detrás: un software que convierte datos y código en una experiencia accesible y organizada para sus usuarios.
 
-Esta lectura te invita a explorar cómo el **software, a través de datos e instrucciones**, hace posible la gestión y el funcionamiento de un sistema digital de biblioteca. Con el ejemplo de la biblioteca de la UAM Iztapalapa, veremos cómo los datos se estructuran en formas eficientes y cómo las instrucciones de programación los activan para realizar tareas complejas, como préstamos de libros, consulta de inventarios y actualización de registros. Desde la simplicidad de almacenar una fecha o un nombre hasta la complejidad de coordinar los préstamos de miles de usuarios, cada operación se basa en conceptos fundamentales de programación que transforman ideas en acciones.
+Esta lectura te invita a explorar cómo el **software, a través de datos e instrucciones**, hace posible la gestión y el funcionamiento de un sistema de información hipotético de la biblioteca. Con el ejemplo de la biblioteca de la UAM Iztapalapa, veremos cómo los datos se estructuran en formas eficientes y cómo las instrucciones de programación los activan para realizar tareas complejas, como préstamos de libros, consulta de inventarios y actualización de registros. Desde la simplicidad de almacenar una fecha o un nombre hasta la complejidad de coordinar los préstamos de miles de usuarios, cada operación se basa en conceptos fundamentales de programación que transforman ideas en acciones.
 
-A lo largo de esta lectura, Python nos acompañará como un lenguaje accesible y poderoso, un puente entre el pensamiento lógico y la ejecución práctica de tareas. Python nos enseñará a estructurar y manipular datos y a diseñar las instrucciones que les dan vida, permitiendo que el software se convierta en una herramienta de gestión, organización y, sobre todo, de servicio a la comunidad académica.
+A lo largo de esta lectura, Python nos acompañará como un lenguaje accesible y poderoso, un puente entre el pensamiento abstracto y conceptual y la ejecución práctica de tareas. Python nos enseñará a estructurar y manipular datos y a diseñar la serie de instrucciones que les darán vida, permitiendo mostrar cómo, el software se convierte en una herramienta de gestión, organización y, sobre todo, de servicio a la comunidad académica.
 
-Al final de este recorrido, descubrirás que el software no es solo una herramienta, sino una combinación de lógica, estructura y creatividad. Con Python y los conceptos de programación que exploraremos, aprenderás cómo los datos y las instrucciones se unen para crear sistemas digitales funcionales y accesibles, que convierten las bibliotecas en portales de conocimiento abiertos y dinámicos.
+Al final de este recorrido, descubrirás que el software no es solo una herramienta, sino una combinación de datos, lógica, estructura y creatividad. Con Python y los conceptos de programación que exploraremos, aprenderás cómo los datos y las instrucciones se unen para crear sistemas digitales funcionales y accesibles, que convierten las bibliotecas en portales de conocimiento abiertos y dinámicos.
 
 ### 1. Contexto
 
