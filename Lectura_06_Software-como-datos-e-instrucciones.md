@@ -659,9 +659,9 @@ Esta dualidad del **software como datos e instrucciones** es fundamental en la i
 --- 
 
 [^1]: Profesor-investigador del Departamento de Economía de la Universidad Autónoma Metropolitana, Unidad Iztapalapa. Contacto: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), [Telegram](https://t.me/jzavalar).
-[^2]: Lectura leída el 10 de noviembre de 2024.
+[^2]: Lectura leída el 11 de noviembre de 2024.
 
 Tamaño en bytes:  
 Número de palabras: 
 
-Ultima actualización: 10 de noviembre de 2024
+Ultima actualización: 11 de noviembre de 2024
