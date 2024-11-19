@@ -6,7 +6,7 @@ prof. dr. Jesús Zavala Ruiz[^2]
 
 ### Introducción
 
-La **inteligencia artificial** (IA) ha dejado de ser solo una fantasía de la ciencia ficción para convertirse en una fuerza transformadora en múltiples aspectos de la vida cotidiana y profesional. Desde los primeros días de su concepción teórica hasta su implementación en tecnologías actuales, la IA ha seguido un camino acelerado que promete redibujar nuestras ideas sobre el conocimiento, el aprendizaje y los sistemas autónomos. Este ensayo ofrece una perspectiva histórica y técnica sobre la IA, examina sus aplicaciones modernas y evalúa los desafíos éticos y sociales que la acompañan. Para jóvenes universitarios, la IA representa tanto una herramienta fascinante como una responsabilidad: la de usar esta tecnología para potenciar el bien común sin perder de vista los valores humanos.
+La **inteligencia artificial** (IA) ha dejado de ser solo una fantasía de la ciencia ficción para convertirse en una fuerza transformadora en múltiples aspectos de la vida cotidiana y profesional. Desde los primeros días de su concepción teórica hasta su implementación en tecnologías actuales, la IA ha seguido un camino acelerado que promete redibujar nuestras ideas sobre el conocimiento, el aprendizaje y los sistemas autónomos. Este ensayo ofrece una perspectiva histórica y técnica sobre la IA, examina sus aplicaciones modernas y evalúa los desafíos éticos y sociales que la acompañan. Para los jóvenes universitarios, la IA representa tanto una herramienta fascinante como una responsabilidad: la de usar esta tecnología para potenciar su aprendizaje individual y colectivo orientado hacia el bien común sin perder de vista los valores humanos, es decir, sin cometer plagio.
 
 ### 1. Breve esbozo histórico de la IA
 
