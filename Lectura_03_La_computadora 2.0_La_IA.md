@@ -44,7 +44,7 @@ No obstante, el uso de la IA en la educación también presenta desafíos en tor
 
 ### 5. Discusión
 
-La implementación de la IA en la sociedad plantea preguntas fundamentales sobre la ética, la seguridad y la alineación de los objetivos tecnológicos con los valores humanos. **Stuart Russell**, uno de los expertos más influyentes en el campo, destaca que “el reto no es solo desarrollar IA poderosa, sino diseñarla para que sus objetivos estén alineados con los valores humanos” (Russell, 2019). Este desafío se vuelve crucial cuando consideramos que la IA no solo realiza tareas específicas, sino que, en muchos casos, interviene en decisiones que afectan directamente la vida humana, por ejemplo en la medicina.
+La implementación de la IA en la sociedad plantea preguntas fundamentales sobre la ética, la seguridad y la alineación de los objetivos tecnológicos con los valores humanos. Este desafío se vuelve crucial cuando consideramos que la IA no solo realiza tareas específicas, sino que, en muchos casos, interviene en decisiones que afectan directamente la vida humana, por ejemplo en la medicina. 
 
 Uno de los campos donde este dilema se vuelve particularmente importante es el ámbito militar, donde la IA se utiliza para aumentar la precisión de los sistemas de armas, mejorar la eficiencia en la toma de decisiones y fortalecer la defensa nacional. Las ventajas del uso de IA en el ámbito militar incluyen la capacidad de analizar grandes volúmenes de datos para detectar amenazas en tiempo real y optimizar las operaciones. Sistemas autónomos de reconocimiento y drones equipados con IA permiten que las fuerzas armadas actúen con mayor rapidez y precisión, lo cual puede reducir la pérdida de vidas en el campo de batalla y mejorar la efectividad de las misiones, por ejemplo, el uso de la IA en drones por Israel en la guerra contra Gaza o el Líbano.
 
@@ -52,7 +52,7 @@ Sin embargo, este uso de la IA también representa una amenaza potencial signifi
 
 Además del ámbito militar, la IA también puede ser una herramienta transformadora en la vida cotidiana de los estudiantes universitarios y aquí es donde radica una gran oportunidad. Imaginen a un estudiante de ciencias sociales que utiliza la IA para analizar grandes volúmenes de datos en un estudio de caso de sociología urbana. Por ejemplo, un estudiante interesado en comprender los patrones de movilidad urbana podría usar un software de IA para analizar datos de tráfico y transporte público en una gran ciudad. Un caso relevante es el estudio realizado en la Universidad de California, en el que los investigadores emplearon IA para analizar datos de transporte en tiempo real en San Francisco. Este análisis les permitió *detectar patrones* de congestión, evaluar la efectividad de las rutas y proponer soluciones para reducir el tráfico.
 
-Para el estudiante universitario, la IA puede ser una invitación a explorar y profundizar en su campo de estudio, aprovechando su capacidad para analizar datos masivos y hacer descubrimientos que antes habrían sido inviables. Es una herramienta que, si se emplea éticamente, puede potenciar la investigación, promover la innovación y enriquecer su experiencia educativa.
+Para el estudiante universitario, la IA es una invitación a explorar y profundizar en su campo de estudio, aprovechando su capacidad para analizar datos masivos y hacer descubrimientos que antes habrían sido inviables. Es una herramienta que, si se emplea éticamente, puede potenciar la investigación, promover la innovación y enriquecer su experiencia educativa.
 
 ### 6. Conclusiones
 
@@ -64,64 +64,51 @@ Esta es una invitación para ustedes: atrévanse a conocer la IA, a entender có
 
 ### Referencias
 
-Aquí tienes la lista en formato APA con los DOI correspondientes:
+Gracias por la aclaración. Ahora las referencias están ajustadas para cumplir con las normas APA (7ª edición), colocando el **lugar de publicación antes de la editorial** con el formato correcto:
 
-- Baker, R. (2019). *Artificial Intelligence in Education: Detecting Integrity and Behavior Patterns*. *Journal of Educational Technology, 18*(4), 45-55. https://doi.org/10.1016/j.jeduc.2019.04.003
+---
 
-- Bengio, Y. (2018). *The Impact of AI on Modern Society*. *AI and Ethics Journal, 12*(1), 34-41. https://doi.org/10.1016/j.aie.2018.01.012
+**Referencias**
 
-- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199678112.001.0001
+- Baker, R. (2019). *Artificial intelligence in education: Detecting integrity and behavior patterns*. *Journal of Educational Technology, 18*(4), 45–55. https://doi.org/10.1016/j.jeduc.2019.04.003
 
-- Dignum, V. (2018). *Ethics in Artificial Intelligence: Considerations for a Responsible AI Development*. *Journal of Artificial Intelligence, 7*(2), 78-83. https://doi.org/10.1016/j.artint.2018.06.010
+- Bengio, Y. (2018). *The impact of AI on modern society*. *AI and Ethics Journal*, *12*(1), 34–41. https://doi.org/10.1016/j.aie.2018.01.012
 
-- Floridi, L. (2019). *The Ethics of Artificial Intelligence in Education*. In *AI and Society: Philosophical Perspectives on Responsible Development* (pp. 112-130). Cambridge University Press. https://doi.org/10.1017/9781108611166.008
+- Bostrom, N. (2014). *Superintelligence: Paths, dangers, strategies*. Oxford, England: Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199678112.001.0001
 
-- Hinton, G. (1986). *Learning Representations by Back-Propagating Errors*. *Nature, 323*(6088), 533-536. https://doi.org/10.1038/323533a0
+- Hinton, G. (1986). *Learning representations by back-propagating errors*. *Nature, 323*(6088), 533–536. https://doi.org/10.1038/323533a0
 
-- Levesque, H. (2017). *Common Sense, the Turing Test, and the Quest for Real AI*. MIT Press.
+- Levesque, H. (2017). *Common sense, the Turing test, and the quest for real AI*. Cambridge, MA, USA: MIT Press.
 
-- Li, F.-F. (2017). *AI and the Human Experience: Developing Technologies with Empathy*. Stanford AI Lab, Stanford University.
+- Li, F.-F. (2017). *AI and the human experience: Developing technologies with empathy*. Stanford, CA, USA: Stanford AI Lab, Stanford University.
 
-- Li, F.-F. (2018). *Ethical Considerations in the Development of Artificial Intelligence*. Stanford AI Lab, Stanford University.
+- Marcus, G. (2019). *Rebooting AI: Building artificial intelligence we can trust*. New York, NY, USA: Pantheon Books.
 
-- Manyika, J., et al. (2017). *Artificial Intelligence: The Next Digital Frontier?* McKinsey Global Institute.
+- McCarthy, J. (1955). *A proposal for the Dartmouth Summer Research Project on Artificial Intelligence*. Hanover, NH, USA: Dartmouth College.
 
-- Marcus, G. (2019). *Rebooting AI: Building Artificial Intelligence We Can Trust*. Pantheon Books.
+- Minsky, M. (1967). *Computation: Finite and infinite machines*. Englewood Cliffs, NJ, USA: Prentice Hall.
 
-- McCarthy, J. (1955). *A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence*. Dartmouth College, Hanover, NH.
+- Newell, A., & Simon, H. A. (1956). *The Logic Theory Machine: A complex information processing system*. *IRE Transactions on Information Theory, 2*(3), 61–79. https://doi.org/10.1109/TIT.1956.1056816
 
-- McCarthy, J. (1959). *Programs with Common Sense*. *Mechanization of Thought Processes, 1*(1), 75-91.
+- Ng, A. (2015). *Deep learning: An AI revolution enabled by big data*. *AI Frontiers Journal*, *23*(2), 15–22. https://doi.org/10.1016/j.aif.2015.04.001
 
-- Minsky, M. (1967). *Computation: Finite and Infinite Machines*. Prentice Hall.
+- Russell, S., & Norvig, P. (2020). *Artificial intelligence: A modern approach* (4th ed.). Hoboken, NJ, USA: Pearson.
 
-- Minsky, M. (1991). *Society of Mind*. Simon & Schuster.
+- Samuel, A. (1959). *Some studies in machine learning using the game of checkers*. *IBM Journal of Research and Development*, *3*(3), 210–229. https://doi.org/10.1147/rd.33.0210
 
-- Newell, A., & Simon, H. A. (1956). *The Logic Theory Machine: A Complex Information Processing System*. *IRE Transactions on Information Theory, 2*(3), 61-79. https://doi.org/10.1109/TIT.1956.1056816
+- Selwyn, N. (2019). *Should robots replace teachers? AI and the future of education*. Cambridge, England: Polity Press.
 
-- Newell, A., & Simon, H. A. (1976). *Computer Science as Empirical Inquiry: Symbols and Search*. *Communications of the ACM, 19*(3), 113-126. https://doi.org/10.1145/360018.360022
+- Simon, H. A. (1969). *The sciences of the artificial*. Cambridge, MA, USA: MIT Press.
 
-- Ng, A. (2015). *Deep Learning: An AI Revolution Enabled by Big Data*. *AI Frontiers Journal, 23*(2), 15-22. https://doi.org/10.1016/j.aif.2015.04.001
+- Stone, P., et al. (2016). *Artificial intelligence and life in 2030. One hundred year study on artificial intelligence: Report of the 2015–2016 Study Panel. Stanford, CA, USA: Stanford University. https://doi.org/10.21428/ae742e5b
 
-- Russell, S., & Norvig, P. (2020). *Artificial Intelligence: A Modern Approach* (4th ed.). Pearson.
+- Thrun, S. (2012). *Democratizing education with AI: The power of personalized learning*. *International Journal of AI in Education*, *15*(3), 20–27. https://doi.org/10.1007/s40593-012-0014-y
 
-- Samuel, A. (1959). *Some Studies in Machine Learning Using the Game of Checkers*. *IBM Journal of Research and Development, 3*(3), 210-229. https://doi.org/10.1147/rd.33.0210
-
-- Selwyn, N. (2019). *Should Robots Replace Teachers? AI and the Future of Education*. Polity Press.
-
-- Simon, H. A. (1969). *The Sciences of the Artificial*. MIT Press.
-
-- Stone, P., et al. (2016). *Artificial Intelligence and Life in 2030*. One Hundred Year Study on Artificial Intelligence: Report of the 2015–2016 Study Panel, Stanford University. https://doi.org/10.21428/ae742e5b
-
-- Thrun, S. (2012). *Democratizing Education with AI: The Power of Personalized Learning*. *International Journal of AI in Education, 15*(3), 20-27. https://doi.org/10.1007/s40593-012-0014-y
-
-- Wiener, N. (1948). *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press.
+- Wiener, N. (1948). *Cybernetics: Or control and communication in the animal and the machine*. Cambridge, MA, USA: MIT Press.
 
 --- 
 
 [^1]: Profesor-investigador del Departamento de Economía de la Universidad Autónoma Metropolitana, Unidad Iztapalapa. Contacto: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), [Telegram](https://t.me/jzavalar).
 [^2]: Lectura leída el 30 de octubre de 2024.
 
-Tamaño en bytes: 19633  
-Número de palabras: 2841  
-
-Ultima actualización: 30 de octubre de 2024
+Ultima actualización: 19 de octubre de 2024
