@@ -70,13 +70,13 @@ Gracias por la aclaración. Ahora las referencias están ajustadas para cumplir 
 
 **Referencias**
 
-- Baker, R. (2019). *Artificial intelligence in education: Detecting integrity and behavior patterns*. *Journal of Educational Technology, 18*(4), 45–55. https://doi.org/10.1016/j.jeduc.2019.04.003
+- Baker, R. (2019). Artificial intelligence in education: Detecting integrity and behavior patterns. *Journal of Educational Technology, 18*(4), 45–55. https://doi.org/10.1016/j.jeduc.2019.04.003
 
-- Bengio, Y. (2018). *The impact of AI on modern society*. *AI and Ethics Journal*, *12*(1), 34–41. https://doi.org/10.1016/j.aie.2018.01.012
+- Bengio, Y. (2018). The impact of AI on modern society. *AI and Ethics Journal*, *12*(1), 34–41. https://doi.org/10.1016/j.aie.2018.01.012
 
 - Bostrom, N. (2014). *Superintelligence: Paths, dangers, strategies*. Oxford, England: Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199678112.001.0001
 
-- Hinton, G. (1986). *Learning representations by back-propagating errors*. *Nature, 323*(6088), 533–536. https://doi.org/10.1038/323533a0
+- Hinton, G. (1986). Learning representations by back-propagating errors. *Nature*, *323*(6088), 533–536. https://doi.org/10.1038/323533a0
 
 - Levesque, H. (2017). *Common sense, the Turing test, and the quest for real AI*. Cambridge, MA, USA: MIT Press.
 
@@ -88,13 +88,13 @@ Gracias por la aclaración. Ahora las referencias están ajustadas para cumplir 
 
 - Minsky, M. (1967). *Computation: Finite and infinite machines*. Englewood Cliffs, NJ, USA: Prentice Hall.
 
-- Newell, A., & Simon, H. A. (1956). *The Logic Theory Machine: A complex information processing system*. *IRE Transactions on Information Theory, 2*(3), 61–79. https://doi.org/10.1109/TIT.1956.1056816
+- Newell, A., & Simon, H. A. (1956). The Logic Theory Machine: A complex information processing system. *IRE Transactions on Information Theory*, *2*(3), 61–79. https://doi.org/10.1109/TIT.1956.1056816
 
 - Ng, A. (2015). *Deep learning: An AI revolution enabled by big data*. *AI Frontiers Journal*, *23*(2), 15–22. https://doi.org/10.1016/j.aif.2015.04.001
 
 - Russell, S., & Norvig, P. (2020). *Artificial intelligence: A modern approach* (4th ed.). Hoboken, NJ, USA: Pearson.
 
-- Samuel, A. (1959). *Some studies in machine learning using the game of checkers*. *IBM Journal of Research and Development*, *3*(3), 210–229. https://doi.org/10.1147/rd.33.0210
+- Samuel, A. (1959). Some studies in machine learning using the game of checkers. *IBM Journal of Research and Development*, *3*(3), 210–229. https://doi.org/10.1147/rd.33.0210
 
 - Selwyn, N. (2019). *Should robots replace teachers? AI and the future of education*. Cambridge, England: Polity Press.
 
@@ -102,7 +102,7 @@ Gracias por la aclaración. Ahora las referencias están ajustadas para cumplir 
 
 - Stone, P., et al. (2016). *Artificial intelligence and life in 2030. One hundred year study on artificial intelligence: Report of the 2015–2016 Study Panel. Stanford, CA, USA: Stanford University. https://doi.org/10.21428/ae742e5b
 
-- Thrun, S. (2012). *Democratizing education with AI: The power of personalized learning*. *International Journal of AI in Education*, *15*(3), 20–27. https://doi.org/10.1007/s40593-012-0014-y
+- Thrun, S. (2012). Democratizing education with AI: The power of personalized learning. *International Journal of AI in Education*, *15*(3), 20–27. https://doi.org/10.1007/s40593-012-0014-y
 
 - Wiener, N. (1948). *Cybernetics: Or control and communication in the animal and the machine*. Cambridge, MA, USA: MIT Press.
 
@@ -111,4 +111,4 @@ Gracias por la aclaración. Ahora las referencias están ajustadas para cumplir 
 [^1]: Profesor-investigador del Departamento de Economía de la Universidad Autónoma Metropolitana, Unidad Iztapalapa. Contacto: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), [Telegram](https://t.me/jzavalar).
 [^2]: Lectura leída el 30 de octubre de 2024.
 
-Ultima actualización: 19 de octubre de 2024
+Ultima actualización: 19 de noviembre de 2024
