@@ -268,6 +268,7 @@ Para ustedes, estudiantes de administración, comprender esta interacción entre
 He desarrollado una práctica paralela para practicar y aterrizar los conceptos.
 
 --- 
+
 [^1]: Profesor-investigador del Departamento de Economía de la Universidad Autónoma Metropolitana, Unidad Iztapalapa. Contacto: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), [Telegram](https://t.me/jzavalar).
 [^2]: Lectura leída el 11, 18 y 25 de noviembre de 2024.
 
