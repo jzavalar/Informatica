@@ -17,17 +17,17 @@ Un **tipo de dato** define su naturaleza y cómo puede ser manipulado dentro de 
 
 Para que la computadora maneje los datos éstos deben codificarse. La **codificación de datos** se refiere a la forma en que los datos se representan digitalmente para ser almacenados o procesados por la computadora. *Todos los tipos de datos se representan internamente en binario*, es decir, como combinaciones de ceros y unos. Esta representación es clave para que el hardware pueda procesar cualquier tipo de dato. 
 
-**1. Números enteros**
+**1.1. Números enteros**
 
 Los **números enteros** (*integer*), que sirven para **contar**, se codifican directamente en sistema binario. Un número como 5, en base decimal, se representa como `0101` en binario, utilizando 4 bits y un número 255 se representa como `11111111`, es decir, 8 bits, en binario. Para los números negativos, se emplea una técnica llamada complemento a dos, que ajusta los valores binarios para permitir operaciones matemáticas con signos.
 
-**2. Números reales**
+**1.2. Números reales**
 
 En el caso de los **números reales** (*float point*), que sirven para representar **mediciones** de distintas magnitudes, su representación es más compleja. Siguiendo el estándar IEEE 754, ese formato divide los bits en tres partes: el *signo* (positivo o negativo), el *exponente* (que ajusta la escala del número) y la *mantisa* (que almacena los dígitos significativos). Así, un número como 2.5 se descompone y codifica en un formato binario preciso: *signo*: `0`, *exponente*: `10000000` y *mantisa*: `01000000000000000000000`, es decir, la representación binaria completa es: `0 10000000 01000000000000000000000` (32 bits). La precisión de los números reales es dependiente de la arquitectura de hardware: 8, 16, 32 o 64 bits. 
 
 Las *operaciones básicas* sobre datos numéricos son matemáticas y estadísticas.
 
-**3. Cadenas de texto**
+**1.3. Cadenas de texto**
 
 En cuanto a las **cadenas de texto** (*string*), también llamados **datos alfanuméricos**, que sirven para representar la *descripción de los atributos* de los objetos de interés, cada **carácter** individual se convierte a binario según sistemas de codificación como el **ASCII** (Acrónimo de *A*merican *S*tandard *C*ode for *I*nformation *I*nterchange) (que permite representar hasta 256 símbolos con un byte) o el **Unicode** (que permite representar caracteres más complejos, como un emoji, con uno a tres bytes), codificados como **UTF-8** (*8-bit Unicode Transformation Format*). Lo mismo aplica para una cadena de tamaño unitario se llama *carácter* o *símbolo alfanumérico*.
 
@@ -37,17 +37,17 @@ Los datos alfanuméricos son los más abundantes y tienen una gran versatilidad 
 
 Las *operaciones básicas* que se realizan con datos alfanuméricos son: concatenación, extracción de subcadenas, reemplazo, búsqueda, comparación, división,  formateo, eliminación de espacios, longitud y verificación de patrones.
 
-**4. Datos lógicos**
+**1.4. Datos lógicos**
 
 Para los **datos lógicos** (también llamados *booleanos* o *boolean*), como `True` (verdadero) y `False` (falso), la codificación es directa: `1` y `0`, respectivamente. Este tipo de dato sirve para representar comparaciones entre valores y tomar decisiones en el flujo de procesamiento. 
 
 Las *operaciones básicas* con datos lógicos son: unión (`Y` o `AND`), disyunción (`O` u `OR`) y negación (`NO` o `NOT`).   
 
-**5. Dato nulo** 
+**1.5. Dato nulo** 
 
 Por último, el tipo especial **nulo**, que sirve para representar un dato perdido o inexistente, no tiene un valor binario directo. En su lugar, el sistema usa punteros que indican un espacio vacío o un objeto especial predefinido que representa "sin valor". Es decir, la computadora sabe que un valor es **null** (nulo) (ausencia de un valor) mediante representaciones específicas que dependen del lenguaje de programación y del sistema operativo subyacente. Por lo general, se usa un valor `0` en 8 a 64 bits, dependiendo de la arquitectura de la computadora.
 
-**6. Datos especiales**
+**1.6. Datos especiales**
 
 De manera análoga como se codifican los datos básicos, se procede igual con ciertos datos especiales como los **sonidos** y los **colores**, que permiten codificar el audio, las imágenes y el video de archivos multimedia. Los datos básicos multimedia también tiene operaciones básicas mediante software especializado. 
 
@@ -67,7 +67,7 @@ Los datos individuales, como números, cadenas o valores lógicos, son la base d
 Formalmente, las **estructuras de datos** son herramientas fundamentales diseñadas para almacenar, organizar y manipular datos de manera eficiente. Estas estructuras no solo optimizan el rendimiento y la escalabilidad de los programas de cómputo, sino que también facilitan la resolución de problemas complejos y la implementación de complejos sistemas de información como los sistemas empresariales. Hay distintos **tipos de estructuras de datos**: estructuras lineales, jeráquicas, tabulares y avanzadas.
 
 
-**1. Estructuras lineales**
+**2.1. Estructuras lineales**
 
 Las estructuras lineales organizan los datos de forma secuencial. Entre estas se encuentran los vectores, las listas, las pilas, las colas y las matrices, con múltiples aplicaciones. Las estructuras de datos se pueden considerar como **datos complejos** compuestos de **datos simples**.
 
@@ -82,13 +82,13 @@ Las **colas** son estructuras que siguen el principio FIFO (*F*irt *I*nt, *F*irt
 Las **matrices** son vectores n-dimensionales que, para el caso de dos dimensiones, organiza los datos en filas y columnas. Por ejemplo, las matrices se usan para representar las imágenes, donde cada píxel se representa como un elemento de una matriz, con colores o intensidades.
 
 
-**2. Estructuras jerárquicas**
+**2.2. Estructuras jerárquicas**
 
 Los **árboles** son estructuras de *datos* donde cada nodo tiene un padre y puede tener múltiples hijos, organizados de forma jerárquica. Estas estructuras se usan, por ejemplo, para representan los sistemas de archivos, donde las carpetas son nodos que contienen subcarpetas y archivos.
 
 Los **grafos** son conjuntos de nodos conectados mediante aristas que pueden tener direcciones o ser bidireccionales, con mútiples aplicaciones. Por ejemplo, los grafos se usan para modelar redes de todo tipo, las redes sociales, donde los nodos son usuarios y las aristas son sus conexiones o las redes de vialidad que definen las rutas de tránsito en aplicaciones como Google Maps o Waze.
 
-**3. Estructuras tabulares y avanzadas**
+**2.3. Estructuras tabulares y avanzadas**
 
 Los **dataframes** y las **tablas** son estructuras tabulares bidimensionales que combinan etiquetas para filas y columnas, con soporte para tipos de datos heterogéneos, es decir, las filas son vectores y las filas son listas. Los dataframes se utilizan por analistas financieros para consolidar y analizar información como ingresos y gastos por trimestre o realizar análisis estadísticos. Comunmente, los dataframes se graban como archivos delimitados por comas (`.csv`) para su intercambio.
 
@@ -103,27 +103,27 @@ Como puede verse, comprender la existencia y uso de las estructuras de datos es 
 
 Hoy en día, se emplean miles de **tipos de archivos**, cada uno adaptado a necesidades específicas, desde la gestión de documentos hasta el diseño gráfico o la transmisión de datos, donde se codifican distintos tipos de datos básicos y estructuras de datos. A continuación, se presenta una panorámica de los distintos tipos de archivos, desde esta perspectiva.
 
-**1. Documentos** 
+**3.1. Documentos** 
 
 Los **documentos** son arvchivos complejos, desde **archivos de texto** hasta **hojas de cálculo**, que son esenciales en los entornos laborales. Archivos como `.txt` permiten manejar texto sin formato, mientras que archivos `.docx` (Microsoft Word) y `.pdf` (documentos portátiles) son fundamentales para informes y presentaciones. Por otro lado, los archivos `.xlsx` (Microsoft Excel) y `.csv` (datos separados por comas) son ideales para el análisis de datos y la gestión administrativa.
 
-**2. Multimedia** 
+**3.2. Multimedia** 
 
 Los **formatos multimedia** son cruciales para la comunicación visual y auditiva. Las imágenes `.jpg` y `.png` son ampliamente utilizadas en fotografía y diseño gráfico, mientras que `.svg` permite manejar gráficos vectoriales escalables, esenciales en el diseño web. En el ámbito del audio, `.mp3` y `.wav` son estándares para compresión y calidad profesional, respectivamente. Para video, formatos como `.mp4` y `.mkv` se destacan por su calidad y capacidad de integrar pistas de audio y subtítulos. 
 
-**3. Bases de datos**
+**3.3. Bases de datos**
 
 En el **manejo de datos**, formatos como `.json` y `.xml` facilitan el intercambio de información estructurada y los archivos `.sql`, son esenciales para las bases de datos. Los archivos `.sav` (SPSS), `.sas`  (SAS) o `.RData` (R) son esenciales para almacenar bases de datos para análisis estadísticos.
 
-**4. Diseño y manufactura**
+**3.4. Diseño y manufactura**
 
 En **ingeniería, arquitectura y manufactura**, archivos como `.dwg` (AutoCAD) y `.stl` (modelos 3D) son estándar para planos y prototipos. Estos formatos permiten la colaboración eficiente y la implementación de proyectos complejos.
 
-**5. Software**
+**3.5. Software**
 
 Para la **creación o desarrollo de software**, hay archivos con scripts como `.py` (Python), `.c` (Lenguaje C), `.js` (JavaScript) y `.html` y `.css` (páginas web) son herramientas fundamentales para programadores y diseñadores web.
 
-**6. Otros usos** 
+**3.6. Otros usos** 
 
 Para usos especiales como  **almacenamiento y distribución**, los formatos como `.zip` y `.tar.gz` son comunes, mientras que los archivos `.log` son esenciales para las bitácoras en sistemas y las imágenes de discos `.iso` son vitales para la distribución de software y la instalación de sistemas operativos, por ejemplo.
 
@@ -181,7 +181,7 @@ Este flujo de transformación asegura que el programa sea eficiente, portátil y
 
 Retomemos el lenguaje de programación de una manera más técnica. Todo lenguaje de programación se construye sobre tres fundamentos esenciales: gramática, sintaxis y semántica. Estos elementos trabajan juntos para garantizar que el código no solo sea válido y ejecutable, sino también lógico y funcional. Entender estos pilares es crucial para escribir programas claros y efectivos.
 
-**1. Gramática**
+**6.1. Gramática**
 
 La **gramática** de un lenguaje de programación establece las *reglas formales* que determinan *cómo se estructuran las instrucciones*. Al igual que las reglas gramaticales en los idiomas humanos, la gramática de un lenguaje de programación define qué construcciones son válidas para que las computadoras puedan procesarlas. A diferencia del lenguaje natural que tiene elementos como artículo, sujeto, verbo y complemento, la gramática de un lenguaje de programción define otras piezas elementales:  
 
@@ -195,7 +195,7 @@ La **gramática** de un lenguaje de programación establece las *reglas formales
 
 - La **producción de sentencias** se refiere a *estructuras completas que definen una instrucción* como declaraciones de variables, bucles (ciclos de repetición) o funciones, en todas sus variaciones posibles. Es el equivalente de la creación de oraciones correctas en un lenguaje natural. 
 
-**2. Sintaxis**
+**6.2. Sintaxis**
 
 La **sintaxis** dicta *cómo deben organizarse los tokens y las estructuras gramaticales* para que el código sea interpretado correctamente por el compilador o el intérprete. Es como la ortografía y la gramática de un idioma, pero aplicada a un lenguaje de programación. Por ejemplo, el uso de paréntesis de apertura y de cierre en la posición correcta. Si la estructura no es precisa, se produce un *error de sintaxis* y el programa o el script ya no continuará su proceso hasta la ejecución. 
 
@@ -208,7 +208,7 @@ La sintaxis asegura que el código sea "gramaticalmente correcto", permitiendo q
 
 Hay que destacar que el incumplimiento estricto de las reglas de sintaxis del lenguaje de programación que se esté usando es la mayor fuente de errores, durante la interpretación o compilación del código fuente. Conviene usar herramientas de IA para ayudar a encontrar la solución, cuando no se tiene mucha experiencia.
 
-**3. Semántica**
+**6.3. Semántica**
 
 La **semántica** se centra en el *significado* del código y en validar si las instrucciones tienen sentido lógico, es decir, si el código resuelve el problema para el que creó el programa o el script. Aunque un programa tenga una sintaxis correcta, no garantiza que haga lo que se espera. Aquí es donde entra la semántica para verificar la lógica del programa. Por ejemplo, un *error semántico* puede ocurrir si intentas realizar una operación imposible o no definida, como dividir un número entre cero o sumar una variable de texto con un número; aunque el código esté correctamente escrito, su lógica será incorrecta.
 
@@ -223,7 +223,7 @@ En la actualidad, el ecosistema tecnológico ofrece miles de **aplicaciones** de
 
 Dentro de estas herramientas de **software libre** destacan los *sistemas operativos* como Fedora, los *entornos de desarrollo integrados* (IDE) como RStudio, *intérpretes* de lenguajes como Python y R, y los *compiladores* como **GCC** (*GNU Compiler Collection*). Este último es una colección de compiladores que permite trabajar con múltiples lenguajes como C, C++ y Fortran, entre otros, siendo una herramienta esencial para transformar código fuente en ejecutable y en los códigos intermedios: código ensamblador y código objeto o código máquina. Estas *soluciones con software libre* eliminan prácticamente todas las barreras económicas y tecnológicas al ofrecer recursos gatuitos para que estudiantes y profesionales en administración y otras disciplinas, puedan capacitarse y desarrollar habilidades de programación.
 
-**1. Lenguajes de programación**
+**7.1. Lenguajes de programación**
 
 En cuanto a los lenguajes de programación, el panorama es diverso, dependiendo del propósito. Por ejemplo, hay **lenguajes generalistas** como Python que son altamente versátiles para tareas como desarrollo web, análisis de datos y automatización. Por otro lado, los **lenguajes especializados**, como R o SQL, responden a necesidades concretas como el análisis estadístico o las bases de datos. 
 
@@ -241,7 +241,7 @@ La *verdadera ventaja* surge al combinar las fortalezas de ambos lenguajes. Pyth
 
 En resumen, Python y R ofrecen una combinación perfecta para estudiantes de administración. Python sobresale en la automatización, la manipulación de datos y la conexión con otras herramientas, mientras que R brilla en el análisis estadístico y la presentación de resultados. Juntos, brindan a los estudiantes la posibilidad de abordar problemas administrativos de manera integral, potenciando tanto la eficiencia operativa como la toma de decisiones estratégicas basada en datos.
 
-**2. Entorno de desarrollo**
+**7.2. Entorno de desarrollo**
 
 **RStudio**, tanto en su versión de escritorio como en la plataforma en la nube [RStudio.cloud](https://posit.cloud), es un *entorno de desarrollo integrado (IDE)* excepcionalmente versátil que facilita el aprendizaje de la programación, especialmente para usuarios que desean iniciarse en el uso de R y Python, en un único espacio de trabajo. Esto permite explorar desde análisis estadísticos hasta automatización de tareas, con aplicaciones prácticas directamente relacionadas con su campo.
 
@@ -261,7 +261,7 @@ Por último, RStudio facilita la **documentación** con formatos como Markdown (
 
 En resumen, RStudio es más que un IDE; es un entorno de aprendizaje integral que equipa a los estudiantes con las habilidades necesarias para abordar problemas administrativos mediante el análisis de datos y la programación. Su diseño accesible, sus capacidades avanzadas y su compatibilidad con R y Python lo hacen una herramienta imprescindible para quienes desean integrar la programación como parte fundamental de su formación profesional.
 
-### Conclusiones
+### 8. Conclusiones
 
 El software, en su esencia, es una entidad dual: datos e instrucciones que, bien estructurada para resolver problemas con el manejo de datos y realizar tareas concretas. Este ensayo ha demostrado cómo los datos, cuando se codifican y organizan adecuadamente en estructuras de datos eficientes, pueden ser manipulados y procesados por instrucciones para producir resultados significativos. Hemos hecho un repaso de los elementos de todo lenguaje de programación. Además, se ha explicado el ciclo completo que recorre el código, desde su concepción como código fuente hasta su transformación en código ejecutable, ilustrando los procesos de interpretación y compilación. Este recorrido conceptual permite que cualquier estudiante pueda comprender y estudiar, por su cuenta, cómo usar Python, R en RStudio, como un pequeño ecosistema tecnológico potente y versátil. No me cabe la menor duda, que si logran dominar esas tres tecnologías, pueden mejorar sus habilidades en el procesamiento automatizado de datos en sus otras UEAs y egresar como profesionistas bien capacitados.
 
