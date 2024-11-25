@@ -583,41 +583,100 @@ Con esta configuración, puedes aprovechar al máximo las capacidades de **RStud
 
 ### **9. Práctica**
 
-Aquí tienes el script actualizado con una nueva función que enseña y advierte sobre los errores de sintaxis más comunes en Python. La función se inserta después de la explicación de gramática y está diseñada para ser didáctica, con ejemplos claros y explicaciones para cada error.
 
----
+#### **9.1. Script: Gramática y Sintaxis en Python**
 
-#### **Script Python: Explicación de Gramática, Errores Comunes y Funciones Computacionales**
+Este script, titulado "Gramática y Sintaxis en Python", está diseñado para enseñar los fundamentos de la gramática del lenguaje Python, así como para identificar y corregir errores comunes que los programadores suelen cometer. Proporciona ejemplos prácticos y didácticos para reforzar los conceptos.
 
+#### **Organización del Código**
+
+1. **Encabezado Informativo:**
+   - Describe el propósito del script, el autor, la fecha y los métodos de contacto.
+   - Es una buena práctica incluir esta sección para que otros usuarios comprendan rápidamente el propósito del script.
+
+2. **Importaciones:**
+   - El script importa el módulo `sqlite3` para futuras extensiones, aunque no se utiliza en la versión actual.
+
+3. **Funciones:**
+   - **`pausa()`**:
+     - Permite al usuario detenerse entre secciones presionando Enter, asegurando que pueda leer y entender los resultados antes de avanzar.
+   - **`explicar_gramatica()`**:
+     - Proporciona una descripción detallada de los componentes básicos de la gramática de Python:
+       - Variables y asignación.
+       - Operadores.
+       - Estructuras de control.
+       - Funciones.
+     - Incluye ejemplos formateados para facilitar la comprensión.
+   - **`errores_comunes()`**:
+     - Enumera y explica errores comunes de sintaxis en Python, con ejemplos y correcciones claras:
+       - Falta de dos puntos (`:`) en estructuras de control.
+       - Problemas de indentación.
+       - Uso incorrecto de comillas.
+       - Paréntesis faltantes.
+       - División por cero.
+       - Uso de variables no definidas.
+   - **`mostrar_introduccion()`**:
+     - Presenta al usuario el propósito general del script, destacando que cubrirá gramática, errores comunes y buenas prácticas.
+   - **`main()`**:
+     - Coordina la ejecución del script llamando a las funciones en el orden correcto para guiar al usuario a través de las lecciones.
+
+4. **Punto de Entrada:**
+   - **`if __name__ == "__main__":`**
+     - Garantiza que el script se ejecute correctamente cuando se ejecuta directamente desde la terminal o un IDE.
+
+
+#### **Lógica del Script**
+1. El programa comienza mostrando una introducción que resume el propósito del script.
+2. Explica la gramática básica de Python con ejemplos claros y prácticos.
+3. Identifica los errores de sintaxis más comunes, proporcionando soluciones detalladas.
+4. Finaliza con un mensaje de agradecimiento y un resumen de los conceptos aprendidos.
+
+
+#### **Instrucciones para Ejecutar el Script**
+
+1. **Requisitos Previos:**
+   - Asegúrate de tener Python 3 instalado en tu computadora.
+   - No es necesario instalar bibliotecas externas, ya que el script utiliza funcionalidades básicas de Python.
+
+2. **Ejecución del Script:**
+   - Guarda el código en un archivo llamado `gramatica_python.py`.
+   - Abre una terminal o el IDE de tu preferencia.
+   - Ejecuta el script usando:
+     ```bash
+     python3 gramatica_python.py
+     ```
+
+3. **Interacción:**
+   - El script mostrará secciones explicativas y pausará después de cada una, permitiendo que el usuario lea y asimile los conceptos antes de continuar.
+
+#### **Script 1: Gramática y Sintaxis en Python**
 ```python
+# gramatica_python.py 
+
 """
 ===========================================================
-Script: Funciones Fundamentales de la Computadora en Python
-Descripción: Este script ilustra cómo Python implementa las
-cuatro funciones básicas de la computadora: entrada, salida,
-almacenamiento y procesamiento. También incluye una explicación
-de gramática, advertencias sobre errores comunes y prácticas
-didácticas para cada sección.
+Script 1: Gramática y Sintaxis en Python
+Descripción: Este script ilustra la gramática de Python,
+incluidos ejemplos para todos los operadores aritméticos,
+relacionales y lógicos, y los errores más comunes.
 
 Autor: profe J. Zavala
 Contacto: jzr@xanum.uam.mx
 Telegram: https://t.me/jzavalar
 
-Fecha: 22 de noviembre de 2024
+Fecha: 25 de noviembre de 2024
 ===========================================================
 """
 
-# Importar módulos necesarios
-import sqlite3  # Para trabajar con bases de datos SQLite
-
 # -----------------------------------------------------------
-# Función para pausar la ejecución hasta que el usuario presione Enter
+# Función para pausar la ejecución
 # -----------------------------------------------------------
 def pausa():
     input("\nPresiona Enter para continuar...")
 
+
 # -----------------------------------------------------------
-# 0. Explicación de la Gramática de Python
+# Explicación de la Gramática de Python
 # -----------------------------------------------------------
 def explicar_gramatica():
     print("""
@@ -625,34 +684,177 @@ def explicar_gramatica():
     Explicación de la Gramática de Python
     ===========================================================
     1. **Variables y Asignación**:
+       - En Python, las constantes se escriben en mayúsculas por convención.
        - Las variables en Python no requieren declarar un tipo.
-         Ejemplo:
+
+       - Las variables deben inicializarse (asignarseles un valor) antes de su uso. 
+         Si no se inicializan, se producirá un error.
+         Ejemplo de inicialización de variables por tipo de dato:
          ```python
-         edad = 30
-         nombre = "Juan"
+         edad = 30  # Entero
+         contador = 0  # Inicializar como entero
+         precio = 19.99   # Decimal
+         nombre = "Juan"  # Cadena
+         nombre = ""      # Inicializar como cadena vacía
+         es_mayor = True  # Booleano
+         activo = False   # Booleano
+         ```
+         
+       - Aunque no están protegidas por el lenguaje, 
+         el uso de nombres en mayúsculas indica que no deben cambiarse.
+         Ejemplo de inicialización de constantes:
+         ```python
+         PI = 3.1416      # Constante para el valor de pi
+         MAX_USERS = 100  # Número máximo de usuarios permitido
          ```
 
     2. **Operadores**:
-       - Incluyen aritméticos (`+`, `-`, `*`, `/`), de comparación (`==`, `!=`) y lógicos (`and`, `or`, `not`).
+       - Incluyen aritméticos, de comparación y lógicos.
+
+         Ejemplos:
+         ```python
+         # Operadores Aritméticos
+         suma = 10 + 5       # Suma
+         resta = 10 - 5      # Resta
+         producto = 10 * 5   # Multiplicación
+         division = 10 / 5   # División
+         modulo = 10 % 3     # Resto de la división
+         potencia = 2 ** 3   # Potencia
+         division_entera = 10 // 3  # División entera
+         print(f"Suma: {suma}, Resta: {resta}, Producto: {producto}, División: {division}, Módulo: {modulo}, Potencia: {potencia}, División Entera: {division_entera}")
+
+       - **Jerarquía de Operaciones (PEMDAS):**
+       - Python sigue la regla PEMDAS para evaluar las expresiones:
+         - Paréntesis.
+         - Exponentes.
+         - Multiplicación, División, y Módulo.
+         - Adición y Sustracción.
+
          Ejemplo:
          ```python
-         resultado = 5 > 3 and 2 < 4
+         resultado = (2 + 3) * 4  # Paréntesis se evalúan primero
+         resultado_correcto = 2 + 3 * 4  # Sin paréntesis: primero multiplicación
+         print(f"Con paréntesis: {resultado}, Sin paréntesis: {resultado_correcto}")
+         ```
+
+       - Ejemplo de Operadores Relacionales
+         ```python
+         # Operadores Relacionales
+         mayor = 10 > 5          # Mayor que
+         menor = 10 < 15         # Menor que
+         mayor_igual = 10 >= 10  # Mayor o igual que
+         menor_igual = 5 <= 5    # Menor o igual que
+         igual = 10 == 10        # Igual a
+         distinto = 10 != 5      # Diferente de
+         print(f"10 > 5: {mayor}, 10 < 15: {menor}, 10 >= 10: {mayor_igual}")
+         print(f"5 <= 5: {menor_igual}, 10 == 10: {igual}, 10 != 5: {distinto}")
+         ```
+
+       - Ejemplo de Operadores Lógicos
+         ```python
+         # Operadores Lógicos
+         resultado_and = (10 > 5) and (5 < 10)  # AND lógico
+         resultado_or = (10 > 5) or (5 > 10)   # OR lógico
+         resultado_not = not (10 > 5)          # NOT lógico
+         print(f"(10 > 5) and (5 < 10): {resultado_and}, (10 > 5) or (5 > 10): {resultado_or}")
+         print(f"not (10 > 5): {resultado_not}")
+         ```
+
+       - Tablas de verdad para operadores lógicos.
+         ```python
+         # AND
+         print("Tabla de verdad: AND")
+         print(f"True and True: {True and True}")
+         print(f"True and False: {True and False}")
+         print(f"False and True: {False and True}")
+         print(f"False and False: {False and False}")
+
+         # OR
+         print("\nTabla de verdad: OR")
+         print(f"True or True: {True or True}")
+         print(f"True or False: {True or False}")
+         print(f"False or True: {False or True}")
+         print(f"False or False: {False or False}")
+
+         # NOT
+         print("\nTabla de verdad: NOT")
+         print(f"not True: {not True}")
+         print(f"not False: {not False}")
          ```
 
     3. **Estructuras de Control**:
-       - **Condicionales** (`if`, `elif`, `else`) y **Bucles** (`for`, `while`) permiten controlar el flujo del programa.
-         Ejemplo de `if`:
+       - **Condicionales** (`if`, `elif`, `else`) y **Bucles** (`for`, `while`) controlan el flujo del programa.
+
+         Ejemplos:
          ```python
+         # Condicional simple
          if edad > 18:
-             print("Mayor de edad")
+             print("Eres mayor de edad.")
+
+         # Condicional múltiple elemental
+         if edad < 18:
+             print("Eres menor de edad.")
+         else:
+             print("Eres mayor de edad.")
+
+         # Condicional múltiple
+         if edad < 18:
+             print("Eres menor de edad.")
+         elif edad == 18:
+             print("Recién alcanzas la mayoría de edad.")
+         else:
+             print("Eres mayor de edad.")
+
+
+         # Bucle for para un número conocido de iteraciones (n=4)
+         n = 4
+         for i in range(1, n):
+             print(f"Iteración {i}")
+
+         # Bucle while para un número desconocido de iteraciones 
+         contador = 1
+         while contador <= 3:
+             print(f"Contador: {contador}")
+             contador += 1
          ```
 
     4. **Funciones**:
        - Se definen con `def`, aceptan parámetros y pueden devolver valores.
-         Ejemplo:
+         Las funciones se invocan después de haber sido definidas
+         por una "llamada" a esa función
+         Ejemplos:
          ```python
+         # Función sin parámetros
+         def mensaje():
+             print(f"Este es un mensaje de una función sin parámetros.")
+
+         mensaje()
+
+         # Función que recibe parámetros
          def saludar(nombre):
-             return f"Hola, {nombre}!"
+             print(f"Hola, {nombre}!")
+             print(f"Mensaje de una función que recibió un parámetro")
+
+         saludar("Juan")
+
+         # Función que devuelve un valor
+         def sumar(a, b):
+             return a + b
+
+         sumando_1 = 10
+         sumando_2 = 5
+         resultado = sumar(sumando_1, sumando_1)
+         print(f"Resultado de la suma {sumando_1} + {sumando_2} es {resultado}")
+         print("El resultado impreso fue devuelto por una función, después del cálculo realizado")
+
+         # Función recursiva es una función que se llama a sí misma
+         def factorial(n):
+             if n == 1:
+                 return 1
+             else:
+                 return n * factorial(n - 1)
+
+         print(f"Factorial de 5: {factorial(5)}")
          ```
 
     ¡Con esta base, ahora exploraremos los errores de sintaxis más comunes!
@@ -660,162 +862,118 @@ def explicar_gramatica():
     """)
     pausa()
 
+
 # -----------------------------------------------------------
-# 1. Advertencias sobre Errores Comunes en Python
+# Advertencias sobre Errores Comunes
 # -----------------------------------------------------------
 def errores_comunes():
     print("""
-===========================================================
-Errores de Sintaxis Más Comunes en Python
-===========================================================
-A continuación, aprenderás a identificar y evitar errores comunes en Python.
-Cada error está acompañado de un ejemplo y su corrección.
+    ===========================================================
+    Errores de Sintaxis Más Comunes en Python
+    ===========================================================
+    A continuación, aprenderás a identificar y evitar errores comunes en Python.
+    Cada error está acompañado de un ejemplo y su corrección.
 
-1. **Falta de dos puntos (`:`) en estructuras de control**:
-   - Error:
-     ```python
-     if True
+    1. **Falta de dos puntos (`:`) en estructuras de control**
+       - Error:
+         ```python
+         if True
+             print("Hola")
+         ```
+       - Solución:
+         ```python
+         if True:
+             print("Hola")
+         ```
+
+    2. **Indentación incorrecta**
+       - Python usa indentación para definir bloques de código.
+       - Error:
+         ```python
+         if True:
+         print("Hola")  # Falta de indentación
+         ```
+       - Solución:
+         ```python
+         if True:
+             print("Hola")
+         ```
+
+    3. **Uso incorrecto de comillas**
+       - Error:
+         ```python
+         print('Esto es un error")
+         ```
+       - Solución:
+         ```python
+         print("Esto es correcto")
+         ```
+
+    4. **Paréntesis faltantes en funciones**
+       - Error:
+         ```python
+         print "Hola"  # Sintaxis válida en Python 2, no en Python 3
+         ```
+       - Solución:
+         ```python
          print("Hola")
-     ```
-   - Solución:
-     ```python
-     if True:
-         print("Hola")
-     ```
+         ```
 
-2. **Indentación incorrecta**:
-   - Python usa indentación para definir bloques de código.
-   - Error:
-     ```python
-     if True:
-     print("Hola")  # Falta de indentación
-     ```
-   - Solución:
-     ```python
-     if True:
-         print("Hola")
-     ```
-
-3. **Uso incorrecto de comillas**:
-   - Error:
-     ```python
-     print('Esto es un error")
-     ```
-   - Solución:
-     ```python
-     print("Esto es correcto")
-     ```
-
-4. **Paréntesis faltantes en funciones**:
-   - Error:
-     ```python
-     print "Hola"  # Sintaxis válida en Python 2, no en Python 3
-     ```
-   - Solución:
-     ```python
-     print("Hola")
-     ```
-
-5. **División por cero**:
-   - Error lógico (pero sin advertencia del intérprete):
-     ```python
-     resultado = 10 / 0
-     ```
-   - Solución:
-     ```python
-     try:
-         resultado = 10 / 0
-     except ZeroDivisionError:
-         print("No se puede dividir entre cero")
-     ```
-
-6. **Uso incorrecto de variables no definidas**:
-   - Error:
-     ```python
-     print(valor)  # 'valor' no está definido
-     ```
-   - Solución:
-     ```python
-     valor = 10
-     print(valor)
-     ```
-
-===========================================================
-¡Practica estos conceptos y evita estos errores para mejorar tu código!
-===========================================================
-""")
+    ===========================================================
+    ¡Practica estos conceptos y evita estos errores para mejorar tu código!
+    ===========================================================
+    """)
     pausa()
+
 
 # -----------------------------------------------------------
 # Introducción al Script
 # -----------------------------------------------------------
-print("""
-===========================================================
-¡Bienvenido al Script de Funciones Computacionales!
-===========================================================
-Este programa demostrará las siguientes capacidades:
-1. Entrada de datos: Cómo Python recopila información.
-2. Salida de datos: Cómo se presentan los resultados.
-3. Almacenamiento: Cómo se guardan y gestionan datos.
-4. Procesamiento: Cómo Python transforma los datos.
+def mostrar_introduccion():
+    print("""
+    ===========================================================
+    ¡Bienvenido al Script de Gramática y Sintaxis de Python!
+    ===========================================================
+    Este programa demostrará las siguientes capacidades:
+    1. Gramática de Python.
+    2. Errores comunes al programar en Python.
+    
+    Cada sección incluye ejemplos y pausas para que observes
+    los resultados en la consola.
+    ===========================================================
+    """)
+    pausa()
 
-Cada sección incluye ejemplos y pausas para que observes
-los resultados en la consola.
-===========================================================
-""")
-
-pausa()
-
-# Llamadas a las funciones de introducción
-explicar_gramatica()
-errores_comunes()
 
 # -----------------------------------------------------------
-# 2. Funciones Fundamentales
+# Función Principal
 # -----------------------------------------------------------
-# 1. Entrada de Datos
-print("\n1. Entrada de Datos")
-print("En esta sección, recopilaremos información ingresada por el usuario y desde un archivo.")
+def main():
+    """
+    Función principal que coordina las diferentes secciones del script.
+    """
+    mostrar_introduccion()
+    explicar_gramatica()
+    errores_comunes()
+    print("""
+    ===========================================================
+    ¡Gracias por usar el Script sobre la Gramática y Sintaxis
+    del Lenguaje Python!
+    ===========================================================
+    Has aprendido gramática, errores comunes.
+    ¡Hasta pronto!
+    ===========================================================
+    """)
 
-nombre = input("Por favor, ingresa tu nombre: ")
-edad = int(input("Ingresa tu edad: "))
-altura = float(input("Ingresa tu altura en metros: "))
-print("\n¡Gracias! Ahora procesaremos estos datos.")
-pausa()
-
-# 2. Salida de Datos
-print("\n2. Salida de Datos")
-mensaje = f"\nBienvenido, {nombre}. Vamos a procesar tus datos."
-print(mensaje)
-pausa()
-
-# 3. Almacenamiento de Datos
-print("\n3. Almacenamiento de Datos")
-persona = {"nombre": nombre, "edad": edad, "altura": altura}
-print(f"Datos almacenados: {persona}")
-pausa()
-
-# 4. Procesamiento de Datos
-print("\n4. Procesamiento de Datos")
-edad_en_dias = edad * 365
-imc = round(altura ** -2 * (edad / 2), 2)
-print(f"Tu edad en días es aproximadamente: {edad_en_dias}")
-print(f"Tu IMC ficticio es: {imc}")
-pausa()
 
 # -----------------------------------------------------------
-# Despedida
+# Punto de Entrada del Script
 # -----------------------------------------------------------
-print("""
-===========================================================
-¡Gracias por usar el Script de Funciones Computacionales!
-===========================================================
-Has aprendido gramática, errores comunes y cómo Python
-implementa las funciones básicas de la computadora.
-¡Hasta pronto!
-===========================================================
-""")
+if __name__ == "__main__":
+    main()
+
 ```
+
 
 #### **Script: Patrones de Uso de las Instrucciones Fundamentales de la Computadora**
 
@@ -1070,4 +1228,4 @@ Este script ilustra una panorámica clara y práctica de las cuatro instruccione
 [^1]: Profesor-investigador del Departamento de Economía de la Universidad Autónoma Metropolitana, Unidad Iztapalapa. Contacto: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), [Telegram](https://t.me/jzavalar).
 [^2]: Lectura leída el 11, 18 y 25 de noviembre de 2024.
 
-Ultima actualización: 24 de noviembre de 2024
+Ultima actualización: 25 de noviembre de 2024
