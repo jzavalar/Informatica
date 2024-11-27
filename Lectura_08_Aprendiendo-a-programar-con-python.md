@@ -6,22 +6,23 @@ prof. dr. Jesús Zavala Ruiz[^2]
 
 ## **1. Introducción**
 
-Este tutorial tiene como objetivo guiar a los estudiantes a través de los conceptos fundamentales de programación aplicados, utilizando Python y RStudio como herramientas prácticas. Está estructurado en **cuatro partes** que permiten una exploración progresiva y clara de los temas clave. 
+Este tutorial tiene como objetivo guiar a los estudiantes a través de los conceptos fundamentales de programación vistos en la lectura 6, pero ahora aplicados, utilizando el lenguaje de programación Python y el entorno de desarrollo integrado (IDE) RStudio como herramientas prácticas. Está estructurado en **cuatro partes** que permiten una exploración progresiva y clara de los temas clave. 
 
 En la *primera parte* se exploran las ventajas de usar RStudio en la nube, como un entorno colaborativo que facilita el acceso inmediato a un entorno de programación. Después, en la *segunda parte*, Configuración de RStudio, se detallan los pasos necesarios para instalar y configurar RStudio en la nube, asegurando que funcione con Python, sin complicaciones. Luego, en la *parte tres*, presenta la gramática y sintaxis de Python, a suficiente detalle, como para que sirva de una base sólida para el aprendizaje inicial del lenguaje Python, ayudando a escribir código claro y correcto. Y en la *parte cuatro* y última, se desarrollan tres ejemplos de programación con Python que demuestran, de manera progresiva, las cuatro funciones de la computadora, utilizando Python, permitiendo a los estudiantes aplicar los conceptos aprendidos y verlos en acción.
 
 A lo largo de este tutorial, se puede aprender a *configurar y utilizar RStudio*, tanto en la nube como de forma local y a *ejecutar scripts* Python. Cada parte está acompañada de ejercicios prácticos y ejemplos guiados para facilitar la comprensión y asegurar la consolidación de los conocimientos adquiridos. Al finalizar, el estudiante habrá ganado una base introductoria, pero sólida, para programar en trabajar con Python, por primera vez en la vida. Para algunos, esto puede ser el inicio de su camino de aprendizaje informático más fascinante.  
 
+---
 
 ## **Parte 1. RStudio en la Nube**
 
 ### **1. Introducción**
 
-**RStudio** es una herramienta poderosa para análisis de datos y desarrollo en R, y su disponibilidad en versiones de escritorio y en la nube ofrece una gran flexibilidad para adaptarse a diferentes necesidades. Si trabajas en un proyecto individual con recursos locales, RStudio de Escritorio puede ser tu mejor opción. Pero, si necesitas colaborar o acceder a tu trabajo desde cualquier lugar, RStudio en la Nube simplifica este proceso.
+**RStudio** es una herramienta poderosa para análisis de datos y desarrollo en el lenguaje de programación [R](https://www.r-project.org/), y su disponibilidad en versiones de escritorio y en la nube ofrece una gran flexibilidad para adaptarse a diferentes necesidades. Si trabajas en un proyecto individual con recursos locales, RStudio de Escritorio puede ser tu mejor opción. Pero, si necesitas colaborar o acceder a tu trabajo desde cualquier lugar, RStudio en la Nube simplifica este proceso.
 
 #### **1.1. RStudio de Escritorio**
 
-En su versión local, **RStudio de Escritorio** funciona directamente en tu computadora, utilizando tus recursos de hardware. Esto significa que puedes aprovechar al máximo el rendimiento de tu equipo para manejar análisis intensivos, personalizar tu entorno y trabajar sin conexión a internet. Sin embargo, compartir tu proyecto implica pasos adicionales, como exportar archivos manualmente o usar herramientas como Git.
+En su versión local, [RStudio de Escritorio](https://posit.co/download/rstudio-desktop/) funciona directamente en tu computadora, utilizando tus recursos de hardware. Esto significa que puedes aprovechar al máximo el rendimiento de tu equipo para manejar análisis intensivos, personalizar tu entorno y trabajar sin conexión a internet. Sin embargo, compartir tu proyecto implica pasos adicionales, como exportar archivos manualmente o usar herramientas como Git.
 
 #### **1.2. RStudio en la nube con cuenta gratuita**
 
@@ -44,7 +45,7 @@ Sigue estos pasos para crear tu cuenta gratuita en Posit Cloud:
    - Alternativamente, selecciona **"Sign Up with Email"** para registrarte con un correo electrónico.
 
 4. **Completa el formulario de registro**:
-   - Ingresa tu **nombre completo**, una **dirección de correo electrónico válida**, y crea una **contraseña segura**.
+   - Ingresa tu **nombre completo**, una **dirección de correo electrónico válida** y crea una **contraseña segura**.
    - Acepta los términos y condiciones marcando la casilla correspondiente.
 
 5. **Verifica tu correo electrónico**:
@@ -70,7 +71,7 @@ Una vez que hayas creado y verificado tu cuenta, sigue estas instrucciones para 
 
 **Configura tu proyecto**
 1. **Asigna un nombre** al proyecto:
-   - Escribe un nombre descriptivo, como "Mi Primer Proyecto en RStudio".
+   - Escribe un nombre descriptivo, como "Informatica".
 2. Opcionalmente, agrega una descripción o etiquetas para organizar mejor tus proyectos.
 
 **Accede al entorno de RStudio**
@@ -86,9 +87,92 @@ Una vez que hayas creado y verificado tu cuenta, sigue estas instrucciones para 
 3. Si ves el mensaje en la consola, ¡tu entorno está configurado correctamente!
 
 
+**Comparte tu proyecto en Posit Cloud**
+1. Con el proyecto abierto, haz clic en el botón de menú (tres líneas horizontales) en la esquina superior izquierda del entorno de Posit Cloud.
+2. Selecciona la opción **"Project Settings"** (Configuración del Proyecto).
+3. Ve a la pestaña **"Access"** (Acceso).
+4. En la sección **"Who can access this project?"**, selecciona una de las opciones de acceso:
+   - **"Private"** (Privado): Solo tú puedes acceder al proyecto.  
+   - **"Shared with specific people"** (Compartido con personas específicas): Permite invitar a usuarios específicos.  
+   - **"Public"** (Público): Cualquier persona con el enlace puede acceder al proyecto (ideal para compartir sin restricciones de usuarios específicos).
+
+5. Si seleccionas **"Shared with specific people"**, introduce la dirección de correo electrónico de las personas con las que deseas compartir el proyecto.
+6. Establece los permisos para los usuarios invitados:
+   - **Can View** (Solo visualizar): Los usuarios pueden ver el proyecto pero no editarlo.  
+   - **Can Edit** (Editar): Los usuarios tienen acceso completo para modificar el proyecto.
+
+7. Si seleccionaste **"Public"**, haz clic en el botón **"Generate Link"** para crear un enlace único. Nota que el Link es el URL del proyecto, algo así como: [https://posit.cloud/content/9224346](https://posit.cloud/content/9224346)
+8. Copia el enlace generado y compártelo con las personas interesadas a través de correo electrónico, chat o cualquier otro medio.
+9. En la misma pestaña de **"Access"**, verifica que los usuarios agregados o las opciones públicas estén configuradas correctamente.
+10. Si compartiste con usuarios específicos, asegúrate de que hayan aceptado la invitación para acceder al proyecto.
+
+Una vez compartido, puedes monitorear las actividades de los usuarios y realizar ajustes en los permisos desde la misma sección de **"Access"** en la configuración del proyecto.
+
+Ahora tu proyecto está listo para ser colaborativo y accesible para otros.
+
+
 #### **2.3. Exploración inicial del entorno**
 
-Familiarízate con las partes principales de la interfaz de RStudio en la nube:
+Familiarízate con las partes principales de la interfaz de RStudio en la nube.
+
+Nota: Puedes acceder a los acordeones o *cheatsheets* desde tu WorkSpace o des de el link: [https://posit.co/resources/cheatsheets/](https://posit.co/resources/cheatsheets/). Localiza las traducciones al español, como esta sobre [RStudio cheatsheet en PDF](https://raw.githubusercontent.com/rstudio/cheatsheets/main/translations/spanish/rstudio-ide_es.pdf). También puedes ver un [video](https://www.youtube.com/watch?v=QZPGPQiietY).
+
+También puedes ver un [video](https://www.youtube.com/watch?v=ROUpi2QlxR4) en YouTube.
+
+#### **6. Prueba la integración de Python con R**
+1. Ejecuta un pequeño script de prueba para confirmar que puedes usar Python dentro de R:
+   ```r
+   py_run_string("print('Hola desde Python en RStudio!')")
+   ```
+2. Si la integración es exitosa, deberías ver el siguiente mensaje en la consola de R:
+   ```
+   Hola desde Python en RStudio!
+   ```
+
+---
+
+#### **Consejos Adicionales**
+- **Dependencias**: Asegúrate de que Python y las bibliotecas necesarias (como `numpy`) estén instalados en tu sistema.
+- **Problemas comunes**: Si encuentras errores relacionados con la detección de Python, verifica la ruta proporcionada o reinstala Python en tu sistema.
+
+Ahora estás listo para integrar Python en tu entorno de RStudio utilizando el paquete `reticulate`
+
+0. **Instala el paquete `reticulate` en RStudio**
+El paquete `reticulate` es esencial para integrar Python en el entorno de RStudio.
+1. Inicia RStudio en tu computadora o desde Posit Cloud.
+2. Asegúrate de que la consola de R (parte inferior izquierda) esté activa.
+3. En la **Consola** de R, ejecuta el siguiente comando:
+   ```r
+   install.packages("reticulate")
+   ```
+4. Espera a que R descargue e instale el paquete. Esto puede tardar unos minutos dependiendo de tu conexión a internet.
+5. Una vez instalado, carga el paquete para confirmar que está disponible:
+   ```r
+   library(reticulate)
+   ```
+6. Si el paquete se cargó correctamente, no se mostrará ningún error en la consola. Verás un mensaje similar a:
+   ```
+   Loading required package: reticulate
+   ```
+
+7. Permite que `reticulate` detecte automáticamente el intérprete de Python con:
+   ```r
+   use_python(NULL, required = FALSE)
+   ```
+8. Ejecuta este código en la consola de R para asegurarte de que Python está correctamente vinculado:
+   ```r
+   py_config()
+   ```
+9. Este comando mostrará información sobre el intérprete de Python, incluyendo la versión y las bibliotecas instaladas. Un ejemplo de salida es:
+   ```
+   python: /usr/bin/python3
+   libpython: /usr/lib/libpython3.9.so
+   pythonhome: /usr
+   version: 3.9.2
+   numpy: /usr/local/lib/python3.9/dist-packages/numpy
+   ```
+
+Prueba los componentes de RStudio:
 
 1. **Consola**:
    - Aquí puedes ejecutar comandos directamente en R. Es el lugar donde puedes probar código rápidamente y observar los resultados al instante.
@@ -117,12 +201,14 @@ Familiarízate con las partes principales de la interfaz de RStudio en la nube:
 
 5. **Terminal**:
    - RStudio incluye una **terminal integrada**, accesible desde la pestaña **Terminal** en el panel inferior izquierdo.
-   - Te permite ejecutar comandos del sistema directamente, lo cual es útil para:
+   - Te permite ejecutar comandos del sistema operativo, directamente, en modo CLI (*Command Line Interfase*) lo cual es útil para:
      - Navegar por tu sistema de archivos.
      - Instalar herramientas externas como paquetes de Python.
      - Ejecutar el intérprete de Python.
+   
+   Van unos cuantos ejemplos:
 
-   **Ejemplo para verificar el sistema operativo**:
+   **Verificar el sistema operativo**:
    ```bash
    uname -a
    ```
@@ -141,7 +227,7 @@ Familiarízate con las partes principales de la interfaz de RStudio en la nube:
    Python 3.x.x
    ```
 
-   **Ejemplo para instalar paquetes de Python**:
+   **Instalar paquetes de Python**:
    Una vez confirmada la versión de Python, puedes instalar paquetes necesarios. Por ejemplo:
    ```bash
    pip install pandas
@@ -261,13 +347,12 @@ print("¡El entorno de Python en RStudio está configurado correctamente!")
 
 Con estas dos opciones, tienes flexibilidad para trabajar con tus scripts Python en RStudio según tus necesidades y estilo de trabajo. ¡Experimenta con ambos métodos!
 
-Aquí tienes el texto formateado de manera clara y estructurada:
-
 ---
 
 ## **Parte 3. Gramática y Sintaxis de Python**
 
 La **gramática** de Python define los elementos del lenguaje de programación y las reglas para estructurar y organizar el código, mientras que la **sintaxis** especifica cómo escribir estas estructuras para que sean válidas y comprensibles por el intérprete.
+
 
 ### **1. Características Clave**
 
@@ -394,7 +479,7 @@ He mejorado la legibilidad del texto organizándolo y resaltando los puntos clav
 
 Un **identificador** es el nombre que se utiliza para identificar **variables**, **funciones**, **clases**, **módulos** u otros **objetos** definidos por el usuario en Python. Para que los identificadores sean válidos y significativos, deben seguir ciertas reglas y convenciones.
 
-#### **Reglas para los Identificadores**
+#### **4.1. Reglas para los Identificadores**
 
 1. **Caracteres Permitidos**
    - Los identificadores solo pueden contener **letras** (a-z, A-Z), **números** (0-9) y el guion bajo (`_`).
@@ -432,7 +517,7 @@ Un **identificador** es el nombre que se utiliza para identificar **variables**,
    - En lugar de usar nombres como `x` o `y`, usa nombres como `edad` o `precio_total`.
 
 
-#### **Convenciones de Nomenclatura**
+#### **4.2. Convenciones de Nomenclatura**
 
 1. **Nombres de Variables**
    - Utiliza letras minúsculas y separa las palabras con guiones bajos (`snake_case`).
@@ -455,7 +540,7 @@ Un **identificador** es el nombre que se utiliza para identificar **variables**,
    - **Ejemplo**: `__init__`, `__str__`.
 
 
-#### **Buenas Prácticas**
+#### **4.3. Buenas Prácticas**
 
 1. **Usa Nombres Claros y Descriptivos**
    - En lugar de `a = 10`, utiliza `edad = 10`.
@@ -467,7 +552,7 @@ Un **identificador** es el nombre que se utiliza para identificar **variables**,
    - Las convenciones de estilo ayudan a mejorar la legibilidad y el mantenimiento del código.
 
 
-#### **Ejemplo Completo**
+#### **4.4. Ejemplo Completo**
 
 ```python
 # Identificadores válidos y descriptivos
@@ -489,7 +574,7 @@ Con este conocimiento, podrás definir identificadores en Python de manera corre
 
 En Python, la **puntuación** incluye caracteres especiales que se utilizan para estructurar, organizar y dar sentido al código. Aunque no siempre son visibles en la ejecución, su correcto uso es esencial para evitar errores de sintaxis.
 
-#### **Caracteres Comunes de Puntuación en Python**
+#### **5.1. Caracteres Comunes de Puntuación en Python**
 
 | **Carácter** | **Uso**                                                                                   | **Ejemplo**                                           |
 |--------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------|
@@ -502,7 +587,7 @@ En Python, la **puntuación** incluye caracteres especiales que se utilizan para
 | `==`         | Compara dos valores para verificar si son iguales.                                        | `x == 10`                                           |
 | `.`          | Accede a atributos o métodos de objetos.                                                  | `mi_objeto.metodo()`                                |
 
-#### **Ejemplos Prácticos**
+#### **5.2. Ejemplos Prácticos**
 
 1. **Dos puntos (`:`) para bloques de código**:
    - Usados en estructuras como `if`, bucles o funciones:
@@ -541,7 +626,7 @@ En Python, la **puntuación** incluye caracteres especiales que se utilizan para
    saludar("Ana")
    ```
 
-#### **Errores Comunes**
+#### **5.3. Errores Comunes**
 
 1. **Falta de `:` en bloques de código**:
    ```python
@@ -560,7 +645,7 @@ En Python, la **puntuación** incluye caracteres especiales que se utilizan para
    mi_lista = [1, 2, 3  # Error: Falta cerrar el corchete
    ```
 
-#### **Resumen**
+#### **5.4. Resumen**
 
 Los caracteres de puntuación en Python son esenciales para estructurar y organizar el código correctamente. Asegúrate de utilizarlos de manera precisa y consistente para evitar errores y mejorar la legibilidad de tus programas.
 
@@ -611,7 +696,7 @@ He mejorado la estructura del texto para que sea más consistente y fácil de se
 
 Una **estructura de datos** es una forma de organizar, almacenar y gestionar datos en una computadora, de manera que puedan ser utilizados de forma eficiente. Las estructuras de datos permiten realizar operaciones como **agregar**, **eliminar**, **buscar** y **manipular** datos según las necesidades del programa. A continuación, se presentan ejemplos de **declaración e inicialización** de las principales estructuras de datos en Python, con breves explicaciones. Pon atención en los símbolos utilizados para acotar los datos: `[]`, `{}`, y `()`.
 
-#### 1. **Lista**
+#### 7.1. **Lista**
 Una **lista** es una colección ordenada y **mutable** (sus elementos pueden cambiar) que permite almacenar elementos de diferentes tipos.
 
 ```python
@@ -629,7 +714,7 @@ print(f"Vector: {mi_vector}")
 print(f"Lista inicializada: {mi_lista}")
 ```
 
-#### 2. **Tupla**
+#### 7.2. **Tupla**
 Una **tupla** es similar a una lista, pero es **inmutable**, lo que significa que no se puede modificar después de ser creada.
 
 ```python
@@ -646,7 +731,7 @@ print(f"Tupla inicializada: {mi_tupla}")
 print(f"Tupla mixta: {mi_tupla_mixta}")
 ```
 
-#### 3. **Diccionario**
+#### 7.3. **Diccionario**
 Un **diccionario** es una colección no ordenada de pares **clave-valor**. Las claves son únicas, y los valores pueden ser de cualquier tipo.
 
 ```python
@@ -663,7 +748,7 @@ print(f"Diccionario inicializado: {mi_diccionario}")
 print(f"Diccionario mixto: {mi_diccionario_mixto}")
 ```
 
-#### 4. **Conjunto (Set)**
+#### 7.4. **Conjunto (Set)**
 Un **conjunto** es una colección no ordenada de elementos **únicos**.
 
 ```python
@@ -680,7 +765,7 @@ print(f"Conjunto inicializado: {mi_conjunto}")
 print(f"Conjunto mixto: {mi_conjunto_mixto}")
 ```
 
-#### 5. **Cadena (String)**
+#### 7.5. **Cadena (String)**
 Una **cadena** es una secuencia **inmutable** de caracteres.
 
 ```python
@@ -693,7 +778,7 @@ mi_cadena = "Hola, mundo!"
 print(f"Cadena inicializada: {mi_cadena}")
 ```
 
-#### 6. **Rango (Range)**
+#### 7.6. **Rango (Range)**
 Un **rango** es una secuencia de números generada mediante la función `range`.
 
 ```python
@@ -711,7 +796,7 @@ print(f"Rango con límites: {list(mi_rango_con_limites)}")
 print(f"Rango con paso: {list(mi_rango_con_paso)}")
 ```
 
-#### 7. **Matriz (Listas Anidadas)**
+#### 7.7. **Matriz (Listas Anidadas)**
 Una **matriz** es una colección bidimensional que se puede representar usando **listas anidadas**.
 
 ```python
@@ -730,7 +815,7 @@ for fila in mi_matriz:
     print(fila)
 ```
 
-#### 8. **DataFrame**
+#### 7.8. **DataFrame**
 Un **DataFrame** es una estructura tabular avanzada proporcionada por la biblioteca `pandas`.
 
 ```python
@@ -756,7 +841,7 @@ Estos ejemplos cubren las **estructuras de datos básicas** en Python, ofreciend
 Un **operador** es un símbolo que indica una operación a realizar entre uno o más operandos (valores o variables). Los operadores permiten realizar cálculos matemáticos, comparaciones lógicas y tomar decisiones en el código.
 
 
-#### **1. Operadores Aritméticos**
+#### **8.1. Operadores Aritméticos**
 
 Los **operadores aritméticos** se utilizan para realizar operaciones matemáticas básicas. Los **operandos** deben ser valores numéricos.
 
@@ -785,7 +870,7 @@ print(f"División entera {a} // {b} : {a // b}")
 ```
 
 
-#### **2. Operadores Relacionales**
+#### **8.2. Operadores Relacionales**
 
 Los **operadores relacionales** se utilizan para **comparar** dos valores y devuelven un resultado booleano (`True` o `False`).
 
@@ -812,7 +897,7 @@ print(f"Menor o igual que ({x} <= {y}): {x <= y}")
 ```
 
 
-#### **3. Operadores Lógicos**
+#### **8.3. Operadores Lógicos**
 
 Los operadores lógicos se utilizan para combinar expresiones booleanas. Operan sobre valores `True` o `False`.
 
@@ -822,7 +907,7 @@ Los operadores lógicos se utilizan para combinar expresiones booleanas. Operan 
 | `or`         | Lógico O (OR)               | `True or False`      | `True`        |
 | `not`        | Negación (NOT)              | `not True`           | `False`       |
 
-##### **Tablas de Verdad**
+##### **8.4. Tablas de Verdad**
 
 1. **AND (`and`)**: Devuelve `True` solo si **ambos operandos** son `True`.
 
@@ -878,7 +963,7 @@ print(f"not True: {not True}")
 print(f"not False: {not False}")
 ```
 
-#### **4. Jerarquía de Operaciones**
+#### **8.5. Jerarquía de Operaciones**
 
 La **jerarquía de operaciones** en programación (también conocida como **orden de operaciones**) define el orden en el que se deben realizar las operaciones dentro de una expresión matemática, para garantizar resultados correctos y consistentes. En Python, la jerarquía sigue la regla **PEMDAS**, que representa:
 
@@ -900,7 +985,7 @@ Las **estructuras condicionales** permiten que un programa tome decisiones basad
 
 En Python, las estructuras condicionales incluyen `if`, `elif` y `else`, que permiten evaluar múltiples casos y tomar decisiones adecuadas según las condiciones.
 
-#### **1. Condicional Simple**
+#### **9.1. Condicional Simple**
 La estructura **if** permite ejecutar un bloque de código solo si una condición es verdadera.
 
 **Sintaxis:**
@@ -916,7 +1001,7 @@ if edad >= 18:
     print("Eres mayor de edad.")
 ```
 
-#### **2. Condicional Doble**
+#### **9.2. Condicional Doble**
 La estructura **if-else** permite ejecutar un bloque de código si la condición es verdadera y otro bloque si es falsa.
 
 **Sintaxis:**
@@ -936,7 +1021,7 @@ else:
     print("Eres menor de edad.")
 ```
 
-#### **3. Condicional Múltiple (con `elif`)**
+#### **9.3. Condicional Múltiple (con `elif`)**
 Cuando se requiere evaluar varias condiciones, se usa `elif`. Este bloque se ejecuta solo si las condiciones anteriores son falsas y la suya es verdadera.
 
 **Sintaxis:**
@@ -960,7 +1045,7 @@ else:
     print("Reprobado.")
 ```
 
-#### **4. Condicional Anidado**
+#### **9.4. Condicional Anidado**
 Es posible tener estructuras condicionales dentro de otras. Esto permite una evaluación más específica según varias condiciones.
 
 **Sintaxis:**
@@ -988,7 +1073,7 @@ else:
     print("No puedes entrar, eres menor de edad.")
 ```
 
-#### **5. Condicional con Comparación de Rangos**
+#### **9.5. Condicional con Comparación de Rangos**
 Es común verificar si un valor se encuentra dentro de un cierto rango. Esto se hace de manera sencilla utilizando operadores relacionales.
 
 **Sintaxis:**
@@ -1006,7 +1091,7 @@ else:
     print("No estás en edad laboral.")
 ```
 
-#### **6. Ejemplo Completo**
+#### **9.6. Ejemplo Completo**
 El siguiente ejemplo demuestra el uso de condiciones anidadas y múltiples para evaluar distintas situaciones.
 
 **Ejemplo:**
@@ -1028,7 +1113,7 @@ else:
 ```
 
 
-#### **7. Resumen de Estructuras Condicionales**
+#### **9.7. Resumen de Estructuras Condicionales**
 
 | **Tipo**                | **Uso**                                                                                           | **Ejemplo**                                |
 |-------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -1046,7 +1131,7 @@ Las **estructuras de control condicional** permiten guiar el flujo del programa 
 En Python, los bucles permiten repetir un bloque de código varias veces, ya sea de acuerdo con una condición o iterando sobre una secuencia de elementos.
 
 
-#### **1. Bucle `for`**
+#### **10.1. Bucle `for`**
 
 El bucle **`for`** se utiliza para iterar sobre una **secuencia** (como una lista, tupla, diccionario, conjunto o rango).
 
@@ -1081,7 +1166,7 @@ for elemento in secuencia:
    ```
 
 
-#### **2. Bucle `while`**
+#### **10.2. Bucle `while`**
 
 El bucle **`while`** se utiliza para repetir un bloque de código mientras una condición sea verdadera.
 
@@ -1109,9 +1194,9 @@ while condicion:
        print(f"Escribiste: {entrada}")
    ```
 
-#### **3. Variantes Comunes de Bucles**
+#### **10.3. Variantes Comunes de Bucles**
 
-##### **a. Uso de `break`**
+1. **Uso de `break`**
 
 El **`break`** se utiliza para detener un bucle inmediatamente, sin importar si la condición se ha cumplido o no.
 
@@ -1123,7 +1208,7 @@ for i in range(10):
     print(f"Valor: {i}")
 ```
 
-##### **b. Uso de `continue`**
+2. **Uso de `continue`**
 
 El **`continue`** se utiliza para saltar la iteración actual y pasar a la siguiente.
 
@@ -1135,7 +1220,7 @@ for i in range(5):
     print(f"Valor: {i}")
 ```
 
-##### **c. Uso de `else` en Bucles**
+3. **Uso de `else` en Bucles**
 
 El bloque **`else`** se ejecuta cuando el bucle termina **de forma natural**, es decir, sin haber sido interrumpido por un **`break`**.
 
@@ -1148,7 +1233,7 @@ else:
 ```
 
 
-#### **4. Ejemplo Combinado**
+#### **10.4. Ejemplo Combinado**
 
 El siguiente ejemplo combina un bucle **`while`** con las estructuras **`for`**, **`break`** y **`continue`**.
 
@@ -1168,9 +1253,7 @@ while contador < 10:
         break
 ```
 
----
-
-#### **5. Resumen de Bucles en Python**
+#### **10.5. Resumen de Bucles en Python**
 
 | **Bucle** | **Uso Principal**                               | **Ejemplo Típico**            |
 |-----------|-----------------------------------------------|--------------------------------|
@@ -1197,7 +1280,7 @@ def nombre_de_la_funcion(parámetros):
 ```
 
 
-#### **1. Función sin parámetros y sin retorno**
+#### **11.1. Función sin parámetros y sin retorno**
 
 Esta función no recibe datos ni devuelve un valor, solo realiza una acción.
 
@@ -1210,7 +1293,7 @@ saludar()
 ```
 
 
-#### **2. Función con parámetros**
+#### **11.2. Función con parámetros**
 
 Recibe datos como **parámetros** para trabajar con ellos.
 
@@ -1223,7 +1306,7 @@ saludar("Ana")
 ```
 
 
-#### **3. Función con retorno**
+#### **11.3. Función con retorno**
 
 Devuelve un resultado utilizando la palabra clave `return`.
 
@@ -1237,7 +1320,7 @@ print(f"La suma es: {resultado}")
 ```
 
 
-#### **4. Función con parámetros por defecto**
+#### **11.4. Función con parámetros por defecto**
 
 Asignar valores predeterminados a los parámetros permite que la función se ejecute sin necesidad de pasar esos valores explícitamente.
 
@@ -1251,7 +1334,7 @@ saludar("Carlos")  # Usa el valor proporcionado
 ```
 
 
-#### **5. Función con múltiples valores de retorno**
+#### **11.5. Función con múltiples valores de retorno**
 
 Puede devolver varios valores como una **tupla**.
 
@@ -1267,7 +1350,7 @@ print(f"Suma: {resultado_suma}, Resta: {resultado_resta}")
 ```
 
 
-### **6. Función con número variable de argumentos**
+### **11.6. Función con número variable de argumentos**
 
 Estas funciones aceptan un número indefinido de argumentos usando `*args` (como una **tupla**) o `**kwargs` (como un **diccionario**).
 
@@ -1289,7 +1372,7 @@ mostrar_datos(nombre="Ana", edad=25, ciudad="Madrid")
 ```
 
 
-#### **7. Función anidada**
+#### **11.7. Función anidada**
 
 Una función definida dentro de otra, lo que permite limitar su alcance solo a la función externa.
 
@@ -1305,7 +1388,7 @@ print(operacion_compleja(5, 3))  # Resultado: 16
 ```
 
 
-#### **8. Función lambda (anónima)**
+#### **11.8. Función lambda (anónima)**
 
 Una **función lambda** es una función pequeña y rápida que se define en una sola línea, ideal para operaciones simples.
 
@@ -1316,7 +1399,7 @@ print(multiplicar(5, 3))  # Resultado: 15
 ```
 
 
-#### **9. Función recursiva**
+#### **11.9. Función recursiva**
 
 Se llama a sí misma para resolver problemas repetitivos, como el cálculo de factoriales.
 
@@ -1332,7 +1415,7 @@ print(factorial(5))  # Resultado: 120
 ```
 
 
-#### **10. Función generadora**
+#### **11.10. Función generadora**
 
 Utiliza `yield` para generar valores **uno a la vez** en lugar de devolverlos todos al mismo tiempo, lo cual es útil para manejar grandes volúmenes de datos.
 
@@ -1346,7 +1429,7 @@ for numero in generar_numeros(5):
     print(numero)  # Imprime: 0, 1, 2, 3, 4
 ```
 
-#### **11. Resumen de Funciones en Python**
+#### **11.11. Resumen de Funciones en Python**
 
 | **Variante**                       | **Descripción**                                     | **Ejemplo**                      |
 |------------------------------------|---------------------------------------------------|----------------------------------|
@@ -1372,7 +1455,7 @@ Note que son, precisamente, *las funciones lo que vuelven tan potentes a aplicac
 Aquí tienes una compilación de los **errores de sintaxis más comunes** al aprender Python, junto con una explicación del mensaje del error, la causa y la solución. La idea es que tengas un panorama para que aprendas a resolverlos y no te frustres cuando intentas aprender a programar en Python. El cualquier otro lenguaje de programación se aplica la misma lógica.
 
 
-#### **1. `IndentationError: expected an indented block`**
+#### **12.1. `IndentationError: expected an indented block`**
 
 - **Mensaje del Error**: `IndentationError: expected an indented block`
 - **Causa**: Este error ocurre cuando una línea de código que debería estar indentada no lo está. Python depende de la indentación para definir la estructura de bloques de código, como los que se encuentran en funciones, bucles, o condicionales.
@@ -1390,7 +1473,7 @@ if True:
 ```
 
 
-#### **2. `SyntaxError: invalid syntax`**
+#### **12.2. `SyntaxError: invalid syntax`**
 
 - **Mensaje del Error**: `SyntaxError: invalid syntax`
 - **Causa**: Este es un error genérico que indica que algo está mal escrito en el código. Puede deberse a muchas razones, como una palabra clave mal escrita, un paréntesis o una comilla faltante.
@@ -1408,7 +1491,7 @@ if True:
 ```
 
 
-#### **3. `NameError: name 'variable' is not defined`**
+#### **12.3. `NameError: name 'variable' is not defined`**
 
 - **Mensaje del Error**: `NameError: name 'variable' is not defined`
 - **Causa**: Esto ocurre cuando intentas usar una variable que no ha sido definida. Puede ser debido a un error tipográfico o a intentar acceder a una variable antes de declararla.
@@ -1425,7 +1508,7 @@ print(valor)
 ```
 
 
-#### **4. `TypeError: unsupported operand type(s)`**
+#### **12.4. `TypeError: unsupported operand type(s)`**
 
 - **Mensaje del Error**: `TypeError: unsupported operand type(s)`
 - **Causa**: Este error ocurre cuando intentas realizar una operación entre tipos de datos incompatibles, como sumar un número entero con una cadena.
@@ -1441,7 +1524,7 @@ resultado = 5 + int("5")  # Convertir la cadena a entero
 ```
 
 
-#### **5. `ValueError: invalid literal for int() with base 10`**
+#### **12.5. `ValueError: invalid literal for int() with base 10`**
 
 - **Mensaje del Error**: `ValueError: invalid literal for int() with base 10`
 - **Causa**: Este error ocurre al intentar convertir una cadena a un número entero cuando la cadena no representa un valor numérico válido.
@@ -1457,7 +1540,7 @@ numero = int("5")  # Correcto
 ```
 
 
-#### **6. `TypeError: 'NoneType' object is not subscriptable`**
+#### **12.6. `TypeError: 'NoneType' object is not subscriptable`**
 
 - **Mensaje del Error**: `TypeError: 'NoneType' object is not subscriptable`
 - **Causa**: Este error ocurre cuando intentas indexar (`[]`) una variable cuyo valor es `None`. Usualmente, esto pasa si intentas acceder a un valor que esperabas fuera una lista o cadena, pero es `None`.
@@ -1475,7 +1558,7 @@ print(mi_lista[0])  # Correcto
 ```
 
 
-#### **7. `SyntaxError: EOL while scanning string literal`**
+#### **12.7. `SyntaxError: EOL while scanning string literal`**
 
 - **Mensaje del Error**: `SyntaxError: EOL while scanning string literal`
 - **Causa**: Esto ocurre cuando una cadena de texto no está correctamente cerrada con comillas, dejando el intérprete esperando el final de la cadena.
@@ -1491,7 +1574,7 @@ mensaje = "Esto está bien cerrado con comillas"
 ```
 
 
-#### **8. `IndentationError: unexpected indent`**
+#### **12.8. `IndentationError: unexpected indent`**
 
 - **Mensaje del Error**: `IndentationError: unexpected indent`
 - **Causa**: Este error aparece cuando se añade una indentación incorrecta en una línea donde no debería haber. Puede ser debido a un espacio accidental o una mezcla de espacios y tabulaciones.
@@ -1508,7 +1591,7 @@ print("Ambas líneas están correctamente alineadas")
 ```
 
 
-#### **9. `TypeError: 'function' object is not callable`**
+#### **12.9. `TypeError: 'function' object is not callable`**
 
 - **Mensaje del Error**: `TypeError: 'function' object is not callable`
 - **Causa**: Este error sucede cuando intentas llamar a una variable que tiene el mismo nombre que una función, causando una confusión en el intérprete.
@@ -1526,7 +1609,7 @@ print(resultado)
 ```
 
 
-#### **10. `ZeroDivisionError: division by zero`**
+#### **12.10. `ZeroDivisionError: division by zero`**
 
 - **Mensaje del Error**: `ZeroDivisionError: division by zero`
 - **Causa**: Este error ocurre cuando intentas dividir un número entre cero, lo cual no está definido matemáticamente.
@@ -1545,7 +1628,6 @@ else:
     print("No se puede dividir entre cero")
 ```
 
-
 Estos errores son comunes cuando se empieza a aprender Python, pero entender la causa y la solución de cada uno te ayudará a evitarlos y mejorar tu código. ¡Con práctica, estos errores se volverán cada vez menos frecuentes!
 
 
@@ -1553,7 +1635,7 @@ Estos errores son comunes cuando se empieza a aprender Python, pero entender la 
 
 Para usar ChatGPT como una herramienta para **analizar y corregir errores de sintaxis en Python** mientras se aprende, puedes seguir esta **estrategia en cinco pasos**:
 
-#### **1. Detecta y Describe el Problema**
+#### **13.1. Detecta y Describe el Problema**
 Cuando te enfrentes a un error de sintaxis al ejecutar tu código, **copia el mensaje del error** junto con el fragmento de código relevante y pégalo en el chat. Describe brevemente el contexto de lo que intentabas lograr. Esto ayudará a ChatGPT a entender mejor tu intención y el problema específico.
 
 - **Ejemplo**:
@@ -1563,14 +1645,14 @@ Cuando te enfrentes a un error de sintaxis al ejecutar tu código, **copia el me
       print("Hola mundo")
   ```
 
-#### **2. Aprende a Leer y Entender los Mensajes de Error**
+#### **13.2. Aprende a Leer y Entender los Mensajes de Error**
 El primer paso para aprender a corregir errores es **entender el mensaje de error** que proporciona Python. Puedes usar ChatGPT para que te explique qué significa el mensaje, por qué ocurrió el error y cómo solucionarlo.
 
 - **Ejemplo**:
   Tú: "¿Qué significa `IndentationError: expected an indented block`?"
   ChatGPT: "Este error ocurre porque una línea que debería estar indentada no lo está. Esto suele ocurrir después de estructuras como `if`, `for`, `while`..."
 
-#### **3. Pide Sugerencias para Corregir el Código**
+#### **13.3. Pide Sugerencias para Corregir el Código**
 Pide sugerencias específicas para corregir el código problemático. Puedes pedir a ChatGPT que sugiera una **solución directa** o que te dé **varias alternativas** para que puedas elegir la más adecuada.
 
 - **Ejemplo**:
@@ -1587,21 +1669,21 @@ Pide sugerencias específicas para corregir el código problemático. Puedes ped
       print("Hola, Ana")
   ```"
 
-#### **4. Pide una Explicación del Concepto Relacionado**
+#### **13.4. Pide una Explicación del Concepto Relacionado**
 Si no entiendes la razón del error, puedes pedirle a ChatGPT que explique el concepto subyacente. Esto te ayudará a **aprender los fundamentos** mientras corriges el problema.
 
 - **Ejemplo**:
   Tú: "¿Por qué tengo que indentar el código después de un `if`?"
   ChatGPT: "En Python, la indentación se usa para definir bloques de código. Después de un `if`, la indentación muestra cuál es el bloque de código que se debe ejecutar si la condición es verdadera."
 
-#### **5. Practica con Ejercicios Similares**
+#### **13.5. Practica con Ejercicios Similares**
 Después de corregir el error, pídele a ChatGPT ejercicios relacionados para **practicar**. Practicar con variaciones del mismo problema te ayudará a consolidar el aprendizaje y evitar errores similares en el futuro.
 
 - **Ejemplo**:
   Tú: "¿Puedes darme un ejercicio para practicar la indentación en condicionales?"
   ChatGPT: "Claro, intenta crear una función que tome un número como argumento y, si el número es positivo, imprima 'Es positivo'. Si es cero, imprime 'Es cero'. Si es negativo, imprime 'Es negativo'..."
 
-#### **6. Consejos Adicionales para Usar ChatGPT**
+#### **13.6. Consejos Adicionales para Usar ChatGPT**
 
 1. **Comparte el Código Completo**: Si es posible, comparte todo el bloque de código relevante. A veces el error de sintaxis no está en la línea específica que menciona el mensaje, sino más arriba en el código.
 
@@ -1613,7 +1695,7 @@ Después de corregir el error, pídele a ChatGPT ejercicios relacionados para **
 
 5. **Pide Explicaciones Alternativas**: Si una explicación no te resulta clara, pídele a ChatGPT otra explicación, quizás con un ejemplo más básico o desde un enfoque diferente. Aprender es un proceso y cada quien necesita ejemplos distintos para comprender mejor.
 
-#### **7. Ejemplo de Uso Completo**:
+#### **13.7. Ejemplo de Uso Completo**:
 
 Tú: "Tengo un error `SyntaxError: EOL while scanning string literal` y no entiendo qué significa. Este es mi código:
 ```python
@@ -1629,8 +1711,9 @@ print(frase)
 ```
 Las cadenas en Python siempre deben cerrarse con el mismo tipo de comilla con el que comenzaron (simples o dobles)."
 
-Con esta estrategia, aprenderás a **entender, corregir y evitar errores de sintaxis** mientras mejoras tus habilidades de programación en Python. Estoy aquí para ayudarte en cada paso del proceso.
+Con esta estrategia, aprenderás a **entender, corregir y evitar errores de sintaxis** mientras mejoras tus habilidades de programación en Python. 
 
+---
 
 ## **Parte 4. Ejemplo de programación con Python**
 
@@ -1753,7 +1836,9 @@ for nombre, datos in personas.items():
 
 Estos ejemplos progresivos muestran cómo implementar y combinar las **cuatro funciones fundamentales de la computadora** en Python, incrementando la complejidad poco a poco para ayudar a comprender cómo funcionan estas funciones en el contexto del desarrollo de software.
 
-### **14. Conclusiones**
+---
+
+## **Conclusiones**
 
 Al concluir este tutorial, los estudiantes habrán ganado una experiencia práctica suficiente para iniciarse en el uso de RStudio y Python, como herramientas de programación. 
 
