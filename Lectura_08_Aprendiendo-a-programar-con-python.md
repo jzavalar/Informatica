@@ -6,7 +6,7 @@ prof. dr. Jesús Zavala Ruiz[^2]
 
 ## **1. Introducción**
 
-Este tutorial, titulado *Aprendiendo a Programar con Python*, tiene como objetivo guiar a los estudiantes a través de los conceptos fundamentales del software, utilizando Python y RStudio como herramientas prácticas. Está estructurado en **cuatro partes** que permiten una exploración progresiva y clara de los temas clave. 
+Este tutorial tiene como objetivo guiar a los estudiantes a través de los conceptos fundamentales de programación aplicados, utilizando Python y RStudio como herramientas prácticas. Está estructurado en **cuatro partes** que permiten una exploración progresiva y clara de los temas clave. 
 
 En la primera parte se exploran las ventajas de usar RStudio en la nube, como un entorno colaborativo que facilita el acceso inmediato a un entorno de programación. Después, en la segunda parte, Configuración de RStudio, se detallan los pasos necesarios para instalar y configurar RStudio en la nube, asegurando que funcione con Python, sin complicaciones. Luego, en la parte tres, presenta la gramática y sintaxis de Python, a suficiente detalle, como para que sirva de una base sólida para el aprendizaje inicial del lenguaje Python, ayudando a escribir código claro y correcto. Y en la parte cuatro y última, se desarrollan tres ejemplos de programación con Python que demuestran, de manera progresiva, las cuatro funciones de la computadora, utilizando Python, permitiendo a los estudiantes aplicar los conceptos aprendidos y verlos en acción.
 
