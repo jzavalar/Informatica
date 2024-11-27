@@ -1,4 +1,4 @@
-## Informática. Lectura 2: **¿Qué es la computadora?**[^1]
+## **Lectura 2: ¿Qué es la computadora?**[^1]
 
 prof. dr. Jesús Zavala Ruiz[^2]
 
