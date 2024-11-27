@@ -170,7 +170,40 @@ En cambio, la **compilación** es un proceso de varias etapas que, mediante un s
 
 El **código fuente**, escrito por el programador, se proporciona como entrada al compilador. En la primera etapa, se realiza el **análisis léxico**, que descompone el código en partes más pequeñas llamadas **tokens** (palabras clave, identificadores, operadores, etc.). A continuación, el compilador lleva a cabo el **análisis sintáctico**, verificando que los tokens cumplan con las reglas gramaticales del lenguaje. Luego, realiza el **análisis semántico**, asegurándose de que el significado del código sea válido, por ejemplo, comprobando la compatibilidad de los tipos de datos.
 
+Código fuente en Lenguaje C:
+```c
+#include <stdio.h>
+
+// Programa: Hola mundo
+// Objetivo: Imprimir "Hola mundo" en la consola.
+// Autor: [Tu Nombre]
+
+int main() {
+    printf("Hola mundo\n");
+    return 0;
+}
+```
 Tras estas fases de análisis o **preprocesamiento**, el **ensamblador** del compilador genera un **código intermedio** llamado **código ensamblador** (archivo `.s`), que no está asociado directamente al hardware y que puede optimizarse más fácilmente. Posteriormente, se realiza una **optimización** para mejorar la eficiencia del código, minimizando recursos o acelerando su ejecución. En la etapa siguiente, este código intermedio se traduce en **código máquina** o **código objeto** (archivo `.o` o `.obj`), que contiene instrucciones en binario específicas para el hardware de destino.
+
+Código ensamblador del código fuente:
+```assembler
+	.file	"hola.c"
+	.section	.rodata
+.LC0:
+	.string	"Hola mundo\n"
+	.text
+	.globl	main
+	.type	main, @function
+main:
+	pushq	%rbp
+	movq	%rsp, %rbp
+	subq	$16, %rsp
+	leaq	.LC0(%rip), %rdi
+	call	printf@PLT
+	movl	$0, %eax
+	leave
+	ret
+```
 
 Finalmente, el **enlazador** toma todos los fragmentos de código máquina y los combina en un solo archivo ejecutable en binario (`.exe`, `.out` o sin extensión) que contiene el **código ejecutable**, listo para ser ejecutado directamente por el sistema operativo en la computadora. Cuando el archivo ejecutable se ejecuta o **corre**, entonces se lleva a cabo el **procesamiento de datos**. 
 
