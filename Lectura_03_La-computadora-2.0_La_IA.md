@@ -1,4 +1,4 @@
-**Lectura 3. La Computadora 2.0: La Inteligencia Artificial una Tecnología que llegó para Quedarse**[^1]
+**Lectura 3. La Computadora 2.0: La Inteligencia Artificial**[^1]
 
 prof. dr. Jesús Zavala Ruiz[^2]
 
