@@ -1,4 +1,4 @@
-## **Lectura 8. Práctica: Software como Datos e Instrucciones**[^1]
+## **Lectura 8. Aprendiendo a Programar con Python**[^1]
 
 prof. dr. Jesús Zavala Ruiz[^2]
 
@@ -6,7 +6,7 @@ prof. dr. Jesús Zavala Ruiz[^2]
 
 ## **1. Introducción**
 
-Este tutorial, titulado *Práctica: Software como Datos e Instrucciones*, tiene como objetivo guiar a los estudiantes a través de los conceptos fundamentales del software, utilizando Python y RStudio como herramientas prácticas. Está estructurado en **cuatro partes** que permiten una exploración progresiva y clara de los temas clave. 
+Este tutorial, titulado *Aprendiendo a Programar con Python*, tiene como objetivo guiar a los estudiantes a través de los conceptos fundamentales del software, utilizando Python y RStudio como herramientas prácticas. Está estructurado en **cuatro partes** que permiten una exploración progresiva y clara de los temas clave. 
 
 En la primera parte se exploran las ventajas de usar RStudio en la nube, como un entorno colaborativo que facilita el acceso inmediato a un entorno de programación. Después, en la segunda parte, Configuración de RStudio, se detallan los pasos necesarios para instalar y configurar RStudio en la nube, asegurando que funcione con Python, sin complicaciones. Luego, en la parte tres, presenta la gramática y sintaxis de Python, a suficiente detalle, como para que sirva de una base sólida para el aprendizaje inicial del lenguaje Python, ayudando a escribir código claro y correcto. Y en la parte cuatro y última, se desarrollan tres ejemplos de programación con Python que demuestran, de manera progresiva, las cuatro funciones de la computadora, utilizando Python, permitiendo a los estudiantes aplicar los conceptos aprendidos y verlos en acción.
 
@@ -55,7 +55,6 @@ Sigue estos pasos para crear tu cuenta gratuita en Posit Cloud:
    - Después de verificar tu correo, inicia sesión en [https://posit.cloud](https://posit.cloud).
    - Completa tu perfil con los datos que consideres relevantes. Este paso es opcional, pero puede ser útil si planeas colaborar con otros.
 
----
 
 #### **2.2. Crear tu primer proyecto de tipo RStudio**
 
@@ -86,7 +85,6 @@ Una vez que hayas creado y verificado tu cuenta, sigue estas instrucciones para 
    ```
 3. Si ves el mensaje en la consola, ¡tu entorno está configurado correctamente!
 
----
 
 #### **2.3. Exploración inicial del entorno**
 
@@ -150,9 +148,8 @@ Familiarízate con las partes principales de la interfaz de RStudio en la nube:
    ```
    Este comando instalará la biblioteca `pandas`, utilizada para análisis de datos.
 
----
 
-#### **Conclusión**
+#### **2.4. Conclusión**
 
 Con Posit Cloud, puedes acceder al entorno completo de RStudio desde cualquier lugar sin necesidad de instalar software. Este tutorial te ha guiado paso a paso para crear tu cuenta gratuita y configurar tu primer proyecto de tipo RStudio. Ahora estás listo para explorar el análisis de datos y desarrollar proyectos colaborativos con R y Python de manera eficiente.
 
@@ -163,7 +160,6 @@ Con Posit Cloud, puedes acceder al entorno completo de RStudio desde cualquier l
 
 En esta segunda parte del tutorial, configurarás RStudio para ejecutar código Python dentro de un proyecto en **Posit Cloud** o **RStudio Desktop**. Además, aprenderás a crear y ejecutar un archivo de script Python en **RStudio**. Exploraremos dos formas de ejecutarlo: desde la **Terminal** y línea por línea desde el **Editor**.
 
----
 
 ### **2.1 Crear el archivo del script**
 
@@ -176,7 +172,6 @@ En esta segunda parte del tutorial, configurarás RStudio para ejecutar código 
 4. Guarda el archivo en el directorio del proyecto:
    - Ve a **File > Save As...** y asegúrate de guardarlo como `mi_script_python.py`.
 
----
 
 ### **2.2 Configurar el script inicial**
 
@@ -203,7 +198,6 @@ print("Versión de Python:", sys.version)
 print("¡El entorno de Python en RStudio está configurado correctamente!")
 ```
 
----
 
 ### **2.3 Ejecutar el script desde la Terminal**
 
