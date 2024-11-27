@@ -205,19 +205,19 @@ print("¡El entorno de Python en RStudio está configurado correctamente!")
    - Haz clic en la pestaña **Terminal** en la parte inferior del entorno de RStudio.
 2. Lista el contenido del directorio donde se encuentra la Terminal usando el comando `ls`:
    ```bash
-   ls
+   /cloud/project$ ls
    ```
 2. Si es necesario, navega al directorio donde guardaste el archivo usando el comando `cd`:
    ```bash
-   cd ~/ruta/del/proyecto
+   /cloud/project$ cd ~/ruta/del/proyecto
    ```
    Por ejemplo:
    ```bash
-   cd ~/Codigo
+   /cloud/project$ cd ~/Codigo
    ```
 3. Ejecuta el script con el comando:
    ```bash
-   python3 ./mi_script_python.py
+   /cloud/project$ python3 ./mi_script_python.py
    ```
 4. Resultado esperado en la Terminal:
    ```
