@@ -1,4 +1,4 @@
-## Lectura 5. **Estudio de Caso: Análisis de Datos en la Práctica**[^1]
+## **Lectura 5. Estudio de Caso: Análisis de Datos**[^1]
 
 prof. dr. Jesús Zavala Ruiz[^2]
 
