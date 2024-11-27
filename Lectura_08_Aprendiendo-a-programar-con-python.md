@@ -120,7 +120,7 @@ Familiarízate con las partes principales de la interfaz de RStudio en la nube:
    - Te permite ejecutar comandos del sistema directamente, lo cual es útil para:
      - Navegar por tu sistema de archivos.
      - Instalar herramientas externas como paquetes de Python.
-     - Ejecutar comandos de control de versiones, como Git.
+     - Ejecutar el intérprete de Python.
 
    **Ejemplo para verificar el sistema operativo**:
    ```bash
