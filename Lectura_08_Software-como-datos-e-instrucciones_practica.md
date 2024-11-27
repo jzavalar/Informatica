@@ -1,4 +1,4 @@
-## **Lectura 7. Práctica: Software como Datos e Instrucciones**[^1]
+## **Lectura 8. Práctica: Software como Datos e Instrucciones**[^1]
 
 prof. dr. Jesús Zavala Ruiz[^2]
 
