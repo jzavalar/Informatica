@@ -275,9 +275,9 @@ La **gramática** de Python define los elementos del lenguaje de programación y
    - Python está diseñado para ser fácil de leer y escribir, con una sintaxis que se asemeja al lenguaje natural.
 
 2. **Indentación Obligatoria**
-   - La **indentación** determina la estructura y jerarquía del código. Python utiliza **espacios o tabulaciones** al inicio de las líneas para organizar el código.
+   - La **indentación** (o sangría izquierda) determina la estructura y jerarquía del código. Python utiliza **espacios o tabulaciones** al inicio de las líneas para organizar el código.
    - Todo bloque de código (como el cuerpo de una función, condicional o bucle) debe estar indentado.
-   - Cada nivel de indentación debe ser consistente (usar **solo espacios** o **solo tabulaciones**, no ambos).
+   - Cada nivel de indentación debe ser consistente (usar **solo espacios** o **solo tabulaciones**, **no ambos**).
    - El estándar de Python (PEP 8) recomienda **usar 4 espacios** para cada nivel de indentación.
    - **Errores comunes**:
      - Mezclar **espacios y tabulaciones** provoca un **error**.
@@ -484,7 +484,88 @@ print(_usuario.nombre)
 
 Con este conocimiento, podrás definir identificadores en Python de manera correcta y siguiendo las mejores prácticas, asegurando que tu código sea **legible**, **mantenible** y **eficiente**.
 
-### **5. Tipos de datos en Python**
+
+### **5. Signos de Puntuación en Python**
+
+En Python, la **puntuación** incluye caracteres especiales que se utilizan para estructurar, organizar y dar sentido al código. Aunque no siempre son visibles en la ejecución, su correcto uso es esencial para evitar errores de sintaxis.
+
+#### **Caracteres Comunes de Puntuación en Python**
+
+| **Carácter** | **Uso**                                                                                   | **Ejemplo**                                           |
+|--------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| `:`          | Indica el inicio de un bloque de código (en funciones, condicionales, bucles, etc.).      | `if x > 0:`                                         |
+| `,`          | Separa elementos en listas, tuplas, parámetros de funciones o argumentos en llamadas.     | `mi_lista = [1, 2, 3]`                              |
+| `{}`         | Define un diccionario o un conjunto.                                                      | `mi_diccionario = {"clave": "valor"}`               |
+| `[]`         | Define una lista, accede a elementos por índice o realiza *slicing* en secuencias.         | `mi_lista[0]`                                       |
+| `()`         | Agrupa expresiones, define parámetros de funciones o declara tuplas.                      | `suma = (2 + 3) * 4`                                |
+| `=`          | Asigna un valor a una variable.                                                           | `x = 10`                                            |
+| `==`         | Compara dos valores para verificar si son iguales.                                        | `x == 10`                                           |
+| `.`          | Accede a atributos o métodos de objetos.                                                  | `mi_objeto.metodo()`                                |
+
+#### **Ejemplos Prácticos**
+
+1. **Dos puntos (`:`) para bloques de código**:
+   - Usados en estructuras como `if`, bucles o funciones:
+   ```python
+   if x > 0:
+       print("Positivo")
+   ```
+
+2. **Comas (`,`) para separar elementos**:
+   - Usadas en listas, diccionarios o parámetros:
+   ```python
+   numeros = [1, 2, 3]
+   mi_diccionario = {"nombre": "Juan", "edad": 30}
+   ```
+
+3. **Llaves (`{}`) para diccionarios o conjuntos**:
+   - Crean estructuras de datos no ordenadas:
+   ```python
+   mi_diccionario = {"clave": "valor"}
+   mi_conjunto = {1, 2, 3}
+   ```
+
+4. **Corchetes (`[]`) para listas y acceso por índice**:
+   - Definen listas o acceden a valores específicos:
+   ```python
+   mi_lista = [10, 20, 30]
+   print(mi_lista[0])  # Resultado: 10
+   ```
+
+5. **Paréntesis (`()`) para funciones o tuplas**:
+   - Agrupan expresiones o definen parámetros:
+   ```python
+   suma = (2 + 3) * 4
+   def saludar(nombre):
+       print(f"Hola, {nombre}")
+   saludar("Ana")
+   ```
+
+#### **Errores Comunes**
+
+1. **Falta de `:` en bloques de código**:
+   ```python
+   if x > 0  # Error: falta el :
+       print("Positivo")
+   ```
+
+2. **Acceso a un índice inexistente**:
+   ```python
+   mi_lista = [1, 2, 3]
+   print(mi_lista[5])  # Error: Índice fuera de rango
+   ```
+
+3. **Falta de cierre de paréntesis o corchetes**:
+   ```python
+   mi_lista = [1, 2, 3  # Error: Falta cerrar el corchete
+   ```
+
+#### **Resumen**
+
+Los caracteres de puntuación en Python son esenciales para estructurar y organizar el código correctamente. Asegúrate de utilizarlos de manera precisa y consistente para evitar errores y mejorar la legibilidad de tus programas.
+
+
+### **6. Tipos de datos en Python**
 
 Python *no obliga a definir los tipos de datos* de variables y constantes, sin embargo, sí reconoce o distingue los distintos tipos de datos, que determinan qué *tipo de valor* puede almacenar una variable y qué *operaciones* se pueden realizar sobre esos valores. 
 
@@ -526,7 +607,7 @@ Con `type()`, puedes verificar qué tipo de dato tiene cada variable, lo cual es
 
 He mejorado la estructura del texto para que sea más consistente y fácil de seguir, con énfasis en títulos claros y ejemplos mejor organizados:
 
-### **6. Estructuras de Datos en Python**
+### **7. Estructuras de Datos en Python**
 
 Una **estructura de datos** es una forma de organizar, almacenar y gestionar datos en una computadora, de manera que puedan ser utilizados de forma eficiente. Las estructuras de datos permiten realizar operaciones como **agregar**, **eliminar**, **buscar** y **manipular** datos según las necesidades del programa. A continuación, se presentan ejemplos de **declaración e inicialización** de las principales estructuras de datos en Python, con breves explicaciones. Pon atención en los símbolos utilizados para acotar los datos: `[]`, `{}`, y `()`.
 
@@ -617,7 +698,7 @@ Un **rango** es una secuencia de números generada mediante la función `range`.
 
 ```python
 # Declaración de un rango simple
-mi_rango = range(5)  # Desde 0 hasta 4
+mi_rango = range(5)  # 5 elementos, de 0 hasta 4
 
 # Declaración de un rango con inicio y fin
 mi_rango_con_limites = range(1, 6)  # Desde 1 hasta 5
@@ -670,7 +751,7 @@ print(mi_dataframe)
 Estos ejemplos cubren las **estructuras de datos básicas** en Python, ofreciendo una guía clara sobre cómo definir y trabajar con cada una de ellas.
 
 
-### **7. Operadores en Python**
+### **8. Operadores en Python**
 
 Un **operador** es un símbolo que indica una operación a realizar entre uno o más operandos (valores o variables). Los operadores permiten realizar cálculos matemáticos, comparaciones lógicas y tomar decisiones en el código.
 
@@ -813,7 +894,7 @@ Estos ejemplos cubren todas las combinaciones posibles de los **operadores aritm
 He reestructurado el texto para que fluya de forma más clara y continua, asegurando que las ideas se conecten mejor entre sí:
 
 
-### **8. Estructuras de Control Condicional en Python**
+### **9. Estructuras de Control Condicional en Python**
 
 Las **estructuras condicionales** permiten que un programa tome decisiones basadas en condiciones lógicas que se evalúan como `True` o `False`. En función del resultado, se ejecutan diferentes bloques de código, lo cual hace que el flujo del programa sea dinámico y adaptable a diversas situaciones.
 
@@ -960,7 +1041,7 @@ else:
 Las **estructuras de control condicional** permiten guiar el flujo del programa para responder adecuadamente a distintas situaciones, haciendo posible que el código sea dinámico y pueda reaccionar de forma lógica a las entradas y condiciones del entorno.
 
 
-### **9. Bucles en Python**
+### **10. Bucles en Python**
 
 En Python, los bucles permiten repetir un bloque de código varias veces, ya sea de acuerdo con una condición o iterando sobre una secuencia de elementos.
 
@@ -992,7 +1073,10 @@ for elemento in secuencia:
 
 3. **Iterar con un rango personalizado**:
    ```python
-   for i in range(1, 10, 2):  # Desde 1 hasta 9, con paso de 2
+   de = 1
+   hasta = 10
+   paso = 2
+   for i in range(de, hasta, paso):  # Desde 1 hasta 9, con paso de 2: 1,3,5,7,9
        print(f"Número impar: {i}")
    ```
 
@@ -1003,7 +1087,7 @@ El bucle **`while`** se utiliza para repetir un bloque de código mientras una c
 
 **Sintaxis Básica:**
 ```python
-while condición:
+while condicion:
     # Código a ejecutar mientras la condición sea verdadera
 ```
 
@@ -1012,9 +1096,9 @@ while condición:
 1. **Contador simple**:
    ```python
    contador = 0
-   while contador < 5:
+   while contador < 5:   # mientras contador sea menor que 5
        print(f"Contador: {contador}")
-       contador += 1
+       contador += 1     # contador = contador + 1
    ```
 
 2. **Validar entrada del usuario**:
@@ -1047,7 +1131,7 @@ El **`continue`** se utiliza para saltar la iteración actual y pasar a la sigui
 ```python
 for i in range(5):
     if i == 2:
-        continue  # Saltar cuando i sea igual a 2
+        continue  # Saltar al siguiente ciclo cuando i sea igual a 2
     print(f"Valor: {i}")
 ```
 
@@ -1088,20 +1172,20 @@ while contador < 10:
 
 #### **5. Resumen de Bucles en Python**
 
-| **Tipo de Bucle** | **Uso Principal**                               | **Ejemplo Típico**            |
-|-------------------|-----------------------------------------------|--------------------------------|
-| `for`             | Iterar sobre secuencias o rangos.             | `for i in range(5):`           |
-| `while`           | Ejecutar mientras una condición sea verdadera.| `while x < 10:`                |
-| `break`           | Detener el bucle antes de que termine.        | `if i == 5: break`             |
-| `continue`        | Saltar la iteración actual y continuar.       | `if i == 2: continue`          |
-| `else`            | Ejecutar código al finalizar el bucle.        | `for x in lista: ... else: ...`|
+| **Bucle** | **Uso Principal**                               | **Ejemplo Típico**            |
+|-----------|-----------------------------------------------|--------------------------------|
+| `for`     | Iterar sobre secuencias o rangos.             | `for i in range(5):`           |
+| `while`   | Ejecutar mientras una condición sea verdadera.| `while x < 10:`                |
+| `break`   | Detener el bucle antes de que termine.        | `if i == 5: break`             |
+| `continue`| Saltar la iteración actual y continuar.       | `if i == 2: continue`          |
+| `else`    | Ejecutar código al finalizar el bucle.        | `for x in lista: ... else: ...`|
 
 Estos conceptos cubren el uso de **bucles en Python**, permitiendo crear programas eficientes y con un flujo de ejecución dinámico, mediante la repetición controlada de bloques de código y la aplicación de decisiones lógicas dentro de los bucles.
 
 He ajustado el texto para mejorar su fluidez y claridad, destacando cada tipo de función de forma más cohesiva:
 
 
-### **10. Funciones en Python**
+### **11. Funciones en Python**
 
 Una **función** es un bloque de código reutilizable que realiza una tarea específica. Las funciones permiten organizar mejor el código, reducir la redundancia y mejorar la legibilidad. Pueden recibir **parámetros** (datos de entrada) y devolver un **valor** como resultado.
 
@@ -1280,17 +1364,19 @@ for numero in generar_numeros(5):
 
 Estas variantes de funciones permiten organizar el código de manera modular y reutilizable, ofreciendo flexibilidad para distintas necesidades de programación.
 
+Note que son, precisamente, *las funciones lo que vuelven tan potentes a aplicaciones como las hojas de cálculo*, ya sean gratuitas como [OnlyOffice](https://www.onlyoffice.com/es/spreadsheet-editor/formulas-and-functions.aspx) o de pago como [Excel](https://support.microsoft.com/es-es/office/informaci%C3%B3n-general-sobre-f%C3%B3rmulas-en-excel-ecfdc708-9162-49e8-b993-c311f47ca173). Si aprendiste lo que son las funciones con este breve tutorial, ya sabrás cómo manejar las funciones en tu hoja de cálculo preferida. 
 
-### **11. Errores de Sintaxis más comunes en Python**
 
-Aquí tienes una compilación de los **errores de sintaxis más comunes** al aprender Python, junto con una explicación del mensaje del error, la causa y la solución:
+### **12. Errores de Sintaxis más comunes en Python**
+
+Aquí tienes una compilación de los **errores de sintaxis más comunes** al aprender Python, junto con una explicación del mensaje del error, la causa y la solución. La idea es que tengas un panorama para que aprendas a resolverlos y no te frustres cuando intentas aprender a programar en Python. El cualquier otro lenguaje de programación se aplica la misma lógica.
 
 
 #### **1. `IndentationError: expected an indented block`**
 
 - **Mensaje del Error**: `IndentationError: expected an indented block`
 - **Causa**: Este error ocurre cuando una línea de código que debería estar indentada no lo está. Python depende de la indentación para definir la estructura de bloques de código, como los que se encuentran en funciones, bucles, o condicionales.
-- **Solución**: Asegúrate de indentar correctamente el código (usualmente 4 espacios). Todos los bloques de código deben tener la misma cantidad de espacios para evitar este error.
+- **Solución**: Asegúrate de indentar el código (usualmente 4 espacios). Todos los bloques de código deben tener la misma cantidad de espacios para evitar este error.
 
 **Ejemplo Incorrecto:**
 ```python
@@ -1459,10 +1545,11 @@ else:
     print("No se puede dividir entre cero")
 ```
 
+
 Estos errores son comunes cuando se empieza a aprender Python, pero entender la causa y la solución de cada uno te ayudará a evitarlos y mejorar tu código. ¡Con práctica, estos errores se volverán cada vez menos frecuentes!
 
 
-### **12. Uso de ChatGPT para aprender Python**
+### **13. Uso de ChatGPT para aprender Python**
 
 Para usar ChatGPT como una herramienta para **analizar y corregir errores de sintaxis en Python** mientras se aprende, puedes seguir esta **estrategia en cinco pasos**:
 
@@ -1679,4 +1766,4 @@ Esta experiencia los prepara para enfrentar los retos de la programación y el a
 [^1]: Profesor-investigador del Departamento de Economía de la Universidad Autónoma Metropolitana, Unidad Iztapalapa. Contacto: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), [Telegram](https://t.me/jzavalar).
 [^2]: Lectura leída el 11, 18, 25 y 27 de noviembre de 2024.
 
-Ultima actualización: 26 de noviembre de 2024
+Ultima actualización: 27 de noviembre de 2024
