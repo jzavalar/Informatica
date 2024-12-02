@@ -35,16 +35,16 @@ Esta **unidad de enseñanza-aprendizaje** (**UEA**) cubre el programa del plan d
 El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, se proponen *lecturas* de algunos capítulos de los libros *Introducción a la Ciencia de la Computación* (Forouzan, 2003) y *Fundamentos de Computación para Ingenieros*  (Cedano, Cedano, Rubio y Vega, 2014), como libros de texto base, complementadas con otros recursos didácticos. Por otro lado, se propone la realización de algunas actividades académicas prácticas que permitan aterrizar los conceptos y desarrollar habilidades para resolver problemas informáticos del día a día. De manera particular, se instalará el sistema operativo [GNU/Linux Fedora](https://getfedora.org/es/) en una USB y como una Máquina Virtual en Windows o en MacOS X. Por ello, se invita a los alumnos a que conozcan y usen el software libre y abierto, desde sistemas operativos como Fedora hasta sistemas empresariales (*Enterprise Resource Planning*, ERP) como [iDempiere](https://www.idempiere.org/), que permiten operar toda una empresa al costo más reducido posible. Con este enfoque se pretende que los alumnos valoren la importancia de la informática en su vida diaria como profesionales de la administración en las organizaciones. 
 
 **Referencias:**
-   - Cedano Olvera, M. A, Cedano Rodríguez, A; Rubio González, J. A.; Vega Gutiérrez, A. C. (2014). [*Fundamentos de computación para ingenieros*](https://libgen.rs/book/index.php?md5=93B1B3A032FA25F502EB136C35C52596). México: Grupo Editorial Patria.
+   - Cedano Olvera, M. A, Cedano Rodríguez, A; Rubio González, J. A.; Vega Gutiérrez, A. C. (2014). [*Fundamentos de computación para ingenieros*](https://libgen.st/book/index.php?md5=93B1B3A032FA25F502EB136C35C52596). México: Grupo Editorial Patria.
    - Erickson, L. (2010). [*Top secret rosies: The female computers of WWII*](http://www.topsecretrosies.com/). [video] [[torrent](https://thepiratebay.org/description.php?id=6804294)].
    - Fedora.org (2022). [Fedora Project. Fedora GNU/Linux](https://getfedora.org/es/) [Software].
-   - Forouzan, B. A. (2003). [*Introducción a la ciencia de la computación: De la manipulaclón de datos a la teoría de la computación*](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D). México: Thompson.
-   - Greenwald, G., & Snowden, E. J. (2015). [*No place to hide: Edward Snowden, the NSA and the surveillance state*](https://libgen.rs/book/index.php?md5=18E90AA8AA171501DBEAB7F5C87E7AAB). United States: Penguin Books. [epub].
-   - Lanier, J. (2010). [*You are not a gadget: A manifesto*](https://libgen.rs/book/index.php?md5=70421B703A5F553F126BA39C828BCC32). New York: Vintage Books. (Traducción: [*Contra el rebaño digital*](https://libgen.rs/book/index.php?md5=CD2B81BCDAC2DF6FDA19FA9139801195) (2019), [epub]).
-   - Lanier, J. (2018). [*Ten arguments for deleting your social media accounts right now*](https://libgen.rs/book/index.php?md5=F59013E7705F778979B3546A8A5453BC). New York: Henry Holt and Company. [epub] (Traducción: [*Diez razones para borrar tus redes de inmediato*](https://libgen.rs/book/index.php?md5=EF2E847FE3A3DFB92CA1751CF26E3E99) (2019), [epub]).
+   - Forouzan, B. A. (2003). [*Introducción a la ciencia de la computación: De la manipulaclón de datos a la teoría de la computación*](https://libgen.st/book/index.php?md5=79EEE336054F54078C999A7146CC522D). México: Thompson.
+   - Greenwald, G., & Snowden, E. J. (2015). [*No place to hide: Edward Snowden, the NSA and the surveillance state*](https://libgen.st/book/index.php?md5=18E90AA8AA171501DBEAB7F5C87E7AAB). United States: Penguin Books. [epub].
+   - Lanier, J. (2010). [*You are not a gadget: A manifesto*](https://libgen.st/book/index.php?md5=70421B703A5F553F126BA39C828BCC32). New York: Vintage Books. (Traducción: [*Contra el rebaño digital*](https://libgen.st/book/index.php?md5=CD2B81BCDAC2DF6FDA19FA9139801195) (2019), [epub]).
+   - Lanier, J. (2018). [*Ten arguments for deleting your social media accounts right now*](https://libgen.st/book/index.php?md5=F59013E7705F778979B3546A8A5453BC). New York: Henry Holt and Company. [epub] (Traducción: [*Diez razones para borrar tus redes de inmediato*](https://libgen.st/book/index.php?md5=EF2E847FE3A3DFB92CA1751CF26E3E99) (2019), [epub]).
    - Light, J. S. (1999). [When computers were women](https://www.jstor.org/stable/25147356)) ([pdf](https://sci-hub.se/10.2307/25147356). *Technology and Culture, 40*(3) (Jul.), 455-483.
    - Melfi, T. (2016). [*Talentos Ocultos* (*Hidden Figures*)](https://www.imdb.com/title/tt4846340/) [[torrent](https://thepiratebay.org/description.php?id=17551668)].
-   - Snowden, E. (2019). [*Permanent record*](https://libgen.rs/book/index.php?md5=A5BDA164BB2B8419C57E57012A2F7F82). London: Macmillan. [epub]. (traducción: [*Vigilancia permanente*](https://libgen.rs/book/index.php?md5=5B91B59909B7CA93B0CD3F77BBA32864) [epub])
+   - Snowden, E. (2019). [*Permanent record*](https://libgen.st/book/index.php?md5=A5BDA164BB2B8419C57E57012A2F7F82). London: Macmillan. [epub]. (traducción: [*Vigilancia permanente*](https://libgen.st/book/index.php?md5=5B91B59909B7CA93B0CD3F77BBA32864) [epub])
    - UAM. Informática. [Programa vigente](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf).
    - UAM. (2024). [Calendario vigente](http://www.uam.mx/calendario/index.html).
 
@@ -107,14 +107,14 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
 ##### Bibliografía Obligatoria:
 - Code.org (2018, Jan 30). [How computers work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). *YouTube*. [6 videos].
-- O’Regan, G. (2021). What Is a Computer? In [*A brief history of computing*](https://libgen.rs/book/index.php?md5=E7FC38F000E9DC68BB251E6C4D3FF660) (pp. 1-10). Switzerland: Springer Nature Switzerland AG.
+- O’Regan, G. (2021). What Is a Computer? In [*A brief history of computing*](https://libgen.st/book/index.php?md5=E7FC38F000E9DC68BB251E6C4D3FF660) (pp. 1-10). Switzerland: Springer Nature Switzerland AG.
 
 ##### Bibliografía Complementaria:
 - INFORMATICONFIG (2022, Aug 30). [Curso completo de informática básica desde cero para principiantes 2022](https://www.youtube.com/watch?v=o_78Ue_EUeI&list=PL2Z95CSZ1N4HLqf215jj9ZJgmWIXm7gOo) (16 videos). _YouTube_.   
-- Rodríguez Parra, J. A. (2001). [*Aprende informática desde cero: Por fin podrás entenderte con tu ordenador*](https://libgen.rs/book/index.php?md5=054DAEF64F0500CB2ECCC0C2EB72B1E3) (pp. 1-80). España.
-- Haigh, T., & Ceruzzi, P. E. (2021). Inventing the computer. In [*A new history of modern computing*](https://libgen.rs/book/index.php?md5=FEC5EE9FBAB5F3C3E68371EC9025E694) (pp. 9-28). USA: The MIT Press. 
-- Haigh, T., Priestley, M., & Rope, C. (2016). [*ENIAC in action. Making and remaking the modern computer*](http://eniacinaction.com/). MIT Press. ([pdf](https://libgen.rs/book/index.php?md5=F1ECADE396A9CB8BA191218B9BE22420)).
-- Use el navegador [Yandex](https://browser.yandex.ru/?lang=en) para acceder a la biblioteca fantasma [Library Genesis](https://libgen.rs).
+- Rodríguez Parra, J. A. (2001). [*Aprende informática desde cero: Por fin podrás entenderte con tu ordenador*](https://libgen.st/book/index.php?md5=054DAEF64F0500CB2ECCC0C2EB72B1E3) (pp. 1-80). España.
+- Haigh, T., & Ceruzzi, P. E. (2021). Inventing the computer. In [*A new history of modern computing*](https://libgen.st/book/index.php?md5=FEC5EE9FBAB5F3C3E68371EC9025E694) (pp. 9-28). USA: The MIT Press. 
+- Haigh, T., Priestley, M., & Rope, C. (2016). [*ENIAC in action. Making and remaking the modern computer*](http://eniacinaction.com/). MIT Press. ([pdf](https://libgen.st/book/index.php?md5=F1ECADE396A9CB8BA191218B9BE22420)).
+- Use el navegador [Yandex](https://browser.yandex.ru/?lang=en) para acceder a la biblioteca fantasma [Library Genesis](https://libgen.st).
 
 
 #### Unidad 2. Sistemas operativos
@@ -328,14 +328,14 @@ Aterrice los conceptos investigando _qué unidades de almacenamiento_ tiene en s
 
 ##### Bibliografía Complementaria:
 - Baruffa, O. (2022, Jan 13). [Big book of R](https://www.bigbookofr.com/). (Sitio web) (La compilación más grande de libros y fuentes documentales sobre R).
-- Butterfield, A., Ngondi, G. E., & Kerr, A. (2016). [A dictionary of computer science (Oxford Quick Reference)](https://libgen.rs/book/index.php?md5=2FD856C4E6BC92CFA8DEB03F1B621A73). Oxford University Press.
-- Forouzan, B. A. (2003). [Introducción a la ciencia de la computación : De la manipulación de datos a la teoría de la computación](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D). México: International Thomson Editores.
-- Institute of Electrical & Electronics Engineers (IEEE). (1987). [Dictionary English informatics standard glossary of computer applications terminology](https://libgen.rs/book/index.php?md5=4F816603DBBF6AEB60B92FCCC59762A1). New York: Institute of 
+- Butterfield, A., Ngondi, G. E., & Kerr, A. (2016). [A dictionary of computer science (Oxford Quick Reference)](https://libgen.st/book/index.php?md5=2FD856C4E6BC92CFA8DEB03F1B621A73). Oxford University Press.
+- Forouzan, B. A. (2003). [Introducción a la ciencia de la computación : De la manipulación de datos a la teoría de la computación](https://libgen.st/book/index.php?md5=79EEE336054F54078C999A7146CC522D). México: International Thomson Editores.
+- Institute of Electrical & Electronics Engineers (IEEE). (1987). [Dictionary English informatics standard glossary of computer applications terminology](https://libgen.st/book/index.php?md5=4F816603DBBF6AEB60B92FCCC59762A1). New York: Institute of 
 Electrical & Electronics Engineers (IEEE). 
 - terepebernal. (2023). [Algoritmos en Pseudocódigo con PSeInt: Lo más básico](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/)
-- Khosrow-Pour, M. (2007). [*Dictionary of information science and technology*](https://libgen.rs/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey PA, USA: Idea Group.
-- Laplante, P. A. (2017). [Dictionary of computer science, engineering and technology](https://libgen.rs/book/index.php?md5=C2FEF4DC36C84134ABA1E5698E913F73). Boca Raton, FL, USA: Chapman and Hall; CRC.
-- Martín, C., Rubio, M. A., & Urquía, A. (2011). [*Lenguajes de programación*](https://libgen.rs/book/index.php?md5=006E57DF6867BBF1B3BAE332475E72AD). Madrid: Universidad Nacional de Educación a Distancia (UNED).
+- Khosrow-Pour, M. (2007). [*Dictionary of information science and technology*](https://libgen.st/book/index.php?md5=90227F5253FB69777A811A234A779177). Hershey PA, USA: Idea Group.
+- Laplante, P. A. (2017). [Dictionary of computer science, engineering and technology](https://libgen.st/book/index.php?md5=C2FEF4DC36C84134ABA1E5698E913F73). Boca Raton, FL, USA: Chapman and Hall; CRC.
+- Martín, C., Rubio, M. A., & Urquía, A. (2011). [*Lenguajes de programación*](https://libgen.st/book/index.php?md5=006E57DF6867BBF1B3BAE332475E72AD). Madrid: Universidad Nacional de Educación a Distancia (UNED).
 - Walum, H., & De Leon, D. (2022). Teacups, giraffes, & statistics (Tazas de té, jirafas y estadística). GitHub. [Módulos](https://tinystats.github.io/teacups-giraffes-and-statistics/) [Proyecto en RMarkdown](https://github.com/tinystats/teacups-giraffes-and-statistics) [Una deliciosa serie de módulos para aprender estadística y codificación en R para estudiantes, científicos y entusiastas de la estadística.]
 - [Learn Programming C, step by step](https://learn.onlinegdb.com/c_program_examples) (Editor y compilador de C, en línea).
 
@@ -398,7 +398,7 @@ Software:
 
   *Objetivo*: Comprender el concepto y evolución histórica de los sistemas de información empresariales. 
     
-  *Parte 1*. Los equipos de la práctica anterior, hagan una lectura colectiva de los primeros dos capítulos Hormigo, I. G.  (2011). [Sistema de información empresarial](http://libgen.rs/book/index.php?md5=77DE9AE1D073B9367127448826BA6460)* (pp. 1-30). Catalunya: Universitat Oberta de Catalunya.
+  *Parte 1*. Los equipos de la práctica anterior, hagan una lectura colectiva de los primeros dos capítulos Hormigo, I. G.  (2011). [Sistema de información empresarial](http://libgen.st/book/index.php?md5=77DE9AE1D073B9367127448826BA6460)* (pp. 1-30). Catalunya: Universitat Oberta de Catalunya.
     
   Consultar también la siguiente bibliografía complementaria: (1). Sánchez, A. (2016). Sistema de información: Concepto, elementos, etapas, funciones y ejemplo. ([Video](https://www.youtube.com/watch?v=Ibh62H7M1Jo)), (2). Extensión del ITTG sede Bochil Pagina Oficial (2015). [Elementos de un sistema de información] (https://www.youtube.com/watch?v=kAzxXgKiwTE) (Video) y (3). Molar, A. (2015). [Tipos de sistemas de Información](https://www.youtube.com/watch?v=vh4Wg-MiLhw) (Video).
     
@@ -413,7 +413,7 @@ Software:
     
   *Parte 1*. Investigue la arquitectura de un sistema de información empresarial en la actualidad en el capítulo Arquitectura del sistema ERP y sus módulos funcionales (Hormigo, 2011). 
     
-  Hormigo, I. G. (2011). Arquitectura del sistema ERP y sus módulos funcionales. *In* H. G. Fuster, I. G. Hormigo, J. M. Joana, & J. R. Rodríguez (Eds.). *Fundamentos de sistemas de información* (pp. 31-43). Catalunya: Universitat Oberta de Catalunya. ([url](http://libgen.rs/book/index.php?md5=77DE9AE1D073B9367127448826BA6460).
+  Hormigo, I. G. (2011). Arquitectura del sistema ERP y sus módulos funcionales. *In* H. G. Fuster, I. G. Hormigo, J. M. Joana, & J. R. Rodríguez (Eds.). *Fundamentos de sistemas de información* (pp. 31-43). Catalunya: Universitat Oberta de Catalunya. ([url](http://libgen.st/book/index.php?md5=77DE9AE1D073B9367127448826BA6460).
     
   *Parte 2*. Haga un breve reporte en su cuaderno la investigación sobre qué es un sistema de información, un sistema de información empresarial y la tipología de ellos. Este es su entregable.
     
@@ -484,7 +484,7 @@ La evaluación de recuperación consistirá en la presentación de un examen de 
 4. Manejo de bases de datos
 
 La **bibliografía** recomendada mínima es la siguiente:
-- Forouzan, B. A. (2003). [*Introducción a la ciencia de la computación: De la manipulaclón de datos a la teoría de la computación*](https://libgen.rs/book/index.php?md5=79EEE336054F54078C999A7146CC522D). México: Thompson.
+- Forouzan, B. A. (2003). [*Introducción a la ciencia de la computación: De la manipulaclón de datos a la teoría de la computación*](https://libgen.st/book/index.php?md5=79EEE336054F54078C999A7146CC522D). México: Thompson.
 - Compleméntese con lo que considere conveniente de la bibliografía incluida en este programa.
 
 Favor de ponerse en contacto con el profesor previamente a la presentación de su evaluación, si desea asesoría o tiene dudas sobre la evaluación. 
