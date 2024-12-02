@@ -86,7 +86,7 @@ El **pseudocódigo** es una herramienta intermedia entre el lenguaje humano y el
 // Algoritmo: Determinar si un número es par o impar
 // Autor: profe J. Zavala
 // Fecha: 2 de diciembre de 2014
-Inicio
+Algoritmo es_par_o_impar
    // Definir variables y tipos de datos
    Definir numero como entero; 
    
@@ -103,7 +103,7 @@ Inicio
       // Salida:
       Escribir "El número ", valor, "es impar.";
    Fin Si
-Fin
+FinAlgoritmo
 ```
 
 #### **3.4. Probar el Algoritmo**
