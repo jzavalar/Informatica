@@ -339,9 +339,9 @@ Aquí está el script original:
 ```
 
 ```python
-# es_par_o_impar_mejorado.py
+# es_par_o_impar_mejorado.v3.py
 # Algoritmo: Determinar si un número es par o impar, con validaciones
-# Versión 2
+# Versión 3
 # Autor: profe J. Zavala
 # Fecha: 2 de diciembre de 2024
 
