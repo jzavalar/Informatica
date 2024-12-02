@@ -336,6 +336,7 @@ Optimiza el siguiente script en Python manteniendo su funcionalidad original per
 6. Considerar posibles escenarios excepcionales y manejarlos adecuadamente.
 
 Aquí está el script original:
+```
 
 ```python
 # es_par_o_impar_mejorado.py
@@ -377,8 +378,8 @@ else:
 # Fin del algoritmo (No tiene equivalente directo en Python, solo se comenta)
 ```
 
+```markdown
 Por favor, devuelve el código optimizado acompañado de una explicación de los cambios realizados y cómo mejoran el script. 
-
 ```
 
 Este *prompt*, diseñado para obtener una versión mejorada del código con una justificación detallada de las optimizaciones aplicadas, generó la siguiente respuesta de ChatGPT:
@@ -387,6 +388,8 @@ Este *prompt*, diseñado para obtener una versión mejorada del código con una 
 Aquí tienes la versión optimizada del script, seguida de una explicación detallada de los cambios realizados:
 
 ### **Script Optimizado**
+```
+
 ```python
 """
 es_par_o_impar_optimizado.py
@@ -436,8 +439,7 @@ if __name__ == "__main__":
     main()
 ```
 
----
-
+```markdown
 ### **Explicación de los Cambios y Mejoras**
 
 1. **Estructuración en funciones**:
