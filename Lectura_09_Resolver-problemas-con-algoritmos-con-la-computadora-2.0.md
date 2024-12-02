@@ -166,7 +166,7 @@ A continuación se muestra el pseudocódigo PSeInt corregido y mejorado para que
 // Version 2
 // Autor: profe J. Zavala
 // Fecha: 2 de diciembre de 2024
-Inicio
+Algoritmo es_par_o_impar_mejorado
    // Definir variables y tipos de datos
    Definir numero como entero;
    Definir es_valido como lógico;
@@ -193,7 +193,7 @@ Inicio
       // Salida:
       Escribir "El número ", numero, " es impar.";
    Fin Si
-Fin
+FinAlgoritmo
 ```
 
 **Cambios al pseudocódigo inicial:**
