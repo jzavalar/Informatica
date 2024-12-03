@@ -8,9 +8,9 @@ prof. dr. Jesús Zavala Ruiz[^2]
 
 Los algoritmos son la base del pensamiento computacional y del desarrollo de software. Constituyen secuencias claras y precisas de pasos diseñadas para resolver problemas o realizar tareas específicas. Desde cálculos matemáticos simples hasta la gestión de sistemas complejos, los algoritmos nos permiten descomponer problemas en componentes manejables y crear soluciones eficientes.
 
-Esta lectura se centra en cómo diseñar y aplicar algoritmos para resolver problemas de manera estructurada. Abordaremos las etapas desde el planteamiento del problema hasta su implementación en pseudocódigo y su posterior traducción a Python. También exploraremos cómo la inteligencia artificial (IA) puede servir como una herramienta para generar, optimizar y validar algoritmos.
+Esta lectura se centra en cómo diseñar algoritmos para resolver problemas de manera estructurada. Abordaremos las etapas desde el planteamiento del problema hasta su implementación en pseudocódigo en lenguaje natural y PSeInt hasta su posterior traducción a Python. También exploraremos cómo la inteligencia artificial (IA) puede servir como una herramienta para generar, optimizar y validar algoritmos.
 
-El propósito de este texto es equipar a los lectores con los fundamentos necesarios para abordar problemas de programación de forma organizada y eficiente. Asimismo, aprenderán a aprovechar herramientas modernas para fortalecer su pensamiento lógico y sus habilidades técnicas.
+El propósito de este texto es exponer los fundamentos necesarios para abordar problemas de programación de forma organizada y eficiente. Asimismo, ilustrar las herramientas modernas para fortalecer su pensamiento lógico y sus habilidades técnicas de análisis de datos.
 
 ### **2. Fundamentos**
 
@@ -24,15 +24,15 @@ Más a detalle, las *características principales de un algoritmo* son las sigui
 3. **Entradas**: Puede recibir uno o varios *datos iniciales* (entradas), aunque no siempre es necesario.
 4. **Salidas**: Debe proporcionar al menos un *resultado* (salida) relacionado con el problema a resolver.
 5. **Efectividad**: Todas las operaciones del algoritmo deben *ser realizables* en un tiempo razonable con los recursos disponibles.
-6. **Generalidad**: Un algoritmo debe ser *aplicable a un conjunto de problemas similares*, no solo a uno en particular.
+6. **Generalidad**: Un algoritmo d debe ser *aplicable a un conjunto de problemas similares*, no solo a uno en particular.
 
 Hay algoritmos de procedimientos cotidianos, como *Preparar una taza de té*:  
 
 **Algoritmo**:
 1. Poner agua en una tetera.
-2. Calentar el agua hasta que hierva.
-3. Colocar una bolsita de té en una taza.
-4. Verter el agua caliente en la taza.
+2. Calentar el agua hasta que hierva en una parrilla.
+3. Tomar una taza y colocar una bolsita de té.
+4. Verter agua caliente en la taza.
 5. Esperar 3 minutos para que el té se infusione.
 6. Retirar la bolsita de té.
 7. Opcional: Agregar azúcar o leche según preferencias.
@@ -40,17 +40,17 @@ Hay algoritmos de procedimientos cotidianos, como *Preparar una taza de té*:
 
 Sin embargo, los algoritmos que nos interesan en informática son aquellos que pueden implementarse con el uso de la computadora, ya que sirven como el *modelo lógico* para diseñar programas de computadora que resuelvan problemas de manera eficiente. En otro sentido, *los algoritmos son una extensión de las capacidades de la calculadora*, en problemas matemáticos, pero más allá: problemas del uso y manejo de datos para tomar decisiones. Por ejemplo, los algoritmos permiten optimizar recursos, como tiempo de ejecución y uso de memoria, en el diseño de soluciones computarizadas y son la base de muchas aplicaciones modernas, desde búsquedas en Internet hasta el desarrollo de la inteligencia artificial (IA). 
 
-De hecho, no es descabellado decir que *los algoritmos ya gobiernan el mundo*, especialmente en una era dominada por la tecnología y el *big data*. Los algoritmos no solo son herramientas que ejecutan instrucciones en sistemas computacionales, sino que, siendo creados y ajustados por humanos, están influyendo de manera invisible pero determinante en nuestras decisiones, interacciones y acceso a recursos. Los algoritmos *toman decisiones complejas e influyen en nuestras elecciones cotidianas*, pues el teléfono celular ha puesto al alcance de todos, aplicaciones prácticamente para cualquier finalidad, como hacer pagos bancarios o elegir la mejor ruta para llegar de un lugar a otro. Esa es una actividad tan adictiva que mantiene a las personas "*pegadas al teléfono*". Nada más voleen a su alrededor mientras viajan en el transporte público, para comprobarlo.
+De hecho, no es descabellado decir que *los algoritmos ya gobiernan el mundo*, especialmente en una era dominada por la tecnología y el *big data*. Los algoritmos no solo son herramientas que ejecutan instrucciones en sistemas computacionales, sino que, siendo creados y ajustados por humanos, están influyendo de manera invisible pero determinante en nuestras decisiones, interacciones y acceso a recursos. Los algoritmos *toman decisiones complejas e influyen en nuestras elecciones cotidianas*, pues el teléfono celular ha puesto al alcance de todos, aplicaciones prácticamente para cualquier finalidad, como hacer pagos bancarios o elegir la mejor ruta para llegar de un lugar a otro. Esa es una actividad tan adictiva que mantiene a las personas "*pegadas al teléfono*". Nada más volteen a su alrededor mientras viajan en el transporte público, para comprobarlo.
 
 Por eso, el diseño e implementación de algoritmos es una habilidad esencial en cualquier carrera profesional. Los algoritmos no solo representan el núcleo de cualquier aplicación de software, sino que también son herramientas fundamentales para estructurar y organizar soluciones de manera eficiente. 
 
 ### **3. Metodología de Programación**
 
-En el mundo de la programación, resolver problemas requiere un enfoque sistemático y organizado. La metodología de programación establece un marco de pasos claros para abordar desafíos computacionales, desde la definición del problema hasta su implementación y optimización. A continuación, exploraremos cada etapa del proceso, con ejemplos prácticos y explicaciones claras para principiantes.
+En el mundo de la programación, resolver problemas requiere un enfoque sistemático y organizado. La metodología de programación establece un marco de pasos claros para abordar desafíos computacionales, desde la definición del problema hasta su implementación y optimización. A continuación, exploraremos cada etapa del proceso, con un ejemplo práctico y explicaciones claras para principiantes.
 
 #### **3.1. Planteamiento del Problema**
 
-El primer paso en la resolución de cualquier problema computacional es *entender claramente qué se desea resolver*. Un planteamiento mal definido lleva a soluciones incompletas o erróneas. En informática hay un dicho que ejemplifica esto: *Basura entra, basura sale*. 
+El **primer paso** en la resolución de cualquier problema computacional es **entender claramente qué se desea resolver**. Un planteamiento mal definido lleva a soluciones incompletas o erróneas. En informática hay un dicho que ejemplifica esto: *Basura entra, basura sale*. 
 
 **Paso 1: Definir el problema de forma clara**: Debe responder a preguntas como: ¿Qué se necesita resolver? ¿Cuál es el objetivo final? Debe evitarse vaguedades o generalizaciones. 
 
@@ -67,12 +67,12 @@ Se puede usar lenguaje natural para plantear el problema inicial.
    - **Procesos**: ¿Qué operaciones se deben realizar con esos datos? 
    - **Salidas**: ¿Qué resultados o acciones debe generar o hacer el programa?
 
-Por ejemplo, para *Crear un programa que determine si un número es par o impar*, estos son sus tres elementos: 
-   - **Entradas**: *Un **número entero** ingresado por el usuario*; 
-   - **Procesos**: *Verificar si el número es* **divisible entre 2**; 
-   - **Salidas**: **Imprimir** *"Es par" o "Es impar" según corresponda*.
+Por ejemplo, para **Crear un programa que determine si un número es par o impar**, estos son sus tres elementos: 
+   - **Entradas**: Un **número entero** ingresado por el usuario; 
+   - **Procesos**: Verificar si **el número es divisible entre 2**; 
+   - **Salidas**: Imprimir "El **número es par**" o "El **número es impar**" según corresponda.
 
-Luego, se puede usar pseudocódigo. 
+Luego, se puede desarrollar el algoritmo en lenguaje natural o usar pseudocódigo. 
 
 #### **3.3. Diseño del Algoritmo en Pseudocódigo**
 
