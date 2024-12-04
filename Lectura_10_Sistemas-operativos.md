@@ -4,7 +4,7 @@ prof. dr. Jesús Zavala Ruiz[^2]
 
 ---
 
-### **1. Introducción: Los Sistemas Operativos y su Relevancia en el Mundo Empresarial**
+### **1. Introducción**
 
 En un mundo donde la tecnología impulsa cada aspecto de la vida diaria y los negocios, los **sistemas operativos** (SO) se erigen como el núcleo invisible que hace posible la interacción entre los dispositivos y los usuarios. Cada computadora, servidor, teléfono inteligente o sistema embebido que usamos opera gracias a un *software esencial que organiza y coordina los recursos disponibles* para que las tareas se ejecuten de manera eficiente: el sistema operativo. Sin un SO, el hardware no sería más que un conjunto de componentes inertes.
 
