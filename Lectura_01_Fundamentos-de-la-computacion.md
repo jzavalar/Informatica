@@ -1,4 +1,4 @@
-## **Lectura 1: Fundamentos de la Computación (versión extendida)**[^1]
+## **Lectura 1: Fundamentos de la Computación**[^1]
 
 prof. dr. Jesús Zavala Ruiz[^2]
 
