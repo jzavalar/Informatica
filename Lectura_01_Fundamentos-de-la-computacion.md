@@ -55,11 +55,11 @@ El uso de estas herramientas no solo optimiza los recursos, sino que también pr
 
 ### 5. **Conclusión**
 
-En resumen, los fundamentos de la informática son mucho más que un conjunto de conceptos técnicos; son la base sobre la cual se construyen las tecnologías que utilizamos a diario en todos los aspectos de nuestras vidas. Desde los primeros cálculos manuales hasta las avanzadas computadoras electrónicas de hoy en día, la informática ha transformado nuestra forma de trabajar, pensar y tomar decisiones.
+En resumen, los fundamentos de la computación son mucho más que un conjunto de conceptos técnicos; son la base sobre la cual se construyen las tecnologías que utilizamos a diario en todos los aspectos de nuestras vidas; por lo que se entrelazan los principios computacionales (teorías) y las aplicaciones informáticas (aplicación). Desde los primeros cálculos manuales hasta las avanzadas computadoras electrónicas de hoy en día, la informática ha transformado nuestra forma de trabajar, pensar y tomar decisiones.
 
 Para los estudiantes de administración, el dominio de estos conceptos es crucial, ya que les permite optimizar procesos, gestionar datos con mayor eficiencia y tomar decisiones más informadas. La capacidad para aprovechar la tecnología no solo es una ventaja, sino una necesidad en el entorno empresarial moderno, donde la competitividad depende cada vez más del uso inteligente de los recursos tecnológicos.
 
-El desafío que planteamos en este curso es que, al finalizar, ustedes sean capaces no solo de entender el hardware y el software que componen sus herramientas tecnológicas, sino también de aplicarlas de manera estratégica para resolver problemas reales en el campo de la administración. Como dijo Denning (1985): “La computación es la disciplina que da forma al futuro, transformando la información en conocimiento y el conocimiento en acción” (p. 16). La informática no es simplemente una herramienta más, sino una puerta abierta a un mundo de posibilidades para aquellos que estén dispuestos a aprender y dominarla.
+El desafío que planteamos en este curso es que, al finalizar, ustedes sean capaces no solo de entender el hardware y el software que componen sus herramientas tecnológicas, sino también de aplicarlas de manera estratégica para resolver problemas reales en el campo de la administración. Como dijo Denning (1985): “La computación es la disciplina que da forma al futuro, transformando la información en conocimiento y el conocimiento en acción” (p. 16). La computacion y la informática no son simplemente unas herramientas más, sino una puerta abierta a un mundo de posibilidades para aquellos que estén dispuestos a aprender y dominarla.
 
 ---
 
