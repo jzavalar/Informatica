@@ -79,11 +79,11 @@ Aunque también se representan de otras maneras, dependiendo del autor, como se 
 
 En la actualidad, está ganando popularidad el uso de un **diagrama de clases en UML**. El **UML** (Unified Modeling Language) es una herramienta integral que se usa para el modelado de sistemas y uno de sus diagramas centrales es el *diagrama de clases*. Mientras que el modelo E-R se centra en la estructura de los datos, el UML permite modelar la estructura y el comportamiento de los objetos en un sistema. En el contexto de bases de datos, las **clases** representan entidades, los *atributos** detallan las propiedades de las clases y las **asociaciones** definen las relaciones entre las clases. Por ejemplo, un diagrama de clases podría mostrar a la clase "Cliente" con atributos como "ID", "Nombre" y "Dirección" y la relación "Alquila" con la clase "Película".
 
-Pero, ya sea que se use un antiguo diagrama E-R o un moderno diagrama de clases UML, representarán un modelo llamado esquema de la dase de datos. Existen múltiples herramientas de software libre que facilitan el diseño conceptual y lógico de bases de datos, como **MySQL Workbench**, **DbSchema**, **DBeaver** o **Draw.io**. 
+Pero, ya sea que se use un antiguo diagrama E-R o un moderno diagrama de clases UML, representarán un modelo llamado esquema de la dase de datos. Existen múltiples herramientas de software libre que facilitan el diseño conceptual y lógico de bases de datos, como [MySQL Workbench](https://www.mysql.com/products/workbench/design/), [DbSchema](https://dbschema.com/index_es.html), [DBeaver](https://dbeaver.com/docs/dbeaver/ER-Diagrams/) o [Draw.io](https://app.diagrams.net/). 
 
 ### **4. Ejemplo de diseño e implementación de una base de datos**
 
-La base de datos **Sakila**, desarrollada por MySQL, es un esquema relacional que modela una hipotética **tienda de alquiler de videos**, que permite comprender cómo traducir un diseño conceptual a un esquema práctico. La base de datos **Sakila**, disponible en [GitHub](https://github.com/jOOQ/sakila/tree/main/sqlite-sakila-db), incluye tablas como `Actor`, `Film`, `Customer`, y `Rental`, lo que la convierte en un recurso ideal para aprender SQL.
+La base de datos **Sakila**, desarrollada por MySQL, es un esquema relacional que modela una hipotética **tienda de alquiler de videos**, que permite comprender cómo traducir un diseño conceptual a un esquema práctico. La base de datos **Sakila**, disponible en [GitHub](https://github.com/jOOQ/sakila/), incluye tablas como `Actor`, `Film`, `Customer`, y `Rental`, lo que la convierte en un recurso ideal para aprender SQL.
 
 El diagrama E-R de la base de datos Sakila, se muestra enseguida: 
 
@@ -130,7 +130,7 @@ La relación entre estos tres requerimientos puede representarse de forma lógic
 2. El inventario (tabla `inventory`) vincula las películas disponibles con las transacciones de alquiler.
 3. Los pagos (tabla `payment`) registran el costo asociado a cada alquiler, permitiendo realizar un seguimiento financiero.
 
-A continuación, analizo cómo se implementan estos requerimientos en el esquema de la base de datos, en el archivo del esquema de la base de datos: [sqlite-sakila-schema.sql](https://github.com/jOOQ/sakila/blob/main/sqlite-sakila-db/sqlite-sakila-schema.sql). Después, doy ejemplos prácticos en SQL de cómo se comprueba la validez del requerimiento. 
+A continuación, analizo cómo se implementan estos requerimientos en el esquema de la base de datos, en el archivo del esquema de la base de datos con SQLite: [sqlite-sakila-schema.sql](https://github.com/jOOQ/sakila/blob/main/sqlite-sakila-db/sqlite-sakila-schema.sql). Después, doy ejemplos prácticos en SQL de cómo se comprueba la validez del requerimiento. 
 
 **Requerimiento 1: Los clientes alquilan películas**
 
