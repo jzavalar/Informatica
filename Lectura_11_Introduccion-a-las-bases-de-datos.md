@@ -419,19 +419,23 @@ En síntesis, esta lectura subraya que las bases de datos son fundamentales para
 1. Codd, E. F. (1970). A relational model of data for large shared data banks. *Communications of the ACM*, *13*(6), 377-387. [url](https://dl.acm.org/doi/10.1145/362384.362685) 
    - Este artículo seminal introduce el modelo relacional, un pilar fundamental en la teoría y práctica de las bases de datos.
 
-2. GitHub. (n.d.). *Sakila database*. Retrieved December 11, 2024, from [https://github.com/jOOQ/sakila/](https://github.com/jOOQ/sakila/) 
+2. DBeaver. *DBeaver Community. Universal Database Tool*. Retrieved December 11, 2024, from [https://sqliteonline.com/](https://sqliteonline.com/).
+   - Herramienta gratuita y multiplataforma diseñada para desarrolladores, administradores de bases de datos, analistas y cualquier persona que trabaje con datos. Compatible con bases de datos SQL populares como MySQL, MariaDB, PostgreSQL, SQLite y Apache Family, entre otras, ofrece una solución versátil para la gestión y análisis de datos en diferentes entornos.
 
-3. Mata-Toledo, R., & Cushman, P. (2000). *Schaum's outline of fundamentals of relational databases*. McGraw-Hill.
+3. GitHub. (n.d.). *Sakila database*. Retrieved December 11, 2024, from [https://github.com/jOOQ/sakila/](https://github.com/jOOQ/sakila/) 
+
+4. Mata-Toledo, R., & Cushman, P. (2000). *Schaum's outline of fundamentals of relational databases*. McGraw-Hill.
    - Un texto completo y un recurso excelente para aquellos que buscan una guía accesible y estructurada para dominar los fundamentos de las bases de datos relacionales.
 
-4. Video2Brain, (s.f.). Fundamentos de la programacion: Bases de datos (Español). [Curso en video]. [torrent](https://thepiratebay.org/description.php?id=11887748).
+5. Video2Brain, (s.f.). *Fundamentos de la programacion: Bases de datos* (Español). [Curso en video]. [torrent](https://thepiratebay.org/description.php?id=11887748).
    - Curso básico en video.
 
-5. SQL Tutorial (). SQL cheat sheet. Retrieved December 11, 2024, from [https://www.sqltutorial.org/sql-cheat-sheet/](https://www.sqltutorial.org/sql-cheat-sheet/).
+6. **SQL Tutorial**. SQL cheat sheet. Retrieved December 11, 2024, from [https://www.sqltutorial.org/sql-cheat-sheet/](https://www.sqltutorial.org/sql-cheat-sheet/).
    - Tutorial y tips.
 
-6. SQLite online. Retrieved December 11, 2024, from [https://sqliteonline.com/](https://sqliteonline.com/).
+7. **SQLite online**. Retrieved December 11, 2024, from [https://sqliteonline.com/](https://sqliteonline.com/).
    - Base de datos en línea para practicar.
+  
 --- 
 
 [^1]: Profesor-investigador del Departamento de Economía de la Universidad Autónoma Metropolitana, Unidad Iztapalapa. Contacto: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), [Telegram](https://t.me/jzavalar).
