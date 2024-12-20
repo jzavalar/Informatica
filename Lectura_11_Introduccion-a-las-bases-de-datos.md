@@ -437,4 +437,4 @@ En síntesis, esta lectura subraya que las bases de datos son fundamentales para
 [^1]: Profesor-investigador del Departamento de Economía de la Universidad Autónoma Metropolitana, Unidad Iztapalapa. Contacto: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), [Telegram](https://t.me/jzavalar).
 [^2]: Lectura leída el 11 de diciembre de 2024.
 
-Ultima actualización: 11 de diciembre de 2024.
+Ultima actualización: 19 de diciembre de 2024.
