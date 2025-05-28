@@ -67,22 +67,22 @@ El desafío que planteamos en este curso es que, al finalizar, ustedes sean capa
 
 ### **Referencias**:
 
-- Aris, J. (2000). Inventing Systems Engineering. *IEEE Annals of the History of Computing*, *22*(3), pp. 4-15. [http://www.icfcst.kiev.ua/SYMPOSIUM/Proceedings/Aris.pdf]
+- Aris, J. (2000). Inventing systems engineering. *IEEE Annals of the History of Computing*, *22*(3), pp. 4-15. [http://www.icfcst.kiev.ua/SYMPOSIUM/Proceedings/Aris.pdf]
 
 - Caminer, T.D. (1997). LEO and its applications. The beginning of business computing. *The Computer Journal*, (40), pp. 585-597. DOI: [https://doi.org/10.1093/comjnl/40.10.585](https://doi.org/10.1093/comjnl/40.10.585)
 
 - Caminer et al., (1998). *LEO: The incredible story of the world’s first business computer*. New York: McGraw-Hill.
 
-- Denning, P. J. (1985). The Science of Computing: What is computer science? *American Scientist*, *73*(1), 16-19. [https://doi.org/10.1511/1985.1.16](https://doi.org/10.1511/1985.1.16)
+- Denning, P. J. (1985). The science of computing: What is computer science? *American Scientist*, *73*(1), 16-19. [https://www.jstor.org/stable/27853057](https://www.jstor.org/stable/27853057)
 
-- GGoldstine, H.H., Goldstine, A. (1982). The Electronic Numerical Integrator and Computer (ENIAC). In: Randell, B. (eds) The Origins of Digital Computers. Texts and Monographs in Computer Science. Springer, Berlin, Heidelberg. DOI: [https://doi.org/10.1007/978-3-642-61812-3_29](https://doi.org/10.1007/978-3-642-61812-3_29) 
+- Goldstine, H. H., Goldstine, A. (1982). The Electronic Numerical Integrator and Computer (ENIAC). In: B. Randell. (ed.) *The Origins of digital computers. Texts and monographs in computer science*. Berlin, Heidelberg: Springer. [https://doi.org/10.1007/978-3-642-61812-3_29](https://doi.org/10.1007/978-3-642-61812-3_29) 
 
-- Turing, A. M. (1936). On Computable Numbers, with an Application to the Entscheidungsproblem. *Proceedings of the London Mathematical Society*, *s2-42*(1), 230–265.  
+- Turing, A. M. (1936). On computable numbers, with an application to the Entscheidungsproblem. *Proceedings of the London Mathematical Society*, *s2-42*(1), 230–265.  
   [https://doi.org/10.1112/plms/s2-42.1.230](https://doi.org/10.1112/plms/s2-42.1.230)
 
 - von Neumann, J. (1945). *First Draft of a Report on the EDVAC*. Moore School of Electrical Engineering, University of Pennsylvania. [https://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-8-pdf/k-8-u2593-Draft-EDVAC.pdf](https://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-8-pdf/k-8-u2593-Draft-EDVAC.pdf)
 
-- Zavala, J. (2011). *¿Qué son las ciencias de la computación? La ingeniería de software: Una discusión epistemológica*. Tesis de maestría, Universidad Autónoma Metropolitana.   [https://t.me/profeJesusZavala/18](https://t.me/profeJesusZavala/18)
+- Zavala, J. (2011). *¿Qué son las ciencias de la computación?* *In* *La ingeniería de software: Una discusión epistemológica*. Tesis no publicada. Maestría en ciencias de la computación, Universidad Autónoma Metropolitana. México. [https://t.me/profeJesusZavala/18](https://t.me/profeJesusZavala/18)
 
 --- 
 Notas:
