@@ -54,9 +54,11 @@ Se impulsará la reflexión de los alumnos y la expresión de sus ideas, dudas y
 Incluirá al menos dos evaluaciones periódicas escritas con ponderación del 70%; el 30% restante se evaluará a través de la realización de ejercicios, sesiones en el laboratorio de computación, tareas, exposiciones individuales o de grupo y elaboración de trabajos de investigación; y, en su caso, una evaluación terminal.  
 
 **Evaluación de Recuperación:**  
+
 Incluirá una evaluación escrita individual con ponderación del 70% con base en el contenido del programa, y un trabajo con ponderación del 30% que deberá entregarse en la fecha señalada en el calendario de evaluaciones de recuperación aprobado por el Consejo Académico.  
 
 #### **BIBLIOGRAFÍA NECESARIA O RECOMENDABLE:**  
+
 - Leal Regina, González del Valle, Elisa A. y Martínez, Guillermo (2000). *Fundamentos de computación. Introducción a la computación, MS-DOS, Windows y Word*. Trillas-UAM, México, 291 págs.  
 - Peter Norton (2000). *Introducción a la computación*, 3a. Ed. McGraw-Hill Interamericana Editores S.A. de C.V., México, 540 págs.  
 - Silberschatz, Abraham et al. (2000). *Fundamentos de bases de datos*. McGraw-Hill Interamericana Editores S.A. de C.V., México, 944 págs.  
