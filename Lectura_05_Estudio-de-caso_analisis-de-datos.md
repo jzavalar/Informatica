@@ -371,7 +371,4 @@ El análisis del recibo de luz como estudio de caso demuestra cómo el proceso d
 [^1]: Profesor-investigador del Departamento de Economía de la Universidad Autónoma Metropolitana, Unidad Iztapalapa. Contacto: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), [Telegram](https://t.me/jzavalar).
 [^2]: Lectura leída el 6 de noviembre de 2024.
 
-Tamaño en bytes:  
-Número de palabras: 
-
 Ultima actualización: 6 de noviembre de 2024
