@@ -8,7 +8,9 @@ prof. dr. Jesús Zavala Ruiz[^1]
 
 Para construir el estudio de caso del **servicio de luz** y su digitalización, nos enfocaremos en cómo la **Comisión Federal de Electricidad (CFE)** en México maneja un sistema que parte de la realidad del consumo eléctrico en cada hogar y empresa, y cómo esta realidad se codifica y estructura en datos para crear un recibo de luz, como el mostrado en la Figura 1: 
 
-<img src="[producto.jpg](https://github.com/jzavalar/Informatica/blob/main/images/123456789100_Page_1.png)" alt="Recibo de luz de la CFE" style="width: 75%; height: auto; margin: 20px auto; display: block;">
+![Recibo de luz de la CFE](https://github.com/jzavalar/Informatica/blob/main/images/123456789100_Page_1.png)
+
+<img src="https://github.com/jzavalar/Informatica/blob/main/images/123456789100_Page_1.png" alt="" style="width: 75%; height: auto; margin: 20px auto; display: block;">
 
 Este recibo es el resultado de un proceso en el que se miden, interpretan y almacenan datos de consumo para informar al usuario y realizar el cobro correspondiente. La narrativa se desarrolla en tres partes: (1) la realidad (el servicio de luz), (2) los datos (la recolección, creación y organización de datos) y (3) validación de los datos (el recibo de luz digitalizado).
 
