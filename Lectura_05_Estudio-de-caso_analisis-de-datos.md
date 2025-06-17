@@ -11,7 +11,6 @@ Para construir el estudio de caso del **servicio de luz** y su digitalización, 
 ```text
 ![Recibo de luz de la CFE](./images/123456789100_Page_1.png)
 ```
-Figura 1. Recibo de Luz de la CFE
 ![Recibo de luz de la CFE](./images/123456789100_Page_1.png)
 Figura 1. Recibo de Luz de la CFE
 
@@ -20,6 +19,7 @@ Figura 1. Recibo de Luz de la CFE
 <img src="https://github.com/jzavalar/Informatica/blob/main/images/123456789100_Page_1.png" alt="Recibo de Luz de la CFE" style="width: 90%; height: auto; margin: 20px auto; display: block;">
 ```
 <img src="https://github.com/jzavalar/Informatica/blob/main/images/123456789100_Page_1.png" alt="Recibo de Luz de la CFE" style="width: 90%; height: auto; margin: 20px auto; display: block;">
+Figura 1. Recibo de Luz de la CFE
 
 Este recibo es el resultado de un proceso en el que se miden, interpretan y almacenan datos de consumo para informar al usuario y realizar el cobro correspondiente. La narrativa se desarrolla en tres partes: (1) la realidad (el servicio de luz), (2) los datos (la recolección, creación y organización de datos) y (3) validación de los datos (el recibo de luz digitalizado).
 
