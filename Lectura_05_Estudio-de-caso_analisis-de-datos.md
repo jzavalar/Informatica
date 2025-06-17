@@ -506,8 +506,6 @@ Indique para cada campo: nombre de variable, tipo de dato, si es único o no, de
 
 **Nota**: Aplique los conceptos de codificación de datos, tipos de datos y organización de información estudiados en este caso.
 
----
-
 [^1]: Profesor-investigador del Departamento de Economía de la Universidad Autónoma Metropolitana, Unidad Iztapalapa. Contacto: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), [Telegram](https://t.me/jzavalar).
 
 Última actualización: 17 de junio de 2025.
