@@ -12,7 +12,7 @@ Para construir el estudio de caso del **servicio de luz** y su digitalización, 
 ![Recibo de luz de la CFE](https://github.com/jzavalar/Informatica/blob/main/images/123456789100_Page_1.png)
 ```
 Figura 1. Recibo de Luz de la CFE
-![Recibo de luz de la CFE](../../../images/123456789100_Page_1.png)
+![Recibo de luz de la CFE](./images/123456789100_Page_1.png)
 Figura 1. Recibo de Luz de la CFE
 
 (Código HTML para desplegar la imagen: 
