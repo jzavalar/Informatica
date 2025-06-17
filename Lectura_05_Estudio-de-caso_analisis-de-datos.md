@@ -141,58 +141,197 @@ A continuación se expone un resumen estructurado de los **conceptos de la reali
    - **Revisión del Medidor**: Costo de inspección y revisión del funcionamiento del medidor.
    - **Bonificación por Interrupción**: Bonificación por interrupciones en el suministro.
    - **Otros Cargos**: Cualquier otro cargo aplicable (e.g., ajustes de convenios, actualizaciones de demanda).
-   
-### **2.3. Codificación de los Datos**
 
-La tabla resumen que se muestra a continuación es la lista de conceptos de la realidad que se consignarían en la base de datos central de la CFE, es decir, es el producto de la **codificación de los datos**. Está organizada como un **diccionario de datos**, que relaciona los conceptos de la realidad con su representación simbólica como dato. Por eso, a cada concepto se le ha asignado un nombre corto, llamado "campo" o "Variable", el "Tipo de Dato" y si el valor es "Único" (para aquellos campos que deben ser exclusivos para cada cliente o registro).
+### **2.3. Tipos de Datos en Sistemas Computacionales**
 
-| **Concepto**                       | **Variable**            | **Tipo de Dato** | **Único** | **Descripción** |
-|------------------------------------|---------------------------------|------------------|-----------|-----------------|
-| **Número de Servicio**             | num_servicio                    | Alfanumérico     | Sí        | Identificación única asignada a cada cliente. |
-| **RMU (Registro Móvil de Usuario)**| rmu                             | Alfanumérico     | Sí        | Código único para rastrear ubicación e historial del usuario. |
-| **Nombre o Razón Social**          | nombre_usuario                  | Texto            | No        | Nombre del titular del servicio (persona o entidad). |
-| **Dirección de Suministro**        | direccion                       | Texto            | No        | Dirección completa del suministro eléctrico. |
-| **Tipo de Usuario**                | tipo_usuario                    | Texto            | No        | Clasificación del cliente (doméstico, comercial, industrial). |
-| **Número de Medidor**              | num_medidor                     | Alfanumérico     | Sí        | Código que identifica el equipo de medición en el domicilio o empresa. |
-| **Tipo de Medidor**                | tipo_medidor                    | Texto            | No        | Tipo de medidor (electromecánico o digital). |
-| **Lectura Anterior (kWh)**         | lectura_anterior                | Numérico         | No        | Valor del medidor al inicio del periodo de facturación. |
-| **Lectura Actual (kWh)**           | lectura_actual                  | Numérico         | No        | Valor del medidor al final del periodo de facturación. |
-| **Multiplicador**                  | multiplicador                   | Numérico         | No        | Factor aplicado a la lectura del medidor. |
-| **Fecha de Inicio del Periodo**    | fecha_inicio_periodo            | Fecha            | No        | Fecha en que comienza el periodo de facturación. |
-| **Fecha de Fin del Periodo**       | fecha_fin_periodo               | Fecha            | No        | Fecha en que termina el periodo de facturación. |
-| **Límite de Pago**                 | limite_pago                     | Fecha            | No        | Fecha límite para realizar el pago sin recargos. |
-| **Fecha de Corte**                 | fecha_corte                     | Fecha            | No        | Fecha a partir de la cual se procederá al corte del servicio. |
-| **Consumo Básico (kWh)**           | consumo_basico                  | Numérico         | No        | kWh consumidos en el rango básico de la tarifa. |
-| **Consumo Intermedio (kWh)**       | consumo_intermedio              | Numérico         | No        | kWh consumidos en el rango intermedio de la tarifa. |
-| **Consumo Excedente (kWh)**        | consumo_excedente               | Numérico         | No        | kWh consumidos en el rango excedente de la tarifa. |
-| **Consumo Total (kWh)**            | consumo_total                   | Numérico         | No        | Suma de los kWh en todos los niveles tarifarios. |
-| **Precio Básico ($/kWh)**          | precio_basico                   | Numérico         | No        | Costo por kWh en el rango básico. |
-| **Precio Intermedio ($/kWh)**      | precio_intermedio               | Numérico         | No        | Costo por kWh en el rango intermedio. |
-| **Precio Excedente ($/kWh)**       | precio_excedente                | Numérico         | No        | Costo por kWh en el rango excedente. |
-| **Subtotal de Consumo**            | subtotal_consumo                | Numérico (Moneda)| No        | Total del costo de consumo antes de impuestos. |
-| **Suministro**                     | costo_suministro                | Numérico (Moneda)| No        | Costo por el suministro de electricidad. |
-| **Distribución**                   | costo_distribucion              | Numérico (Moneda)| No        | Costo de distribución en media y baja tensión. |
-| **Transmisión**                    | costo_transmision               | Numérico (Moneda)| No        | Costo por transmisión de electricidad. |
-| **CENACE**                         | costo_cenace                    | Numérico (Moneda)| No        | Costo asociado al Centro Nacional de Control de Energía. |
-| **Generación**                     | costo_generacion                | Numérico (Moneda)| No        | Costo de generación de electricidad por periodo. |
-| **Capacidad**                      | costo_capacidad                 | Numérico (Moneda)| No        | Costo de capacidad según la demanda. |
-| **ScnMEM**                         | costo_scnmem                    | Numérico (Moneda)| No        | Cargos de servicio relacionados con el mercado eléctrico mayorista. |
-| **Aportación Gubernamental**       | aportacion_gubernamental        | Numérico (Moneda)| No        | Subsidio del gobierno para reducir el costo. |
-| **IVA**                            | iva                             | Numérico (Moneda)| No        | Impuesto al Valor Agregado sobre el subtotal. |
-| **Derecho de Alumbrado Público**   | dap                             | Numérico (Moneda)| No        | Cargo adicional para el alumbrado público. |
-| **Cargos y Créditos Adicionales**  | cargos_creditos                 | Numérico (Moneda)| No        | Cargos o créditos adicionales aplicados al recibo. |
-| **Adeudo Anterior**                | adeudo_anterior                 | Numérico (Moneda)| No        | Cantidad pendiente de pagos anteriores. |
-| **Pago Anterior**                  | pago_anterior                   | Numérico (Moneda)| No        | Pago realizado en el periodo anterior. |
-| **Total a Pagar**                  | total_pagar                     | Numérico (Moneda)| No        | Monto final que el usuario debe cubrir en el periodo actual. |
-| **Código de Barras**               | codigo_barras                   | Binario (Imagen) | No        | Código para realizar el pago en ventanillas de la CFE o bancos. |
-| **Indicador de Consumo**           | indicador_consumo               | Binario (Imagen) | No        | Gráfico que muestra el nivel de consumo en colores. |
-| **Conceptos Adicionales**          | concepto_adicional              | Texto            | No        | Texto descriptivo de otros cargos y créditos adicionales. |
+Antes de presentar el diccionario de datos, es importante comprender los diferentes tipos de datos que se utilizan en sistemas computacionales y cómo se aplican en este caso:
+
+#### **2.3.1. Alfanumérico**
+
+Este tipo de dato puede contener cualquier combinación de letras, números y caracteres especiales. En el contexto del recibo de luz, se utiliza tanto para información descriptiva (nombres, direcciones) como para identificadores únicos.
+
+**Nota**: En sistemas de bases de datos, este tipo suele implementarse como "VARCHAR", "CHAR" o "TEXT", dependiendo de la longitud y características específicas del dato.
+
+#### **2.3.2. Numérico**
+
+Los datos numéricos se dividen principalmente en dos subcategorías:
+
+- **Entero**: Números sin parte decimal, utilizados para conteos y cantidades discretas. En el recibo de luz, ejemplos incluyen el consumo en kWh (cuando no hay fracciones) o el número de días del periodo de facturación.
+
+- **Real**: Números que pueden contener parte decimal, utilizados para mediciones precisas y cálculos. En el recibo, ejemplos incluyen precios por kWh, subtotales y totales monetarios.
+
+**Nota**: En sistemas de bases de datos, los enteros suelen implementarse como "INTEGER" o "INT", mientras que los reales como "DECIMAL", "FLOAT" o "DOUBLE".
+
+#### **2.3.3. Fecha**
+
+Las fechas son un tipo de dato especial que representa un punto específico en el tiempo. Internamente, las computadoras suelen almacenar las fechas como un número entero que representa la cantidad de tiempo transcurrido desde una fecha de referencia (como el 1 de enero de 1970, conocido como "epoch time").
+
+Este almacenamiento numérico permite realizar cálculos con fechas, como:
+- Determinar la duración entre dos fechas (por ejemplo, los días en un periodo de facturación)
+- Sumar días a una fecha (calcular fechas límite de pago)
+- Comparar fechas para ordenar registros cronológicamente
+
+En el recibo de luz, las fechas son cruciales para establecer periodos de facturación, límites de pago y fechas de corte.
+
+**Nota**: En sistemas de bases de datos, las fechas suelen implementarse como "DATE", "DATETIME" o "TIMESTAMP".
+
+#### **2.3.4. BLOB (Binary Large Object)**
+
+Los BLOB son utilizados para almacenar datos binarios como imágenes, archivos o cualquier otro tipo de información que no se representa como texto. En el recibo de luz, se utilizan para almacenar el código de barras y el indicador gráfico de consumo.
+
+La ventaja de los BLOB es que permiten almacenar datos complejos y de gran tamaño dentro de la base de datos, manteniendo la integridad referencial con el resto de los datos.
+
+**Nota**: En sistemas de bases de datos, pueden implementarse como "BLOB", "BINARY" o "VARBINARY".
+
+#### **2.3.5. Lógico (Booleano)**
+
+Los datos lógicos o booleanos solo pueden tener dos valores: verdadero o falso (true/false, 1/0, sí/no). Son útiles para representar estados binarios o condiciones.
+
+En el contexto del recibo de luz, ejemplos de datos lógicos podrían ser:
+- **¿Es cliente DAC?**: Indica si el cliente está en tarifa de alto consumo (true/false)
+- **¿Lectura estimada?**: Indica si la lectura fue estimada o medida directamente (true/false)
+- **¿Tiene adeudos pendientes?**: Indica si el cliente tiene pagos atrasados (true/false)
+
+**Nota**: En sistemas de bases de datos, los booleanos suelen implementarse como "BOOLEAN", "BIT" o a veces como enteros pequeños (TINYINT) donde 0 representa falso y 1 representa verdadero.
+
+### **2.4. Codificación de los Datos y Diccionario de Datos**
+
+La tabla resumen que se muestra a continuación es la lista de conceptos de la realidad que se consignarían en la base de datos central de la CFE, es decir, es el producto de la **codificación de los datos**. Está organizada como un **diccionario de datos**, que relaciona los conceptos de la realidad con su representación simbólica como dato. Por eso, a cada concepto se le ha asignado un nombre corto, llamado "campo" o "Variable", el "Tipo de Dato" y si el valor es "Único" (para aquellos campos que deben ser exclusivos para cada cliente o registro). Además, se incluye un ejemplo concreto tomado del recibo de luz analizado.
+
+| **Concepto**                       | **Variable**                   | **Tipo de Dato** | **Único** | **Descripción** | **Ejemplo** |
+|------------------------------------|--------------------------------|------------------|-----------|-----------------|-------------|
+| **Número de Servicio**             | num_servicio                   | Alfanumérico     | Sí        | Identificación única asignada a cada cliente. | 123456789100 |
+| **RMU (Registro Móvil de Usuario)**| rmu                            | Alfanumérico     | Sí        | Código único para rastrear ubicación e historial del usuario. | 54168 03 09-09 XAXX-010101 001 CFE |
+| **Nombre o Razón Social**          | nombre_usuario                 | Alfanumérico     | No        | Nombre del titular del servicio (persona o entidad). | JUAN PEREZ JOLOTE |
+| **Dirección de Suministro**        | direccion                      | Alfanumérico     | No        | Dirección completa del suministro eléctrico. | Av. Paseo de la Reforma 164 Int 4, C.P. 54168 |
+| **Tipo de Usuario**                | tipo_usuario                   | Alfanumérico     | No        | Clasificación del cliente (doméstico, comercial, industrial). | Doméstico |
+| **Número de Medidor**              | num_medidor                    | Alfanumérico     | Sí        | Código que identifica el equipo de medición. | G3644V |
+| **Tipo de Medidor**                | tipo_medidor                   | Alfanumérico     | No        | Tipo de medidor (electromecánico o digital). | Digital |
+| **Lectura Anterior (kWh)**         | lectura_anterior               | Numérico (Entero)| No        | Valor del medidor al inicio del periodo. | 0 |
+| **Lectura Actual (kWh)**           | lectura_actual                 | Numérico (Entero)| No        | Valor del medidor al final del periodo. | 40 |
+| **Multiplicador**                  | multiplicador                  | Numérico (Entero)| No        | Factor aplicado a la lectura del medidor. | 1 |
+| **Fecha de Inicio del Periodo**    | fecha_inicio_periodo           | Fecha            | No        | Fecha en que comienza el periodo de facturación. | 23/07/2023 |
+| **Fecha de Fin del Periodo**       | fecha_fin_periodo              | Fecha            | No        | Fecha en que termina el periodo de facturación. | 23/09/2023 |
+| **Límite de Pago**                 | limite_pago                    | Fecha            | No        | Fecha límite para realizar el pago sin recargos. | 06/10/2023 |
+| **Fecha de Corte**                 | fecha_corte                    | Fecha            | No        | Fecha a partir de la cual se procederá al corte del servicio. | 07/10/2023 |
+| **Consumo Básico (kWh)**           | consumo_basico                 | Numérico (Entero)| No        | kWh consumidos en el rango básico de la tarifa. | 40 |
+| **Consumo Intermedio (kWh)**       | consumo_intermedio             | Numérico (Entero)| No        | kWh consumidos en el rango intermedio de la tarifa. | 0 |
+| **Consumo Excedente (kWh)**        | consumo_excedente              | Numérico (Entero)| No        | kWh consumidos en el rango excedente de la tarifa. | 0 |
+| **Consumo Total (kWh)**            | consumo_total                  | Numérico (Entero)| No        | Suma de los kWh en todos los niveles tarifarios. | 40 |
+| **Precio Básico ($/kWh)**          | precio_basico                  | Numérico (Real)  | No        | Costo por kWh en el rango básico. | 1.043 |
+| **Precio Intermedio ($/kWh)**      | precio_intermedio              | Numérico (Real)  | No        | Costo por kWh en el rango intermedio. | 1.260 |
+| **Precio Excedente ($/kWh)**       | precio_excedente               | Numérico (Real)  | No        | Costo por kWh en el rango excedente. | 3.466 |
+| **Subtotal de Consumo**            | subtotal_consumo               | Numérico (Real)  | No        | Total del costo de consumo antes de impuestos. | 41.72 |
+| **Suministro**                     | costo_suministro               | Numérico (Real)  | No        | Costo por el suministro de electricidad. | 16.69 |
+| **Distribución**                   | costo_distribucion             | Numérico (Real)  | No        | Costo de distribución en media y baja tensión. | 8.34 |
+| **Transmisión**                    | costo_transmision              | Numérico (Real)  | No        | Costo por transmisión de electricidad. | 4.17 |
+| **CENACE**                         | costo_cenace                   | Numérico (Real)  | No        | Costo asociado al Centro Nacional de Control de Energía. | 0.83 |
+| **Generación**                     | costo_generacion               | Numérico (Real)  | No        | Costo de generación de electricidad por periodo. | 10.43 |
+| **Capacidad**                      | costo_capacidad                | Numérico (Real)  | No        | Costo de capacidad según la demanda. | 1.25 |
+| **ScnMEM**                         | costo_scnmem                   | Numérico (Real)  | No        | Cargos de servicio relacionados con el mercado eléctrico mayorista. | 0.01 |
+| **Aportación Gubernamental**       | aportacion_gubernamental       | Numérico (Real)  | No        | Subsidio del gobierno para reducir el costo. | -236.76 |
+| **IVA**                            | iva                            | Numérico (Real)  | No        | Impuesto al Valor Agregado sobre el subtotal. | 8.34 |
+| **Derecho de Alumbrado Público**   | dap                            | Numérico (Real)  | No        | Cargo adicional para el alumbrado público. | 46.00 |
+| **Cargos y Créditos Adicionales**  | cargos_creditos                | Numérico (Real)  | No        | Cargos o créditos adicionales aplicados al recibo. | 0.00 |
+| **Adeudo Anterior**                | adeudo_anterior                | Numérico (Real)  | No        | Cantidad pendiente de pagos anteriores. | 106.60 |
+| **Pago Anterior**                  | pago_anterior                  | Numérico (Real)  | No        | Pago realizado en el periodo anterior. | 106.00 |
+| **Total a Pagar**                  | total_pagar                    | Numérico (Real)  | No        | Monto final que el usuario debe cubrir en el periodo actual. | 107.09 |
+| **Código de Barras**               | codigo_barras                  | BLOB             | No        | Código para realizar el pago en ventanillas de la CFE o bancos. | [Imagen del código de barras] |
+| **Indicador de Consumo**           | indicador_consumo              | BLOB             | No        | Gráfico que muestra el nivel de consumo en colores. | [Gráfico de semáforo] |
+| **Conceptos Adicionales**          | concepto_adicional             | Alfanumérico     | No        | Texto descriptivo de otros cargos y créditos adicionales. | "Ajuste por redondeo" |
+| **Es Cliente DAC**                 | es_dac                         | Lógico           | No        | Indica si el cliente está en tarifa de alto consumo. | False |
+| **Lectura Estimada**               | es_lectura_estimada            | Lógico           | No        | Indica si la lectura fue estimada o medida directamente. | False |
+| **Tiene Adeudos Pendientes**       | tiene_adeudos                  | Lógico           | No        | Indica si el cliente tiene pagos atrasados. | True |
 
 Esta tabla es el primer entregable del **análisis de datos** que se convierte en un **diccionario de datos** para la base de datos central de la CFE, donde se almacenarán los datos de cada cliente y su consumo de electricidad. La estructura permite que el sistema administre de manera eficiente el registro de consumo, la generación de recibos detallados y la aplicación de políticas tarifarias de forma consistente.
 
 Cada campo o Variable representa un aspecto de la realidad del servicio eléctrico, traducido en un dato digital que facilita el seguimiento del consumo, la transparencia en el cobro y el análisis para la optimización de la distribución de energía. 
 
 Con esta base de datos central organizada, la CFE puede gestionar el suministro de electricidad para millones de usuarios, ofreciendo una experiencia de facturación transparente y estructurada que refleja fielmente el consumo real de cada cliente. 
+
+### **2.5. Estructuras de Datos para la Organización de la Información**
+
+Las diferentes secciones identificadas en el recibo pueden considerarse como estructuras de datos complejas que organizan información relacionada. Estas estructuras permiten un manejo más eficiente y coherente de los datos. A continuación, explicamos cómo se manejan estas estructuras:
+
+#### **2.5.1. Registros (Records)**
+
+La información del cliente constituye un **registro** o **record**, que es una colección de campos relacionados que describen una entidad (en este caso, el cliente y su servicio). En lenguajes de programación, esto suele implementarse como una estructura, clase o objeto.
+
+**Ejemplo en pseudocódigo**:
+```
+TIPO_REGISTRO Cliente = {
+    Alfanumérico num_servicio
+    Alfanumérico rmu
+    Alfanumérico nombre_usuario
+    Alfanumérico direccion
+    Alfanumérico tipo_usuario
+    Alfanumérico num_medidor
+}
+```
+
+#### **2.5.2. Arreglos (Arrays)**
+
+Los datos históricos de consumo o las lecturas podrían almacenarse como **arreglos**, que son colecciones ordenadas de elementos del mismo tipo. Esto permite acceder a datos históricos o realizar cálculos sobre múltiples periodos.
+
+**Ejemplo en pseudocódigo**:
+```
+TIPO_ARREGLO HistorialConsumo = [
+    {fecha: "JUL-2023", consumo: 35},
+    {fecha: "AGO-2023", consumo: 38},
+    {fecha: "SEP-2023", consumo: 40}
+]
+```
+
+#### **2.5.3. Tablas (Relaciones)**
+
+La relación entre clientes, medidores, y consumos se maneja mediante **tablas** en una base de datos relacional. Cada tabla tiene filas (registros) y columnas (campos), y las relaciones se establecen mediante claves primarias y foráneas.
+
+**Ejemplo de estructura relacional**:
+```
+TABLA Clientes (
+    num_servicio ALFANUMÉRICO CLAVE_PRIMARIA,
+    nombre_usuario ALFANUMÉRICO,
+    direccion ALFANUMÉRICO,
+    tipo_usuario ALFANUMÉRICO
+)
+
+TABLA Consumos (
+    id_consumo ENTERO CLAVE_PRIMARIA,
+    num_servicio ALFANUMÉRICO CLAVE_FORÁNEA,
+    fecha_inicio FECHA,
+    fecha_fin FECHA,
+    consumo_total ENTERO,
+    monto_total REAL
+)
+```
+
+#### **2.5.4. Listas (Lists)**
+
+Los conceptos de cobro y cargos adicionales pueden manejarse como **listas**, que son colecciones ordenadas de elementos que pueden variar en número. Esto permite flexibilidad para añadir o quitar conceptos según sea necesario.
+
+**Ejemplo en pseudocódigo**:
+```
+TIPO_LISTA ConceptosCobro = [
+    {concepto: "Consumo Básico", monto: 41.72},
+    {concepto: "IVA", monto: 8.34},
+    {concepto: "DAP", monto: 46.00}
+]
+```
+
+#### **2.5.5. Diccionarios (Maps o Associative Arrays)**
+
+Los precios por tarifa o los costos desglosados pueden representarse como **diccionarios** o **mapas**, que son colecciones de pares clave-valor donde cada clave es única.
+
+**Ejemplo en pseudocódigo**:
+```
+TIPO_DICCIONARIO PreciosPorTarifa = {
+    "basico": 1.043,
+    "intermedio": 1.260,
+    "excedente": 3.466
+}
+```
+
+Estas estructuras de datos no solo organizan la información de manera lógica, sino que también facilitan las operaciones que se realizan con ellos, como cálculos, búsquedas y actualizaciones. La elección de la estructura adecuada depende de las necesidades específicas del sistema y de cómo se utilizarán los datos.
 
 ## **3. El Recibo de Luz: Aplicación y Validación**
 
@@ -202,125 +341,44 @@ El recibo de luz se convierte en el documento que permite cobrar el consumo de l
 
 ### **3.2. Áreas de Datos en el Recibo de Luz**
 
-A partir del recibo mostrado en la [Figura 1](https://github.com/jzavalar/Informatica/blob/main/images/123456789100_Page_1.png), se identificaron las siguientes áreas clave, donde cada una organiza y presenta información específica:
+A partir del recibo mostrado en la [Figura 1](https://github.com/jzavalar/Informatica/blob/main/images/123456789100_Page_1.png), se identificaron varias áreas clave que organizan y presentan información específica. Estas áreas funcionan como **estructuras de datos** dentro del documento, agrupando información relacionada para facilitar su comprensión y procesamiento.
 
-1. **Información del Cliente y Servicio**:
-   - **Nombre**: JUAN PEREZ JOLOTE  
-     - **Descripción**: Nombre completo del usuario.  
-     - **Tipo de Dato**: Texto  
-   - **Dirección**: Av. Paseo de la Reforma 164 Int 4, Vicente Guerrero y Morelos, San Juan Ixtacala amp Norte, C.P. 54168, Tlalnepantla de Baz, Estado de México.  
-     - **Descripción**: Dirección completa del suministro eléctrico.  
-     - **Tipo de Dato**: Texto  
-   - **Número de Servicio**: `123456789100`  
-     - **Descripción**: Identificador único del cliente.  
-     - **Tipo de Dato**: Alfanumérico  
-   - **RMU**: `54168 03 09-09 XAXX-010101 001 CFE`  
-     - **Descripción**: Registro Móvil de Usuario (identificación interna).  
-     - **Tipo de Dato**: Alfanumérico  
-   - **Número de Cuenta**: `29DF07D012345678`  
-     - **Descripción**: Código de cuenta asignado al cliente.  
-     - **Tipo de Dato**: Alfanumérico  
+1. **Estructura de Información del Cliente y Servicio**: Agrupa todos los datos que identifican al usuario y su punto de servicio.
+   
+2. **Estructura de Periodo de Facturación y Fechas Clave**: Organiza las fechas relevantes para el proceso de facturación.
+   
+3. **Estructura de Datos de Consumo**: Contiene la información sobre lecturas y consumo energético.
+   
+4. **Estructura de Costos y Desglose de Importe**: Agrupa todos los elementos de costo y su cálculo.
+   
+5. **Estructura de Talón de Caja**: Organiza la información necesaria para realizar el pago.
 
-2. **Periodo de Facturación y Fechas Clave**:
-   - **Periodo de Facturación**: 23 JUL 2023 - 23 SEP 2023  
-     - **Descripción**: Periodo en el que se mide el consumo de electricidad.  
-     - **Tipo de Dato**: Fecha  
-   - **Límite de Pago**: 06 OCT 2023  
-     - **Descripción**: Fecha límite para realizar el pago sin recargos.  
-     - **Tipo de Dato**: Fecha  
-   - **Fecha de Corte**: 07 OCT 2023  
-     - **Descripción**: Fecha en la cual se realiza el corte del servicio en caso de impago.  
-     - **Tipo de Dato**: Fecha  
+Cada una de estas estructuras contiene múltiples campos de datos que ya fueron detallados en el diccionario de datos de la sección 2.4.
 
-3. **Datos de Consumo**:
-   - **Lectura Anterior**: 0 kWh (Estimada)  
-     - **Descripción**: Valor del medidor al inicio del periodo de facturación.  
-     - **Tipo de Dato**: Numérico  
-   - **Lectura Actual**: 40 kWh (Medida)  
-     - **Descripción**: Valor del medidor al final del periodo de facturación.  
-     - **Tipo de Dato**: Numérico  
-   - **Multiplicador**: 1  
-     - **Descripción**: Factor aplicado para ajustar el cálculo de consumo.  
-     - **Tipo de Dato**: Numérico  
-   - **Consumo en kWh**:
-     - **Consumo Básico**: 40 kWh  
-       - **Descripción**: kWh consumidos en el rango básico de la tarifa.  
-       - **Tipo de Dato**: Numérico  
-     - **Total Consumo**: 40 kWh  
-       - **Descripción**: Consumo total registrado en el periodo.  
-       - **Tipo de Dato**: Numérico  
-
-4. **Costos de la Energía y Desglose de Importe a Pagar**:
-   - **Subtotal de Consumo Básico**: $41.72 MXN  
-     - **Descripción**: Costo de consumo en el rango básico de la tarifa.  
-     - **Tipo de Dato**: Numérico (Moneda)  
-   - **IVA (16%)**: $8.34 MXN  
-     - **Descripción**: Impuesto al Valor Agregado aplicado al subtotal.  
-     - **Tipo de Dato**: Numérico (Moneda)  
-   - **Derecho de Alumbrado Público (DAP)**: $46.00 MXN  
-     - **Descripción**: Cargo adicional por el uso de alumbrado público.  
-     - **Tipo de Dato**: Numérico (Moneda)  
-   - **Adeudo Anterior**: $106.60 MXN  
-     - **Descripción**: Cantidad pendiente de pagos anteriores.  
-     - **Tipo de Dato**: Numérico (Moneda)  
-   - **Pago Anterior**: $106.00 MXN  
-     - **Descripción**: Pago realizado en el periodo anterior.  
-     - **Tipo de Dato**: Numérico (Moneda)  
-   - **Total a Pagar**: $107.09 MXN  
-     - **Descripción**: Monto final que el usuario debe cubrir para el periodo actual.  
-     - **Tipo de Dato**: Numérico (Moneda)  
-
-5. **Talón de Caja**:
-   - **Total a Pagar**: $107.09 MXN  
-     - **Descripción**: Monto total a pagar indicado en el talón.  
-     - **Tipo de Dato**: Numérico (Moneda)  
-   - **Código de Barras**: (Visual en el recibo para facilitar el pago)  
-     - **Descripción**: Código utilizado para el pago en ventanillas o bancos.  
-     - **Tipo de Dato**: Binario (Imagen)  
-   - **Número de Cuenta y Servicio**: `29DF07D012345678` y `123456789100`  
-     - **Descripción**: Identificadores adicionales del cliente y su servicio.  
-     - **Tipo de Dato**: Alfanumérico  
-
-Estas áreas de datos se distribuyen en el recibo de forma que el usuario pueda acceder fácilmente a información relevante, como su consumo, el costo, las fechas de pago y el desglose de los importes.
-
-### **3.3. Tipos de Datos en el Recibo de Luz**
-
-Los diferentes tipos de datos utilizados en el recibo de luz se clasifican en:
-
-1. **Texto**:
-   - Datos que contienen caracteres alfabéticos, numéricos y especiales. Utilizado para información descriptiva o identificadores alfanuméricos. Ejemplos: Nombre, Dirección.
-
-2. **Alfanumérico**:
-   - Combinación de letras, números y caracteres especiales que funcionan como identificadores únicos en el sistema. Ejemplos: Número de Servicio, RMU, Número de Cuenta.
-
-3. **Numérico**:
-   - Representa valores exclusivamente numéricos utilizados para cálculos. Incluye el consumo de electricidad, lecturas del medidor. Ejemplos: Consumo en kWh, Lectura Anterior, Lectura Actual.
-
-4. **Fecha**:
-   - Tipo de dato que almacena fechas en formato estandarizado para facilitar el cálculo de periodos y validaciones temporales. Ejemplos: Periodo de Facturación, Límite de Pago, Fecha de Corte.
-
-5. **Numérico (Moneda)**:
-   - Valores numéricos que representan montos en una moneda específica (MXN en este caso), utilizados en cálculos monetarios y presentados con precisión decimal. Ejemplos: Subtotal de Consumo Básico, IVA, Total a Pagar.
-
-6. **Binario (Imagen)**:
-   - Tipo de dato que contiene información visual o gráfica, como un código de barras o un indicador gráfico, que no se interpreta como texto o números sino como un recurso visual. Ejemplo: Código de Barras.
-
-### **3.4. Tipos Especiales de Datos**
+### **3.3. Tipos Especiales de Datos**
 
 Dentro de estas áreas, se identificaron varios tipos especiales de datos que deben manejarse de manera específica en la base de datos:
 
-#### **Fechas**
+#### **3.3.1. Fechas**
    - **Campos**: 
      - Fecha de Inicio del Periodo: `23 JUL 2023`
      - Fecha de Fin del Periodo: `23 SEP 2023`
      - Límite de Pago: `06 OCT 2023`
      - Fecha de Corte: `07 OCT 2023`
-   - **Tratamiento**: Las fechas deben almacenarse en un formato estándar (ej., AAAAMMDD) para asegurar consistencia en su uso y permitir el cálculo de periodos y plazos de pago.
+   
+   - **Tratamiento computacional**: 
+     Las fechas se almacenan internamente como valores numéricos (generalmente como el número de días o segundos desde una fecha de referencia, como el 1 de enero de 1970). Este formato permite realizar operaciones matemáticas como:
+     
+     - Calcular la duración del periodo: `fecha_fin - fecha_inicio = 62 días`
+     - Determinar días para el vencimiento: `limite_pago - fecha_actual`
+     - Verificar si una factura está vencida: `IF fecha_actual > limite_pago THEN "Vencida" ELSE "Vigente"`
+     
+     Para su presentación al usuario, estos valores numéricos se formatean según convenciones locales (DD/MM/AAAA en México).
 
-#### **Listas de Datos o Dataframes**
+#### **3.3.2. Listas de Datos o Dataframes**
    - **Consumo por Nivel Tarifario**:
      - **Campos y Valores**: Consumo Básico: `40 kWh`, Precio Básico: `$1.043/kWh`, Subtotal Básico: `$41.72 MXN`
-     - **Propósito**: Estos datos reflejan el consumo en distintos niveles tarifarios y permiten el cálculo preciso del costo total.
+     - **Implementación**: Esta información se maneja como un dataframe o tabla de datos estructurados donde cada fila representa un nivel tarifario y las columnas representan atributos como consumo, precio unitario y subtotal.
    
    - **Costos de la Energía y Desglose de Importe**:
      - **Campos y Valores**:
@@ -330,11 +388,30 @@ Dentro de estas áreas, se identificaron varios tipos especiales de datos que de
        - Adeudo Anterior: `$106.60 MXN`
        - Pago Anterior: `$106.00 MXN`
        - Total a Pagar: `$107.09 MXN`
-     - **Propósito**: Esta lista permite desglosar cada costo y calcular el monto final, proporcionando transparencia al usuario.
+     - **Implementación**: Este desglose se implementa como una lista de elementos de costo, donde cada elemento incluye un concepto, un valor y posiblemente un indicador del tipo de cargo (impuesto, servicio, subsidio).
 
-Almacenarlos como **dataframes** en la base de datos permite que cada uno de estos elementos se procese y sume adecuadamente para obtener el total, manteniendo una estructura que facilita su consulta y análisis.
+#### **3.3.3. Datos Lógicos (Booleanos)**
 
-### **3.5. Identificadores Únicos y Datos Complejos**
+Los siguientes campos lógicos permiten decisiones binarias en el procesamiento del recibo:
+
+1. **Es Cliente DAC**:
+   - **Valor**: `False` (en este ejemplo)
+   - **Uso**: Determina si al cliente se le aplica la Tarifa de Alto Consumo
+   - **Implementación**: Se almacena como un valor booleano (true/false, 1/0)
+
+2. **Lectura Estimada**:
+   - **Valor**: `False` (para la lectura actual que es "Medida")
+   - **Uso**: Indica si el consumo se calculó basado en estimaciones o en una lectura real
+   - **Implementación**: Se almacena como un valor booleano para cada lectura
+
+3. **Tiene Adeudos Pendientes**:
+   - **Valor**: `True` (ya que hay un adeudo anterior)
+   - **Uso**: Activa advertencias o procesos de cobranza
+   - **Implementación**: Se calcula comparando el valor de adeudo_anterior con cero
+
+Estos valores lógicos permiten controles de flujo y decisiones automatizadas en el sistema, como determinar si mostrar avisos de corte o aplicar tarifas especiales.
+
+### **3.4. Identificadores Únicos y Datos Complejos**
 
 En el recibo, algunos campos tienen apariencia alfanumérica pero representan valores únicos y constantes, esenciales para identificar de manera inequívoca al usuario o al equipo de medición:
 
@@ -352,7 +429,7 @@ En el recibo, algunos campos tienen apariencia alfanumérica pero representan va
 
 Estos campos deben definirse como únicos en la base de datos para evitar duplicados y asegurar que cada usuario esté correctamente identificado.
 
-### **3.6. Aplicaciones en Administración Empresarial**
+### **3.5. Aplicaciones en Administración Empresarial**
 
 Los conceptos de codificación de datos y estructuración de información vistos en este caso de estudio tienen aplicaciones directas en la administración:
 
@@ -370,14 +447,15 @@ Los conceptos de codificación de datos y estructuración de información vistos
 
 **Ejemplo práctico**: Una cadena de tiendas departamentales podría aplicar principios similares para analizar las compras de sus clientes con tarjeta de fidelidad:
 
-| **Concepto** | **Variable** | **Tipo de Dato** | **Único** | **Descripción** |
-|--------------|--------------|------------------|-----------|-----------------|
-| **ID Cliente** | id_cliente | Alfanumérico | Sí | Identificador único del cliente en el programa de fidelidad |
-| **Nombre Cliente** | nombre_cliente | Texto | No | Nombre completo del cliente |
-| **Compra Total Mensual** | compra_mensual | Numérico (Moneda) | No | Monto total de compras en el mes |
-| **Segmento Cliente** | segmento | Texto | No | Clasificación del cliente (oro, plata, bronce) |
-| **Puntos Acumulados** | puntos | Numérico | No | Puntos de fidelidad acumulados |
-| **Fecha Última Compra** | fecha_ultima_compra | Fecha | No | Fecha de la última transacción |
+| **Concepto** | **Variable** | **Tipo de Dato** | **Único** | **Descripción** | **Ejemplo** |
+|--------------|--------------|------------------|-----------|-----------------|-------------|
+| **ID Cliente** | id_cliente | Alfanumérico | Sí | Identificador único del cliente | TDC-78529463 |
+| **Nombre Cliente** | nombre_cliente | Alfanumérico | No | Nombre completo del cliente | María Rodríguez López |
+| **Compra Total Mensual** | compra_mensual | Numérico (Real) | No | Monto total de compras en el mes | 3,478.50 |
+| **Segmento Cliente** | segmento | Alfanumérico | No | Clasificación del cliente | Platino |
+| **Puntos Acumulados** | puntos | Numérico (Entero) | No | Puntos de fidelidad acumulados | 2,340 |
+| **Fecha Última Compra** | fecha_ultima_compra | Fecha | No | Fecha de la última transacción | 12/10/2023 |
+| **Es Cliente VIP** | es_vip | Lógico | No | Indica si el cliente tiene beneficios VIP | True |
 
 ## **4. Conclusiones**
 
@@ -414,7 +492,7 @@ El análisis del recibo de luz como estudio de caso demuestra cómo el proceso d
    - Campos para el cálculo de impuestos y descuentos
    - Campos para el seguimiento de pagos
 
-Indique para cada campo: nombre de variable, tipo de dato, si es único o no, y descripción.
+Indique para cada campo: nombre de variable, tipo de dato, si es único o no, descripción y un ejemplo.
 
 ### **5.3. Caso Empresarial**
 
@@ -432,4 +510,4 @@ Indique para cada campo: nombre de variable, tipo de dato, si es único o no, y 
 
 [^1]: Profesor-investigador del Departamento de Economía de la Universidad Autónoma Metropolitana, Unidad Iztapalapa. Contacto: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), [Telegram](https://t.me/jzavalar).
 
-Última actualización: 16 de junio de 2025
+Última actualización: 17 de junio de 2025.
