@@ -197,8 +197,6 @@ Identifique en un recibo o factura de cualquier servicio (teléfono, agua, etc.)
 3. Tres ejemplos de datos únicos que sirvan como identificadores
 4. Un ejemplo de dato calculado a partir de otros valores
 
----
-
 [^1]: Profesor-investigador del Departamento de Economía de la Universidad Autónoma Metropolitana, Unidad Iztapalapa. Contacto: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), [Telegram](https://t.me/jzavalar).
 
 Última actualización: 17 de junio de 2025
