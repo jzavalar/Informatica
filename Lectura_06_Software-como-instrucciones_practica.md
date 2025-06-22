@@ -91,33 +91,33 @@ int main() {
 ```
 
 #### Paso 4: Compilar y ejecutar
-Copia o escribe cada línea en la Terminal a la derecha de `$`: 
+Copia o escribe cada grupo de líneas en la Terminal (panel inferior izquierdo) a la derecha de `$`: 
+
+🔨 COMPILACIÓN (crear ejecutable):
 ```bash
-## 🔨 COMPILACIÓN (crear ejecutable)
 echo "🔨 Compilando programa C..."
 gcc -o calculadora calculadora.c
 ```
-
+Verificar que se creó el ejecutable:
 ```bash
-## Verificar que se creó el ejecutable
 ls -la calculadora
 ```
-
+🚀 EJECUCIÓN del programa compilado:
 ```bash
-## 🚀 EJECUCIÓN del programa compilado
 echo "🚀 Ejecutando programa compilado..."
 ./calculadora
 ```
 
-**📝 Datos de prueba:**
-- Precio: `100`
-- Descuento: `15`
+**📝 Usa los siguientes datos de prueba:**
+- Precio: `100` <Enter>
+- Descuento: `15` <Enter>
 
----
+Abre el archivo calculo_c.txt en `Files` el panel inferior derecho con un click y compueba el contenido del archivo. 
 
 ### 🐍 Parte 2: Programa en Python - Interpretado (10 minutos)
 
 #### Paso 5: Crear calculadora.py
+Ve al panel inferior derecho y escoge `Files --> Blanck File --> Text File` escribe `calculadora.py` como nombre del archivo. Copia el siguiente texto en el archivo y pega el texto con `Ctrl + v`.
 
 ```python
 #!/usr/bin/env python3
@@ -179,34 +179,42 @@ if __name__ == "__main__":
 ```
 
 #### Paso 6: Ejecutar Python
+Copia o escribe cada grupo de líneas en la Terminal (panel inferior izquierdo) a la derecha de `$`: 
 
+🐍 INTERPRETACIÓN (sin compilar, directo):
 ```bash
-## 🐍 INTERPRETACIÓN (sin compilar, directo)
 echo "🐍 Ejecutando Python (sin compilar)..."
 python3 calculadora.py
 ```
 
-**📝 Usa los mismos datos para comparar.**
-
----
+**📝 Usa los mismos datos para comparar:**
+- Precio: `100` <Enter>
+- Descuento: `15` <Enter>
+Abre el archivo `calculo_pyton.txt` en `Files` el panel inferior derecho con un click y compueba el contenido del archivo. 
 
 ### 🔍 Parte 3: Comparación Inmediata (5 minutos)
 
 #### Paso 7: Analizar diferencias
 
+Ver archivos generados:
 ```bash
-## Ver archivos generados
 echo "📄 Archivos generados:"
 ls -la *.txt
+```
 
-## Comparar contenido
+Comparar contenido:
+```bash
 echo -e "\n📊 RESULTADO C:"
 cat calculo_c.txt
+```
 
+```bash
 echo -e "\n📊 RESULTADO PYTHON:"
 cat calculo_python.txt
+```
 
-## Mostrar diferencias clave
+Mostrar diferencias clave:
+```bash
 echo -e "\n🔍 DIFERENCIAS OBSERVADAS:"
 echo "✅ C: Compilación requerida, ejecución inmediata después"
 echo "✅ Python: Sin compilación, interpretación línea por línea"
@@ -215,21 +223,17 @@ echo "✅ Ambos: Misma funcionalidad, diferente proceso"
 
 #### Paso 8: Experimento de velocidad
 
+Mostrar tiempo de preparación vs ejecución:
 ```bash
-## Mostrar tiempo de preparación vs ejecución
 echo -e "\n⏱️ EXPERIMENTO DE TIEMPO:"
-
 echo "🔨 C - Tiempo de compilación:"
 time gcc -o calculadora_test calculadora.c
-
 echo -e "\n🚀 C - Tiempo de ejecución (ya compilado):"
 echo "100\n15" | time ./calculadora_test
 
 echo -e "\n🐍 Python - Tiempo total (interpretación + ejecución):"
 echo "100\n15" | time python3 calculadora.py
 ```
-
----
 
 ### 📋 Reflexión Express (5 minutos)
 
