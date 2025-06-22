@@ -12,7 +12,7 @@ Experimentar de primera mano la diferencia entre **compilación** e **interpreta
 ### 🚀 Preparación Rápida (5 minutos)
 
 #### Paso 1: Acceso a RStudio.cloud
-1. Ve a [https://rstudio.cloud](https://rstudio.cloud)
+1. Ve a [https://rstudio.cloud](https://posit.cloud/plans/free) en tu navegador
 2. Inicia sesión o crea cuenta
 3. Crea nuevo proyecto: **"ESAP-Express"**
 
