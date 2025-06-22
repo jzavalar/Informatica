@@ -1,4 +1,4 @@
-## ⚡ Práctica Express: Las 4 Operaciones ESAP en 30 Minutos
+## ⚡ Práctica Express. El Software como instrucciones: Las 4 Operaciones ESAP en 30 Minutos
 
 ### 🎯 Objetivo
 Experimentar de primera mano la diferencia entre **compilación** e **interpretación** creando una **Calculadora de Descuentos** en C y Python.
@@ -12,12 +12,12 @@ Experimentar de primera mano la diferencia entre **compilación** e **interpreta
 ### 🚀 Preparación Rápida (5 minutos)
 
 #### Paso 1: Acceso a RStudio.cloud
-1. Ve a [https://rstudio.cloud](https://posit.cloud/plans/free) en tu navegador
-2. Inicia sesión o crea cuenta
-3. Crea nuevo proyecto: **"ESAP-Express"**
+1. Ve a [https://rstudio.cloud](https://posit.cloud/plans/free) en una nueva pestaña de tu navegador
+2. Inicia sesión o crea cuenta con tu cuenta de Gmail. Accede a tu cuenta de Gmail, confirma y accede.
+3. Crea nuevo proyecto `New Project --> New RStudio Project`con el nombre **"ESAP-Express"** (Cambia `Untitled Project` por `ESAP-Express`)  
 
 #### Paso 2: Configurar Terminal
-En la **Terminal** de RStudio.cloud:
+En la **Terminal** de RStudio.cloud copia o escribe cada línea, una a la vez:
 
 ```bash
 ## Crear directorio del proyecto
@@ -27,25 +27,22 @@ cd esap-express
 ## Verificar compilador C
 gcc --version
 ```
-
----
+Observa la salida y comprueba la existencia del programa compilador `gcc`.
 
 ### 💼 El Proyecto: Calculadora de Descuentos
 
 **Escenario real:** Eres gerente de una tienda y necesitas calcular rápidamente el precio final de productos con descuento.
 
 **Las 4 operaciones ESAP:**
-- 📥 **ENTRADA:** Precio original y porcentaje de descuento
-- ⚙️ **PROCESAMIENTO:** Calcular precio final
-- 💾 **ALMACENAMIENTO:** Guardar cálculo en archivo
-- 📊 **SALIDA:** Mostrar resultado al usuario
-
----
+- 📥 **E**NTRADA: Precio original y porcentaje de descuento
+- ⚙️ **P**ROCESAMIENTO: Calcular precio final
+- 💾 **A**LMACENAMIENTO: Guardar cálculo en archivo
+- 📊 **S**ALIDA: Mostrar resultado al usuario
 
 ### 🔧 Parte 1: Programa en C - Compilado (10 minutos)
 
 #### Paso 3: Crear calculadora.c
-
+Ve al panel inferior derecho y escoge `Files --> Blanck File --> Text File` escribe `calculadora.c` como nombre del archivo. Copia el siguiente texto en el archivo y pega el texto con `Ctrl + v`.
 ```c
 #include <stdio.h>
 
@@ -94,15 +91,19 @@ int main() {
 ```
 
 #### Paso 4: Compilar y ejecutar
-
+Copia o escribe cada línea en la Terminal a la derecha de `$`: 
 ```bash
 ## 🔨 COMPILACIÓN (crear ejecutable)
 echo "🔨 Compilando programa C..."
 gcc -o calculadora calculadora.c
+```
 
+```bash
 ## Verificar que se creó el ejecutable
 ls -la calculadora
+```
 
+```bash
 ## 🚀 EJECUCIÓN del programa compilado
 echo "🚀 Ejecutando programa compilado..."
 ./calculadora
