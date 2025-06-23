@@ -1,6 +1,6 @@
-## Lectura 6. El Software como Datos e Instrucciones[^1]
+## Lectura 6. El Software como Datos e Instrucciones
 
-prof. dr. Jesús Zavala Ruiz[^2]
+prof. dr. Jesús Zavala Ruiz[^1]
 
 ---
 
@@ -31,11 +31,11 @@ Las *operaciones básicas* sobre datos numéricos son matemáticas y estadístic
 
 En cuanto a las **cadenas de texto** (*string*), también llamados **datos alfanuméricos**, que sirven para representar la *descripción de los atributos* de los objetos de interés, cada **carácter** individual se convierte a binario según sistemas de codificación como el **ASCII** (Acrónimo de *A*merican *S*tandard *C*ode for *I*nformation *I*nterchange) (que permite representar hasta 256 símbolos con un byte) o el **Unicode** (que permite representar caracteres más complejos, como un emoji, con uno a tres bytes), codificados como **UTF-8** (*8-bit Unicode Transformation Format*). Lo mismo aplica para una cadena de tamaño unitario se llama *carácter* o *símbolo alfanumérico*.
 
-Por ejemplo, la palabra **"Hola"** se codifica carácter por carácter, en **ASCII**, como **H** (`01001000`), **o** (`01101111`), **l** (`01101100`) y **a** (`01100001`) y la palabra completa **"Hola"** en binario (ASCII) sería `01001000 01101111 01101100 01100001`. Para este proceso se usa la llamada *Tabla ASCII*. Y, en código **Unicode**, el emoji **"😊"** (cara sonriente con ojos felices) se codifica con 4 bytes como `11110000 10011111 10011000 10101010`, que corresponde al código `U+1F60A` (en hexadecimal). Esto permite que Unicode maneje una gama mucho más amplia de caracteres, desde letras de alfabetos internacionales o antiguos, hasta símbolos complejos como los emojis.
+Por ejemplo, la palabra `Hola` se codifica carácter por carácter, en **ASCII**, como `H` (`01001000`), `o` (`01101111`), `l` (`01101100`) y `a` (`01100001`) y la palabra completa `Hola` en binario (ASCII) sería `01001000 01101111 01101100 01100001`. Para este proceso se usa la llamada *Tabla ASCII*. Y, en código **Unicode**, el emoji **"😊"** (cara sonriente con ojos felices) se codifica con 4 bytes como `11110000 10011111 10011000 10101010`, que corresponde al código `U+1F60A` (en hexadecimal). Esto permite que Unicode maneje una gama mucho más amplia de caracteres, desde letras de alfabetos internacionales o antiguos, hasta símbolos complejos como los emojis.
 
 Los datos alfanuméricos son los más abundantes y tienen una gran versatilidad de uso, desde la comunicación con la computadora, hasta la construcción dinámica de mensajes y el formateo de reportes. 
 
-Las *operaciones básicas* que se realizan con datos alfanuméricos son: concatenación, extracción de subcadenas, reemplazo, búsqueda, comparación, división,  formateo, eliminación de espacios, longitud y verificación de patrones.
+Las *operaciones básicas* que se realizan con datos alfanuméricos son: concatenación, extracción de subcadenas, reemplazo, búsqueda, comparación, división, formateo, eliminación de espacios, longitud y verificación de patrones.
 
 **1.4. Datos lógicos**
 
@@ -45,13 +45,13 @@ Las *operaciones básicas* con datos lógicos son: unión (`Y` o `AND`), disyunc
 
 **1.5. Dato nulo** 
 
-Por último, el tipo especial **nulo**, que sirve para representar un dato perdido o inexistente, no tiene un valor binario directo. En su lugar, el sistema usa punteros que indican un espacio vacío o un objeto especial predefinido que representa "sin valor". Es decir, la computadora sabe que un valor es **null** (nulo) (ausencia de un valor) mediante representaciones específicas que dependen del lenguaje de programación y del sistema operativo subyacente. Por lo general, se usa un valor `0` en 8 a 64 bits, dependiendo de la arquitectura de la computadora.
+Por último, el tipo especial **nulo** (`nil`), que sirve para representar un dato perdido o inexistente, no tiene un valor binario directo. En su lugar, el sistema usa punteros que indican un espacio vacío o un objeto especial predefinido que representa "sin valor". Es decir, la computadora sabe que un valor es `null` (nulo) (ausencia de un valor) mediante representaciones específicas que dependen del lenguaje de programación y del sistema operativo subyacente. Por lo general, se usa un valor `0` en 8 a 64 bits, dependiendo de la arquitectura de la computadora.
 
 **1.6. Datos especiales**
 
 De manera análoga como se codifican los datos básicos, se procede igual con ciertos datos especiales como los **sonidos** y los **colores**, que permiten codificar el audio, las imágenes y el video de archivos multimedia. Los datos básicos multimedia también tiene operaciones básicas mediante software especializado. 
 
-El tipo de dato de **fecha y hora** (*datetime*) es otro tipo de datos especial que se codifica de acuerdo con un estándar o sistema que permite representar momentos en el tiempo de manera precisa y eficiente. Uno de los métodos más comunes es mediante una marca de tiempo (*timestamp*), que almacena el número de segundos transcurridos desde un punto de referencia llamado **Epoch** (generalmente el 1 de enero de 1970 a las 00:00:00 UTC). El *UTC* (*Coordinated Universal Time*, *Tiempo Universal Coordinado*) es el estándar de tiempo global utilizado como referencia para sincronizar relojes y medir el tiempo en todo el mundo.
+El tipo de dato de **fecha y hora** (`datetime`) es otro tipo de datos especial que se codifica de acuerdo con un estándar o sistema que permite representar momentos en el tiempo de manera precisa y eficiente. Uno de los métodos más comunes es mediante una marca de tiempo (`timestamp`), que almacena el número de segundos transcurridos desde un punto de referencia llamado `Epoch` (generalmente el 1 de enero de 1970 a las 00:00:00 UTC). El *UTC* (*Coordinated Universal Time*, *Tiempo Universal Coordinado*) es el estándar de tiempo global utilizado como referencia para sincronizar relojes y medir el tiempo en todo el mundo.
 
 La fecha es un caso típico de un **tipo de dato complejo** porque tiene *tres componentes*: fecha, hora y marca de tiempo. Los componentes de una **fecha** (año, mes, día) pueden representarse en números enteros; por ejemplo, el 18 de noviembre de  2024, se codifica en binario como año (`11111100100`), mes (`1011`), día (`10010`). Hay funciones de cómputo que calculan la fecha correcta, considerando los años bisiestos. La **hora** tiene también tres componentes: hora, minuto y segundo) que también se representan como enteros; por ejemplo, las 14:30:45 se representan como `1110`, `11110` y `101101`. Y, la **marca de tiempo** o **timestamp** combina la fecha y la hora en un único número que representa los segundos desde el Epoch. Este número se almacena como un *entero en binario*; por ejemplo, la fecha y hora `2024-11-18 14:30:45` tiene una marca de tiempo timestamp (asumiendo UTC) de 1,731'940,245 segundos desde el Epoch, que en binario es: `1100110110110100001001010101`. 
 
@@ -305,6 +305,5 @@ He desarrollado una práctica paralela para practicar y aterrizar los conceptos.
 --- 
 
 [^1]: Profesor-investigador del Departamento de Economía de la Universidad Autónoma Metropolitana, Unidad Iztapalapa. Contacto: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), [Telegram](https://t.me/jzavalar).
-[^2]: Lectura leída el 11, 18 y 25 de noviembre de 2024.
 
-Ultima actualización: 22 de noviembre de 2024
+Ultima actualización: 22 de junio de 2025
