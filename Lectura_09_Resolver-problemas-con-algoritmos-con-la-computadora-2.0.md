@@ -312,7 +312,7 @@ Optimizar un código implica más que simplemente reducir líneas o hacer que se
    - *Por qué es importante*: Un código que cumple con estándares es más fácil de leer y entender, tanto para el autor como para otros desarrolladores.
 
 **5. Documentación Clara**
-   - *Tarea*: Incluir comentarios significativos y docstrings para explicar la lógica y el propósito de cada parte del código.
+   - *Tarea*: Incluir comentarios significativos  para explicar la lógica y el propósito de cada parte del código.
    - *Por qué es importante*: La documentación es esencial para facilitar la comprensión y el mantenimiento del programa a largo plazo.
 
 **6. Eficiencia y Escalabilidad**
@@ -323,9 +323,9 @@ Optimizar un código implica más que simplemente reducir líneas o hacer que se
    - *Tarea*: Diseñar el código de manera que sea fácil de modificar o ampliar con nuevas funcionalidades.
    - *Por qué es importante*: Los programas rara vez permanecen estáticos; una buena base permite adaptarse a nuevas necesidades.
 
-A continuación, muestro el ejemplo de un conjunto  de instrucciones, llamado **prompt**, claro y completo, para solicitar la optimización del script en Python, usando ChatGPT, que ustedes pueden copiar y probar:
+A continuación, muestro el ejemplo de un conjunto  de instrucciones, llamado **prompt**, claro y completo, para solicitar la optimización del script en Python, usando cualquier chatbot, que ustedes pueden copiar y probar:
 
-```markdown
+````markdown
 Optimiza el siguiente script en Python manteniendo su funcionalidad original pero mejorando su eficiencia, legibilidad y adaptabilidad. Asegúrate de:
 
 1. Usar las mejores prácticas de programación en Python (e.g., nombres descriptivos, estructura clara, PEP 8).
@@ -335,8 +335,7 @@ Optimiza el siguiente script en Python manteniendo su funcionalidad original per
 5. Documentar el código con comentarios significativos.
 6. Considerar posibles escenarios excepcionales y manejarlos adecuadamente.
 
-Aquí está el script original:
-```
+El script es el siguiente:
 
 ```python
 # es_par_o_impar_mejorado.v3.py
@@ -378,15 +377,12 @@ else:
 # Fin del algoritmo (No tiene equivalente directo en Python, solo se comenta)
 ```
 
-```markdown
 Por favor, devuelve el código optimizado acompañado de una explicación de los cambios realizados y cómo mejoran el script. 
-```
+````
 
 Este *prompt*, diseñado para obtener una versión mejorada del código con una justificación detallada de las optimizaciones aplicadas, generó la siguiente respuesta de ChatGPT:
 
 ```markdown
-Aquí tienes la versión optimizada del script, seguida de una explicación detallada de los cambios realizados:
-
 ### **Script Optimizado**
 ```
 
@@ -471,10 +467,6 @@ if __name__ == "__main__":
 
 7. **Flexibilidad y adaptabilidad**:
    - El diseño modular permite añadir fácilmente nuevas funcionalidades, como probar múltiples números en una sola ejecución o evaluar listas de números.
-
----
-
-Con esta optimización, el script es más claro, eficiente y fácil de mantener, mientras conserva la funcionalidad original.
 ```
 
 La metodología de programación esbozada proporciona un marco claro y efectivo para resolver problemas computacionales. Desde el planteamiento del problema hasta la optimización y documentación, cada paso es esencial para garantizar soluciones robustas y funcionales. Con herramientas modernas como la IA, este proceso se vuelve más accesible y eficiente, permitiendo concentrarse en lo más importante: resolver problemas y crear soluciones innovadoras.
