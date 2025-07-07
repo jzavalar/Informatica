@@ -44,10 +44,14 @@ Los sistemas operativos (SO) son el cimiento invisible que permite el funcionami
 
 ### **3. Arquitectura y Funciones Técnicas**  
 #### **3.1. Componentes Fundamentales**  
-![Arquitectura SO](diagrama-so.png) *Ejemplo de estructura modular*  
 - **Kernel**: Gesta recursos hardware (memoria, CPU).  
 - **Sistemas de archivos**: Organizan datos (NTFS, ext4).  
 - **Interfaces**: GUI para usuarios, CLI para administradores.  
+
+![SO modular](![image](https://github.com/user-attachments/assets/b46633fc-2cd6-4480-9352-8cfe9826c84b)
+) 
+
+![WindowsNT](https://commons.wikimedia.org/wiki/File:Windows_2000_architecture.svg) 
 
 #### **3.2. Cuatro Funciones Críticas**  
 1. **Gestión de procesos**: Asigna tiempo de CPU mediante planificadores.  
