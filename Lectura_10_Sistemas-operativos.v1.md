@@ -48,8 +48,7 @@ Los sistemas operativos (SO) son el cimiento invisible que permite el funcionami
 - **Sistemas de archivos**: Organizan datos (NTFS, ext4).  
 - **Interfaces**: GUI para usuarios, CLI para administradores.  
 
-![SO modular](https://ull-esit-sistemas-operativos.github.io/ssoo-apuntes/so2324/media/C08-estructura/estructura_linux.svg)
-) 
+![SO modular](https://ull-esit-sistemas-operativos.github.io/ssoo-apuntes/so2324/media/C08-estructura/estructura_linux.svg) 
 
 ![WindowsNT](https://commons.wikimedia.org/wiki/File:Windows_2000_architecture.svg) 
 
