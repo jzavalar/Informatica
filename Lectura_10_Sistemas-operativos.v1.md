@@ -40,6 +40,8 @@ Los sistemas operativos (SO) son el cimiento invisible que permite el funcionami
 - Contenedores ligeros (Docker, Kubernetes)  
 - Seguridad integrada (cifrado automático, MFA)  
 
+![Panorama de los SO](https://image.slidesharecdn.com/sistemasoperativosmapamental-131104064808-phpapp01/95/slide-2-1024.jpg)
+
 ### **3. Arquitectura y Funciones Técnicas**  
 #### **3.1. Componentes Fundamentales**  
 ![Arquitectura SO](diagrama-so.png) *Ejemplo de estructura modular*  
