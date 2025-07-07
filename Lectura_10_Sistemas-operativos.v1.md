@@ -54,7 +54,7 @@ Los sistemas operativos (SO) son el cimiento invisible que permite el funcionami
 4. **Redes**: Configura protocolos (TCP/IP) y firewalls.  
 
 #### **3.3. Modelos de Licenciamiento**  
-| **Parámetro**      | **Código Abierto (Ej: Linux)** | **Software Propietario (Ej: Windows)** |  
+| **Parámetro**      | **Código Abierto y Libre    ** | **Software Propietario (Ej: Windows)** |  
 |--------------------|--------------------------------|----------------------------------------|  
 | Costo              | Licencia gratuita              | Licencias pagadas                      |  
 | Personalización    | Ilimitada                      | Restringida                            |  
