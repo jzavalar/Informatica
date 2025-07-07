@@ -1,4 +1,8 @@
+## **Lectura 10. Sistemas Operativos: Panorama General, Principios y Aplicaciones**[^1]
 
+prof. dr. Jesús Zavala Ruiz[^2]
+
+---
 
 ### **1. Introducción: El Núcleo de la Tecnología Moderna**  
 Los sistemas operativos (SO) son el cimiento invisible que permite el funcionamiento de todos los dispositivos digitales. Actúan como intermediarios esenciales entre:  
@@ -103,3 +107,6 @@ title Prioridades de Desarrollo
 4. **Red Hat**. (2023). *Enterprise Linux Technical Documentation*.  
 5. **Microsoft**. (2023). *Windows Server Optimization Guide*.  
 
+--- 
+
+[^1]: Profesor-investigador del Departamento de Economía de la Universidad Autónoma Metropolitana, Unidad Iztapalapa. Contacto: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), [Telegram](https://t.me/jzavalar).
