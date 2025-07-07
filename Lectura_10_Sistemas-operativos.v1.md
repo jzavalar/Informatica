@@ -50,7 +50,7 @@ Los sistemas operativos (SO) son el cimiento invisible que permite el funcionami
 
 ![SO modular](https://ull-esit-sistemas-operativos.github.io/ssoo-apuntes/so2324/media/C08-estructura/estructura_linux.svg) 
 
-![WindowsNT](https://commons.wikimedia.org/wiki/File:Windows_2000_architecture.svg) 
+![WindowsNT](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Windows_2000_architecture.svg/1024px-Windows_2000_architecture.svg.png) 
 
 #### **3.2. Cuatro Funciones Críticas**  
 1. **Gestión de procesos**: Asigna tiempo de CPU mediante planificadores.  
