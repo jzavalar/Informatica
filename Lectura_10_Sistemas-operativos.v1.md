@@ -23,13 +23,13 @@ Los sistemas operativos (SO) son el cimiento invisible que permite el funcionami
 |--------|-----------------------|-----------------------------------------------|  
 | 1950s  | Mainframes (IBM/360)  | Gestión básica mediante tarjetas perforadas   |  
 | 1960s  | Multics               | Primer sistema de tiempo compartido           |  
-| 1970s  | Unix (Thompson & Ritchie) | Portabilidad mediante lenguaje C            |  
+| 1970s  | Unix (AT&T Bell Labs) | Portabilidad mediante lenguaje C              |  
 | 1980s-90s | Windows, macOS, Linux | Popularización en computación personal        |  
 
 #### **2.2. Tipología por Función**  
 | **Tipo**         | **Ejemplos**        | **Caso de Uso Empresarial**                |  
 |------------------|---------------------|--------------------------------------------|  
-| **Escritorio**   | Windows 11, Ubuntu  | Estaciones de trabajo administrativas      |  
+| **Escritorio**   | Windows 11, Fedora  | Estaciones de trabajo administrativas      |  
 | **Móvil**        | iOS, Android        | Dispositivos para fuerza laboral remota    |  
 | **Servidor**     | RHEL, Windows Server| Hosting de bases de datos corporativas     |  
 | **Nube**         | AWS Linux           | Escalamiento dinámico de aplicaciones      |  
