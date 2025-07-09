@@ -63,7 +63,7 @@ Los sistemas operativos (SO) son el cimiento invisible que permite el funcionami
 |--------------------|--------------------------------|----------------------------------------|  
 | Costo              | Licencia gratuita              | Licencias pagadas                      |  
 | Personalización    | Ilimitada                      | Restringida                            |  
-| Soporte            | Comunitaria / Empresarial      | Corporativo garantizado               |  
+| Soporte            | Comunitaria / Empresarial garantizado      | Corporativo garantizado               |  
 
 > *"La elección depende de necesidades específicas: flexibilidad técnica vs. soporte centralizado"* (Weber, 2022).  
 
