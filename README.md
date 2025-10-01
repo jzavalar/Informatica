@@ -6,8 +6,8 @@
 **Clave de la UEA:** 2211088
 **Trimestre:** 25 Primavera
 
-**Grupo:** HA09 **Horario:** Lunes y Miércoles de 14:00 a 16:00 hr **Salón:** Anexo del Edificio A, Sala K (AA-K).  
-**Grupo:** HA56 **Horario:** Lunes y Miércoles de 16:00 a 18:00 hr **Salón:** Anexo del Edificio A, Sala K (AA-K).  
+**Grupo:** HA10 **Horario:** Lunes y Miércoles de 14:00 a 16:00 hr **Salón:** Anexo del Edificio A, Sala J (AA-J).  
+**Grupo:** HA54 **Horario:** Lunes y Miércoles de 16:00 a 18:00 hr **Salón:** Anexo del Edificio A, Sala J (AA-J).  
 
 **Asesorías:**  *Martes* de 20:00 a 22:00 hr, vía [Telegram](https://telegram.org/apps), previa programación, a petición del alumno o asíncrona.
 
@@ -464,13 +464,13 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 | Asistencia puntual | 0% | Es su obligación estar en clases: pase de lista |
 | Tareas | 15% | Deben entregarse puntualmente, a más tardar el día que se trate el tema en clase |
 | Prácticas| 15% | Deben entregarse puntualmente, a más tardar el día que se trate el tema en clase |
-| Exámenes: | 70% |  |
+| Exámenes: | 70% | Si la mayoría del grupo no entrega tareas, ni prácticas el examen valdrá 100% |
 | Total | 100% | |
-* Para tener derecho a presentar sus exámenes, deberá asistir por lo menos el 80% de la asistencia.
+* Para tener derecho a presentar sus exámenes, deberá asistir por lo menos el 80% de la asistencia. 
 
 **Notas:
   - a). **Evaluación Global**: *Teórico-Práctico* (Unidades 1, 2 y 3).
-  - **Entrega de calificaciones:** Fecha: .
+  - **Entrega de calificaciones:** Semana 11.
 
 ##### Evaluación de Recuperación  
 La *evaluación de recuperación* será aplicada por el profesor sinodal, bajo los lineamientos de la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente, por lo que deberá ponerse en contacto con el Coordinador ([correo electrónico](mailto:coordinacion.uam.admon@gmail.com)) y/o con el profesor:
