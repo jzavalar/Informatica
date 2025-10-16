@@ -1,4 +1,4 @@
-## **Proyecto 3.2: Mi Primera App Algorítmica**  
+## **Proyecto 3.2: Mi Primera App**  
 **Entrega:**  
 - Partes 1 y 2: Semana 6  
 - Parte 3 (IA): Semana 6  
