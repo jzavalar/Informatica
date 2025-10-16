@@ -298,17 +298,37 @@ Allí encontrará instrucciones detalladas, recursos recomendados y orientacione
 
 4. Tareas y Prácticas  
 
-#### *Tarea 3.1. Conceptos básicos de software*. (Entrega: Semana 5).  
+#### Tarea 3.1: Conceptos básicos de software  
+**Entrega:** Semana 5
 
-Objetivos*: Aprender los conceptos básicos de software.
-    
-Parte 1*: Considere la siguiente lista de conceptos básicos de software: *bit*, *byte* y unidades derivadas (*Kilobyte* (*KB*), *Megabyte* (*MB*), *Gibabyte* (*GB*), *Terabyte* (*TB*), etc.), *dato*, *tipos de datos*, *dato numérico*, *dato alfanumérico* (*caracter* o *texto*), *archivo*, *sistemas numéricos*  e *información*. Luego, investigue la definición formal de los conceptos en alguno de los diccionarios especializados listados en la Bibliografía Obligatoria, citada más abajo. Haga el trabajo en su cuaderno.
+##### Objetivo  
+Aprender los conceptos fundamentales del software, los datos y la información, y distinguir entre *dato* e *información*.
 
-  Nota: Cite correctamente. Si lo copia tal cual, eso es una _cita textual_ y debe acotarse con par de comillas; si no, es una paráfrasis. En ambos casos debe registrar la referencia. Si tiene dudas cómo citar, consulte [esta referencia](https://digitum.um.es/digitum/bitstream/10201/117544/4/C%C3%B3mo%20citar%20y%20elaborar%20la%20bibliograf%C3%ADa%20de%20un%20trabajo%20acad%C3%A9mico.pdf).
+##### Actividades  
+1. **Investigación formal**:  
+   - Definir 10 conceptos clave (bit, byte, KB/MB/GB/TB, dato, tipos de datos, dato numérico, alfanumérico, archivo, sistemas numéricos, información) usando fuentes académicas.  
+   - Citar correctamente toda información (cita textual o paráfrasis).
 
-  *Parte 2*: Ahora, simplifique cada definición en una *frase corta*, con la mejor claridad posible para Usted. Para mayor claridad y entendimiento, acompañe la definición, mínimo con uno varios ejemplos para cada concepto. Ponga atención en aprender la diferencia entre *dato* e *información*. Quizás, ahora puede distinguir la diferencia entre informática y computación. Si no la entiende busque la respuesta en Internet o pregunte en el grupo. 
+2. **Simplificación y ejemplos**:  
+   - Reescribir cada definición en una frase clara.  
+   - Añadir al menos un ejemplo por concepto.  
+   - Reflexionar sobre la diferencia entre *dato* e *información*, y entre *informática* y *computación*.
 
-  **Entregable**: Haga un **guión** donde explique cada concepto de la lista de conceptos, según lo realizado en la Parte 2. Luego, realice un **video** tipo tutorial, donde exponga la lista de conceptos con sus ejemplos. Suba su video, al grupo de Telegram. NOTA: _El video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó._
+##### Entregable  
+- **Guión** con definiciones simplificadas y ejemplos.  
+- **Video tutorial** (3–5 min) explicando los conceptos.  
+- **Transcripción** del video (práctica de dominio del español).  
+- Todo se sube al **grupo de Telegram**.
+
+> Use diccionarios especializados o fuentes académicas. Evite copiar sin citar.
+
+##### Guía paso a paso
+
+Para mayor claridad y apoyo en la realización del proyecto, se recomienda consultar la **guía paso a paso completa** disponible en el siguiente enlace:  
+
+[Guía Paso a Paso de la Tarea_3.1_Conceptos Básicos de Software](Tarea_3.1_Conceptos-basicos-de-software.md) 
+
+Allí encontrará instrucciones detalladas, recursos recomendados y orientaciones específicas para cada parte del proyecto. ¡No dude en usarla como referencia durante su trabajo!
 
 - *Proyecto 3.2. Programación*. (Entrega: *Partes 1 y 2*: Semana 6; *Parte 3*: Semana 6).
 
