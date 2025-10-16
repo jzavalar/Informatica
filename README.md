@@ -164,7 +164,7 @@ Comprender los conceptos básicos del licenciamiento de software y distinguir en
 
 Para mayor claridad y apoyo en la realización del proyecto, se recomienda consultar la **guía paso a paso completa** disponible en el siguiente enlace:  
 
-[Tarea 2.2: Licenciamiento de software](/blob/main/Tarea_2.2_Licenciamiento-de-software.md) 
+[Tarea 2.2: Licenciamiento de software](Tarea_2.2_Licenciamiento-de-software.md) 
 
 Allí encontrará instrucciones detalladas, recursos recomendados y orientaciones específicas para cada parte del proyecto. ¡No dude en usarla como referencia durante su trabajo!
 
