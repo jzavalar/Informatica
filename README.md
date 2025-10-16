@@ -18,7 +18,7 @@
 - **Telegram:** <img src="https://github.com/jzavalar/Informatica/blob/main/images/telegram_logo.svg" alt="Telegram" width="3%"/> [jzavalar.t.me](https://jzavalar.t.me)
 
 
-### Introducción
+## Introducción
 
 Hoy en día, ante lo ubícuo de las computadoras, casi olvidamos que un día, hace más de medio siglo, las computadoras eran humanas y femeninas (Light, 1999). En aquellos tiempos se les llamaba *calculistas* o *calculadoras* y eran las más brillantes matemáticas de su tiempo y su trabajo era secreto. Así lo ilustró la película *Top Secret Rosies: The Female Computers of WWII*. Años después, en plena Guerra Fría, las máquinas computadoras o simplementa **computadoras** ya jugaban un papel primordial, tal como Theodore Melfi (2016) lo ilustró en la película *Talentos Ocultos* (*Hidden Figures*). Hoy tenemos computadoras en todos lados, hasta en la cocina en los componentes electrónicos inteligentes añadidos a los distintos aparatos como el refrigerador, la cafetera o el horno de microondas. Sin embargo, el principal uso de las computadoras sigue siendo militar, científico, gubernamental y para los negocios controlando vhíciulos, fábricas, la cadena de suministros, las ventas, hasta alcanzar todas las áreas productivas y administrativas. 
 
@@ -48,31 +48,33 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
    - UAM. Informática. [Programa vigente](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf).
    - UAM. (2024). [Calendario vigente](http://www.uam.mx/calendario/index.html).
 
+---
 
-### Objetivos
+## Objetivos
 
-#### Objetivo General:
+### Objetivo General:
 
 - Que al final del curso los alumnos sean capaces de conocer y aplicar los *fundamentos de la informática*.
 
-#### Objetivos Específicos:
+### Objetivos Específicos:
 
 - Que al finalizar el curso el alumno sea capaz, entre otras cosas, de:
 
   - Utilizar *programas de aplicación general* para el manejo de *datos numéricos* y de *bases de datos* con el propósito de emplearlos como apoyo a las actividades propias de la carrera de administración.
   - Expresar la comprensión de textos y comunicar sus ideas haciendo un uso adecuado de la lengua española.
 
+---
 
-### Contenido Sintético
+## Contenido Sintético
 
-#### Unidad 1. Introducción
+### Unidad 1. Introducción
 
 1. Breve historia de la computadora
 2. La computadora digital como máquina simbólica de propósito general
 3. De las ciencias de la computación al cómputo en la nube
 4. Tareas y prácticas:
 
-- *Tarea 1.1. La computadora y informática: Contexto histórico, evolución e importancia*. (Entrega: Semana 2).
+#### *Tarea 1.1. La computadora y informática: Contexto histórico, evolución e importancia*. (Entrega: Semana 2).
      
   *Objetivo*: Reflexionar sobre la computadora digital, la informática y las ciencias de la computación. 
   
@@ -90,7 +92,7 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
 
   NOTA: _El video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española. La transcripción debe corregirse aplicando las reglas gramaticales respectivas. Debe usarse un editor de textos con el control de cambios activado para que se muestren las correcciones. Ese archivo debe enviarse también al grupo, para que el profesor lo revise y pueda retroalimentar al alumno._
        
-- *Práctica 1.2. Mi computadora*. (Entrega: Semana 2).
+#### *Práctica 1.2. Mi computadora*. (Entrega: Semana 2).
      
   *Objetivo*: Conocer mi computadora.
   
@@ -104,78 +106,93 @@ El **enfoque pedagógico** de esta UEA es **teórico-práctico**. Por un lado, s
   
   **Entregable 2**: Haga un **guión** y luego realice un **video**, tipo tutorial, donde exponga, cómo realizó el informe y cuáles son sus argumentos y conlusiones, sobre las tres propuestas elaboradas. Suba sus tres propuestas y su video, al grupo de Telegram. _El video mensaje debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó._
   
-
-##### Bibliografía Obligatoria:
+#### Bibliografía Obligatoria:
 - Code.org (2018, Jan 30). [How computers work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-). *YouTube*. [6 videos].
 - O’Regan, G. (2021). What Is a Computer? In [*A brief history of computing*](https://libgen.st/book/index.php?md5=E7FC38F000E9DC68BB251E6C4D3FF660) (pp. 1-10). Switzerland: Springer Nature Switzerland AG.
 
-##### Bibliografía Complementaria:
+#### Bibliografía Complementaria:
 - INFORMATICONFIG (2022, Aug 30). [Curso completo de informática básica desde cero para principiantes 2022](https://www.youtube.com/watch?v=o_78Ue_EUeI&list=PL2Z95CSZ1N4HLqf215jj9ZJgmWIXm7gOo) (16 videos). _YouTube_.   
 - Rodríguez Parra, J. A. (2001). [*Aprende informática desde cero: Por fin podrás entenderte con tu ordenador*](https://libgen.st/book/index.php?md5=054DAEF64F0500CB2ECCC0C2EB72B1E3) (pp. 1-80). España.
 - Haigh, T., & Ceruzzi, P. E. (2021). Inventing the computer. In [*A new history of modern computing*](https://libgen.st/book/index.php?md5=FEC5EE9FBAB5F3C3E68371EC9025E694) (pp. 9-28). USA: The MIT Press. 
 - Haigh, T., Priestley, M., & Rope, C. (2016). [*ENIAC in action. Making and remaking the modern computer*](http://eniacinaction.com/). MIT Press. ([pdf](https://libgen.st/book/index.php?md5=F1ECADE396A9CB8BA191218B9BE22420)).
 - Use el navegador [Yandex](https://browser.yandex.ru/?lang=en) para acceder a la biblioteca fantasma [Library Genesis](https://libgen.st).
 
+---
 
-#### Unidad 2. Sistemas operativos
+### Unidad 2. Sistemas operativos
 1. Definición e historia
 2. Sistemas operativos libres y privativos
 3. Funciones principales
 4. Tareas y prácticas:
    
-- *Práctica 2.1. Particiones y sistemas de archivos*. (Entrega: Semana 3).
-
-  *Objetivo*: Aprender a preparar de dispositivos de almacenamiento para una computadora.
-
-  *Parte 1*. Investigue los conceptos involucrados: _partición_ (física y lógica, primaria, partición de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), _GPT_ y _MBR_ ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)), formatear un dispositivo de almacenamiento ([guía](https://www.youtube.com/watch?v=YshcHw9aIno)), _sistema de archivos_ ([guía](https://www.youtube.com/watch?v=ukzkZA73fkg)), archivo ([guía](https://www.youtube.com/watch?v=Ub7guhuy7_A)), _tipos de archivo_ (binario, texto, programa) ([guía](https://www.youtube.com/watch?v=LbopJOLgo5g)), cómo se guarda un archivo ([guía](https://www.youtube.com/watch?v=ProWo1W-4C0)) y las operaciones de manejo de archivos ([guía](https://www.youtube.com/watch?v=f2dmh_VkNgw)). Escriba en su cuaderno la investigación.
-
-Aterrice los conceptos investigando _qué unidades de almacenamiento_ tiene en su computadora y qué _sistema de particiones_ tiene y cuántas particiones. Luego, investigue qué _sistema de archivos_ tiene en cada partición de su computadora. Después, use un _navegador de archivos_ y busque los _tipos de archivos_ que tiene en los directorios (carpetas): `Documentos`, `Descargas`, `Musica`, `Videos` y en la ruta `C:\Windows\System32`. Registre en su cuaderno la investigación.
-
-  **Entregable 1**: Grabe, en un video, la pantalla de su equipo con las operaciones que va realizando y explique lo que está realizando, a modo de tutorial. Luego, súbalo al grupo de Telegram, junto con las fotografías de su cuaderno. Haga la práctica de dominio de la lengua española, tal como se ha indicado anteriormente.
-
-  *Parte 2*. Use una **USB sin datos** y practique los procesos de manejo de particiones (crear, agrandar y reducir de tamaño y eliminar particiones usando _Disk Management_ (guía: [Tnlgo. Carlos Palacios. (2022, Jul 20)](https://www.youtube.com/watch?v=eeVR9YQtFdY). Pruebe con los siguientes sistemas de archivos: FAT, exFAT, FAT32 y NTFS. La última operación que debe realizar es copiar un par de archivos a la partición NTFS y después debe borrarla. Saque sus conclusiones.
-
-  **Entregable 2**: Grabe, en un video, la pantalla de su equipo con las operaciones que va realizando y explique lo que está realizando, a modo de tutorial. Luego, súbalo al grupo de Telegram, junto con las fotografías de su cuaderno. Haga la práctica de dominio de la lengua española, tal como se ha indicado anteriormente.
-
-  *Parte 3*. Ponga a prueba sus conocimientos. *Recupere la partición NTFS y los archivos* eliminados en la Parte 2. Use *[TestDisk](https://www.cgsecurity.org/wiki/TestDisk_ES)*. Vea el ([tutorial en video](https://www.youtube.com/watch?v=w_JqR-9qcX8) o revise el [tutorial escrito](https://geekland.eu/recuperar-particiones-borradas-o-eliminadas-con-testdisk/)). 
-  
-  **Entregable 3**: Grabe, en un video, la pantalla de su equipo con las operaciones que va realizando y explique lo que está realizando, a modo de tutorial. Luego, súbalo al grupo de Telegram, junto con las fotografías de su cuaderno. Haga la práctica de dominio de la lengua española, tal como se ha indicado anteriormente.
-
-## 📌 Tarea 2.2: Licenciamiento de software  
+#### Práctica 2.1: Particiones y sistemas de archivos  
 **Entrega:** Semana 3
 
-### Objetivo  
+#### Objetivo  
+Aprender a identificar, gestionar y recuperar particiones y sistemas de archivos en dispositivos de almacenamiento.
+
+#### Actividades  
+1. **Investigación y análisis del sistema propio**:  
+   - Estudiar conceptos: particiones, MBR/GPT, sistemas de archivos, tipos de archivo.  
+   - Identificar en su computadora: esquema de particionado, particiones y sistemas de archivos.  
+   - Explorar tipos de archivos en carpetas clave (`Documentos`, `System32`, etc.).
+
+2. **Gestión de particiones en USB**:  
+   - Usar **Administración de discos** para crear, formatear (FAT32, exFAT, NTFS) y eliminar particiones.  
+   - Copiar y luego borrar archivos en una partición NTFS.
+
+3. **Recuperación con TestDisk**:  
+   - Recuperar la partición NTFS eliminada y sus archivos usando **TestDisk** y **PhotoRec**.
+
+#### Entregables  
+- **Tres videos tutoriales** (uno por parte), explicando en español lo que realiza.  
+- **Fotografías del cuaderno** con apuntes y conclusiones.  
+- Todo se sube al **grupo de Telegram** con transcripción (práctica de dominio del español).
+
+> Use una **USB sin datos importantes**. No opere sobre su disco duro principal sin supervisión.
+
+##### Guía paso a paso
+
+Para mayor claridad y apoyo en la realización del proyecto, se recomienda consultar la **guía paso a paso completa** disponible en el siguiente enlace:  
+
+[Guía de la Práctica_2.1_Particiones y Sistemas de Archivos](Practica_2.1_Particiones-y-sistemas-de-archivos.md) 
+
+Allí encontrará instrucciones detalladas, recursos recomendados y orientaciones específicas para cada parte del proyecto. ¡No dude en usarla como referencia durante su trabajo!
+
+#### Tarea 2.2: Licenciamiento de software  
+**Entrega:** Semana 3
+
+##### Objetivo  
 Comprender los conceptos básicos del licenciamiento de software y distinguir entre sus principales tipos.
 
-### Actividades  
+##### Actividades  
 1. **Investigar** 15 conceptos clave (propiedad intelectual, copyright, copyleft, software libre, privativo, GPL, etc.) usando fuentes académicas y videos recomendados.  
 2. **Simplificar** cada definición en una frase clara y acompañarla con al menos un ejemplo.  
 3. **Reflexionar** sobre las posturas de Bill Gates, Richard Stallman, Linus Torvalds y Eric S. Raymond respecto al software.  
 
-### Entregable  
+##### Entregable  
 - **Guión** con las definiciones simplificadas y ejemplos.  
 - **Video tutorial** (3–5 min) explicando los conceptos.  
 - **Transcripción** del video (práctica de dominio del español).  
 - Todo el material debe subirse al **grupo de Telegram**.
 
-> 📚 Fuentes obligatorias: Gómez Labrador (2005), videos de la UNAM, Stallman, FSF, entre otros. Cite correctamente toda información.
+> Fuentes obligatorias: Gómez Labrador (2005), videos de la UNAM, Stallman, FSF, entre otros. Cite correctamente toda información.
 
-### Guía paso a paso
+##### Guía paso a paso
 
 Para mayor claridad y apoyo en la realización del proyecto, se recomienda consultar la **guía paso a paso completa** disponible en el siguiente enlace:  
 
-[Tarea 2.2: Licenciamiento de software](Tarea_2.2_Licenciamiento-de-software.md) 
+[Guía Paso a Paso de la Tarea 2.2: Licenciamiento de software](Tarea_2.2_Licenciamiento-de-software.md) 
 
 Allí encontrará instrucciones detalladas, recursos recomendados y orientaciones específicas para cada parte del proyecto. ¡No dude en usarla como referencia durante su trabajo!
 
-
-## Proyecto 2.3: Instalación de sistemas operativos  
+#### Proyecto 2.3: Instalación de sistemas operativos  
 **Entrega:** Semana 3 (Partes 1–3) | Semana 4 (Completo)
 
-### Objetivo  
+##### Objetivo  
 Aprender a usar sistemas operativos desde una **Live USB** y en **máquinas virtuales**.
 
-### Partes del proyecto  
+##### Partes del proyecto  
 1. **Conceptos** – Investigar y comparar Windows, Linux, macOS y Android.  
    → *Entregable:* Video explicativo (3–5 min).  
 2. **Live USB** – Crear una unidad de arranque con **Balena Etcher** usando ISOs de **Fedora 43** o **Zorin OS 18** (y opcionalmente Windows 11 de evaluación).  
@@ -187,18 +204,18 @@ Aprender a usar sistemas operativos desde una **Live USB** y en **máquinas virt
 
 > Todos los videos deben subirse al grupo de Telegram y usar **español claro y técnico**.
 
-### Guía paso a paso
+##### Guía paso a paso
 
 Para mayor claridad y apoyo en la realización del proyecto, se recomienda consultar la **guía paso a paso completa** disponible en el siguiente enlace:  
 
-[Guía Proyecto 2.3: Instalación de sistemas operativos](https://github.com/jzavalar/Informatica/blob/main/Proyecto_2.3_Instalacion-de-sistems-operativos.md) 
+[Guía Paso a Paso del Proyecto 2.3: Instalación de Sistemas Operativos](Proyecto_2.3_Instalacion-de-sistems-operativos.md) 
 
 Allí encontrará instrucciones detalladas, recursos recomendados y orientaciones específicas para cada parte del proyecto. ¡No dude en usarla como referencia durante su trabajo!
  
-##### Bibliografía Obligatoria:
+#### Bibliografía Obligatoria:
 - Tnlgo. Carlos Palacios. (2022, Jul 20). [Crear particiones de disco duro en Windows 10/11: Aumentar o reducir el tamaño del disco duro C, D, E](https://www.youtube.com/watch?v=eeVR9YQtFdY). YouTube. [video] (8:38 min).
   
-##### Bibliografía Complementaria:
+#### Bibliografía Complementaria:
 - Canal del Congreso México. (2011, Jun 16). [Foro Software Libre en México: Inauguración. Conferencia de Richard Stallman](https://www.youtube.com/watch?v=XrZ0RhpYaLA). _YouTube_. [video] (51:10 min).
 - Dr. Beco. (2022, Jun 7). [The Code | Story of(Linux).documentary](https://www.youtube.com/watch?v=O1rCOSnuBEs). *YouTube*. (video) (58:53 min).
 - [ibiblio](https://www.ibiblio.org/). El mayor repositorio de colecciones de trabajos bajo el dominio público que incluye fotos, libros, clipart, revistas y música!
@@ -208,7 +225,7 @@ Allí encontrará instrucciones detalladas, recursos recomendados y orientacione
 - Wheeler, D. A. (2015). *[Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!](https://www.dwheeler.com/oss_fs_why.html)*. ([Versión al español](http://hispalinux.es/informes/wheeler/index.html) de 2001).
 - [Free data recovery, file and partition recovery, undelete and unformat utilities](https://www.thefreecountry.com/utilities/datarecovery.shtml)
 
-#### Unidad 3. Software   
+### Unidad 3. Software   
 1. Ontología del software  
    a. Elementos básicos: Datos e instrucciones (programas)  
    b. Los símbolos de la computadora: Bit y byte (y unidades derivadas) ([guía](https://www.calculadoras.uno/bit-byte/))
@@ -281,11 +298,11 @@ Allí encontrará instrucciones detalladas, recursos recomendados y orientacione
 
 4. Tareas y Prácticas  
 
-- *Tarea 3.1. Conceptos básicos de software*. (Entrega: Semana 5).  
+#### *Tarea 3.1. Conceptos básicos de software*. (Entrega: Semana 5).  
 
-  *Objetivos*: Aprender los conceptos básicos de software.
+Objetivos*: Aprender los conceptos básicos de software.
     
-  *Parte 1*: Considere la siguiente lista de conceptos básicos de software: *bit*, *byte* y unidades derivadas (*Kilobyte* (*KB*), *Megabyte* (*MB*), *Gibabyte* (*GB*), *Terabyte* (*TB*), etc.), *dato*, *tipos de datos*, *dato numérico*, *dato alfanumérico* (*caracter* o *texto*), *archivo*, *sistemas numéricos*  e *información*. Luego, investigue la definición formal de los conceptos en alguno de los diccionarios especializados listados en la Bibliografía Obligatoria, citada más abajo. Haga el trabajo en su cuaderno.
+Parte 1*: Considere la siguiente lista de conceptos básicos de software: *bit*, *byte* y unidades derivadas (*Kilobyte* (*KB*), *Megabyte* (*MB*), *Gibabyte* (*GB*), *Terabyte* (*TB*), etc.), *dato*, *tipos de datos*, *dato numérico*, *dato alfanumérico* (*caracter* o *texto*), *archivo*, *sistemas numéricos*  e *información*. Luego, investigue la definición formal de los conceptos en alguno de los diccionarios especializados listados en la Bibliografía Obligatoria, citada más abajo. Haga el trabajo en su cuaderno.
 
   Nota: Cite correctamente. Si lo copia tal cual, eso es una _cita textual_ y debe acotarse con par de comillas; si no, es una paráfrasis. En ambos casos debe registrar la referencia. Si tiene dudas cómo citar, consulte [esta referencia](https://digitum.um.es/digitum/bitstream/10201/117544/4/C%C3%B3mo%20citar%20y%20elaborar%20la%20bibliograf%C3%ADa%20de%20un%20trabajo%20acad%C3%A9mico.pdf).
 
