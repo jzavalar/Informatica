@@ -141,56 +141,60 @@ Aterrice los conceptos investigando _qué unidades de almacenamiento_ tiene en s
   
   **Entregable 3**: Grabe, en un video, la pantalla de su equipo con las operaciones que va realizando y explique lo que está realizando, a modo de tutorial. Luego, súbalo al grupo de Telegram, junto con las fotografías de su cuaderno. Haga la práctica de dominio de la lengua española, tal como se ha indicado anteriormente.
 
-- *Tarea 2.2. Licenciamiento de software*. (Entrega: Semana 3).
+## 📌 Tarea 2.2: Licenciamiento de software  
+**Entrega:** Semana 3
 
-  *Objetivo*: Comprender los conceptos básicos de licenciamiento de software.
+### Objetivo  
+Comprender los conceptos básicos del licenciamiento de software y distinguir entre sus principales tipos.
 
-  *Parte 1*: Considere la siguiente lista de conceptos básicos de *licenciamiento de software*: (1) propiedad intelectual (en el caso del software), (2) patente de software, (3) dominio público (public domain), (4) distribución de software, (5) shareware, (6) freeware, (7) copyright, (8) copyleft, (9) licenciamiento de software, (10) software privativo, (11) software abierto o software de código abierto (*open source software*), (12) software libre (free software), (13) licencia GPL, (14) la *Free Software Foundation* y (15) *Open Source Initiative*.
+### Actividades  
+1. **Investigar** 15 conceptos clave (propiedad intelectual, copyright, copyleft, software libre, privativo, GPL, etc.) usando fuentes académicas y videos recomendados.  
+2. **Simplificar** cada definición en una frase clara y acompañarla con al menos un ejemplo.  
+3. **Reflexionar** sobre las posturas de Bill Gates, Richard Stallman, Linus Torvalds y Eric S. Raymond respecto al software.  
 
-  Luego, investigue la definición formal de los conceptos elistados listados en la bibliografía citada más abajo. Haga el trabajo en su cuaderno. Se le sugiere considerar la siguiente bibliografía:
-  - Gómez Labrador, R. M. (2005). [Tipos de licencias de software](https://gc.scalahed.com/recursos/files/r161r/w24014w/LicenciasSoftware.pdf). [PDF].
-  - UNAM Sepacomputo canal. (2016, Feb 29). [Tipos de licencias de los programas](https://www.youtube.com/watch?v=F6yjAu92mPY&list=RDCMUCFaHjPtEWOO7RWyREEj094g&index=16)). _YouTube_. [video] (7:28 min).
-  - Hernández, L. (2012,  Nov 16). [El software libre y la educación - Richard Stallman](https://www.youtube.com/watch?v=aRvorE9PJso). *YouTube*. [video] (6:11 min).
-  - ObservatorioTecnologíaUNED. [Richard Stallman - Software privativo](https://www.youtube.com/watch?v=tkiG7cWZ2uc)). _YouTube_. (3:44 min).
-  - Espectro Canal UCR (2016, Nov 17). [Diferencia entre Open Source y Software Libre por Esteban Azofeifa](https://www.youtube.com/watch?v=zgfw2hlIOIA). *YouTube*. [video] (2:36 min).  
-  - DesarrolladorSoft. (2017, Oct 1). [¿Qué es un código abierto y cuáles son sus beneficios? (open source)](https://www.youtube.com/watch?v=KD7N6tyBKno). _YouTube_. [video] (15:17 min).
-  - Free Software Foundation. (2023). [Licencias]([https://www.gnu.org/licenses/license-recommendations.html](https://www-gnu-org.translate.goog/licenses/licenses.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)). Free Software Foundation.
-  
-  Nota: Cite correctamente. Si lo copia tal cual, eso es una _cita textual_ y debe acotarse con par de comillas; si no, es una paráfrasis. En ambos casos debe registrar la referencia. Si tiene dudas cómo citar, consulte [esta referencia](https://digitum.um.es/digitum/bitstream/10201/117544/4/C%C3%B3mo%20citar%20y%20elaborar%20la%20bibliograf%C3%ADa%20de%20un%20trabajo%20acad%C3%A9mico.pdf).
+### Entregable  
+- **Guión** con las definiciones simplificadas y ejemplos.  
+- **Video tutorial** (3–5 min) explicando los conceptos.  
+- **Transcripción** del video (práctica de dominio del español).  
+- Todo el material debe subirse al **grupo de Telegram**.
 
-  *Parte 2*: Ahora, simplifique cada definición en una *frase corta*, con la mejor claridad posible para Usted. Para mayor claridad y entendimiento, acompañe la definición, mínimo con uno varios ejemplos para cada concepto. Ponga atención en aprender la diferencia entre los *tipos de licenciamiento de software*. Reflexione sobre el software libre y abierto (FLOSS) como ideología y como negocio y sobre las principales aportaciones de tres personajes: [Bill Gates](https://es.wikipedia.org/wiki/Bill_Gates), [Richard M. Stallman](https://es.wikipedia.org/wiki/Richard_Stallman), [Linus Torvalds](https://es.wikipedia.org/wiki/Linus_Torvalds) y [Eric S. Raymond](https://es.wikipedia.org/wiki/Eric_S._Raymond). Si hay algo que no entienda busque la respuesta en Internet o pregunte en el grupo. 
+> 📚 Fuentes obligatorias: Gómez Labrador (2005), videos de la UNAM, Stallman, FSF, entre otros. Cite correctamente toda información.
 
-  **Entregable**: Haga un **guión** donde explique cada concepto de la lista de conceptos, según lo realizado en la Parte 2. Luego, realice un **video** tipo tutorial, donde exponga la lista de conceptos con sus ejemplos. Suba su video, al grupo de Telegram. El video debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó.
+### Guía paso a paso
 
-- *Proyecto 2.3. Instalación de sistemas operativos*. (Entrega: _Partes 1 a 3_: Semana 3; Completo: Semana 4).
+Para mayor claridad y apoyo en la realización del proyecto, se recomienda consultar la **guía paso a paso completa** disponible en el siguiente enlace:  
 
-  *Objetivo*: Aprender a usar sistemas operativos desde una Live USB y en máquinas virtuales.
+[Guía Proyecto 2.3: Instalación de sistemas operativos](https://github.com/jzavalar/Informatica/blob/main/Proyecto_2.3_Instalacion-de-sistems-operativos.md) 
 
-  *Parte 1. Conceptos*. Investigue qué es un _sistema operativo_, los _tipos de sistemas operativos_ y compárelos en términos de ventajas, desventajas, seguridad, usabilidad y robustez. Considere como ejemplo cuatro sistemas operativos: _Windows_, _Linux_, _MacOS_ y _Android_. Escríbalo en su cuaderno. Nuevamente, no olvide crear y registrar las citas y sus referencias. Considere la siguiente bibliografía:
-  - UNAM Sepacomputo canal. (2016, Feb 23). [Sistemas operativos](https://www.youtube.com/playlist?list=PLH9AYXxUslqocwqqiCz0oQY_oZJH-bF_p). _YouTube_. [3 videos] (4:11, 5:52 y 4:46 min).
-  
-  **Entregable 1**: Haga un video tipo tutorial donde explique (no lea) los conceptos lo que investigó de esta parte de la práctica. Súbalo al grupo de Telegram y haga la práctica de dominio del idioma español, tal como se ha indicado con anterioridad.
-  
-  *Parte 2. Crear la _Live USB_*. Para esta práctica requerirá una **USB sin datos**, de por lo menos 8 GiB. Investigue qué es una [*Live USB*](https://es.wikipedia.org/wiki/Live_USB), [*imagen ISO*](https://es.wikipedia.org/wiki/Imagen_ISO) y cómo se usa para instalar un sistema operativo desde la USB. 
+Allí encontrará instrucciones detalladas, recursos recomendados y orientaciones específicas para cada parte del proyecto. ¡No dude en usarla como referencia durante su trabajo!
 
-  Una Live USB permite arrancar o ejecutar un sistema operativo en vivo, desde la USB, sin tocar el sistema operativo de su computadora. Para preparar de manera apropiada la Live USB, se requieren dos cosas: (1) una aplicación para configurar la USB para que arranque y (2) la imagen ISO del sistema operativo que va a arrancar desde la USB. Una aplicación que puede usar es [**Ventoy**](https://www.ventoy.net/en/download.html)), misma que debe instalar al ejecutar el archivo `Ventoy2Disk.exe`. Si tiene dudas, revise el ([tutorial en video](https://www.youtube.com/watch?v=AZA42A4QmDs)) o la guía de instalación [aquí](https://github.com/ventoy/). Como Ventoy es un multiboot o [multiarranque](https://es.wikipedia.org/wiki/Multiarranque), una vez preparada la USB, sólo debe copiar el o los archivos ISO a la raíz de la USB y listo!
 
-  La imagen ISO de un sistema operativo, en general se puede obtener a través de una [red P2P](https://es.wikipedia.org/wiki/Peer-to-peer) como [BitTorrent](https://es.wikipedia.org/wiki/BitTorrent) o directamente del proveedor del sistema operativo. En el primer caso, _previamente_ se debe instalar una aplicación como [qBitTorrent](https://www.qbittorrent.org/download) para descargar el _torrent de la imagen ISO_. Los torrents se encuentran en sitios como [The Pirate Bay](https://thepiratebay.org/). Por ejemplo, si se quiere obtener una imagen ISO sel sistema operativo **Windows 7**, debe buscarla usando la frase "Windows 7 Ultimate Spanish". En la lista de torrents, identifique la entrada que tiene más semillas (_seeds_) y descárguela con su aplicación. Vea el siguiente [tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)) para que vea cómo se hace. Una vez elegido, en unos minutos tendrá la imagen ISO. Otra alternativa es utilizar el repositorio de Archive Internet, por ejemplo, para obtener una copia de Windows 11, busque [aquí](https://archive.org/details/software?tab=collection&query=windows+11+ltsc+enterprise+spanish) o pruebe [Windows 11 Lite](https://archive.org/details/win-11x-64-lite). En el segundo caso, hay que ir al sitio web del proveedor y decargar el archivo ISO del sistema operativo que se va a instalar. Por ejemplo, si requiere **Windows 11**, descargue una copia de prueba, directamente desde el sitio web de [Microsoft](https://www.microsoft.com/en-in/software-download/windows11) o, si necesita **Linux Fedora Workstation**, vaya al sitio de descarga [https://getfedora.org/es/](https://getfedora.org/es/). Vea la ([guía](https://www.youtube.com/watch?v=gbqv0AkqsXw)), si es necesario.
+## Proyecto 2.3: Instalación de sistemas operativos  
+**Entrega:** Semana 3 (Partes 1–3) | Semana 4 (Completo)
 
-  **Entregable 2**: Haga un video tipo tutorial donde muestre que realizó la práctica (no sólo lea) de esta parte del proyecto. Súbalo al grupo de Telegram y haga la práctica de dominio del idioma español, tal como se ha indicado con anterioridad.
-    
-  *Parte 3. Arranque del sistema operativo desde la Live USB*. Investigue los conceptos involucrados: _bootear_ o _arrancar_ un equipo ([guía](https://www.youtube.com/watch?v=O2S7YyKb5LI)), _BIOS_ ([guía](https://www.youtube.com/watch?v=HD9qXyvIzOc)), _UEFI_ ([guía](https://www.youtube.com/watch?v=X3Cx6wm6PtY)), _partición_ (física y lógica, de arranque) ([guía](https://www.youtube.com/watch?v=2Dgad-1nSk0)), _GPT_ y _MBR_ ([guía](https://www.youtube.com/watch?v=I8jFHTE9OkA)). Identifique qué sistema de arranque tiene en su computadora (BIOS o UEFI) y qué sistema de particiones tiene (GPT o MBR). Investigue cómo puede acceder a la configuración del BIOS de su computadora ([guía](https://www.linkedin.com/advice/0/how-do-you-access-bios-setup-different)) y configure la secuencia de booteo para que pueda arrancar su Live USB; por ejemplo, en una laptop [Lenovo ThinkPad](https://www.youtube.com/watch?v=Fa4QRW5i7kQ). 
-  
-  Pruebe que puede *arrancar* (o *bootear*) la _Live USB_ los dos sistemas operativos que tiene en su USB: 
-  - [Windows 7](https://thepiratebay.org/search.php?q=windows+7+untouched&apps=on&search=Pirate+Search&page=0&orderby=)
-  - [Fedora Workstation 39](https://getfedora.org/es/workstation/).
-    
-  **Entregable 3**: Haga un video tipo tutorial donde muestre que realizó la práctica (no sólo lea) de esta parte del proyecto. Súbalo al grupo de Telegram y haga la práctica de dominio del idioma español, tal como se ha indicado con anterioridad.
-  
-  *Parte 4. Virtualización*. Investigue qué es la _virtualización_, una _máquina virtual_ y cómo se instala un sistema operativo en una máquina virtual usando VirtualBox ([Video 1](https://www.youtube.com/watch?v=9-ZGT6T65VA)). Instale [VirtualBox]([https://www.virtualbox.org/](https://www.virtualbox.org/wiki/Downloads)) en su computadora. Luego, descargue el [*VirtualBox Extension Pack.x*](https://download.virtualbox.org/virtualbox/7.0.12/Oracle_VM_VirtualBox_Extension_Pack-7.0.12.vbox-extpack) e instálelo. Después, instale los dos sistemas operativos Windows 7 y Fedora Workstation 39 que tiene en su Live USB.
+### Objetivo  
+Aprender a usar sistemas operativos desde una **Live USB** y en **máquinas virtuales**.
 
-  **Entregable 4**: Haga un video tipo tutorial donde muestre que realizó la práctica (no sólo lea) de esta parte del proyecto. Súbalo al grupo de Telegram y haga la práctica de dominio del idioma español, tal como se ha indicado con anterioridad.
+### Partes del proyecto  
+1. **Conceptos** – Investigar y comparar Windows, Linux, macOS y Android.  
+   → *Entregable:* Video explicativo (3–5 min).  
+2. **Live USB** – Crear una unidad de arranque con **Balena Etcher** usando ISOs de **Fedora 43** o **Zorin OS 18** (y opcionalmente Windows 11 de evaluación).  
+   → *Entregable:* Video del proceso de creación.  
+3. **Arranque físico** – Iniciar la computadora desde la Live USB y probar el sistema en modo “Live”.  
+   → *Entregable:* Video del arranque y escritorio funcionando.  
+4. **Virtualización** – Instalar los mismos sistemas en **VirtualBox**.  
+   → *Entregable:* Video de las máquinas virtuales en ejecución.
 
+> Todos los videos deben subirse al grupo de Telegram y usar **español claro y técnico**.
+
+### Guía paso a paso
+
+Para mayor claridad y apoyo en la realización del proyecto, se recomienda consultar la **guía paso a paso completa** disponible en el siguiente enlace:  
+
+[Guía Proyecto 2.3: Instalación de sistemas operativos](https://github.com/jzavalar/Informatica/blob/main/Proyecto_2.3_Instalacion-de-sistems-operativos.md) 
+
+Allí encontrará instrucciones detalladas, recursos recomendados y orientaciones específicas para cada parte del proyecto. ¡No dude en usarla como referencia durante su trabajo!
+ 
 ##### Bibliografía Obligatoria:
 - Tnlgo. Carlos Palacios. (2022, Jul 20). [Crear particiones de disco duro en Windows 10/11: Aumentar o reducir el tamaño del disco duro C, D, E](https://www.youtube.com/watch?v=eeVR9YQtFdY). YouTube. [video] (8:38 min).
   
