@@ -330,38 +330,35 @@ Para mayor claridad y apoyo en la realización del proyecto, se recomienda consu
 
 Allí encontrará instrucciones detalladas, recursos recomendados y orientaciones específicas para cada parte del proyecto. ¡No dude en usarla como referencia durante su trabajo!
 
-- *Proyecto 3.2. Programación*. (Entrega: *Partes 1 y 2*: Semana 6; *Parte 3*: Semana 6).
+#### 📌 Proyecto 3.2: Mi Primera App Algorítmica  
+**Entrega:** Semana 6
 
-  *Objetivo*: Comprender y poner en práctica los conceptos de programación.
-    
-  *Parte 1: PSeInt*. Instale la aplicación [PseInt](http://pseint.sourceforge.net/) en su equipo o utilice [PSeInt Portable](https://sourceforge.net/projects/pseint/files/20210609/pseint-w32-20210609.zip/download?use_mirror=gigenet&download=) en una USB, para que la pueda usar en el salón.
-  
-  *Parte 2: Pseudocódigo*. Estudie la gramática del pseudocódigo como lenguaje de programación en los [Apuntes sobre Programación de Computadoras en Pseudocódigo](https://github.com/jzavalar/Informatica/blob/main/Programacion-en-pseudocodigo.md).
-     
-  Considere que **aprender a programar** es básico para usar bien cualquier aplicación, tales como una hoja de cálculo, un editor de textos o un manejador de bases de datos, ya que *usar software es dar instrucciones a la computadora*. Aprender programación requiere practicar pues, sin práctica, no hay aprendizaje. Así que ponga a prueba sus conocimientos.
+##### Objetivo  
+Diseñar y programar una aplicación funcional que resuelva un problema cotidiano, usando pseudocódigo (PSeInt), lenguaje R y reflexionando críticamente sobre el uso de inteligencia artificial en el aprendizaje algorítmico.
 
-  Primero, descargue los apuntes de [Rodríguez (s.f.)](https://docs.google.com/document/d/1Uc9Cfld53Guia5ErtmGCnByUttV_3Jc-/edit?usp=sharing&ouid=108201401516590627031&rtpof=true&sd=true). Configure PseInt con el perfil "UNAM FCA".
+##### Actividades  
+1. **Pseudocódigo**: Desarrollar dos algoritmos asignados (según número de lista) en PSeInt con perfil “UNAM FCA”.  
+2. **Implementación en R**: Traducir los algoritmos a R usando Posit Cloud y documentarlos en un archivo RMarkdown.  
+3. **Programar con IA**: Comparar su solución con una generada por IA y reflexionar sobre sus ventajas, límites y riesgos éticos.
 
-  Segundo, identifique su número de lista y realice en PSeInt, los ejercicios que le toquen de la siguiente relación:
-    
-  **Entregable**: **POR DEFINIR** *Número de Lista*:(Ejercicios): **1**:(35,19), **2**:(46,36), **3**:(33,47), **4**:(46,44), **5**:(37,36), **6**:(43,22), **7**:(47,15), **8**:(39,45), **9**:(23,39), **10**:(20,18), **11**:(13,31), **12**:(13,24), **13**:(13,27), **14**:(20,14), **15**:(31,27), **16**:(30,39), **17**:(30,34), **18**:(12,22), **19**:(10,29), **20**:(36,25), **21**:(11,38), **22**:(23,33), **23**:(41,36), **24**:(10,45), **25**:(12,36).
-     
-  Cada ejercicio debe crearse en un archivo con el nombre del número de algoritmo y el título del algorimo. Por ejemplo, para el primer algoritmo llamado "Promedio", le correpondería el nombre de *01. Promedio.psc*. Cuando sea necesario, corrija el algoritmo para que los cálculos se realizcen de manera correcta y genere la salida respectiva. Incluya las modificaciones para que el algoritmo se ejecute de manera iterativa y termine de manera elegante. Incluya los comentarios respectivos en cada parte y los datos para identificarlo a usted como autor de las modificaciones y al autor, con la referencia bibliográfica original. Por último, pruebe que los algoritmos son correctos.
-     
-  Guarde el pseudocódigo del algoritmo (en formato *psc*) y el diagrama de flujo (como imagen) y suba sus archivos al grupo de Telegram.
+##### Entregables  
+- Videos tutoriales explicando cada algoritmo (el primero debe transcribirse).  
+- Archivos `.psc`, diagramas de flujo, scripts `.R` y archivo `.Rmd`.  
+- Video corto de reflexión sobre el uso de IA.  
+- Todo se sube al **grupo de Telegram**.
 
-  **Entregable**: Haga un **video** tipo tutorial, uno por cada ejercicio que le tocó, donde enseñe cómo realizarlo. Suba, al grupo de Telegram, primero su video y luego el archivo generado, cada vez que termine un ejercicio. Continue con el siguiente. El _primer video_ debe transcribirse para hacer la práctica de dominio de la lengua española, tal como ya se explicó.
-  
-  *Parte 3: De pseudocódigo a R*. Pruebe sus conocimientos implantando los algoritmos que codificó en PseInt, usando un archivo RMarkdown, exponiendo en primer lugar el pseudocódigo y luego el código en R. Convierta el código PSeInt a R, línea por línea, en un script en R y guárdelo con el mismo nombre del número del algoritmo, por ejemplo, *Algoritmo_10.R*).
-  
-  Cree su cuenta en [RStudio en la nube](https://posit.cloud). Cree un proyecto llamado *Informatica*. Aprenda lo básico de la ejecución de código R en un [*script*](https://www.youtube.com/watch?v=ejQ0BS2gVJI).
+> Materiales: Apuntes de pseudocódigo, documento de Rodríguez (s.f.), perfil UNAM FCA, Posit Cloud.
 
-  Tome como base el tutorial [Programacion-en-Pseudocodigo.Rmd](https://github.com/jzavalar/2211088-informatica/blob/main/Programacion-en-Pseudocodigo.Rmd) e identifique las instrucciones equivalentes en R.
-  
-  Haga un video de cada parte y entréguelo en el grupo de Telegram, a más tardar en la fecha de entrega.  
+##### Guía paso a paso
+
+Para mayor claridad y apoyo en la realización del proyecto, se recomienda consultar la **guía paso a paso completa** disponible en el siguiente enlace:  
+
+[Guía Paso a Paso del Proyecto_3.2_Mi Primera App](Proyecto_3.2_Mi-Primera-app.md) 
+
+Allí encontrará instrucciones detalladas, recursos recomendados y orientaciones específicas para cada parte del proyecto. ¡No dude en usarla como referencia durante su trabajo!
 
 ##### Bibliografía Obligatoriaria:
-- Zavala, J. (2023). [Apuntes sobre Programación de Computadoras en Pseudocódigo](https://github.com/jzavalar/Informatica/blob/main/Programacion-en-pseudocodigo.md)
+- Zavala, J. (2023). [Apuntes sobre Programación de Computadoras en Pseudocódigo](Programacion-en-pseudocodigo.md)
 - Calculadoras.uno. (2023). [Capacidad de almacenamiento](https://www.calculadoras.uno/bit-byte/). Calculadoras.uno. 
 - Calculadoras.uno. (2023). [Bases numéricas](https://www.calculadoras.uno/binario-decimal/). Calculadoras.uno. 
 
