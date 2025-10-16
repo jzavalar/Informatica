@@ -135,6 +135,77 @@ if (total_creditos > 0) {
 
 ---
 
+### **Lista de problemas para principiantes**
+
+A continuación, se presenta una **lista de problemas prácticos y accesibles para principiantes**, diseñados específicamente para el enfoque de este proyecto, que combina pseudocódigo, programación en R y reflexión crítica con IA. Estos problemas son:
+
+- **Reales y cotidianos** (fáciles de entender y motivadores).  
+- **Técnicamente adecuados** para estudiantes sin experiencia previa en programación.  
+- **Escalables**: permiten incluir estructuras secuenciales, condicionales e iterativas.  
+- **Compatibles** con los ejercicios del documento de Rodríguez (s.f.) y con el perfil “UNAM FCA” de PSeInt.
+
+La lista de problemas es la siguiente:
+
+1. **Calculadora de promedio simple o ponderado**  
+   *Ingresar calificaciones y créditos, validar rangos, calcular promedio.*
+
+2. **Conversor de unidades básicas**  
+   *Ej.: Celsius ↔ Fahrenheit, kilómetros ↔ millas, pesos ↔ dólares (con tipo de cambio fijo).*
+
+3. **Planificador de gastos semanales**  
+   *Registrar ingresos y gastos diarios, mostrar saldo y alertar si se excede el presupuesto.*
+
+4. **Generador de contraseñas seguras**  
+   *Pedir longitud, incluir letras, números y símbolos; mostrar una contraseña aleatoria.*
+
+5. **Juego de adivinación de números**  
+   *La computadora elige un número entre 1 y 100; el usuario intenta adivinarlo con pistas (“muy alto”, “muy bajo”).*
+
+6. **Calculadora de IMC (Índice de Masa Corporal)**  
+   *Pedir peso y estatura, calcular IMC, mostrar categoría (bajo peso, normal, sobrepeso, etc.).*
+
+7. **Contador de palabras o caracteres en un texto**  
+   *El usuario escribe una frase; el programa cuenta palabras, letras o vocales.*
+
+8. **Simulador de ahorro para una meta**  
+   *Pedir meta (ej. $5000), ahorro mensual, mostrar cuántos meses se necesitan.*
+
+9. **Menú interactivo de opciones**  
+   *Mostrar un menú con 3–4 funciones (ej. calculadora, conversor, juego) y permitir elegir una.*
+
+10. **Validador de correos electrónicos simples**  
+    *Verificar si la entrada contiene “@” y “.”; dar retroalimentación básica (no requiere expresiones regulares).*
+
+11. **Calculadora de descuento en compras**  
+    *Ingresar precio y porcentaje de descuento; mostrar precio final.*
+
+12. **Registro de hábitos diarios**  
+    *Preguntar si realizó una actividad (ej. “¿Hiciste ejercicio hoy?”), contar días seguidos.*
+
+13. **Conversor de tiempo (segundos ↔ horas:minutos:segundos)**  
+    *Entrada en segundos → salida legible; o viceversa.*
+
+14. **Calculadora de propina**  
+    *Ingresar monto de la cuenta y porcentaje de propina; mostrar total a pagar.*
+
+15. **Clasificador de triángulos**  
+    *Ingresar tres lados; determinar si es equilátero, isósceles o escaleno (y si es válido).*
+
+### **Recomendaciones para el estudiante:**
+
+- Elige un problema que te interese o que resuelva algo de tu vida diaria.  
+- Si ya tienes asignados ejercicios por número de lista, puedes usar uno de ellos **o** proponer uno de esta lista (previa validación con tu profesor).  
+- Asegúrate de incluir:  
+  - **Entrada de datos**  
+  - **Validación básica** (evitar valores negativos, fuera de rango, etc.)  
+  - **Al menos un ciclo** (`Mientras`, `Repetir` o `Para`)  
+  - **Al menos una condición** (`Si...Entonces...Sino`)  
+  - **Salida clara y amigable**
+
+Estos problemas preparan al estudiante no solo para dominar la lógica algorítmica, sino también para pensar como creador de soluciones digitales reales.
+
+---
+
 ### **¿Por qué este proyecto es más interesante?**
 
 - **Relevancia personal**: resuelves problemas reales (estudio, finanzas, salud).  
