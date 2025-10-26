@@ -1,5 +1,4 @@
 ## Guía Rápida APA 7 para Principiantes
-prof. dr. Jesús Zavala Ruiz
 
 ### I. Formato de Página
 
