@@ -32,14 +32,14 @@ Esta guía presenta una **metodología sistemática** para analizar documentos d
 
 ```
 ┌─────────────┐      ┌──────────────┐      ┌──────────────┐
-│  REALIDAD   │  →   │    DATOS     │  →   │  VALIDACIÓN  │
+│  REALIDAD   │      │    DATOS     │      │  VALIDACIÓN  │
 │             │      │              │      │              │
-│ Fenómeno    │      │ Codificación │      │ Documento    │
+│ Fenómeno    │  →   │ Codificación │  →   │ Documento    │
 │ físico o    │      │ digital en   │      │ final que    │
 │ proceso     │      │ base de      │      │ cumple el    │
 │ real        │      │ datos        │      │ objetivo     │
 └─────────────┘      └──────────────┘      └──────────────┘
-```
+``` 
 
 ---
 
