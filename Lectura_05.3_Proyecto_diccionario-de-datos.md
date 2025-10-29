@@ -6,7 +6,7 @@
 **Basado en:** Lectura 05 - Estudio de Caso del Recibo de Luz CFE
 **Fecha:** Octubre de 2025
 
-*"La digitalización comienza con entender profundamente la realidad que queremos representar. Un buen análisis de datos es el fundamento de cualquier sistema exitoso."*
+*"La digitalización comienza con entender profundamente la realidad que queremos representar. Un buen análisis de datos es el fundamento de cualquier sistema de cómputo exitoso."*
 
 ---
 
