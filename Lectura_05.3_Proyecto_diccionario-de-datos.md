@@ -6,6 +6,8 @@
 **Basado en:** Lectura 05 - Estudio de Caso del Recibo de Luz CFE
 **Fecha:** Octubre de 2025
 
+*"La digitalización comienza con entender profundamente la realidad que queremos representar. Un buen análisis de datos es el fundamento de cualquier sistema exitoso."*
+
 ---
 
 ## OBJETIVOS DE APRENDIZAJE
@@ -19,16 +21,6 @@ Al completar esta metodología, serás capaz de:
 ✅ Validar la completitud de un análisis  
 ✅ Documentar tu trabajo técnicamente  
 ✅ Pensar como un analista de sistemas y participar en proyectos de automatización de procesos  
-
----
-
-**¡ÉXITO EN TU ANÁLISIS!** 🚀
-
-*"La digitalización comienza con entender profundamente la realidad que queremos representar. Un buen análisis de datos es el fundamento de cualquier sistema exitoso."*
-
-**Versión:** 2.0 - Metodología de Análisis  
-**Fecha:** 2025
-
 
 ---
 
