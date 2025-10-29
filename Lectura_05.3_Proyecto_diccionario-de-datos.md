@@ -8,6 +8,30 @@
 
 ---
 
+## OBJETIVOS DE APRENDIZAJE
+
+Al completar esta metodología, serás capaz de:
+
+✅ Analizar sistemáticamente documentos administrativos  
+✅ Identificar y clasificar tipos de datos correctamente  
+✅ Crear diccionarios de datos profesionales   
+✅ Reconocer estructuras de datos en contextos reales  
+✅ Validar la completitud de un análisis  
+✅ Documentar tu trabajo técnicamente  
+✅ Pensar como un analista de sistemas y participar en proyectos de automatización de procesos  
+
+---
+
+**¡ÉXITO EN TU ANÁLISIS!** 🚀
+
+*"La digitalización comienza con entender profundamente la realidad que queremos representar. Un buen análisis de datos es el fundamento de cualquier sistema exitoso."*
+
+**Versión:** 2.0 - Metodología de Análisis  
+**Fecha:** 2025
+
+
+---
+
 ## Introducción
 
 Esta guía presenta una **metodología sistemática** para analizar documentos del mundo real y transformarlos en estructuras de datos digitales. Aprenderás un proceso profesional aplicable a cualquier documento administrativo, comercial o de servicios.
@@ -27,7 +51,7 @@ Esta guía presenta una **metodología sistemática** para analizar documentos d
 
 ---
 
-## METODOLOGÍA: LAS 7 ETAPAS DEL ANÁLISIS
+## METODOLOGÍA: LAS 7 ETAPAS DEL ANÁLISIS DE DATOS
 
 ### ETAPA 1: Comprender el Contexto del Negocio
 
@@ -52,7 +76,7 @@ Toda digitalización parte de una **realidad física o proceso** que necesita se
 - **Necesidad legal:** Documentar el consumo de forma transparente
 - **Necesidad financiera:** Generar ingresos para sostener el servicio
 
-#### 1.3 Identificar los Actores Involucrados
+#### 1.3 Identificar los Actores, Entidades u Objetos Involucrados
 
 **¿Quiénes participan en este proceso?**
 
@@ -213,7 +237,7 @@ Sección 3: _______________________________________
 
 #### 3.1 Método de Barrido Sistemático
 
-**Proceso:** Recorre el documento sección por sección, de izquierda a derecha, de arriba hacia abajo.
+**Proceso:** Recorre el documento sección por sección, de izquierda a derecha, de arriba hacia abajo.  
 
 **Regla de oro:** 
 > **NO omitas ningún dato**, por insignificante que parezca. Todo lo que está en el documento tiene una razón de existir.
@@ -302,7 +326,7 @@ Al finalizar el barrido, cuenta:
 
 ** EJERCICIO PARA TI:**
 
-Realiza el barrido completo de tu documento:
+Realiza el barrido completo de tu documento utilizando una fotocopia del documento para el análisis:
 
 ```
 LISTA DE CONCEPTOS EXTRAÍDOS
@@ -331,6 +355,8 @@ Total de conceptos identificados: _______
 ### ETAPA 4: Clasificación de Datos
 
 #### 4.1 Los 5 Tipos Fundamentales de Datos
+
+Es el uso computacional el que determina la naturaleza de un tipo de dato y no necesariamente su representación. 
 
 Cada concepto debe clasificarse en UNO de estos tipos:
 
@@ -363,7 +389,7 @@ tipo_usuario = "Doméstico"
 ```
 INCORRECTO:
    num_servicio = Numérico
-   (Aunque solo tiene números, es un ID, no se suma)
+   (Aunque solo tiene números, es un ID, no se realizan operaciones matemáticas)
 
 CORRECTO:
    num_servicio = Alfanumérico
@@ -404,7 +430,7 @@ multiplicador = 1
 **Definición:** Números con parte fraccionaria.
 
 **Características:**
-- Permite decimales (.25, .50, .99)
+- Permite decimales (.25, .50, .99). Por ejemplo, 1.0 (real) es distinto de 1 (entero).
 - Mayor precisión
 - Esencial para dinero
 
@@ -435,7 +461,7 @@ costo_suministro = 16.69
 
 ##### **TIPO 3: FECHA**
 
-**Definición:** Representa un momento específico en el tiempo.
+**Definición:** Representa un momento específico en el tiempo. Es un tipo de dato especial.
 
 **Características internas:**
 - Se almacena como número (días desde referencia)
@@ -495,7 +521,7 @@ Sí / No
 **Características:**
 - Respuesta binaria
 - Ocupa mínimo espacio (1 bit)
-- Ideal para condiciones y flags
+- Ideal para estados, condiciones y flags (banderas)
 
 **Cuándo usar:**
 - Estados de activación (activo/inactivo)
@@ -743,6 +769,8 @@ NO ÚNICOS (No):
 
 *Continuaría con los 20+ conceptos restantes...*
 
+Ejemplo de la vida real: [Diccionario de datos del Censo Nacional de Población y Vivienda 2020 del INEGI](https://www.inegi.org.mx/rnm/index.php/catalog/632/data-dictionary).
+
 #### 5.6 Validación del Diccionario
 
 **Checklist de calidad:**
@@ -791,7 +819,7 @@ Al terminar, responde:
 - **Dato simple** = Una caja con un objeto
 - **Estructura** = Un estante organizado con muchas cajas relacionadas
 
-#### 6.2 Las 5 Estructuras Fundamentales
+#### 6.2 Las 5 Estructuras de Datos Fundamentales
 
 ##### **ESTRUCTURA 1: REGISTRO (Record/Struct)**
 
@@ -799,7 +827,7 @@ Al terminar, responde:
 Agrupa datos relacionados de UNA MISMA entidad.
 
 **Características:**
-- Campos de diferentes tipos
+- Campos o variables de diferentes tipos
 - Describe completamente a un objeto/persona/cosa
 - Forma una "fila" en una tabla
 
@@ -846,9 +874,10 @@ Colección ordenada de elementos del MISMO TIPO.
 
 **Características:**
 - Tamaño fijo o dinámico
-- Acceso por índice [0], [1], [2]...
+- Acceso por índice [0], [1], [2]... (puede comenzar en 0 o en 1)
 - Todos los elementos son del mismo tipo
 - Orden importa
+- Forma una "columna" en una tabla
 
 **Cuándo usar:**
 - Histórico de 12 meses
@@ -884,13 +913,13 @@ Consumo_Mensual[12]:
 ##### **ESTRUCTURA 3: TABLA (Relacional)**
 
 **Definición:**
-Conjunto de registros organizados en filas y columnas.
+Conjunto de registros organizados en filas y columnas. Se le conoce como una organización estructurada.
 
 **Características:**
 - Filas = Registros completos
 - Columnas = Campos/Atributos
 - Relaciones mediante llaves
-- Base de datos relacional
+- Es la estructura fundamental de la base de datos relacional
 
 **Cuándo usar:**
 - Almacenar muchos clientes
@@ -964,7 +993,7 @@ Cliente con adeudos → 6 elementos
 Cliente con bonificación → 7 elementos
 ```
 
-##### **ESTRUCTURA 5: DICCIONARIO (Map/Hash)**
+##### **ESTRUCTURA 5: DICCIONARIO o CLAVE-VALOR (Map/Hash)**
 
 **Definición:**
 Pares clave-valor donde cada clave es única.
@@ -1078,7 +1107,7 @@ ANÁLISIS DE ESTRUCTURAS
 Verificar que los datos identificados son suficientes y correctos para regenerar el documento.
 
 **Método:**
-Intentar calcular manualmente los valores finales usando los datos del diccionario.
+Intentar calcular manualmente los valores finales usando los datos del diccionario. Este procedimiento es un método de *prueba unitaria* para verificar cuando se automatice el cálculo.
 
 **Ejemplo - Caso CFE:**
 
@@ -1431,25 +1460,3 @@ R: Pregúntate: ¿Qué operaciones haré con este dato? Eso determina el tipo.
 **P: ¿Un documento muy simple es suficiente?**
 R: Debe tener al menos 20 conceptos diferentes y mostrar variedad de tipos de datos.
 
----
-
-## OBJETIVOS DE APRENDIZAJE ALCANZADOS
-
-Al completar esta metodología, ahora eres capaz de:
-
-✅ Analizar sistemáticamente documentos administrativos  
-✅ Identificar y clasificar tipos de datos correctamente  
-✅ Crear diccionarios de datos profesionales  
-✅ Reconocer estructuras de datos en contextos reales  
-✅ Validar la completitud de un análisis  
-✅ Documentar tu trabajo técnicamente  
-✅ Pensar como un analista de sistemas  
-
----
-
-**¡ÉXITO EN TU ANÁLISIS!** 🚀
-
-*"La digitalización comienza con entender profundamente la realidad que queremos representar. Un buen análisis de datos es el fundamento de cualquier sistema exitoso."*
-
-**Versión:** 2.0 - Metodología de Análisis  
-**Fecha:** 2025
