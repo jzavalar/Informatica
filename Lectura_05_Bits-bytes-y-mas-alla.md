@@ -1,4 +1,4 @@
-## **Lectura 4: Bits, Bytes y Más Allá: El Arte de Digitalizar la Realidad**[^1] (versión 2)
+## **Lectura 5: Bits, Bytes y Más Allá: El Arte de Digitalizar la Realidad**[^1] (versión 2)
 
 prof. dr. Jesús Zavala Ruiz[^2]
 
