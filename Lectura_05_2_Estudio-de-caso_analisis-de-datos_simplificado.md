@@ -1,4 +1,4 @@
-# **Lectura 5. Estudio de Caso: Análisis de Datos** (Versión simplificada)
+# **Lectura 5.2. Estudio de Caso: Análisis de Datos** (Versión simplificada)
 
 prof. dr. Jesús Zavala Ruiz[^1]
 
