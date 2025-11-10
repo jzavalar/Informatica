@@ -1,4 +1,4 @@
-# Proyecto 5.3. Diccionario de Datos
+# Proyecto 5.4. Diccionario de Datos
 ## Metodología de Análisis de Datos: De la Realidad a la Codificación Digital
 
 **Curso:** Informática - Licenciatura en Administración  
