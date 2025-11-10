@@ -1,4 +1,4 @@
-## Lectura: El Software como Instrucciones
+## Lectura 6: El Software como Instrucciones (Versión 2)
 
 prof. dr. Jesús Zavala Ruiz[^1]
 
