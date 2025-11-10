@@ -1,4 +1,4 @@
-## **Lectura 11: Introducción a las Bases de Datos**[^1]
+## **Lectura 12: Introducción a las Bases de Datos**[^1]
 
 prof. dr. Jesús Zavala Ruiz[^2]
 
