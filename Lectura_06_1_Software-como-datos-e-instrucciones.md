@@ -1,4 +1,4 @@
-## Lectura 6. El Software como Datos e Instrucciones
+## Lectura 6. El Software como Datos e Instrucciones (Versión 1)
 
 prof. dr. Jesús Zavala Ruiz[^1]
 
