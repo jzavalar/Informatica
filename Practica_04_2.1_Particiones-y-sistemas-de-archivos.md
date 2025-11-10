@@ -1,4 +1,4 @@
-## **Guía paso a paso – Práctica 2.1: Particiones y sistemas de archivos**
+## **Guía paso a paso – Práctica 4.2.1: Particiones y sistemas de archivos**
 
 ### **Objetivo general**  
 Aprender a identificar, gestionar y recuperar particiones y sistemas de archivos en dispositivos de almacenamiento.
