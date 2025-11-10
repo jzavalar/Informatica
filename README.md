@@ -155,7 +155,7 @@ Aprender a identificar, gestionar y recuperar particiones y sistemas de archivos
 
 Para mayor claridad y apoyo en la realización del proyecto, se recomienda consultar la **guía paso a paso completa** disponible en el siguiente enlace:  
 
-[Guía de la Práctica_2.1_Particiones y Sistemas de Archivos](Practica_2.1_Particiones-y-sistemas-de-archivos.md) 
+[Guía de la Práctica_2.1_Particiones y Sistemas de Archivos](Lectura_04_2_1_Practica_Particiones-y-sistemas-de-archivos.md) 
 
 Allí encontrará instrucciones detalladas, recursos recomendados y orientaciones específicas para cada parte del proyecto. ¡No dude en usarla como referencia durante su trabajo!
 
@@ -182,7 +182,7 @@ Comprender los conceptos básicos del licenciamiento de software y distinguir en
 
 Para mayor claridad y apoyo en la realización del proyecto, se recomienda consultar la **guía paso a paso completa** disponible en el siguiente enlace:  
 
-[Guía Paso a Paso de la Tarea 2.2: Licenciamiento de software](Tarea_2.2_Licenciamiento-de-software.md) 
+[Guía Paso a Paso de la Tarea 2.2: Licenciamiento de software](Lectura_04_2_2_Tarea_Licenciamiento-de-software.md)
 
 Allí encontrará instrucciones detalladas, recursos recomendados y orientaciones específicas para cada parte del proyecto. ¡No dude en usarla como referencia durante su trabajo!
 
@@ -208,7 +208,7 @@ Aprender a usar sistemas operativos desde una **Live USB** y en **máquinas virt
 
 Para mayor claridad y apoyo en la realización del proyecto, se recomienda consultar la **guía paso a paso completa** disponible en el siguiente enlace:  
 
-[Guía Paso a Paso del Proyecto 2.3: Instalación de Sistemas Operativos](Proyecto_2.3_Instalacion-de-sistems-operativos.md) 
+[Guía Paso a Paso del Proyecto 2.3: Instalación de Sistemas Operativos](Lectura_04_2_3_Proyecto_Instalacion-de-sistems-operativos.md) 
 
 Allí encontrará instrucciones detalladas, recursos recomendados y orientaciones específicas para cada parte del proyecto. ¡No dude en usarla como referencia durante su trabajo!
  
@@ -326,7 +326,7 @@ Aprender los conceptos fundamentales del software, los datos y la información, 
 
 Para mayor claridad y apoyo en la realización del proyecto, se recomienda consultar la **guía paso a paso completa** disponible en el siguiente enlace:  
 
-[Guía Paso a Paso de la Tarea_3.1_Conceptos Básicos de Software](Tarea_3.1_Conceptos-basicos-de-software.md) 
+[Guía Paso a Paso de la Tarea_3.1_Conceptos Básicos de Software](Lectura_05_1_Tarea_Conceptos-basicos-de-software.md)  
 
 Allí encontrará instrucciones detalladas, recursos recomendados y orientaciones específicas para cada parte del proyecto. ¡No dude en usarla como referencia durante su trabajo!
 
@@ -353,7 +353,7 @@ Diseñar y programar una aplicación funcional que resuelva un problema cotidian
 
 Para mayor claridad y apoyo en la realización del proyecto, se recomienda consultar la **guía paso a paso completa** disponible en el siguiente enlace:  
 
-[Guía Paso a Paso del Proyecto_3.2_Mi Primera App](Proyecto_3.2_Mi-Primera-app.md) 
+[Guía Paso a Paso del Proyecto_3.2_Mi Primera App](Lectura_05_5_Proyecto_Mi-Primera-app.md) 
 
 Allí encontrará instrucciones detalladas, recursos recomendados y orientaciones específicas para cada parte del proyecto. ¡No dude en usarla como referencia durante su trabajo!
 
@@ -393,7 +393,6 @@ Software:
 - [RStudio, IDE para R](https://posit.co/products/open-source/rstudio/), [RStudio en línea](https://posit.cloud/)
 - [PseInt](https://pseint.sourceforge.net/) [guía de PSeInt con ejemplos](https://terepebernal.com/blog/pseudocodigo/algoritmos-pseint-lo-mas-basico/), [PSeInt Portable](https://sourceforge.net/projects/pseint/files/20210609/pseint-w32-20210609.zip/download?use_mirror=gigenet&download=).
 
-
 #### Unidad 4. Bases de datos
 1. Introducción
 2. Bases de datos: teoría
@@ -431,19 +430,17 @@ Software:
     
   Suban su texto al Google Drive de cada uno de los integrantes.
 
-
 - *Tarea 4.3. Los sistemas de información empresarial y su evolución histórica*. (Entrega: Semana 9).
 
   *Objetivo*: Comprender el concepto y evolución histórica de los sistemas de información empresariales. 
     
   *Parte 1*. Los equipos de la práctica anterior, hagan una lectura colectiva de los primeros dos capítulos Hormigo, I. G.  (2011). [Sistema de información empresarial](http://libgen.st/book/index.php?md5=77DE9AE1D073B9367127448826BA6460)* (pp. 1-30). Catalunya: Universitat Oberta de Catalunya.
     
-  Consultar también la siguiente bibliografía complementaria: (1). Sánchez, A. (2016). Sistema de información: Concepto, elementos, etapas, funciones y ejemplo. ([Video](https://www.youtube.com/watch?v=Ibh62H7M1Jo)), (2). Extensión del ITTG sede Bochil Pagina Oficial (2015). [Elementos de un sistema de información] (https://www.youtube.com/watch?v=kAzxXgKiwTE) (Video) y (3). Molar, A. (2015). [Tipos de sistemas de Información](https://www.youtube.com/watch?v=vh4Wg-MiLhw) (Video).
+  Consultar también la siguiente bibliografía complementaria: (1). Sánchez, A. (2016). Sistema de información: Concepto, elementos, etapas, funciones y ejemplo. ([Video](https://www.youtube.com/watch?v=Ibh62H7M1Jo)), (2). Extensión del ITTG sede Bochil Pagina Oficial (2015). [Elementos de un sistema de información](https://www.youtube.com/watch?v=kAzxXgKiwTE) (Video) y (3). Molar, A. (2015). [Tipos de sistemas de Información](https://www.youtube.com/watch?v=vh4Wg-MiLhw) (Video).
     
   *Parte 2*. Por equipo, deben planificar una sesión colectiva y sacar sus conclusiones sobre el tema. Suban el reporte de la investigación con la siguiente estructura: *Introducción*, *Contexto*, *Desarrollo*, *Conclusiones* y *Bibliografía*.
     
   Suban su texto al Google Drive de cada uno de los integrantes.
-
 
 - *Tarea 4.4. Arquitectura de un sistemas de información*. (Entrega: Semana 10).
 
@@ -457,7 +454,6 @@ Software:
     
   *Parte 3*. Tome como estudio de caso la solución denominada de código libre y abierto Adaxa Suite ([proveedor](http://www.adaxa.com/), [video](https://www.youtube.com/watch?v=SST_AEKg-uw), [revisión](https://www.predictiveanalyticstoday.com/adaxa-suite/)) y describa las ventajas y desventajas que tiene respecto a soluciones comerciales equivalentes en software privativo. 
   
-
 - *Práctica 4.5. Infraestructura de un sistemas de información empresarial*. (Entrega: Semana 10). 
 
   *Objetivo*: Instalar el software de la infraestructura para un sistema de información empresarial. 
@@ -489,7 +485,6 @@ Software:
 ##### Bibliografía Complementaria:
    - ADempiere. (2022). [*ERP/CRM Software: A commons-based peer-production of Open Source ERP Applications*](https://wiki.adempiere.net/ADempiere_ERP). [software] [[descarga](http://github.com/adempiere/adempiere)] [[binario](http://bintray.com/adempiere/Official-Repository/Release/view#files)] [[video](https://www.youtube.com/watch?v=pYMUacbz898)].
    - iDempiere (2022). [*iDempiere: Powerful, open-source ERP/CRM/SCM system*](https://www.idempiere.org/). [software] [[descarga](https://www.idempiere.org/download/)] [[sitios de prueba](https://www.idempiere.org/test-sites/)].
-
 
 ### Modalidades de Evaluación
 
