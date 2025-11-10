@@ -1,4 +1,4 @@
-# **Lectura 5. Estudio de Caso: Análisis de Datos**
+# **Lectura 5.1. Estudio de Caso: Análisis de Datos**
 
 prof. dr. Jesús Zavala Ruiz[^1]
 
