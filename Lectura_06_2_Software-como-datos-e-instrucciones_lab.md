@@ -1,4 +1,5 @@
 ## Práctica de Laboratorio: Software como Datos e Instrucciones en RStudio.cloud
+**Basada en la Lectura 6**
 **Duración:** 30 minutos  
 **Nivel:** Estudiantes universitarios de nuevo ingreso  
 **Entorno:** RStudio.cloud  
