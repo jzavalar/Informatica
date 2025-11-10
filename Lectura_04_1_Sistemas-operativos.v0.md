@@ -1,4 +1,4 @@
-## **Lectura 3.1. Sistemas Operativos: Panorama General, Principios y Aplicaciones**[^1]
+## **Lectura 4.1. Sistemas Operativos: Panorama General, Principios y Aplicaciones**[^1]
 
 prof. dr. Jesús Zavala Ruiz[^2]
 
