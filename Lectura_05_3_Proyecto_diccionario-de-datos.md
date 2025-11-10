@@ -1,9 +1,9 @@
-# Proyecto Diccionario de Datos
+# Proyecto 5.3. Diccionario de Datos
 ## Metodología de Análisis de Datos: De la Realidad a la Codificación Digital
 
 **Curso:** Informática - Licenciatura en Administración  
 **Profesor:** dr. Jesús Zavala Ruiz  
-**Basado en:** Lectura 05 - Estudio de Caso del Recibo de Luz CFE
+**Basado en:** Lectura 05.1 - Estudio de Caso del Recibo de Luz CFE
 **Fecha:** Octubre de 2025
 
 *"La digitalización comienza con entender profundamente la realidad que queremos representar. Un buen análisis de datos es el fundamento de cualquier sistema de cómputo exitoso."*
