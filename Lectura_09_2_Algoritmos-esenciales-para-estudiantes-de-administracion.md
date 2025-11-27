@@ -4,7 +4,7 @@
 ---
 
 ## 1. **Algoritmo del Punto de Equilibrio**
-**El problema que resuelve:** ¿Cuánto tengo que vender para no perder plata?
+**El problema que resuelve:** ¿Cuánto tengo que vender para no perder dinero?
 
 **Ejemplo práctico:** Quieres vender polos personalizados. Cada polo te cuesta \$30, lo venderás en \$50 y tus gastos fijos (alquiler, internet) son \$2,000 al mes.
 
@@ -14,7 +14,7 @@
 3. **Aplica la fórmula:** Punto de equilibrio = Costos fijos ÷ Ganancia por unidad
 4. **Resultado:** 2,000 ÷ 20 = **100 polos**
 
-**Para que te sirva:** Sabrás exactamente cuándo empiezas a ganar plata real. Si vendes 99 polos, pierdes. Si vendes 101, ganas \$20.
+**Para que te sirva:** Sabrás exactamente cuándo empiezas a ganar realmente dinero. Si vendes 99 polos, pierdes. Si vendes 101, ganas \$20.
 
 ---
 
