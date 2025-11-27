@@ -185,5 +185,6 @@
 | Max ganancias | Programación Lineal | Producción óptima |
 | Riesgo de fallar | Análisis de Sensibilidad | Qué tan seguro estás |
 
-Aprender a [resolver los ejercicios con IA](Lectura_09_3_Como-resolver-estos-algoritmos-con-IA.md)
 **Consejo final:** No memorices fórmulas. Usa Excel, Google Sheets o apps. Lo importante es **saber qué algoritmo usar para qué problema**. Esa es la verdadera habilidad de administración.
+
+Aprende a [resolver los ejercicios con IA](Lectura_09_3_Como-resolver-estos-algoritmos-con-IA.md).
