@@ -6,30 +6,30 @@
 ## 1. **Algoritmo del Punto de Equilibrio**
 **El problema que resuelve:** ¿Cuánto tengo que vender para no perder plata?
 
-**Ejemplo práctico:** Quieres vender polos personalizados. Cada polo te cuesta S/30, lo venderás en S/50 y tus gastos fijos (alquiler, internet) son S/2,000 al mes.
+**Ejemplo práctico:** Quieres vender polos personalizados. Cada polo te cuesta \$30, lo venderás en \$50 y tus gastos fijos (alquiler, internet) son \$2,000 al mes.
 
 **Pasos (cómo calcularlo):**
-1. **Identifica tus costos fijos:** Suma todo lo que pagas igual sin vender nada (S/2,000)
-2. **Calcula la ganancia por unidad:** Precio de venta - Costo variable (S/50 - S/30 = S/20)
+1. **Identifica tus costos fijos:** Suma todo lo que pagas igual sin vender nada (\$2,000)
+2. **Calcula la ganancia por unidad:** Precio de venta - Costo variable (\$50 - \$30 = \$20)
 3. **Aplica la fórmula:** Punto de equilibrio = Costos fijos ÷ Ganancia por unidad
 4. **Resultado:** 2,000 ÷ 20 = **100 polos**
 
-**Para que te sirva:** Sabrás exactamente cuándo empiezas a ganar plata real. Si vendes 99 polos, pierdes. Si vendes 101, ganas S/20.
+**Para que te sirva:** Sabrás exactamente cuándo empiezas a ganar plata real. Si vendes 99 polos, pierdes. Si vendes 101, ganas \$20.
 
 ---
 
 ## 2. **Método de Evaluación de Proyectos (VAN)**
 **El problema que resuelve:** ¿Vale la pena invertir plata en esto o mejor la dejo en el banco?
 
-**Ejemplo práctico:** Un local te pide S/50,000 de inversión y te promete: S/15,000 en año 1, S/20,000 en año 2 y S/25,000 en año 3. El banco te da 10% anual.
+**Ejemplo práctico:** Un local te pide \$50,000 de inversión y te promete: \$15,000 en año 1, \$20,000 en año 2 y \$25,000 en año 3. El banco te da 10% anual.
 
 **Pasos (cómo calcularlo):**
-1. **Dibuja una línea de tiempo:** Año 0 (ahora): -S/50,000. Año 1: +S/15,000. Año 2: +S/20,000. Año 3: +S/25,000
+1. **Dibuja una línea de tiempo:** Año 0 (ahora): -\$50,000. Año 1: +\$15,000. Año 2: +\$20,000. Año 3: +\$25,000
 2. **Descuenta cada flujo:** Cada pago futuro se divide por (1+10%) elevado al año que falta
-   - Año 1: 15,000 ÷ 1.10 = S/13,636
-   - Año 2: 20,000 ÷ 1.21 = S/16,529
-   - Año 3: 25,000 ÷ 1.33 = S/18,783
-3. **Suma todo:** -50,000 + 13,636 + 16,529 + 18,783 = **-S/1,052**
+   - Año 1: 15,000 ÷ 1.10 = \$13,636
+   - Año 2: 20,000 ÷ 1.21 = \$16,529
+   - Año 3: 25,000 ÷ 1.33 = \$18,783
+3. **Suma todo:** -50,000 + 13,636 + 16,529 + 18,783 = **-\$1,052**
 
 **Para que te sirva:** Si el VAN es positivo, inviertes. Si es negativo (como aquí), mejor dejas la plata en el banco. Es tu "filtro de tonterías" para inversiones.
 
@@ -81,7 +81,7 @@
 1. **Dale número a cada mes:** Enero=1, Febrero=2, Marzo=3, Abril=4
 2. **Usa la fórmula de Excel:** `=ESTIMACION.LINEAL(ventas; números de mes)`
 3. **O hazlo manual (básico):** Traza una línea que pase "por el centro" de tus puntos
-4. **Resultado:** La tendencia es creciente ~+8.5 unidades/mes. Para mayo (mes 5): **~148 unidades**
+4. **Resultado:** La tendencia es creciente ~+8.5 unidade\$mes. Para mayo (mes 5): **~148 unidades**
 
 **Para que te sirva:** Puedes predecir ventas, gastos, necesidad de empleados. Es tu "bola de cristal" matemática para no tomar decisiones a ciegas.
 
@@ -90,12 +90,12 @@
 ## 6. **Regla de Pareto 80/20 (Algoritmo de Clasificación)**
 **El problema que resuelve:** ¿Qué pocos clientes me dan la mayoría de la plata?
 
-**Ejemplo práctico:** Tienes 100 clientes que te generaron S/50,000 este año.
+**Ejemplo práctico:** Tienes 100 clientes que te generaron \$50,000 este año.
 
 **Pasos (cómo aplicarlo):**
-1. **Ordena clientes de mayor a menor venta:** Cliente A: S/8,000, Cliente B: S/6,000, etc.
+1. **Ordena clientes de mayor a menor venta:** Cliente A: \$8,000, Cliente B: \$6,000, etc.
 2. **Calcula el acumulado:** Top 1 cliente: 8,000 (16%). Top 2: 14,000 (28%). Top 3: 18,000 (36%)...
-3. **Encuentra el punto 80%:** Te darás cuenta que **~20 clientes** (20% de 100) generan ~S/40,000 (80% de 50,000)
+3. **Encuentra el punto 80%:** Te darás cuenta que **~20 clientes** (20% de 100) generan ~\$40,000 (80% de 50,000)
 
 **Para que te sirva:** Enfócate en esos 20 clientes clave. No desperdicies energía igual en todos. Es la regla más poderosa de administración: **20% de las causas dan 80% de los resultados**.
 
@@ -104,16 +104,16 @@
 ## 7. **Algoritmo de Lote Económico (EOQ)**
 **El problema que resuelve:** ¿Cuánto comprar de cada producto para no quedarme sin stock ni gastar de más en bodega?
 
-**Ejemplo práctico:** Vendes 1,200 laptops/año. Cada pedido a fábrica te cuesta S/50 (flete). Guardar una laptop te cuesta S/10/año (seguro, espacio).
+**Ejemplo práctico:** Vendes 1,200 laptop\$año. Cada pedido a fábrica te cuesta \$50 (flete). Guardar una laptop te cuesta \$10/año (seguro, espacio).
 
 **Pasos (cómo calcularlo):**
 1. **Identifica:**
-   - Demanda (D) = 1,200 unidades/año
-   - Costo de orden (S) = S/50
-   - Costo de mantener (H) = S/10 por unidad/año
+   - Demanda (D) = 1,200 unidade\$año
+   - Costo de orden (S) = \$50
+   - Costo de mantener (H) = \$10 por unidad/año
 2. **Aplica la fórmula:** EOQ = √(2 × D × S ÷ H)
 3. **Cálculo:** √(2 × 1,200 × 50 ÷ 10) = √12,000 = **110 laptops por pedido**
-4. **Frecuencia:** 1,200 ÷ 110 = 11 pedidos/año ≈ cada 33 días
+4. **Frecuencia:** 1,200 ÷ 110 = 11 pedido\$año ≈ cada 33 días
 
 **Para que te sirva:** No compras de más (ahorras bodega) ni de menos (no pierdes ventas). Es el balance perfecto para inventarios.
 
@@ -122,12 +122,12 @@
 ## 8. **Algoritmo de Decisión con Árbol de Decisión**
 **El problema que resuelve:** ¿Qué decisión tomar cuando hay probabilidades de que pasen cosas buenas o malas?
 
-**Ejemplo práctico:** ¿Lanzas un producto nuevo? Si el mercado es bueno (40% de probabilidad), ganas S/100,000. Si es malo (60%), pierdes S/30,000.
+**Ejemplo práctico:** ¿Lanzas un producto nuevo? Si el mercado es bueno (40% de probabilidad), ganas \$100,000. Si es malo (60%), pierdes \$30,000.
 
 **Pasos (cómo calcularlo):**
 1. **Dibuja el árbol:** Un cuadrado (tu decisión) con líneas a dos círculos (resultados posibles)
 2. **Asigna probabilidades y resultados:** Bueno (0.4 × +100,000 = +40,000). Malo (0.6 × -30,000 = -18,000)
-3. **Calcula valor esperado:** 40,000 + (-18,000) = **+S/22,000**
+3. **Calcula valor esperado:** 40,000 + (-18,000) = **+\$22,000**
 4. **Decide:** Si el resultado es positivo, adelante. Si negativo, no lo hagas.
 
 **Para que te sirva:** Toma decisiones con datos, no con miedos. Evalúa inversiones, contrataciones, expansiones con lógica en lugar de intuición.
@@ -137,16 +137,16 @@
 ## 9. **Algoritmo de Programación Lineal (Simplex simplificado)**
 **El problema que resuelve:** ¿Cómo maximizar ganancias sin pasarme de recursos limitados?
 
-**Ejemplo práctico:** Haces mesas y sillas. Mesas dan S/100 de ganancia, sillas S/60. Una mesa usa 5 horas de madera, una silla 2 horas. Tienes 40 horas de madera disponibles.
+**Ejemplo práctico:** Haces mesas y sillas. Mesas dan \$100 de ganancia, sillas \$60. Una mesa usa 5 horas de madera, una silla 2 horas. Tienes 40 horas de madera disponibles.
 
 **Pasos (cómo calcularlo):**
 1. **Define variables:** X = mesas, Y = sillas
 2. **Función objetivo:** Maximizar 100X + 60Y
 3. **Restricciones:** 5X + 2Y ≤ 40 (madera), X ≥ 0, Y ≥ 0
 4. **Encuentra puntos extremos:** 
-   - Si haces solo mesas: X=8, ganancia=S/800
-   - Si haces solo sillas: Y=20, ganancia=S/1,200
-   - Mezcla: X=4, Y=10, ganancia=S/1,000
+   - Si haces solo mesas: X=8, ganancia=\$800
+   - Si haces solo sillas: Y=20, ganancia=\$1,200
+   - Mezcla: X=4, Y=10, ganancia=\$1,000
 5. **Solución óptima:** **20 sillas** te dan más ganancia.
 
 **Para que te sirva:** En cualquier problema de "qué tanto producir con recursos limitados" (tiempo, dinero, materiales).
@@ -156,7 +156,7 @@
 ## 10. **Algoritmo de Análisis de Sensibilidad**
 **El problema que resuelve:** ¿Qué tanto puede cambiar una situación antes de que mi decisión sea mala?
 
-**Ejemplo práctico:** Vas a comprar máquinas que cuestan S/10,000 si vendes más de 500 unidades/mes, pero S/7,000 si vendes menos. ¿Qué pasa si tus pronósticos fallan?
+**Ejemplo práctico:** Vas a comprar máquinas que cuestan \$10,000 si vendes más de 500 unidade\$mes, pero \$7,000 si vendes menos. ¿Qué pasa si tus pronósticos fallan?
 
 **Pasos (cómo calcularlo):**
 1. **Define escenarios base:** Optimista (700 unidades), Realista (500 unidades), Pesimista (300 unidades)
