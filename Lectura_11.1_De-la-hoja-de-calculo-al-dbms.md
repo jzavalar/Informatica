@@ -1,13 +1,19 @@
 ## **De la hoja de cálculo al DBMS: Gestión de datos para estudiantes de Administración**  
 ## **Caso práctico: “Tortillería El Boleo”**
 
-### OBJETIVO GENERAL
+### Objetivo General
 
 Transformar un conjunto de datos desordenado en una **base de datos relacional funcional**, comprendiendo cómo y por qué escalar desde una hoja de cálculo hasta un sistema gestor de bases de datos (DBMS) y cómo usar esa base para generar **información gerencial visual y confiable**.
 
-### ETAPA 1: GOOGLE SHEETS – EL PUNTO DE PARTIDA (Y SUS LÍMITES)
+### Etapa 1: Google Sheets – El Punto de Partida (y sus límites)
+
+#### Hoja de cálculo
+
+Una **hoja de cálculo**, como *Google Sheets*, es una herramienta digital que permite organizar, analizar y visualizar datos de manera sencilla y eficiente en filas y columnas. Gracias a su accesibilidad en línea, facilita la colaboración en tiempo real, lo que la convierte en una opción muy práctica para equipos de trabajo. Además, su interfaz intuitiva permite realizar cálculos, crear gráficos y automatizar tareas con facilidad, todo sin necesidad de conocimientos avanzados en programación. Sin embargo, aunque es muy útil para gestionar datos de tamaño moderado, presenta algunas limitaciones. No está diseñada para manejar grandes volúmenes de información o realizar análisis muy complejos, lo que puede afectar su rendimiento. Por ello, aunque es una excelente herramienta para tareas básicas y medianas, no es la opción más adecuada para trabajos que requieran procesamiento intensivo de datos o análisis avanzado.
 
 #### Dataset inicial (`ventas_tortilleria.csv`)
+
+Un **dataset** es un **conjunto organizado de datos**, generalmente en forma de tablas, que contienen información sobre un tema específico. Se utiliza para analizar, entrenar modelos o tomar decisiones basadas en los datos recopilados.
 
 ```csv
 Fecha,Cliente,Telefono,Colonia,Producto,Cantidad,PrecioUnitario
@@ -29,6 +35,7 @@ Fecha,Cliente,Telefono,Colonia,Producto,Cantidad,PrecioUnitario
 ```
 
 #### Actividad:
+
 1. Copia estos datos en una hoja nueva de **Google Sheets**.
 2. Intenta responder:
    - ¿Cuánto ha gastado Juan Pérez en total?
@@ -38,17 +45,34 @@ Fecha,Cliente,Telefono,Colonia,Producto,Cantidad,PrecioUnitario
 > **Reflexión crítica**: ¿Qué problemas enfrentaste? ¿Fue fácil filtrar “centro” si aparece como “centro”, “CENTRO” y “Centro”?
 
 
-### ETAPA 2: GOOGLE COLAB – AUTOMATIZAR LA LIMPIEZA CON DATAFRAMES
+### Etapa 2: Google Colab – Automatizar La Limpieza con Dataframes
+
+#### Google Colab:
+
+**Google Colab** es una plataforma en línea que permite ejecutar notebooks de Python de forma gratuita, ideal para análisis de datos. Cuando se trata de limpiar datos, Colab facilita automatizar tareas usando **DataFrames** (estructuras similares a tablas) con bibliotecas como Pandas. Esto permite realizar procesos de limpieza de manera eficiente y reproducible, como estandarizar nombres, eliminar duplicados y calcular columnas, simplificando el manejo de grandes volúmenes de datos sin necesidad de instalar software localmente.
 
 #### Conceptos aplicados:
-- **Dato vs. información**: El mismo número puede ser un dato aislado o parte de una métrica útil.
+
+- **Dato** vs. **información**: El mismo número puede ser un dato aislado o parte de una métrica útil.
 - **Consistencia**: Usamos reglas para estandarizar texto (mayúsculas, acentos, ortografía).
 - **Identificador único**: El teléfono se usa como clave lógica para agrupar clientes.
 
 #### Objetivo del análisis:
+
 Convertir el dataset caótico en una tabla limpia, reproducible y lista para cargar en una base de datos.
 
 #### Flujo lógico esperado de la **limpieza de datos**:
+
+1. **Cargar el CSV**: Se inicia importando el archivo en formato CSV a la herramienta de análisis, como un programa de hojas de cálculo o un entorno de programación. Esto permite acceder a los datos en formato estructurado para su posterior procesamiento.  
+2. **Estandarizar nombres**: Para asegurar la consistencia en los datos, se modifican los nombres de las columnas o registros usando `.str.title()`, que convierte la primera letra de cada palabra en mayúscula. Esto facilita la comparación y análisis de los nombres, evitando discrepancias por diferencias en mayúsculas o minúsculas.  
+3. **Corregir “maiz” → “maíz”**: Se realiza una corrección específica en los datos, reemplazando la palabra “maiz” por “maíz” para corregir errores ortográficos o de codificación. Esto asegura que los datos sean precisos y uniformes, especialmente si se realizarán búsquedas o agrupamientos por ese término.  
+4. **Normalizar colonias**: Se convierten los nombres de colonias a minúsculas con `.str.lower()` y se eliminan acentos para homogenizar la información. Esto ayuda a evitar duplicados o errores en la agrupación, ya que “Colonia” y “colonia” o “México” y “México” con acento, serán tratados como iguales.  
+5. **Agrupar por teléfono**: Se agrupan los datos por el número de teléfono para verificar la unicidad del cliente. Esto permite identificar si hay registros duplicados o si un mismo cliente aparece varias veces, facilitando la limpieza y consolidación de la base de datos.  
+6. **Calcular columna `Total`**: Finalmente, se crea una nueva columna llamada `Total`, que resulta de multiplicar la cantidad comprada (`Cantidad`) por el precio unitario (`PrecioUnitario`). Este cálculo ayuda a obtener el valor total de cada transacción, fundamental para análisis comerciales o financieros.  
+
+Este flujo asegura que los datos estén limpios, consistentes y listos para análisis más profundos o para la toma de decisiones.
+
+**Flujo resumido de la limpieza de datos**:
 1. Cargar el CSV.
 2. Estandarizar nombres: `.str.title()`.
 3. Corregir “maiz” → “maíz”.
@@ -59,7 +83,11 @@ Convertir el dataset caótico en una tabla limpia, reproducible y lista para car
 > **Nota**: No se busca copiar código, sino **diseñar la lógica antes de programar**.
 
 
-### ETAPA 3: SQLITE ONLINE – EL DBMS PARA DECISIONES CONFIABLES
+### Etapa 3: SQLite Online – El DBMS para decisiones confiables
+
+#### SQLite:
+
+**SQLite** es un **sistema de gestión de bases de datos** (**DBMS**) liviano y confiable. **SQLite Online** es una versión de SQLite que funciona en la nube, permitiendo gestionar y consultar datos de manera sencilla sin instalar software adicional. Ofrece una plataforma segura, eficiente y fácil de usar para aprender a almacenar, manipular y analizar datos en línea, facilitando la integración y el acceso a información actualizada para respaldar decisiones precisas.
 
 #### Herramienta: [SQLiteOnline](https://sqliteonline.com/)
 
@@ -187,7 +215,7 @@ ORDER BY Ingresos DESC;
 > Esta consulta **se ejecuta en SQLite Online** y produce automáticamente una gráfica de barras. Ideal para reportes ejecutivos.
 
 
-### CONCEPTOS CLAVE (recapitulación contextualizada)
+### Conceptos Clave
 
 | Concepto | ¿Por qué importa en Administración? |
 |--------|-------------------------------------|
@@ -199,7 +227,7 @@ ORDER BY Ingresos DESC;
 | **Visualización integrada** | Transforma cifras en evidencia visual para presentar a equipos o socios |
 
 
-### PRÓXIMO PASO
+### Próximo Paso
 
 Con esta guía de estudio completa, el estudiante ya cuenta con:
 - Un **caso realista**,
@@ -207,5 +235,5 @@ Con esta guía de estudio completa, el estudiante ya cuenta con:
 - Una **progresión lógica de herramientas**,
 - Y los **conceptos técnicos fundamentales**.
 
-Ahora está listo para el **LABORATORIO PASO A PASO**, en el que aprenderá a **usar la IA como tutor** (no como solucionador) para resolver cada etapa con retroalimentación incremental.
+Ahora está listo para el [Laboratorio paso a paso](Lectura_11.2_De-la-hoja-de-calculo-al-dbms-con-ia-como-tutor.md), en el que aprenderá a **usar la IA como tutor** (no como solucionador) para resolver cada etapa con retroalimentación incremental.
 
