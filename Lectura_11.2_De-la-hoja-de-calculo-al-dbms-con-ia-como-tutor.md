@@ -1,10 +1,12 @@
-## LABORATORIO GUIADO PASO A PASO  
+## Laboratorio Guiado Paso a Paso
 ## **“De la hoja de cálculo al DBMS con IA como tutor”**  
 ## *Caso: Tortillería El Boleo*
 
 > **Regla de oro**: Nunca pidas “el código completo”. Usa la IA para **validar tu lógica**, no para hacer el trabajo por ti.
 
-### INTRODUCCIÓN
+---
+
+### Introducción
 
 El **Laboratorio Guiado Paso a Paso**, diseñado específicamente para que el estudiante **interactúe con la IA como tutor**, enviando sus avances, recibiendo retroalimentación conceptual (no soluciones directas) y corrigiendo errores en tiempo real.  
 
@@ -15,9 +17,7 @@ La guía sigue la progresión: **Google Sheets → Google Colab (DataFrame) → 
 - **Qué esperar como retroalimentación útil**,  
 - **Cómo verificar que vas por buen camino**.
 
----
-
-### FASE 0: PREPARACIÓN
+### Fase 0: Preparación
 
 #### Acciones del estudiante:
 1. Crea un negocio ficticio simple (ej.: tortillería, papelería, cafetería).
@@ -29,9 +29,7 @@ La guía sigue la progresión: **Google Sheets → Google Colab (DataFrame) → 
 
 > No avances sin tener tu conjunto de datos listo. La IA no puede ayudarte si no tienes algo concreto que transformar.
 
----
-
-### FASE 1: DIAGNÓSTICO EN GOOGLE SHEETS
+### Fase 1: Diagnóstico en Google Sheets
 
 #### Paso 1.1: Carga los datos
 - Pega el CSV en una hoja nueva de Google Sheets.
@@ -52,9 +50,8 @@ La guía sigue la progresión: **Google Sheets → Google Colab (DataFrame) → 
 #### Paso 1.3: Verificación
 - Si entiendes por qué “Juan Pérez” y “juan pérez” son un problema, estás listo para avanzar.
 
----
 
-### FASE 2: LIMPIEZA EN GOOGLE COLAB (DATAFRAME)
+### Fase 2: Limpieza en Google Colab (DataFrame)
 
 #### Paso 2.1: Sube el CSV a Colab
 - En Colab, usa `from google.colab import files` o copia/pega como texto.
@@ -88,9 +85,8 @@ Antes de programar, escribe en tu cuaderno o en el notebook:
 
 > Si ves “maiz” o “CENTRO” en tu resultado final, algo falló.
 
----
 
-### FASE 3: DISEÑO DEL MODELO RELACIONAL
+### Fase 3: Diseño del modelo relacional
 
 #### Paso 3.1: Define las tablas en papel
 Dibuja o escribe:
@@ -115,9 +111,8 @@ Dibuja o escribe:
 #### Paso 3.3: Verificación
 - Si entiendes por qué **no se repite el precio en Ventas**, estás listo.
 
----
 
-### FASE 4: IMPLEMENTACIÓN EN SQLITE ONLINE
+### Fase 4: Implementación en SQLite Online
 
 #### Paso 4.1: Crea las tablas
 - Ve a [https://sqliteonline.com/](https://sqliteonline.com/)
@@ -157,9 +152,8 @@ Dibuja o escribe:
 #### Paso 4.4: Verificación
 - Si puedes hacer `SELECT * FROM Ventas` y ver los datos sin errores, sigues bien.
 
----
 
-### FASE 5: CONSULTAS Y VISUALIZACIÓN
+### Fase 5: Consultas y visualización
 
 #### Paso 5.1: Escribe una consulta con JOIN
 > **Mensaje al modelo:**  
@@ -194,17 +188,15 @@ Dibuja o escribe:
 #### Paso 5.3: Verificación final
 - Si al ejecutar el QBAR-SELECT **aparece una gráfica de barras**, ¡lo lograste!
 
----
 
-### FASE 6: REFLEXIÓN FINAL (ENTREGABLE)
+### Fase 6: Reflexión final (entregable)
 
 Escribe un breve informe (5 líneas) como si se lo enviaras a tu jefe:
 
 > “Con base en los datos de marzo, la colonia Centro genera el mayor ingreso ($276), seguida por Condesa ($210). Recomendamos reforzar promociones en Nápoles, que solo aporta $120. Este análisis fue posible gracias a una base de datos normalizada que evita errores por datos inconsistentes.”
 
----
 
-### CÓMO USAR ESTA GUÍA
+### Cómo usar esta guía
 
 - Dedica **máximo 45 minutos por fase**.
 - Si te atasca más de 10 minutos, **envía tu intento a la IA** con la frase:  
@@ -214,5 +206,3 @@ Escribe un breve informe (5 líneas) como si se lo enviaras a tu jefe:
 ---
 
 Con este laboratorio, el estudiante no solo aprende SQL o Pandas, sino a **pensar como un administrador que usa datos para tomar decisiones** y a **usar la IA como aliado estratégico**, no como muleta técnica.
-
-¿Te gustaría que prepare una **plantilla descargable en PDF** con este laboratorio, lista para repartir a estudiantes?
