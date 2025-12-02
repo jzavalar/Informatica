@@ -1,8 +1,9 @@
-## Laboratorio Guiado Paso a Paso
 ## **“De la hoja de cálculo al DBMS con IA como tutor”**  
+## Laboratorio Guiado Paso a Paso
+
 ## *Caso: Tortillería El Boleo*
 
-> **Regla de oro**: Nunca pidas “el código completo”. Usa la IA para **validar tu lógica**, no para hacer el trabajo por ti.
+> **Regla de oro**: Nunca pidas “el código completo”. Usa la IA para **validar tu lógica**, no para hacer el trabajo por ti. De lo contrario, será la IA la que aprenderá y no tú.
 
 ---
 
