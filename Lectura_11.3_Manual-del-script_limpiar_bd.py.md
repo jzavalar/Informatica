@@ -11,7 +11,6 @@
 
 El script [`limpiar_bd.py`](limpiar_bd.py) automatiza la **limpieza, estandarización y validación** de un conjunto de datos operativos provenientes de fuentes no estructuradas (por ejemplo, registros manuales en hojas de cálculo). Su propósito es preparar los datos para su carga en un **sistema gestor de bases de datos relacional (DBMS)**, garantizando consistencia, unicidad y calidad mínima para la generación de informes gerenciales.
 
----
 
 ## 2. Contexto del dataset
 
@@ -31,7 +30,6 @@ Los datos presentan **inconsistencias típicas en entornos administrativos no au
 - Teléfonos con formato no estándar (“55 1234-5678”)
 - Fechas en formatos no homogéneos
 
----
 
 ## 3. Metodología de limpieza
 
@@ -66,7 +64,6 @@ Esta función es reutilizada en los campos: `Cliente`, `Colonia` y `Producto`.
 - Se eliminan filas con valores nulos en **cualquier campo crítico**  
 - Se eliminan **duplicados exactos** considerando todas las columnas, lo que evita registros redundantes tras la normalización
 
----
 
 ## 4. Dependencias
 
@@ -79,7 +76,6 @@ El script requiere las siguientes bibliotecas de Python:
 
 Ejecución recomendada en entornos como **Google Colab**, **Jupyter Notebook** o cualquier intérprete de Python 3.8+, como RStudio.
 
----
 
 ## 5. Resultado esperado
 
@@ -99,7 +95,6 @@ Este archivo está listo para:
 - Análisis descriptivo  
 - Generación de indicadores gerenciales
 
----
 
 ## 6. Uso del script (instrucciones)
 
@@ -113,20 +108,7 @@ Este archivo está listo para:
 
 > **Nota**: En Google Colab, reemplazar `pd.read_csv('basededatos.csv')` por la carga desde el explorador de archivos o desde una URL.
 
----
 
-## 7. Consideraciones para producción
-
-- Para datasets grandes (>100k filas), considerar particionamiento o procesamiento en lotes.  
-- Si el precio unitario varía en el tiempo, se recomienda registrar el precio **en el momento de la venta** (actualmente se asume fijo por producto).  
-- Para entornos multilingües, se debe revisar la estrategia de eliminación de acentos.
-
----
-
-## 8. Licencia
+## 7. Licencia
 
 Este script se distribuye con fines educativos y de demostración. Puede adaptarse libremente bajo los principios de **transparencia y reproducibilidad en la gestión de datos**.
-
---- 
-
-**Fin del documento**.
