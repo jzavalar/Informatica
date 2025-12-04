@@ -6,7 +6,6 @@
 **Clave de la UEA:** 2211088
 **Trimestre:** 25 Otoño
 
-**Grupo:** HA10 **Horario:** Lunes y Miércoles de 14:00 a 16:00 hr **Salón:** Anexo del Edificio A, Sala J (AA-J).  
 **Grupo:** HA54 **Horario:** Lunes y Miércoles de 16:00 a 18:00 hr **Salón:** Anexo del Edificio A, Sala J (AA-J).  
 
 **Asesorías:**  *Martes* de 20:00 a 22:00 hr, vía [Telegram](https://telegram.org/apps), previa programación, a petición del alumno o asíncrona.
