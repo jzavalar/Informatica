@@ -1,0 +1,16 @@
+Fecha,Cliente,Telefono,Colonia,Producto,Cantidad,PrecioUnitario
+2025-03-01,Juan Pérez,5551234567,centro,Tortilla de maíz,5,12.00
+2025-03-01,juan pérez,5551234567,CENTRO,Tortilla de maiz,3,12.00
+2025-03-02,Maria Lopez,5559876543,roma,Tortilla de trigo,4,15.00
+2025-03-02,María López,5559876543,Roma,Tortilla de trigo,2,15.00
+2025-03-03,Pedro Sanchez,5511223344,condesa,Tortilla de maíz,10,12.00
+2025-03-03,Pedro Sánchez,5511223344,Condesa,Tortilla de maiz,5,12.00
+2025-03-04,Laura Gómez,5544556677,polanco,Tortilla de trigo,6,15.00
+2025-03-04,Laura Gomez,5544556677,Polanco,Tortilla de trigo,2,15.00
+2025-03-05,Carlos Ruiz,5522334455,centro,Tortilla de maíz,8,12.00
+2025-03-05,carlos ruiz,5522334455,CENTRO,Tortilla de maiz,4,12.00
+2025-03-06,Ana Martínez,5566778899,napoles,Tortilla de trigo,3,15.00
+2025-03-06,Ana Martinez,5566778899,Nápoles,Tortilla de trigo,5,15.00
+2025-03-07,Juan Pérez,5551234567,centro,Tortilla de trigo,2,15.00
+2025-03-08,Maria Lopez,5559876543,roma,Tortilla de maíz,7,12.00
+2025-03-09,Pedro Sanchez,5511223344,condesa,Tortilla de trigo,4,15.00
