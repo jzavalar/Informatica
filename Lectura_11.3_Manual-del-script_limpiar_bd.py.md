@@ -9,7 +9,7 @@
 
 ## 1. Objetivo
 
-El script `[limpiar_bd.py](limpiar_bd.py)` automatiza la **limpieza, estandarización y validación** de un conjunto de datos operativos provenientes de fuentes no estructuradas (por ejemplo, registros manuales en hojas de cálculo). Su propósito es preparar los datos para su carga en un **sistema gestor de bases de datos relacional (DBMS)**, garantizando consistencia, unicidad y calidad mínima para la generación de informes gerenciales.
+El script [`limpiar_bd.py`](limpiar_bd.py)` automatiza la **limpieza, estandarización y validación** de un conjunto de datos operativos provenientes de fuentes no estructuradas (por ejemplo, registros manuales en hojas de cálculo). Su propósito es preparar los datos para su carga en un **sistema gestor de bases de datos relacional (DBMS)**, garantizando consistencia, unicidad y calidad mínima para la generación de informes gerenciales.
 
 ---
 
