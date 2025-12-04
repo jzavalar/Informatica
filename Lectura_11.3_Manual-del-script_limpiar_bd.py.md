@@ -84,7 +84,7 @@ Ejecución recomendada en entornos como **Google Colab**, **Jupyter Notebook** o
 ## 5. Resultado esperado
 
 El script genera un archivo de salida:  
-**`basededatos_limpia.csv`**
+**[`basededatos_limpia.csv`](basededatos_limpia.csv)**
 
 Características del archivo limpio:
 
