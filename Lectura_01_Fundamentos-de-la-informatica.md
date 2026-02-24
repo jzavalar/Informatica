@@ -1,6 +1,6 @@
-## **Lectura 1: Fundamentos de la Informática**[^1]
+## **Lectura 1: Fundamentos de la Informática**[^2]
 
-prof. dr. Jesús Zavala Ruiz[^2]
+dr. Jesús Zavala Ruiz[^1]
 
 
 ### 1. **Introducción**
