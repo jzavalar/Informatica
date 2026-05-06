@@ -11,7 +11,7 @@
 **Asesorías:**  *Martes* de 20:00 a 22:00 hr, vía [Telegram](https://telegram.org/apps), previa programación, a petición del alumno o asíncrona.
 
 - 📧 **Correo electrónico:** [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)
-- 💬 **Telegram:** ![Telegram](https://github.com/jzavalar/Informatica/blob/main/images/telegram_logo.svg) [jzavalar.t.me](https://jzavalar.t.me)
+- 💬 **Telegram:** Telegram: <img src="https://github.com/jzavalar/informatica/blob/main/images/telegram_logo.svg" alt="Telegram" width="3%"/> [@jzavalar](https://t.me/jzavalar)
 - Grupo de Telegram del curso: [https://t.me/+aVqiqhPxc5phOWE5](https://t.me/+aVqiqhPxc5phOWE5)
 
 ---
