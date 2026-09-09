@@ -3,13 +3,13 @@
 **Versión:** 1.0  
 **Fecha:** 4 de diciembre de 2025  
 **Autor:** dr. Jesús Zavala Ruiz
-**Ayudante:** [deepai.org](deepai.org)
+**Ayudante:** [deepai.org](https://deepai.org)
 
 ---
 
 ## 1. Objetivo
 
-El script [`limpiar_bd.py`](limpiar_bd.py) automatiza la **limpieza, estandarización y validación** de un conjunto de datos operativos provenientes de fuentes no estructuradas (por ejemplo, registros manuales en hojas de cálculo). Su propósito es preparar los datos para su carga en un **sistema gestor de bases de datos relacional (DBMS)**, garantizando consistencia, unicidad y calidad mínima para la generación de informes gerenciales.
+El script [`limpiar_bd.py`](scripts/limpiar_bd.py) automatiza la **limpieza, estandarización y validación** de un conjunto de datos operativos provenientes de fuentes no estructuradas (por ejemplo, registros manuales en hojas de cálculo). Su propósito es preparar los datos para su carga en un **sistema gestor de bases de datos relacional (DBMS)**, garantizando consistencia, unicidad y calidad mínima para la generación de informes gerenciales.
 
 
 ## 2. Contexto del dataset
@@ -80,7 +80,7 @@ Ejecución recomendada en entornos como **Google Colab**, **Jupyter Notebook** o
 ## 5. Resultado esperado
 
 El script genera un archivo de salida:  
-**[`basededatos_limpia.csv`](basededatos_limpia.csv)**
+**[`basededatos_limpia.csv`](datos/basededatos_limpia.csv)**
 
 Características del archivo limpio:
 

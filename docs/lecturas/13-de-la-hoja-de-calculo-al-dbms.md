@@ -233,4 +233,4 @@ Con esta guía de estudio completa, el estudiante ya cuenta con:
 - Una **progresión lógica de herramientas**,
 - Y los **conceptos técnicos fundamentales**.
 
-Ahora está listo para el [Laboratorio paso a paso](Lectura_11.2_De-la-hoja-de-calculo-al-dbms-con-ia-como-tutor.md), en el que aprenderá a **usar la IA como tutor** (no como solucionador) para resolver cada etapa con retroalimentación incremental.
+Ahora está listo para el [Laboratorio paso a paso](14-dbms-con-ia-como-tutor.md), en el que aprenderá a **usar la IA como tutor** (no como solucionador) para resolver cada etapa con retroalimentación incremental.
