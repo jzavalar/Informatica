@@ -65,6 +65,8 @@ Por eso el despliegue va por fases, ordenadas por relación entre beneficio y ri
 
 ---
 
+> **Nota importante:** si el profesor lleva su laptop de Fedora al salón en todas las sesiones —que es el caso—, **las fases 1 a 3 no requieren hardware adicional**: corren en contenedores sobre esa máquina, que además sirve la red del salón como punto de acceso. Ver [La laptop del profesor como infraestructura](laptop-del-profesor.md). La compra de equipo se pospone a la fase 4, que es la única que la justifica.
+
 ## 4. Hardware: tres niveles
 
 Los tres funcionan; se diferencian por si soportan o no el modelo de lenguaje local.
