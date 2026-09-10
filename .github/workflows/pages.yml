@@ -32,7 +32,7 @@ jobs:
           cache: pip
 
       - name: Instalar MkDocs Material
-        run: pip install mkdocs-material
+        run: pip install -r requirements.txt
 
       - name: Construir el sitio
         run: mkdocs build --strict
