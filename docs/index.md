@@ -1,13 +1,15 @@
-# Informática · UEA 2211088
+# UEA: Informática · 2211088
+**Licenciatura en Administración · UAM-Iztapalapa**  
+**Trimestre: 26-Otoño**  
+**Grupo:** HA09 · **Horario:** Lunes y Miércoles de 14:00 a 16:00 · **Salón:** H214    
+**Grupo:** HA55 · **Horario:** Lunes y Miércoles de 18:00 a 20:00 · **Salón:** Anexo A - Sala J    
 
-**Licenciatura en Administración · UAM-Iztapalapa · Trimestre 26-Otoño**
-
-Este curso no funciona como los demás. No hay una lista de temas que memorizar antes del examen. Hay **tres proyectos**, y todo lo demás existe para que puedas hacerlos.
+Este curso no funciona como los demás. No hay una lista de temas que memorizar antes del examen. Hay **tres proyectos** y todo lo demás existe para que puedas hacerlos.
 
 ## Empieza por aquí
 
 1. [Cómo estudiar aquí](curso/como-estudiar.md) — cinco minutos que te van a ahorrar el trimestre
-2. [Protocolo de uso de inteligencia artificial](arranque/protocolo-ia.md) — sí puedes usar chatbots; no, no cuando quieras
+2. [Protocolo de uso de inteligencia artificial](arranque/protocolo-ia.md) — sí puedes usar chatbots; pero no cuando tú quieras
 3. [Evaluación](curso/evaluacion.md) — cómo se aprueba, sin sorpresas
 4. [Calendario](curso/calendario.md) — las 20 sesiones y las tres fechas que importan
 
