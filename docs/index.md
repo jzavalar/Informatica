@@ -13,7 +13,7 @@ Este curso no funciona como los demás. No hay una lista de temas que memorizar 
 
 ## Los tres proyectos
 
-| | Proyecto | Sesiones | Lo que produces |
+| Proyecto | Sesiones | Lo que produces |
 |---|---|---|
 | **Proyecto P1** [La máquina desnuda](proyectos/p1-la-maquina-desnuda/index.md) | 2–7 | El expediente técnico de una computadora real y de tu propio teléfono |
 | **Proyecto P2** [Los datos invisibles](proyectos/p2-los-datos-invisibles/index.md) | 8–12 | El sistema de información que ya opera en una organización real sin que nadie lo llame así |
