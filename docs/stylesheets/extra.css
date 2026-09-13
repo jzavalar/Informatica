@@ -166,23 +166,27 @@
 
 /* ---------- 8. Cajón de navegación en móvil ---------- */
 
-/* Cuando el menú lateral se abre, Material usa OTRO logo:
-   .md-nav__button.md-logo. Hay que darle el mismo tratamiento. */
-.md-nav__button.md-logo img,
-.md-nav__button.md-logo svg {
-  height: 48px;
-  width: auto;
+/* El logo del cajón vive dentro de .md-nav__title, sobre fondo verde.
+   El fondo blanco va en el CONTENEDOR, no en la imagen: la imagen es un
+   SVG con transparencia y el color de atrás lo pone el elemento padre. */
+.md-nav--primary .md-nav__title .md-nav__button.md-logo {
+  display: inline-block;
   background-color: #ffffff;
   border-radius: 0.2rem;
-  padding: 0.25rem 0.35rem;
-  box-sizing: content-box;
+  padding: 0.3rem 0.4rem;
+  margin-bottom: 0.4rem;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
 }
 
-/* Un poco de aire alrededor del logo dentro del cajón */
+.md-nav--primary .md-nav__title .md-nav__button.md-logo img,
+.md-nav--primary .md-nav__title .md-nav__button.md-logo svg {
+  height: 48px;
+  width: auto;              /* Material fija 2.4rem de ancho: hay que soltarlo */
+  background-color: transparent;
+  display: block;
+}
+
 .md-nav--primary .md-nav__title {
   padding-top: 0.6rem;
   line-height: 1.4;
 }
-
-------------------------------------------------------- */
