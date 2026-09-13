@@ -15,9 +15,9 @@ Este curso no funciona como los demás. No hay una lista de temas que memorizar 
 
 | Proyecto | Sesiones | Lo que produces |
 |---|---|---|
-| **Proyecto P1** [La máquina desnuda](proyectos/p1-la-maquina-desnuda/index.md) | 2–7 | El expediente técnico de una computadora real y de tu propio teléfono |
-| **Proyecto P2** [Los datos invisibles](proyectos/p2-los-datos-invisibles/index.md) | 8–12 | El sistema de información que ya opera en una organización real sin que nadie lo llame así |
-| **Proyecto P3** [El sistema mínimo](proyectos/p3-el-sistema-minimo/index.md) | 14–18 | Una base de datos que responde tres preguntas que esa organización no puede responder hoy |
+| **P1**: [La máquina desnuda](proyectos/p1-la-maquina-desnuda/index.md) | 2–7 | El expediente técnico de una computadora real y de tu propio teléfono |
+| **P2**: [Los datos invisibles](proyectos/p2-los-datos-invisibles/index.md) | 8–12 | El sistema de información que ya opera en una organización real sin que nadie lo llame así |
+| **P3**: [El sistema mínimo](proyectos/p3-el-sistema-minimo/index.md) | 14–18 | Una base de datos que responde tres preguntas que esa organización no puede responder hoy |
 
 Los tres están encadenados: **P1 alimenta a P2 y P2 alimenta a P3**. Al final del trimestre no tienes tres tareas: tienes un sistema que construiste tú.
 
