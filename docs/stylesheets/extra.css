@@ -132,6 +132,21 @@
   text-decoration: underline;
 }
 
+/* Navegación lateral IZQUIERDA en verde institucional.
+   Deliberadamente NO se toca .md-nav--secondary, que es la tabla de
+   contenidos de la derecha: ahí el azul del elemento activo se conserva
+   para que contraste con los enlaces del texto.
+   Si el menú completo en verde resulta excesivo en páginas largas como el
+   calendario, cambie .md-nav__link por .md-nav__link--active en las dos
+   reglas siguientes: solo se coloreará la entrada actual. */
+.md-nav--primary .md-nav__link {
+  color: var(--uami-verde-oscuro);
+}
+
+[data-md-color-scheme="slate"] .md-nav--primary .md-nav__link {
+  color: var(--uami-verde-claro);
+}
+
 /* ---------- 6. Variante compacta (opcional) ----------
 
    Si la barra de 92 px le resulta invasiva, comente el bloque 3 completo
