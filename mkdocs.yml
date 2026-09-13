@@ -1,7 +1,7 @@
-site_name: Informática · UEA 2211088
+site_name: Informática 2211088
 site_description: >-
-  Unidad de Enseñanza-Aprendizaje Informática · Licenciatura en Administración ·
-  UAM-Iztapalapa · Aprendizaje basado en proyectos
+  Unidad de Enseñanza-Aprendizaje - Informática · Licenciatura en Administración ·
+  UAM-Iztapalapa · Aprendizaje Basado en Proyectos
 site_author: dr. Jesús Zavala Ruiz
 site_url: https://jzavalar.github.io/Informatica/
 repo_url: https://github.com/jzavalar/Informatica
@@ -47,7 +47,7 @@ theme:
         name: Cambiar a modo claro
 
 extra_css:
-  - stylesheets/extra.css?v=4
+  - stylesheets/extra.css?v=6
 
 plugins:
   - search:
