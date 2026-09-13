@@ -166,27 +166,33 @@
 
 /* ---------- 8. Cajón de navegación en móvil ---------- */
 
-/* El logo del cajón vive dentro de .md-nav__title, sobre fondo verde.
-   El fondo blanco va en el CONTENEDOR, no en la imagen: la imagen es un
-   SVG con transparencia y el color de atrás lo pone el elemento padre. */
+/* El título del cajón conserva el verde institucional */
+.md-nav--primary .md-nav__title {
+  background-color: var(--uami-verde) !important;
+  color: #ffffff !important;
+  padding-top: 0.6rem;
+  line-height: 1.4;
+}
+
+[data-md-color-scheme="slate"] .md-nav--primary .md-nav__title {
+  background-color: var(--uami-verde-oscuro) !important;
+}
+
+/* El logo: caja blanca ajustada al escudo, no al ancho del cajón */
 .md-nav--primary .md-nav__title .md-nav__button.md-logo {
-  display: inline-block;
-  background-color: #ffffff;
+  display: inline-block !important;
+  width: auto !important;
+  background-color: #ffffff !important;
   border-radius: 0.2rem;
   padding: 0.3rem 0.4rem;
-  margin-bottom: 0.4rem;
+  margin: 0 0 0.4rem 0;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
 }
 
 .md-nav--primary .md-nav__title .md-nav__button.md-logo img,
 .md-nav--primary .md-nav__title .md-nav__button.md-logo svg {
-  height: 48px;
-  width: auto;              /* Material fija 2.4rem de ancho: hay que soltarlo */
-  background-color: transparent;
+  height: 44px !important;
+  width: auto !important;
+  background-color: transparent !important;
   display: block;
-}
-
-.md-nav--primary .md-nav__title {
-  padding-top: 0.6rem;
-  line-height: 1.4;
 }
