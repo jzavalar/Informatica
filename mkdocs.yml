@@ -14,8 +14,8 @@ copyright: >-
 theme:
   name: material
   language: es
-  favicon: assets/conjunto-baseIzt.png
-  logo: assets/conjunto-baseIzt.png
+  favicon: assets/favicon.png
+  logo: assets/logo_uam_variacion5.svg
   features:
     - navigation.instant       # navegación sin recarga completa
     - navigation.tracking
