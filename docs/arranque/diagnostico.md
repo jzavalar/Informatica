@@ -1,5 +1,5 @@
 # Diagnóstico de conocimientos previos
-
+ 
 **Destino:** `docs/arranque/diagnostico.md`  
 **Aplicación:** en línea, del 17 al 20 de septiembre de 2026, junto con el CHAEA  
 **Duración:** 15 minutos · **No se califica**  
