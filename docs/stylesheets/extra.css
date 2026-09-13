@@ -1,0 +1,136 @@
+/* =========================================================================
+   Identidad institucional · UEA 2211088 Informática · UAM-Iztapalapa
+   Verde institucional Pantone 369 C · #57A519
+   Tipografía Arial · Logo a 110 px
+   ========================================================================= */
+
+/* ---------- 1. Color institucional ---------- */
+
+:root {
+  --uami-verde: #57A519;          /* Pantone 369 C */
+  --uami-verde-oscuro: #3F7A12;   /* para hover y estados activos */
+  --uami-verde-claro: #7CC246;    /* para modo oscuro */
+}
+
+/* Paleta en modo claro */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:        var(--uami-verde);
+  --md-primary-fg-color--light: var(--uami-verde-claro);
+  --md-primary-fg-color--dark:  var(--uami-verde-oscuro);
+  --md-primary-bg-color:        #ffffff;
+  --md-primary-bg-color--light: rgba(255, 255, 255, 0.7);
+
+  --md-accent-fg-color:         var(--uami-verde-oscuro);
+  --md-accent-fg-color--transparent: rgba(87, 165, 25, 0.1);
+  --md-accent-bg-color:         #ffffff;
+}
+
+/* Paleta en modo oscuro: el verde se aclara para conservar contraste */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        var(--uami-verde-oscuro);
+  --md-primary-fg-color--light: var(--uami-verde);
+  --md-primary-fg-color--dark:  #2E5A0D;
+  --md-primary-bg-color:        #ffffff;
+
+  --md-accent-fg-color:         var(--uami-verde-claro);
+  --md-accent-fg-color--transparent: rgba(124, 194, 70, 0.1);
+}
+
+/* ---------- 2. Tipografía Arial ---------- */
+
+:root {
+  --md-text-font: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+  --md-code-font: "DejaVu Sans Mono", "Liberation Mono", Consolas, monospace;
+}
+
+/* ---------- 3. Logo a 110 px ---------- */
+
+/* La barra superior de Material mide unos 48 px. Para alojar un logo de
+   110 px hay que agrandarla. Estas tres reglas van juntas: si cambia el
+   tamaño del logo, ajuste también la altura de la barra y el desplazamiento
+   del contenido. */
+
+.md-header__button.md-logo {
+  padding: 0.4rem;
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 110px;
+  width: auto;
+  background-color: #ffffff;   /* fondo blanco solicitado */
+  border-radius: 0.15rem;
+  padding: 0.2rem;
+  box-sizing: content-box;
+}
+
+/* La barra crece para contener el logo */
+.md-header {
+  min-height: 126px;
+}
+
+.md-header__inner {
+  align-items: center;
+  min-height: 126px;
+}
+
+/* El menú lateral y el contenido bajan para no quedar debajo de la barra */
+@media screen and (min-width: 76.25em) {
+  .md-sidebar {
+    top: 126px;
+    height: calc(100vh - 126px);
+  }
+}
+
+/* Las pestañas de navegación se reacomodan bajo la barra alta */
+.md-tabs {
+  top: 126px;
+}
+
+/* ---------- 4. Tablas con el tamaño del texto normal ---------- */
+
+/* Material usa .64rem en tablas y .8rem en el cuerpo. Se igualan. */
+.md-typeset table:not([class]) {
+  font-size: 0.8rem;
+}
+
+/* En pantallas angostas se reduce un poco para que quepan más columnas
+   antes de que aparezca el desplazamiento horizontal. El dispositivo real
+   de los alumnos es el teléfono. */
+@media screen and (max-width: 44.9375em) {
+  .md-typeset table:not([class]) {
+    font-size: 0.7rem;
+  }
+}
+
+/* ---------- 5. Ajustes menores de legibilidad ---------- */
+
+/* Arial tiene una altura de x mayor que la fuente por omisión: un poco
+   más de interlineado evita que el texto se vea apretado. */
+.md-typeset {
+  line-height: 1.65;
+}
+
+/* Los enlaces en verde institucional, con subrayado al pasar el cursor */
+.md-typeset a:hover {
+  text-decoration: underline;
+}
+
+/* ---------- 6. Variante compacta (opcional) ----------
+
+   Si la barra de 126 px le resulta invasiva, comente el bloque 3 completo
+   y descomente este. Deja el logo en 40 px dentro de una barra normal y
+   coloca el logo institucional a tamaño completo solo en la portada,
+   mediante una etiqueta <img width="110"> en docs/index.md.
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 40px;
+  width: auto;
+  background-color: #ffffff;
+  border-radius: 0.15rem;
+  padding: 0.15rem;
+  box-sizing: content-box;
+}
+
+------------------------------------------------------- */
