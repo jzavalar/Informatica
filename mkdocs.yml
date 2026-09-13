@@ -47,7 +47,7 @@ theme:
         name: Cambiar a modo claro
 
 extra_css:
-  - stylesheets/extra.css
+  - stylesheets/extra.css?v=3
   
 plugins:
   - search:
