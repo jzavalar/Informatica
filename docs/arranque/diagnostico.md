@@ -1,8 +1,8 @@
 # Diagnóstico de conocimientos previos
 
-**Destino:** `docs/arranque/diagnostico.md`
-**Aplicación:** en línea, del 17 al 20 de septiembre de 2026, junto con el CHAEA
-**Duración:** 15 minutos · **No se califica**
+**Destino:** `docs/arranque/diagnostico.md`  
+**Aplicación:** en línea, del 17 al 20 de septiembre de 2026, junto con el CHAEA  
+**Duración:** 15 minutos · **No se califica**  
 
 ---
 
@@ -14,9 +14,9 @@ Este instrumento **no evalúa al estudiante**: mide qué tan lejos está el punt
 2. **Repartir a los estudiantes en los equipos.** Cruzado con el perfil CHAEA, evita que un equipo concentre a los cinco con más lagunas.
 3. **Identificar riesgo de deserción antes de la primera clase.** El cuartil inferior entra al registro de seguimiento desde la sesión 1.
 
-**Se le dice al estudiante, textualmente:** *No es un examen, no vale puntos y nadie va a ver tu resultado más que el profesor. Contesta lo que realmente sabes: si adivinas, el curso se va a diseñar para un grupo que no existe y te va a ir peor.*
+Repito: *Este ejercicio No es un examen, no vale puntos y nadie va a ver tu resultado más que el profesor. Contesta lo que realmente sabes: si inventas, el curso se va a diseñar para un grupo que no existe y te va a ir peor.*
 
-Se aplica de nuevo, idéntico, en la última sesión. La diferencia entre ambas aplicaciones es la medida más limpia que vas a tener de lo que el método produjo.
+Este instrumento se aplica de nuevo, idéntico, en la última sesión. La diferencia entre ambas aplicaciones es la medida más limpia que vas a tener de lo que este método produjo.
 
 ---
 
@@ -27,10 +27,8 @@ Determinan qué es viable pedir fuera del aula. Sin esto, el diseño de tareas s
 1. ¿Tienes computadora propia en casa? (Sí, de uso exclusivo / Sí, compartida / No)
 2. ¿Tienes internet en casa? (Sí, estable / Sí, intermitente / Solo datos del celular / No)
 3. ¿Qué usas más para trabajos escolares? (Computadora / Celular / Ambos por igual)
-4. ¿Has usado alguna vez un chatbot como ChatGPT, Gemini, Copilot o Claude? (Nunca / Una o dos veces / A veces / Casi diario)
+4. ¿Has usado alguna vez un chatbot como ChatGPT, Gemini, Copilot, Claude, Deepseek o Qwen? (Nunca / Una o dos veces / A veces / Casi diario)
 5. Si lo has usado, ¿para qué? (Marca todas: buscar información / hacer tareas completas / entender algo que no entendía / redactar / traducir / otra)
-
-> **Lo que va a revelar la pregunta 5:** la mayoría marcará "hacer tareas completas". Ese dato, presentado al grupo de forma anónima y agregada en la sesión 1, es la mejor introducción posible al protocolo de IA. No hace falta sermón: se les muestra su propio dato.
 
 ---
 
@@ -60,7 +58,7 @@ Lo que las unidades 3 y 4 del programa van a exigir. No requiere ningún conocim
 13. Ordena estos pasos para preparar café, del primero al último: [se dan seis pasos desordenados, dos de ellos intercambiables]
 14. Escribe, en tus palabras, las instrucciones para que alguien que nunca lo ha hecho saque el dinero de un cajero automático. Debe poder seguirlas sin preguntarte nada.
 
-> El reactivo 14 es el más informativo de todo el instrumento. No mide conocimiento: mide **capacidad de descomponer un procedimiento en pasos explícitos**, que es exactamente la habilidad que el pseudocódigo va a formalizar en P2. Una respuesta que dice "metes la tarjeta y sacas el dinero" y una que enumera ocho pasos con la validación del NIP están a mundos de distancia, y esa distancia predice el desempeño en la unidad 3 mejor que cualquier otra pregunta.
+> El reactivo 14 es el más informativo de todo el instrumento. No mide conocimiento: mide **capacidad de descomponer un procedimiento en pasos explícitos**, que es exactamente la habilidad que el pseudocódigo va a formalizar en P2. Una respuesta que dice "metes la tarjeta y sacas el dinero" y una que enumera ocho pasos con la validación del NIP están a mundos de distancia y esa distancia predice el desempeño en la unidad 3 mejor que cualquier otra pregunta.
 
 ---
 
@@ -83,9 +81,9 @@ Se califica claridad y corrección, no la postura.
 
 | Rango | Nivel | Qué implica para el diseño |
 |---|---|---|
-| 0 – 6 | **Punto de partida elemental** | El curso debe construir los anclajes desde cero. Este estudiante necesita la sesión 2 más que nadie, y necesita seguimiento activo desde la primera semana |
+| 0 – 6 | **Punto de partida elemental** | El curso debe construir los anclajes desde cero. Este estudiante necesita la sesión 2 más que nadie y necesita seguimiento activo desde la primera semana |
 | 7 – 10 | **Punto de partida funcional** | Opera herramientas pero sin modelo mental de qué hacen. Es el perfil modal esperado |
-| 11 – 14 | **Punto de partida sólido** | Puede tomar roles de arquitecto o verificador desde P1 |
+| 11 – 14 | **Punto de partida sólido** | Puede tomar roles de arquitecto de sistemas o verificador desde P1 |
 | 15 – 17 | **Punto de partida avanzado** | Candidato a repartirse entre equipos distintos, no a concentrarse. Riesgo propio: aburrimiento en las fases elementales; se le compensa con el rol de verificador, que es el más exigente |
 
 **Ninguno de estos rangos se le comunica al estudiante como etiqueta.** Lo que recibe es una frase de la forma *"tu punto de partida en X está sólido y en Y hay que trabajar"*, más una recomendación concreta de qué leer antes de la sesión 2.
