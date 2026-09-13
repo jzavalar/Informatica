@@ -181,13 +181,15 @@
 /* El logo: caja blanca ajustada al escudo, no al ancho del cajón */
 .md-nav--primary .md-nav__title .md-nav__button.md-logo {
   display: inline-block !important;
-  width: auto !important;
+  width: -moz-fit-content !important;
+  width: fit-content !important;
   background-color: #ffffff !important;
   border-radius: 0.2rem;
   padding: 0.3rem 0.4rem;
   margin: 0 0 0.4rem 0;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
 }
+
 
 .md-nav--primary .md-nav__title .md-nav__button.md-logo img,
 .md-nav--primary .md-nav__title .md-nav__button.md-logo svg {
